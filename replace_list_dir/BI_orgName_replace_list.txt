@@ -1,0 +1,41 @@
+Department of Commerce::Commerce Department
+Loudoun County Small Business Development Center::Small Business Development Center
+Middle East Business Intelligence::REMOVE
+Advanced Communications Systems::REMOVE
+Advanced Information Systems::REMOVE
+Allied Business Intelligence::REMOVE
+NCR Corporation::NCR Corp
+Yahoo!::Yahoo
+Small Business Development Center::REMOVE
+Center for Digital Business::REMOVE
+Washington Technology::REMOVE
+Washington Post::REMOVE
+MicroStrategy Inc::MicroStrategy
+The Wall Street Journal::Wall Street Journal
+Time Warner Cable::AOL Time Warner
+JFI::REMOVE
+IBM::International Business Machines
+JHI::Janssen Healthcare Innovation
+TSA::Transportation Security Administration
+OPEC::Organization of the Petroleum Exporting Countries
+BPR::REMOVE
+EVP::REMOVE
+MIT::REMOVE
+NSA::National Security Agency
+SBA::Small Business Association
+SEC::Securities and Exchange Commission
+BSE::REMOVE
+YWCA::Young Women's Christian Association
+HHS::REMOVE
+CI::REMOVE
+NVCC::REMOVE
+FTC::REMOVE
+DHY::REMOVE
+BHP::BHP Billiton
+CACI::CACI International
+IGI::IGI Global
+MGC::REMOVE
+NIH::National Institutes of Health
+NASA::National Aeronautics and Space Administration
+OPM::Office of Personnel Management
+FBI::Federal Bureau of Investigation

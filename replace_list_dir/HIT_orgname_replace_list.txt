@@ -1,0 +1,38 @@
+National Indian Health Board of Directors::National Indian Health Board
+Hospital Center::REMOVE
+Associated Press::REMOVE
+TN - Meharry Medical College::Meharry Medical College
+Contract Health Services::REMOVE
+Jewish News Weekly::Jewish News
+Health Services::REMOVE
+College of Allied Health Sciences' Department of Health Informatics and Information Management::REMOVE
+Health and Human Services::REMOVE
+Washington Post Company::REMOVE
+Washington Post::REMOVE
+Department of Health and Human Services::REMOVE
+Contract Health Services::REMOVE
+DeVry University Online::DeVry University
+New York Times Company Mar::REMOVE
+New York Times::REMOVE
+Meharry Medical CollegeMeharry Medical College::Meharry Medical College
+TN - Meharry Medical College::REMOVE
+Middle States Steering Committee::REMOVE
+Middle States Commission::REMOVE
+Hospital Center::REMOVE
+Coordinating Center for Health Information and Service::REMOVE
+FDA::Food and Drug Administration
+NIH::National Institutes of Health
+IBM::International Business Machines
+CDC::Centers for Disease Control
+IHS::Indian Health Service
+DASNY::Dormitory Authority of the State of New York
+BLS::Bureau of Labor Statistics
+MLSC::Massachusetts Life Sciences Center
+USDA::United States Department of Agriculture
+DOH::Department of Health
+BIRN::Biomedical Informatics Research Network
+DEA::Drug Enforcement Administration
+AHIMA::American Health Information Management Association
+CMS::Center for Medicare & Medicaid Services
+GMU::George Mason University
+NIHB::National Indian Health Board

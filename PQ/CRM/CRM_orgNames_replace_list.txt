@@ -1,0 +1,39 @@
+Deutsche Postbank AG::Deutsche Bank
+Deutsche Bank   ISSUER::Deutsche Bank
+Ford Motor Co::Ford Motor Company
+Siebel Systems Inc::Siebel Systems
+Washington Post Company Jul::REMOVE
+Washington Post::REMOVE
+New York Times Company Jul::REMOVE
+New York Times Company::REMOVE
+Oracle Corp::Oracle
+Washington Post Company::REMOVE
+Dow Jones  Company::REMOVE
+New York Times Company::REMOVE
+New York Times::REMOVE
+New York Times Company Mar::REMOVE
+New York Times Company::REMOVE
+Southwest Airlines::Southwest
+American Red Cross::Red Cross
+Dow Jones  Company Inc::REMOVE
+Dow Jones  Company::REMOVE
+Dow Jones  Company Inc Apr::REMOVE
+Dow Jones  Company Inc::REMOVE
+The Wall Street Journal::REMOVE
+Wall Street Journal::REMOVE
+Compaq Computer::Compaq
+Time Warner Cable::Time Warner
+DMA::Direct Marketing Association
+DOD::Department of Defense
+IDC::International Data Corporation
+BET::REMOVE
+NCAA::National Collegiate Athletic Association
+FCC::Federal Communication Commission
+IRS::Internal Revenue Service
+TRW::REMOVE
+NYSE::New York Stock Exchange
+FAA::Federal Aviation Administration
+MCI::REMOVE
+SBC::REMOVE
+NASA::National Aeronautics and Space Administration
+FBI::Federal Bureau of Investigation

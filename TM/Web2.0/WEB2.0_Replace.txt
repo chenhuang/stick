@@ -1,0 +1,6 @@
+Hewlett-Packard::Hewlett Packard
+Microsofts::Microsoft
+Forrester Research::Forrester
+Tech Crunch::TechCruch
+FTC::Federal Trade Commission
+MS::REMOVE

@@ -1,0 +1,30 @@
+Process procedure: 
+XML -> txt & meta-data -> remove duplications -> identify organizations -> clean organizations -> merge organizations -> generate trends. 
+
+List of scripts: 
+1. mkdir '/Users/chhuang/stick/0504/txt/ti("MOOC")_OR_ab("MOOC")'; 
+/Users/chhuang/stick/0408/code/articleExtractor_proquest_1.py '/Users/chhuang/stick/0504/raw/ti("MOOC")_OR_ab("MOOC")/*' 'ti("MOOC")_OR_ab("MOOC")' '/Users/chhuang/stick/0504/meta-data/ti("MOOC")_OR_ab("MOOC")' '/Users/chhuang/stick/0504/txt/ti("MOOC")_OR_ab("MOOC")'
+2. python /Users/chhuang/stick/0408/code/remove_duplicates.py '/Users/chhuang/stick/0504/txt/ti("MOOC")_OR_ab("MOOC")/*' '/Users/chhuang/stick/0504/meta-data/ti("MOOC")_OR_ab("MOOC")'
+#3. mkdir /Users/chhuang/stick/0504/txt/ti\(\"MOOC\"\)_OR_ab\(\"MOOC\"\)_1/; for i in `cut -f1 /Users/chhuang/stick/0504/meta-data/ti\(\"MOOC\"\)_OR_ab\(\"MOOC\"\)_1`; do cp /Users/chhuang/stick/0504/txt/ti\(\"MOOC\"\)_OR_ab\(\"MOOC\"\)/$i.txt /Users/chhuang/stick/0504/txt/ti\(\"MOOC\"\)_OR_ab\(\"MOOC\"\)_1/; done;
+4. mkdir '/Users/chhuang/stick/0504/ner/ti("MOOC")_OR_ab("MOOC")'; bash /Users/chhuang/stick/0408/ner_run.sh '/Users/chhuang/stick/0504/txt/ti\(\"MOOC\"\)_OR_ab\(\"MOOC\"\)_1' '/Users/chhuang/stick/0504/ner/ti("MOOC")_OR_ab("MOOC")'
+5. /Users/chhuang/stick/0408/code/organization_extractor.py '/Users/chhuang/stick/0504/ner/ti("MOOC")_OR_ab("MOOC")/*' '/Users/chhuang/stick/0504/orgs/ti("MOOC")_OR_ab("MOOC")'
+# Here need to manually go thru the org list and edit the list.
+6. python /Users/chhuang/stick/codes/clean_organizations.py /Users/chhuang/stick/0408/Org_replace_list.txt '/Users/chhuang/stick/0504/orgs/ti("MOOC")_OR_ab("MOOC")'
+7. python /Users/chhuang/stick/0408/code/build_DF.py '/Users/chhuang/stick/0408/Org_replace_list.txt' '/Users/chhuang/stick/0504/orgs/ti("MOOC")_OR_ab("MOOC")_1' '/Users/chhuang/stick/0504/orgs/ti("MOOC")_OR_ab("MOOC")_2' '/Users/chhuang/stick/0504/txt/ti("MOOC")_OR_ab("MOOC")_1'
+8. python /Users/chhuang/stick/0408/code/join.py '/Users/chhuang/stick/0504/meta-data/ti("MOOC")_OR_ab("MOOC")_1' '/Users/chhuang/stick/0504/orgs/ti("MOOC")_OR_ab("MOOC")_2' '/Users/chhuang/stick/0504/id_org/ti("MOOC")_OR_ab("MOOC")'
+9. Write a script to generate trends automatically. 
+10. 
+
+
+
+mkdir '/Users/chhuang/stick/0504/txt/ti("MOOC")_OR_ab("MOOC")'; 
+/Users/chhuang/stick/0408/code/articleExtractor_proquest_1.py '/Users/chhuang/stick/0504/raw/ti("MOOC")_OR_ab("MOOC")/*' 'ti("MOOC")_OR_ab("MOOC")' '/Users/chhuang/stick/0504/meta-data/ti("MOOC")_OR_ab("MOOC")' '/Users/chhuang/stick/0504/txt/ti("MOOC")_OR_ab("MOOC")'
+python /Users/chhuang/stick/0408/code/remove_duplicates.py '/Users/chhuang/stick/0504/txt/ti("MOOC")_OR_ab("MOOC")/*' '/Users/chhuang/stick/0504/meta-data/ti("MOOC")_OR_ab("MOOC")'
+mkdir /Users/chhuang/stick/0504/txt/ti\(\"MOOC\"\)_OR_ab\(\"MOOC\"\)_1/; 
+for i in `cut -f1 /Users/chhuang/stick/0504/meta-data/ti\(\"MOOC\"\)_OR_ab\(\"MOOC\"\)_1`; do cp /Users/chhuang/stick/0504/txt/ti\(\"MOOC\"\)_OR_ab\(\"MOOC\"\)/$i.txt /Users/chhuang/stick/0504/txt/ti\(\"MOOC\"\)_OR_ab\(\"MOOC\"\)_1/; done;
+mkdir '/Users/chhuang/stick/0504/ner/ti("MOOC")_OR_ab("MOOC")'; 
+bash /Users/chhuang/stick/0408/ner_run.sh '/Users/chhuang/stick/0504/txt/ti\(\"MOOC\"\)_OR_ab\(\"MOOC\"\)_1' '/Users/chhuang/stick/0504/ner/ti("MOOC")_OR_ab("MOOC")'
+/Users/chhuang/stick/0408/code/organization_extractor.py '/Users/chhuang/stick/0504/ner/ti("MOOC")_OR_ab("MOOC")/*' '/Users/chhuang/stick/0504/orgs/ti("MOOC")_OR_ab("MOOC")'
+python /Users/chhuang/stick/codes/clean_organizations.py /Users/chhuang/stick/0408/Org_replace_list.txt '/Users/chhuang/stick/0504/orgs/ti("MOOC")_OR_ab("MOOC")'
+python /Users/chhuang/stick/0408/code/build_DF.py '/Users/chhuang/stick/0408/Org_replace_list.txt' '/Users/chhuang/stick/0504/orgs/ti("MOOC")_OR_ab("MOOC")_1' '/Users/chhuang/stick/0504/orgs/ti("MOOC")_OR_ab("MOOC")_2' '/Users/chhuang/stick/0504/txt/ti("MOOC")_OR_ab("MOOC")_1'
+python /Users/chhuang/stick/0408/code/join.py '/Users/chhuang/stick/0504/meta-data/ti("MOOC")_OR_ab("MOOC")_1' '/Users/chhuang/stick/0504/orgs/ti("MOOC")_OR_ab("MOOC")_2' '/Users/chhuang/stick/0504/id_org/ti("MOOC")_OR_ab("MOOC")'

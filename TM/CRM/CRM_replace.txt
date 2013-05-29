@@ -1,0 +1,4 @@
+Wal-Mart::Walmart
+Time Warner Cable::Time Warner
+Verizon Wireless::Verizon
+NSA::National Security Agency

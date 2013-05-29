@@ -1,0 +1,85 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<link rel="stylesheet" type="text/css" href="http://stick.ischool.umd.edu/1024px.css" title="1024px" media="screen,projection" />
+<link rel="stylesheet" type="text/css" href="http://stick.ischool.umd.edu/style.css" title="1024px" media="screen,projection" />
+<title>STICK</title>
+<head>
+<script type="text/javascript" src="http://stick.ischool.umd.edu/lib/load.js"></script>
+<script type="text/javascript" src="http://stick.ischool.umd.edu/lib/jquery-1.8.0.min.js"></script>
+<script type="text/javascript">
+            $(document).ready(function() {
+                draw_frame();
+            });
+</script>
+</head>
+<body>
+<div class="center" id="wrap">
+<div style="clear:both"></div>
+<div>
+<div class="SubNav">
+ <br />
+  <p><font size=2 px><a href="index.htm">Home</a> &gt; <a href="details.html">Details</a>&gt; Data Collection and Processing
+</font></p>
+<p>
+</p>
+<br />
+</div>
+<p></p>
+
+<h2 id="data_collection">Data Collection and Processing</h2>
+<h3>Raw Data Collection</h3>
+<p>
+Two types of raw data were collected from multiple sources: ACM digital library, IEEE Xplore, Proquest and LexisNexis. 
+Articles numbers were automatically retrieved from ACM digital library, IEEE Xplore and Proquest; while Full textual paper were download manually from LexisNexis.
+The collecting process is following five steps:
+Step1: Identify the new concepts. e.g. &quot;tree map&quot;, &quot;cloud computing&quot;</p>
+<p>Step2: Query formulation and expansion. e.g. "tree map" or &quot;tree maps" or "treemap" or &quot;treemaps" or "tree-map" or "tree-maps"
+  </p>
+<p>Step3: Understand the search system
+  </p>
+<p>Step4: Create the script</p>
+<p> Understand and parse the URL-> generate new URL->parse the web page->output the result
+  </p>
+<p>Step5: Use the script to collect article number (trend data), or manually download the full textual paper. </p>
+<h3>Information Extraction</h3>
+<p>
+This study explored Natural Language Processing and Social Computing approaches to automatically extract information from data collected in the first phase. Two types of information are being extracted: 
+
+<ol>
+<li>Entities that are related to and have influence on the advancement of innovations. This includes academic institutions, industry companies/organizations as well as people such as organization's decision makers.</li>
+
+<li>Relations between entities and innovations, e.g. the adoption relation.</li>
+</ol>
+</p>
+<p>
+Two types of Natural Language Processing methods are used to identify entities and relationship:
+
+<ol>
+<li>Named Entity Recognition (NER) methods that automatically identify and extracting institution and people's names from text corpus.</li>
+
+
+<li>Adoption Relation Extraction (ARE) that automatically identify the adoption relations by identifying adoption announcements from the corpus. To improve the accuracy of current state-of-the-art approach, we utilized crowd-sourcing methods by adopting Social Computing methods such as Mechanical Turks to identify entity and relation instances that are hard to capture with state-of-the-art methods but easy to identify by humans. </li>
+</ol>
+</p>
+ 
+ <p>
+ Two types of social Computing systems are used to gather new entities and relationships, and validate automatically extracted information.
+ <ol>
+ <li>
+  Mechanical Turk that helps to validate the automatically extracted information. </li>
+   <li>An STICK wiki system that helps to gather entities and relationships and their descriptions. </li>
+ </ol>
+</p>
+
+<p>
+<center><a href="./data_collection_framework.png"><img border="0" src="data_collection_framework.png" width="615" ><center size="1">
+  <strong><font size="1">Figure 4. Detailed Steps in Data Collecting and Processing</font></strong></center></a></center></p>
+
+
+
+</div>
+</div>
+</div>
+</body>
+</html>

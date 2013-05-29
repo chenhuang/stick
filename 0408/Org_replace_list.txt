@@ -1,0 +1,89 @@
+Google Inc.::Google
+The Washington Post Co.::The Washington Post
+Google Docs::Google
+Massachusetts Institute of Technology Introduction::Massachusetts Institute of Technology and Harvard
+Clearwire Corp::Clearwire
+Johns Hopkins University Bloomberg School of Public Health::Johns Hopkins University
+Johns Hopkins Bloomberg School of Public Health::Johns Hopkins University
+American Council on Education's College Credit Recommendation Service::American Council on Education
+University of Virginia and Northwestern::University of North Carolina
+University of Michigan English::University of Michigan
+University of Pennsylvania Wharton School::University of Pennsylvania
+Harvards::Harvard University
+Harvard::Harvard University
+DiversifyDish Network Corp.::Dish Network
+Proctor U.::Proctor U
+Massachusetts Institute of Technology and Harvard::Massachusetts Institute of Technology An
+Rensselaer Polytechnic Institute::Worcester Polytechnic Institute
+Massachusetts Institute of Technology An::Massachusetts Institute of Technology 
+Pearson Vue::Pearson PLC
+Pearson VUE::Pearson PLC
+New Enterprise Associates Inc.::New Enterprise Associates
+SUNY::The State University of New York
+NASA::National Aeronautics and Space Administration
+JHU::Johns Hopkins University
+MIT::Massachusetts Institute of Technology 
+GMU::George Mason University
+Stanford::Stanford University
+Georgia Tech::Georgia Institute of Technology
+Duke::Duke University
+M.I.T.::Massachusetts Institute of Technology
+Antioch::Antioch University
+Arizona State::Arizona State University
+Bowie State::Bowie State University
+C.I.A.::Central Intelligence Agency
+Caltech::California Institute of Technology
+Colorado State::Colorado State University
+Columbia::Columbia University
+Cornell::Cornell University
+Dartmouth::Dartmouth College
+Georgetown::Georgetown University
+I.B.M.::International Business Machines
+IE Business School::Instituto de Empresa Business School
+Mount Sinai School of Medicine::Mount Sinai
+Ohio State::Ohio State University
+Princeton::Princeton University
+San Jose State::San Jose State University
+Sony Building::Sony
+Sprint Nextel Corp.::Sprint
+Tufts::Tufts University
+University of Michigan English::University of Michigan
+University of Pennsylvania Wharton School::University of Pennsylvania
+Yale::Yale University
+MOOC::REMOVE
+Padmasree Warrior::REMOVE
+R.S.V.P.::REMOVE
+Hartford I.T.::REMOVE
+University of Pennsylvania Wharton School::University of Pennsylvania
+LouisianaLouisiana Association of Public Charter::Louisiana Association of Public Charter
+Teachers College::Columbia University
+New School for Design::Parsons The New School for Design
+Commission::REMOVE
+Frostburg State::Frostburg State University
+9/11 Commission::REMOVE
+interior::REMOVE
+Capital Business::The Washington Post
+Century Universities::REMOVE
+Artificial Intelligence::REMOVE
+Penn::University of Pennsylvania
+AP::REMOVE
+BETH::REMOVE
+Global Campus::REMOVE
+I.T.::REMOVE
+MIT Center for Civic Media::Massachusetts Institute of Technology
+Post::REMOVE
+Rice Krispies::REMOVE
+Rocky::REMOVE
+SNL Online::REMOVE
+San Jose::San Jose State University
+Sony Wonder Technology Lab::Sony
+Student Senate::REMOVE
+Metro::REMOVE
+Academic Senate::REMOVE
+Pa::REMOVE
+Adams Morgan::REMOVE
+Gates Foundation::Melinda Gates Foundation
+Catholic::REMOVE
+Republican Senate::REMOVE
+The University of Texas::University of Texas
+Massachusetts Institute of Technology An::Massachusetts Institute of Technology

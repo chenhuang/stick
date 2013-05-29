@@ -1,0 +1,297 @@
+TMHealth vault OR Healthvault49	Microsoft
+TMHealth vault OR Healthvault49	Microsoft
+TMHealth vault OR Healthvault49	Microsoft
+TMHealth vault OR Healthvault49	Mayo Clinic
+TMHealth vault OR Healthvault49	Microsoft
+TMHealth vault OR Healthvault49	Microsoft
+TMHealth vault OR Healthvault49	Microsoft
+TMHealth vault OR Healthvault49	Microsoft
+TMHealth vault OR Healthvault49	Microsoft
+TMHealth vault OR Healthvault49	Microsoft
+TMHealth vault OR Healthvault49	Microsoft
+TMHealth vault OR Healthvault49	Google
+TMHealth vault OR Healthvault49	Intel
+TMHealth vault OR Healthvault49	Microsoft
+TMHealth vault OR Healthvault49	Microsoft
+TMHealth vault OR Healthvault49	Microsoft
+TMHealth vault OR Healthvault49	Microsoft
+TMHealth vault OR Healthvault49	Microsoft
+TMHealth vault OR Healthvault49	Microsoft
+TMHealth vault OR Healthvault49	Microsoft
+TMHealth vault OR Healthvault49	Microsoft
+TMPersonal health record OR Personal health records61	Keas
+TMPersonal health record OR Personal health records61	Keas
+TMPersonal health record OR Personal health records61	Keas
+TMPersonal health record OR Personal health records61	Keas
+TMPersonal health record OR Personal health records61	Kaiser Permanente
+TMPersonal health record OR Personal health records61	Yahoo
+TMPersonal health record OR Personal health records61	AOL
+TMPersonal health record OR Personal health records61	Yahoo
+TMPersonal health record OR Personal health records61	Microsoft
+TMPersonal health record OR Personal health records61	Google
+TMPersonal health record OR Personal health records61	Google
+TMPersonal health record OR Personal health records61	Microsoft
+TMPersonal health record OR Personal health records61	Keas
+TMPersonal health record OR Personal health records61	Keas
+TMPersonal health record OR Personal health records7	Microsoft
+TMPersonal health record OR Personal health records7	Microsoft
+TMPersonal health record OR Personal health records7	Microsoft
+TMPersonal health record OR Personal health records7	Google
+TMPersonal health record OR Personal health records7	Microsoft
+TMPersonal health record OR Personal health records7	Microsoft
+TMPersonal health record OR Personal health records7	Microsoft
+TMPersonal health record OR Personal health records7	Microsoft
+TMGoogle health42	Microsoft
+TMGoogle health42	Microsoft
+TMGoogle health42	Microsoft
+TMGoogle health42	Mayo Clinic
+TMGoogle health42	Microsoft
+TMGoogle health42	Microsoft
+TMGoogle health42	Microsoft
+TMGoogle health42	Microsoft
+TMGoogle health42	Microsoft
+TMGoogle health42	Microsoft
+TMGoogle health42	Microsoft
+TMGoogle health42	Google
+TMGoogle health42	Intel
+TMGoogle health42	Microsoft
+TMGoogle health42	Microsoft
+TMGoogle health42	Microsoft
+TMGoogle health42	Microsoft
+TMGoogle health42	Microsoft
+TMGoogle health42	Microsoft
+TMGoogle health42	Microsoft
+TMGoogle health42	Microsoft
+TMGoogle health21	Kaiser Permanente
+TMGoogle health21	Microsoft
+TMGoogle health21	Microsoft
+TMGoogle health21	Kaiser Permanente
+TMGoogle health21	Microsoft
+TMGoogle health21	Microsoft
+TMDossia1	Microsoft
+TMDossia1	Microsoft
+TMDossia1	Microsoft
+TMDossia1	Google
+TMDossia1	Microsoft
+TMDossia1	Microsoft
+TMDossia1	Microsoft
+TMDossia1	Microsoft
+TMGoogle health32	Microsoft
+TMGoogle health32	HHS
+TMGoogle health32	Microsoft
+TMGoogle health32	Google
+TMGoogle health32	Microsoft
+TMGoogle health32	Microsoft
+TMGoogle health32	Kaiser Permanente
+TMGoogle health32	Kaiser Permanente
+TMGoogle health32	Cleveland Clinic
+TMGoogle health32	Cleveland Clinic
+TMGoogle health32	Revolution Health
+TMGoogle health32	Revolution Health
+TMGoogle health32	Revolution Health
+TMGoogle health32	Microsoft
+TMGoogle health32	Microsoft
+TMGoogle health39	Google
+TMGoogle health39	Microsoft
+TMGoogle health39	Google
+TMPersonal health record OR Personal health records67	New York Times Company
+TMPersonal health record OR Personal health records67	Mayo Clinic
+TMPersonal health record OR Personal health records67	Cleveland Clinic
+TMPersonal health record OR Personal health records67	Revolution Health
+TMPersonal health record OR Personal health records67	Revolution Health
+TMHealth vault OR Healthvault60	Microsoft
+TMDossia4	Microsoft
+TMDossia4	Microsoft
+TMDossia4	Microsoft
+TMDossia4	Mayo Clinic
+TMDossia4	Microsoft
+TMDossia4	Microsoft
+TMDossia4	Microsoft
+TMDossia4	Microsoft
+TMDossia4	Microsoft
+TMDossia4	Microsoft
+TMDossia4	Microsoft
+TMDossia4	Google
+TMDossia4	Intel
+TMDossia4	Microsoft
+TMDossia4	Microsoft
+TMDossia4	Microsoft
+TMDossia4	Microsoft
+TMDossia4	Microsoft
+TMDossia4	Microsoft
+TMDossia4	Microsoft
+TMDossia4	Microsoft
+TMHealth vault OR Healthvault57	Microsoft
+TMHealth vault OR Healthvault57	HHS
+TMHealth vault OR Healthvault57	Microsoft
+TMHealth vault OR Healthvault57	Google
+TMHealth vault OR Healthvault57	Microsoft
+TMHealth vault OR Healthvault57	Microsoft
+TMHealth vault OR Healthvault57	Kaiser Permanente
+TMHealth vault OR Healthvault57	Kaiser Permanente
+TMHealth vault OR Healthvault57	Cleveland Clinic
+TMHealth vault OR Healthvault57	Cleveland Clinic
+TMHealth vault OR Healthvault57	Revolution Health
+TMHealth vault OR Healthvault57	Revolution Health
+TMHealth vault OR Healthvault57	Revolution Health
+TMHealth vault OR Healthvault57	Microsoft
+TMHealth vault OR Healthvault57	Microsoft
+TMGoogle health13	Keas
+TMGoogle health13	Keas
+TMGoogle health13	Keas
+TMGoogle health13	Keas
+TMGoogle health13	Kaiser Permanente
+TMGoogle health13	Yahoo
+TMGoogle health13	AOL
+TMGoogle health13	Yahoo
+TMGoogle health13	Microsoft
+TMGoogle health13	Google
+TMGoogle health13	Google
+TMGoogle health13	Microsoft
+TMGoogle health13	Keas
+TMGoogle health13	Keas
+TMPersonal health record OR Personal health records6	Microsoft
+TMPersonal health record OR Personal health records6	Microsoft
+TMPersonal health record OR Personal health records6	Microsoft
+TMPersonal health record OR Personal health records6	Google
+TMPersonal health record OR Personal health records6	Microsoft
+TMPersonal health record OR Personal health records6	Google
+TMPersonal health record OR Personal health records6	Microsoft
+TMPersonal health record OR Personal health records6	Mayo Clinic
+TMPersonal health record OR Personal health records6	Cleveland Clinic
+TMPersonal health record OR Personal health records6	Microsoft
+TMPersonal health record OR Personal health records6	Google
+TMPersonal health record OR Personal health records6	Microsoft
+TMPersonal health record OR Personal health records6	Microsoft
+TMPersonal health record OR Personal health records5	Kaiser Permanente
+TMPersonal health record OR Personal health records5	Microsoft
+TMPersonal health record OR Personal health records5	Microsoft
+TMPersonal health record OR Personal health records5	Kaiser Permanente
+TMPersonal health record OR Personal health records5	Microsoft
+TMPersonal health record OR Personal health records5	Microsoft
+TMHealth vault OR Healthvault36	Keas
+TMHealth vault OR Healthvault36	Keas
+TMHealth vault OR Healthvault36	Keas
+TMHealth vault OR Healthvault36	Keas
+TMHealth vault OR Healthvault36	Kaiser Permanente
+TMHealth vault OR Healthvault36	Yahoo
+TMHealth vault OR Healthvault36	AOL
+TMHealth vault OR Healthvault36	Yahoo
+TMHealth vault OR Healthvault36	Microsoft
+TMHealth vault OR Healthvault36	Google
+TMHealth vault OR Healthvault36	Google
+TMHealth vault OR Healthvault36	Microsoft
+TMHealth vault OR Healthvault36	Keas
+TMHealth vault OR Healthvault36	Keas
+TMPersonal health record OR Personal health records66	Microsoft
+TMPersonal health record OR Personal health records66	Microsoft
+TMPersonal health record OR Personal health records66	Microsoft
+TMPersonal health record OR Personal health records66	Mayo Clinic
+TMPersonal health record OR Personal health records66	Microsoft
+TMPersonal health record OR Personal health records66	Microsoft
+TMPersonal health record OR Personal health records66	Microsoft
+TMPersonal health record OR Personal health records66	Microsoft
+TMPersonal health record OR Personal health records66	Microsoft
+TMPersonal health record OR Personal health records66	Microsoft
+TMPersonal health record OR Personal health records66	Microsoft
+TMPersonal health record OR Personal health records66	Google
+TMPersonal health record OR Personal health records66	Intel
+TMPersonal health record OR Personal health records66	Microsoft
+TMPersonal health record OR Personal health records66	Microsoft
+TMPersonal health record OR Personal health records66	Microsoft
+TMPersonal health record OR Personal health records66	Microsoft
+TMPersonal health record OR Personal health records66	Microsoft
+TMPersonal health record OR Personal health records66	Microsoft
+TMPersonal health record OR Personal health records66	Microsoft
+TMPersonal health record OR Personal health records66	Microsoft
+TMGoogle health3	Yahoo
+TMGoogle health3	Microsoft
+TMGoogle health3	Microsoft
+TMGoogle health3	Microsoft
+TMGoogle health3	Microsoft
+TMGoogle health3	Yahoo
+TMGoogle health3	Yahoo
+TMGoogle health3	Google
+TMGoogle health3	Google
+TMGoogle health3	Microsoft
+TMGoogle health3	Yahoo
+TMGoogle health3	Yahoo
+TMGoogle health3	Yahoo
+TMGoogle health3	Yahoo
+TMGoogle health3	Microsoft
+TMGoogle health3	Yahoo
+TMGoogle health3	Yahoo
+TMGoogle health3	Microsoft
+TMPersonal health record OR Personal health records2	Intel
+TMPersonal health record OR Personal health records8	Microsoft
+TMPersonal health record OR Personal health records8	HHS
+TMPersonal health record OR Personal health records8	Microsoft
+TMPersonal health record OR Personal health records8	Google
+TMPersonal health record OR Personal health records8	Microsoft
+TMPersonal health record OR Personal health records8	Microsoft
+TMPersonal health record OR Personal health records8	Kaiser Permanente
+TMPersonal health record OR Personal health records8	Kaiser Permanente
+TMPersonal health record OR Personal health records8	Cleveland Clinic
+TMPersonal health record OR Personal health records8	Cleveland Clinic
+TMPersonal health record OR Personal health records8	Revolution Health
+TMPersonal health record OR Personal health records8	Revolution Health
+TMPersonal health record OR Personal health records8	Revolution Health
+TMPersonal health record OR Personal health records8	Microsoft
+TMPersonal health record OR Personal health records8	Microsoft
+TMindivo45	Microsoft
+TMindivo45	Microsoft
+TMindivo45	Microsoft
+TMindivo45	Google
+TMindivo45	Microsoft
+TMindivo45	Microsoft
+TMindivo45	Microsoft
+TMindivo45	Microsoft
+TMGoogle health26	Wall Street Journal
+TMGoogle health26	Cleveland Clinic
+TMHealth vault OR Healthvault52	Microsoft
+TMHealth vault OR Healthvault52	Microsoft
+TMHealth vault OR Healthvault52	Microsoft
+TMHealth vault OR Healthvault52	Google
+TMHealth vault OR Healthvault52	Microsoft
+TMHealth vault OR Healthvault52	Google
+TMHealth vault OR Healthvault52	Microsoft
+TMHealth vault OR Healthvault52	Mayo Clinic
+TMHealth vault OR Healthvault52	Cleveland Clinic
+TMHealth vault OR Healthvault52	Microsoft
+TMHealth vault OR Healthvault52	Google
+TMHealth vault OR Healthvault52	Microsoft
+TMHealth vault OR Healthvault52	Microsoft
+TMPersonally controlled health record OR Personally controlled health records63	Keas
+TMPersonally controlled health record OR Personally controlled health records63	Keas
+TMPersonally controlled health record OR Personally controlled health records63	Keas
+TMPersonally controlled health record OR Personally controlled health records63	Keas
+TMPersonally controlled health record OR Personally controlled health records63	Kaiser Permanente
+TMPersonally controlled health record OR Personally controlled health records63	Yahoo
+TMPersonally controlled health record OR Personally controlled health records63	AOL
+TMPersonally controlled health record OR Personally controlled health records63	Yahoo
+TMPersonally controlled health record OR Personally controlled health records63	Microsoft
+TMPersonally controlled health record OR Personally controlled health records63	Google
+TMPersonally controlled health record OR Personally controlled health records63	Google
+TMPersonally controlled health record OR Personally controlled health records63	Microsoft
+TMPersonally controlled health record OR Personally controlled health records63	Keas
+TMPersonally controlled health record OR Personally controlled health records63	Keas
+TMGoogle health35	Microsoft
+TMHealth vault OR Healthvault51	Kaiser Permanente
+TMHealth vault OR Healthvault51	Microsoft
+TMHealth vault OR Healthvault51	Microsoft
+TMHealth vault OR Healthvault51	Kaiser Permanente
+TMHealth vault OR Healthvault51	Microsoft
+TMHealth vault OR Healthvault51	Microsoft
+TMGoogle health22	Microsoft
+TMGoogle health22	Microsoft
+TMGoogle health22	Microsoft
+TMGoogle health22	Google
+TMGoogle health22	Microsoft
+TMGoogle health22	Google
+TMGoogle health22	Microsoft
+TMGoogle health22	Mayo Clinic
+TMGoogle health22	Cleveland Clinic
+TMGoogle health22	Microsoft
+TMGoogle health22	Google
+TMGoogle health22	Microsoft
+TMGoogle health22	Microsoft

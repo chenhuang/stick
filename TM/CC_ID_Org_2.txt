@@ -1,0 +1,5581 @@
+TMforce.com1032	Microsoft
+TMsalesforce685	eBay
+TMcloud computing OR clouds computing2297	Stanford
+TMcloud computing OR clouds computing2034	Dell
+TMforce.com438	Microsoft
+TMcloud computing OR clouds computing1962	Microsoft
+TMgoogle apps1839	TechCrunch
+TMplatform as a service1483	Microsoft
+TMcloud computing OR clouds computing2220	Microsoft
+TMazure1320	Yahoo
+TMsoftware as a service OR sass1364	Google
+TMforce.com1119	Yahoo
+TMcloud computing OR clouds computing2002	Hewlett Packard
+TMsoftware as a service OR sass2126	Microsoft
+TMplatform as a service1505	Microsoft
+TMforce.com1104	Comcast
+TMgoogle apps804	Twitter
+TMsoftware as a service OR sass2104	Microsoft
+TMforce.com915	Yahoo
+TMforce.com361	Apple
+TMforce.com1164	Wells Fargo
+TMgoogle apps765	Yahoo
+TMapp engine OR google app engine OR app engines OR google app engines129	Facebook
+TMhive OR hadoop hive1493	Google
+TMforce.com181	Yahoo
+TMcloud computing OR clouds computing2280	Apple
+TMgoogle apps1772	Google
+TMsoftware as a service OR sass1431	Apple
+TMforce.com924	Microsoft
+TMdistributed computing OR distributed comput46	New York Times
+TMsalesforce661	PeopleSoft
+TMforce.com206	Twitter
+TMsoftware as a service OR sass2129	Google
+TMcloud computing OR clouds computing2378	CNET
+TMcloud computing OR clouds computing2165	Microsoft
+TMforce.com178	BBC
+TMgoogle apps69	Google
+TMforce.com1128	Intel
+TMsoftware as a service OR sass1395	Apple
+TMgoogle apps1847	Amazon
+TMforce.com418	Google
+TMcloud computing OR clouds computing2414	EMC
+TMforce.com563	Yahoo
+TMforce.com538	Nasdaq
+TMforce.com1174	Nasdaq
+TMforce.com334	Apple
+TMforce.com341	EMC
+TMcloud computing OR clouds computing2409	Stanford
+TMforce.com156	LinkedIn
+TMsalesforce623	Wall Street Journal
+TMcloud computing OR clouds computing2414	eBay
+TMforce.com1104	Yahoo
+TMsoftware as a service OR sass1391	Sony
+TMsalesforce696	Google
+TMforce.com894	Congress
+TMcloud computing OR clouds computing2162	Joyent
+TMhive OR hadoop hive1495	Disney
+TMsalesforce1938	Sun
+TMgoogle apps81	Google
+TMazure1303	Google
+TMsalesforce663	Disney
+TMsalesforce626	International Business Machines
+TMgoogle apps1814	Microsoft
+TMforce.com1016	Apple
+TMforce.com1235	Dell
+TMsalesforce1871	Twitter
+TMforce.com546	eBay
+TMforce.com1058	eBay
+TMgoogle apps388	eBay
+TMcloud computing OR clouds computing2006	Stanford
+TMgoogle apps51	Microsoft
+TMplatform as a service2473	Yahoo
+TMsalesforce718	Research In Motion
+TMgoogle apps1834	Google
+TMhybrid cloud OR hybrid clouds1468	Microsoft
+TMsoftware as a service OR sass1395	Yahoo
+TMsoftware as a service OR sass1517	Oracle
+TMforce.com1597	Microsoft
+TMsoftware as a service OR sass1568	Twitter
+TMforce.com1273	Microsoft
+TMforce.com1027	Yahoo
+TMgoogle apps1856	Yahoo
+TMforce.com1097	Dell
+TMforce.com1249	Apple
+TMsalesforce1923	Facebook
+TMforce.com877	CNET
+TMforce.com1230	Congress
+TMgoogle apps773	Microsoft
+TMsoftware as a service OR sass2118	Comcast
+TMcloud computing OR clouds computing1958	Adobe
+TMsalesforce722	Microsoft
+TMgoogle apps1837	Amazon
+TMnetsuite1722	Yahoo
+TMcloud computing OR clouds computing2360	Apple
+TMworkday OR workdays1646	Amazon
+TMsalesforce1441	Yahoo
+TMforce.com1033	Nokia
+TMforce.com1092	Google
+TMforce.com445	Apple
+TMgoogle apps821	CNET
+TMgoogle apps57	Apple
+TMforce.com879	International Business Machines
+TMsalesforce1733	Yahoo
+TMsoftware as a service OR sass1422	Yahoo
+TMforce.com1006	Dell
+TMgoogle apps1803	Yahoo
+TMcloud computing OR clouds computing2309	Palm
+TMmicrosoft online2478	Microsoft
+TMgoogle apps788	Apple
+TMforce.com253	America Online
+TMworkday OR workdays18	Microsoft
+TMforce.com195	Cisco
+TMsoftware as a service OR sass36	Amazon
+TMapp engine OR google app engine OR app engines OR google app engines1452	Google
+TMsoftware as a service OR sass1566	Dell
+TMcloud computing OR clouds computing2284	Sun
+TMcloud computing OR clouds computing2036	Hasbro
+TMforce.com338	Microsoft
+TMapp engine OR google app engine OR app engines OR google app engines1451	Twitter
+TMforce.com954	Amazon
+TMgoogle apps90	Microsoft
+TMcloud computing OR clouds computing2249	Microsoft
+TMgoogle apps76	Cisco
+TMplatform as a service2470	Yahoo
+TMsoftware as a service OR sass2139	eBay
+TMgoogle apps77	Apple
+TMcloud computing OR clouds computing2394	Cisco
+TMsoftware as a service OR sass2114	Nokia
+TMforce.com196	Google
+TMforce.com1248	Congress
+TMsalesforce699	TechCrunch
+TMgoogle apps1753	Yahoo
+TMforce.com514	Microsoft
+TMcloud computing OR clouds computing1980	Microsoft
+TMforce.com280	Federal Communications Commission
+TMmicrosoft online1619	Wall Street Journal
+TMsoftware as a service OR sass1422	Microsoft
+TMforce.com1089	Yahoo
+TMsalesforce1910	Sun
+TMsalesforce623	Apple
+TMworkday OR workdays18	Yahoo
+TMworkday OR workdays15	Apple
+TMcloud computing OR clouds computing2243	Cisco
+TMsoftware as a service OR sass2109	Amazon
+TMsalesforce652	Google
+TMsalesforce1905	Facebook
+TMforce.com1255	Intel
+TMgoogle apps1848	Amazon
+TMsalesforce611	Yahoo
+TMnetsuite2489	Microsoft
+TMforce.com1207	Yahoo
+TMsalesforce726	Microsoft
+TMinfrastructure as a service OR iass1	Amazon
+TMcloud computing OR clouds computing2062	Dell
+TMcloud computing OR clouds computing2292	Oracle
+TMforce.com1278	University of California
+TMforce.com1078	Google
+TMapp engine OR google app engine OR app engines OR google app engines111	Yahoo
+TMsalesforce1920	Apple
+TMforce.com445	eBay
+TMgoogle apps71	Yahoo
+TMforce.com1213	Research In Motion
+TMcloud computing OR clouds computing2250	Microsoft
+TMforce.com558	Hewlett Packard
+TMplatform as a service1504	Nasdaq
+TMforce.com1034	Comcast
+TMsalesforce648	Yahoo
+TMforce.com1282	Yahoo
+TMcloud computing OR clouds computing2236	CNET
+TMsoftware as a service OR sass1357	Yahoo
+TMcloud computing OR clouds computing2214	Joyent
+TMsoftware as a service OR sass1347	Sony
+TMplatform as a service2459	America Online
+TMhadoop2432	International Business Machines
+TMforce.com1024	University of California
+TMhadoop2435	Facebook
+TMforce.com1160	Intel
+TMworkday OR workdays1633	Microsoft
+TMmicrosoft online1617	Google
+TMsoftware as a service OR sass42	Apple
+TMcloud computing OR clouds computing1971	Microsoft
+TMmicrosoft online1711	Google
+TMsoftware as a service OR sass2185	News Corporation
+TMforce.com1055	Federal Communications Commission
+TMforce.com315	TechCrunch
+TMhybrid cloud OR hybrid clouds1469	University of California
+TMcloud computing OR clouds computing2309	Nokia
+TMgoogle apps793	Google
+TMcloud computing OR clouds computing2379	Sun
+TMcloud computing OR clouds computing2036	Amazon
+TMcloud computing OR clouds computing2214	Facebook
+TMinfrastructure as a service OR iass1640	Microsoft
+TMmicrosoft online1672	Microsoft
+TMcloud computing OR clouds computing2014	Hasbro
+TMsalesforce626	Yahoo
+TMplatform as a service1506	Microsoft
+TMforce.com435	Wall Street Journal
+TMsoftware as a service OR sass1566	Oracle
+TMforce.com518	Wall Street Journal
+TMsalesforce1927	Apple
+TMcloud computing OR clouds computing2373	Yahoo
+TMsalesforce645	Yahoo
+TMgoogle apps787	Microsoft
+TMforce.com1016	Microsoft
+TMdistributed computing OR distributed comput1487	Massachusetts Institute of Technology
+TMsalesforce650	Microsoft
+TMforce.com1154	Apple
+TMcloud computing OR clouds computing2015	Dell
+TMforce.com1231	Cisco
+TMcloud computing OR clouds computing2243	Research In Motion
+TMsoftware as a service OR sass2105	Apple
+TMcloud computing OR clouds computing1969	Oracle
+TMforce.com1164	Congress
+TMmicrosoft online1703	Research In Motion
+TMcloud computing OR clouds computing2244	Perot Systems
+TMforce.com524	Massachusetts Institute of Technology
+TMforce.com1019	Wall Street Journal
+TMplatform as a service1473	Research In Motion
+TMgoogle apps823	Microsoft
+TMforce.com152	Google
+TMcloud computing OR clouds computing2235	Yahoo
+TMforce.com996	Nasdaq
+TMforce.com1179	Congress
+TMmicrosoft online1673	Yahoo
+TMsalesforce1944	Wikipedia
+TMcloud computing OR clouds computing2270	Microsoft
+TMplatform as a service2446	Microsoft
+TMsoftware as a service OR sass2191	Sun
+TMsoftware as a service OR sass1514	Nasdaq
+TMprivate cloud OR private clouds1690	International Business Machines
+TMsalesforce692	Microsoft
+TMcloud computing OR clouds computing1962	Apple
+TMforce.com1285	Federal Communications Commission
+TMgoogle apps804	Yahoo
+TMforce.com342	Yahoo
+TMsalesforce665	Facebook
+TMsalesforce699	International Business Machines
+TMgoogle apps1823	Yahoo
+TMsalesforce1914	Facebook
+TMsalesforce691	International Business Machines
+TMsoftware as a service OR sass1429	Google
+TMinfrastructure as a service OR iass1642	Apple
+TMsalesforce1734	Yahoo
+TMforce.com256	Google
+TMsoftware as a service OR sass1545	TechCrunch
+TMsoftware as a service OR sass1403	Intel
+TMsoftware as a service OR sass1569	Wall Street Journal
+TMforce.com1083	eBay
+TMgoogle apps1820	Google
+TMapp engine OR google app engine OR app engines OR google app engines112	Microsoft
+TMcloud computing OR clouds computing2044	International Business Machines
+TMcloud computing OR clouds computing1499	Dell
+TMforce.com1606	Microsoft
+TMforce.com434	Intel
+TMcloud computing OR clouds computing2022	Apple
+TMsoftware as a service OR sass2118	TechCrunch
+TMforce.com514	Yahoo
+TMsalesforce725	Microsoft
+TMforce.com1195	Google
+TMforce.com1036	CNET
+TMforce.com498	Sony
+TMcloud computing OR clouds computing1988	Google
+TMcloud computing OR clouds computing2073	Dell
+TMforce.com504	Microsoft
+TMforce.com1593	Sony
+TMcloud computing OR clouds computing2303	Twitter
+TMsalesforce616	International Business Machines
+TMcloud computing OR clouds computing1974	Google
+TMgoogle apps1837	CNET
+TMgoogle apps1830	Twitter
+TMforce.com1599	Intel
+TMapp engine OR google app engine OR app engines OR google app engines135	Facebook
+TMsalesforce697	Sony
+TMgoogle apps392	General Electric
+TMsoftware as a service OR sass1362	International Business Machines
+TMforce.com548	Sun
+TMgoogle apps1846	Google
+TMsoftware as a service OR sass2102	Apple
+TMforce.com912	Nasdaq
+TMhadoop2431	Stanford
+TMforce.com1024	Microsoft
+TMapp engine OR google app engine OR app engines OR google app engines1447	Twitter
+TMcloud computing OR clouds computing2295	Federal Communications Commission
+TMgoogle apps383	Yahoo
+TMforce.com496	America Online
+TMgoogle apps810	Yahoo
+TMcloud computing OR clouds computing2081	University of California
+TMsalesforce646	Dell
+TMgoogle apps58	Nokia
+TMsalesforce707	Microsoft
+TMgoogle apps392	Sun
+TMcloud computing OR clouds computing2013	Microsoft
+TMforce.com346	Yahoo
+TMforce.com175	Google
+TMsoftware as a service OR sass1414	Microsoft
+TMforce.com174	CNET
+TMforce.com228	America Online
+TMforce.com1010	Apple
+TMforce.com170	Wall Street Journal
+TMforce.com954	Apple
+TMsoftware as a service OR sass1428	Yahoo
+TMcloud computing OR clouds computing2320	Google
+TMcloud computing OR clouds computing2291	Microsoft
+TMdistributed computing OR distributed comput1712	Stanford
+TMcloud computing OR clouds computing2363	Congress
+TMforce.com848	Microsoft
+TMsoftware as a service OR sass1338	International Business Machines
+TMmicrosoft online1651	Yahoo
+TMforce.com931	Microsoft
+TMforce.com887	Apple
+TMforce.com327	Google
+TMgoogle apps70	International Business Machines
+TMsoftware as a service OR sass1357	Wall Street Journal
+TMsoftware as a service OR sass1428	Google
+TMforce.com278	Microsoft
+TMforce.com313	Microsoft
+TMforce.com1081	Research In Motion
+TMcloud computing OR clouds computing2378	Palm
+TMgoogle apps91	Google
+TMgoogle apps1864	Microsoft
+TMforce.com228	Yahoo
+TMcloud computing OR clouds computing2034	Apple
+TMcloud computing OR clouds computing2013	Dell
+TMforce.com1237	Facebook
+TMgoogle apps384	Intel
+TMforce.com419	Apple
+TMforce.com197	Yahoo
+TMforce.com864	Research In Motion
+TMcloud computing OR clouds computing2292	Wall Street Journal
+TMforce.com1073	Google
+TMcloud computing OR clouds computing2348	Wall Street Journal
+TMforce.com571	Wall Street Journal
+TMforce.com1209	Yahoo
+TMsoftware as a service OR sass1392	Stanford
+TMgoogle apps64	International Business Machines
+TMinfrastructure as a service OR iass6	International Business Machines
+TMplatform as a service2463	Congress
+TMforce.com1594	American Express
+TMgoogle apps77	General Electric
+TMsalesforce654	Microsoft
+TMforce.com152	Twitter
+TMsalesforce674	Oracle
+TMcloud computing OR clouds computing2243	Microsoft
+TMcloud computing OR clouds computing1968	Microsoft
+TMforce.com546	Yahoo
+TMforce.com1117	America Online
+TMforce.com1165	Wall Street Journal
+TMcloud computing OR clouds computing2379	Palm
+TMsoftware as a service OR sass1407	Research In Motion
+TMsoftware as a service OR sass2134	Cisco
+TMforce.com1007	Sony
+TMforce.com1585	Sony
+TMgoogle apps752	Apple
+TMforce.com1252	Yahoo
+TMapp engine OR google app engine OR app engines OR google app engines1462	Yahoo
+TMcloud computing OR clouds computing2269	New York Times
+TMgoogle apps787	Google
+TMcloud computing OR clouds computing1985	Amazon
+TMcloud computing OR clouds computing2197	Microsoft
+TMcloud computing OR clouds computing2084	Microsoft
+TMplatform as a service96	New York Times
+TMmicrosoft online2485	Google
+TMcloud computing OR clouds computing2243	Palm
+TMdistributed computing OR distributed comput1714	Yahoo
+TMsoftware as a service OR sass1557	Oracle
+TMgoogle apps1866	Yahoo
+TMgoogle apps745	CNET
+TMforce.com487	Apple
+TMcloud computing OR clouds computing2391	Amazon
+TMsoftware as a service OR sass1396	Apple
+TMsoftware as a service OR sass2127	Dell
+TMcloud computing OR clouds computing2419	Nasdaq
+TMsoftware as a service OR sass1544	Dell
+TMcloud computing OR clouds computing2065	Microsoft
+TMsoftware as a service OR sass1424	Amazon
+TMgoogle apps816	Yahoo
+TMsalesforce1739	Apple
+TMgoogle apps1792	Hasbro
+TMsalesforce691	Sony
+TMforce.com1275	Apple
+TMinfrastructure as a service OR iass1641	Amazon
+TMnetsuite1722	Nasdaq
+TMprivate cloud OR private clouds1683	Yahoo
+TMsoftware as a service OR sass1434	Microsoft
+TMsoftware as a service OR sass2132	Microsoft
+TMforce.com1252	TechCrunch
+TMsoftware as a service OR sass1379	Oracle
+TMinfrastructure as a service OR iass1298	Dell
+TMforce.com1239	Yahoo
+TMforce.com987	Microsoft
+TMforce.com1014	Comcast
+TMforce.com1261	Microsoft
+TMapp engine OR google app engine OR app engines OR google app engines1450	Google
+TMgoogle apps1809	Microsoft
+TMcloud computing OR clouds computing2092	Microsoft
+TMazure1498	Azure Capital
+TMcloud computing OR clouds computing2022	Wall Street Journal
+TMapp engine OR google app engine OR app engines OR google app engines114	Google
+TMmicrosoft online1666	Microsoft
+TMcloud computing OR clouds computing2002	Cisco
+TMdistributed computing OR distributed comput1713	Intel
+TMforce.com1033	Intel
+TMcloud computing OR clouds computing2194	General Electric
+TMcloud computing OR clouds computing2016	Microsoft
+TMgoogle apps1777	Apple
+TMazure1320	Cisco
+TMcloud computing OR clouds computing1958	Facebook
+TMplatform as a service1502	Microsoft
+TMcloud computing OR clouds computing2170	Yahoo
+TMforce.com565	Adobe
+TMgoogle apps392	Yahoo
+TMsoftware as a service OR sass1516	Microsoft
+TMsalesforce690	Microsoft
+TMforce.com570	Adobe
+TMgoogle apps1865	America Online
+TMforce.com580	TechCrunch
+TMforce.com211	Apple
+TMprivate cloud OR private clouds1691	Dell
+TMcloud computing OR clouds computing2409	Microsoft
+TMcloud computing OR clouds computing1956	Amazon
+TMforce.com897	Microsoft
+TMgoogle apps387	TechCrunch
+TMforce.com1011	Intel
+TMforce.com152	General Electric
+TMforce.com1142	Facebook
+TMforce.com1239	eBay
+TMforce.com1078	Apple
+TMforce.com1239	Nasdaq
+TMforce.com1104	Nasdaq
+TMforce.com159	Amazon
+TMforce.com448	New York Times
+TMgoogle apps821	Microsoft
+TMforce.com895	Intel
+TMgoogle apps59	America Online
+TMapp engine OR google app engine OR app engines OR google app engines131	TechCrunch
+TMgoogle apps757	International Business Machines
+TMcloud computing OR clouds computing2385	General Electric
+TMgoogle apps1763	Oracle
+TMforce.com546	Apple
+TMforce.com844	Yahoo
+TMworkday OR workdays1632	Hasbro
+TMforce.com542	New York Times
+TMdistributed computing OR distributed comput1717	Apache Software Foundation
+TMsoftware as a service OR sass1368	Apple
+TMcloud computing OR clouds computing2051	Sun
+TMhadoop2430	Yahoo
+TMgoogle apps385	Microsoft
+TMcloud computing OR clouds computing2254	Twitter
+TMhive OR hadoop hive2180	Wikipedia
+TMhadoop2151	Facebook
+TMforce.com1234	Apple
+TMmicrosoft online1617	Microsoft
+TMsalesforce1948	Intel
+TMcloud computing OR clouds computing2410	Palm
+TMmicrosoft online1656	Microsoft
+TMsoftware as a service OR sass1388	Nasdaq
+TMforce.com510	Congress
+TMmicrosoft online1619	Nasdaq
+TMcloud computing OR clouds computing2088	TechCrunch
+TMforce.com245	EMI
+TMforce.com1107	Yahoo
+TMforce.com273	Intel
+TMsoftware as a service OR sass1544	Twitter
+TMforce.com1226	Google
+TMforce.com1264	Congress
+TMforce.com935	Apple
+TMforce.com435	TechCrunch
+TMapp engine OR google app engine OR app engines OR google app engines146	Google
+TMazure401	Microsoft
+TMhadoop2149	Twitter
+TMforce.com452	Yahoo
+TMforce.com943	International Business Machines
+TMazure1320	Azure Capital
+TMhive OR hadoop hive1496	Microsoft
+TMforce.com340	Google
+TMforce.com441	Google
+TMsoftware as a service OR sass2113	Wall Street Journal
+TMforce.com1132	Sun
+TMdistributed computing OR distributed comput1287	Yahoo
+TMsalesforce697	Google
+TMforce.com1263	CNET
+TMcloud computing OR clouds computing2065	Yahoo
+TMsalesforce1911	Yahoo
+TMcloud computing OR clouds computing2199	Microsoft
+TMsalesforce670	Yahoo
+TMgoogle apps1856	Amazon
+TMforce.com539	New York Times
+TMforce.com423	Microsoft
+TMsoftware as a service OR sass1537	Microsoft
+TMforce.com239	Apple
+TMgoogle apps766	Google
+TMforce.com934	Comcast
+TMforce.com907	Google
+TMsoftware as a service OR sass1518	Apple
+TMforce.com1239	Sony
+TMforce.com534	Microsoft
+TMforce.com277	International Business Machines
+TMsoftware as a service OR sass1350	Microsoft
+TMcloud computing OR clouds computing2418	EMC
+TMcloud computing OR clouds computing2034	Hewlett Packard
+TMsalesforce591	LinkedIn
+TMcloud computing OR clouds computing2390	New York Times
+TMinfrastructure as a service OR iass5	Amazon
+TMforce.com994	American Express
+TMgoogle apps1763	Microsoft
+TMgoogle apps1791	Microsoft
+TMapp engine OR google app engine OR app engines OR google app engines121	Microsoft
+TMforce.com1582	Apple
+TMgoogle apps1803	Sony
+TMforce.com534	New York Times
+TMplatform as a service94	America Online
+TMsoftware as a service OR sass1536	International Business Machines
+TMforce.com559	Sony
+TMforce.com1144	Sony
+TMsoftware as a service OR sass2118	International Business Machines
+TMgoogle apps58	Sun
+TMgoogle apps779	Apple
+TMsalesforce669	Google
+TMplatform as a service2465	Wikipedia
+TMforce.com427	TechCrunch
+TMgoogle apps1768	Nokia
+TMgoogle apps1803	Amazon
+TMsoftware as a service OR sass1431	Microsoft
+TMcloud computing OR clouds computing2280	Palm
+TMcloud computing OR clouds computing2225	Adobe
+TMazure405	Microsoft
+TMplatform as a service2452	Microsoft
+TMforce.com1265	Microsoft
+TMforce.com467	Apple
+TMsalesforce1941	Google
+TMforce.com249	Google
+TMgoogle apps382	Massachusetts Institute of Technology
+TMplatform as a service2447	International Business Machines
+TMforce.com471	Microsoft
+TMsalesforce1883	Yahoo
+TMforce.com924	Facebook
+TMgoogle apps59	Google
+TMforce.com862	Facebook
+TMapp engine OR google app engine OR app engines OR google app engines1452	Twitter
+TMsoftware as a service OR sass1338	Federal Communications Commission
+TMsalesforce1742	Yahoo
+TMforce.com930	Microsoft
+TMforce.com269	Google
+TMforce.com1005	America Online
+TMgoogle apps77	Microsoft
+TMcloud computing OR clouds computing2000	International Business Machines
+TMgoogle apps1800	eBay
+TMforce.com906	Nokia
+TMforce.com972	Adobe
+TMapp engine OR google app engine OR app engines OR google app engines103	Yahoo
+TMforce.com1178	Nokia
+TMhadoop2437	Yahoo
+TMforce.com1027	Research In Motion
+TMgoogle apps786	Google
+TMforce.com1275	Sony
+TMgoogle apps1806	International Business Machines
+TMforce.com464	Google
+TMsoftware as a service OR sass1380	Wall Street Journal
+TMinfrastructure as a service OR iass1642	Cisco
+TMhive OR hadoop hive2172	Sony
+TMforce.com1134	Sun
+TMcloud computing OR clouds computing2365	Apple
+TMcloud computing OR clouds computing2221	IBM Rational Software Delivery Services
+TMgoogle apps1772	Apple
+TMforce.com470	Yahoo
+TMseti@home1752	Intel
+TMsalesforce1896	Twitter
+TMforce.com157	Amazon
+TMsalesforce713	Nasdaq
+TMgoogle apps1866	Microsoft
+TMsalesforce1887	Yahoo
+TMforce.com291	Microsoft
+TMgoogle apps765	Google
+TMgoogle apps787	Yahoo
+TMmicrosoft online1657	Yahoo
+TMcloud computing OR clouds computing2428	Sun
+TMazure416	Azure Capital
+TMsalesforce716	Google
+TMforce.com1217	Google
+TMforce.com1192	Comcast
+TMcloud computing OR clouds computing2223	Nasdaq
+TMgoogle apps73	Apple
+TMforce.com1032	Nasdaq
+TMforce.com574	Microsoft
+TMsoftware as a service OR sass28	Google
+TMforce.com969	Facebook
+TMforce.com496	Amazon
+TMapp engine OR google app engine OR app engines OR google app engines114	Amazon
+TMazure415	Stanford
+TMforce.com204	Wall Street Journal
+TMforce.com984	Apple
+TMcloud computing OR clouds computing2375	Amazon
+TMsalesforce1938	International Business Machines
+TMforce.com423	Google
+TMplatform as a service2461	Microsoft
+TMgoogle apps770	Google
+TMforce.com912	Research In Motion
+TMforce.com539	Facebook
+TMhybrid cloud OR hybrid clouds1468	CSC
+TMforce.com170	Yahoo
+TMforce.com1144	Dell
+TMsalesforce1940	Amazon
+TMforce.com1007	Apple
+TMforce.com1222	Apple
+TMcloud computing OR clouds computing2283	Cisco
+TMforce.com582	Cisco
+TMdistributed computing OR distributed comput1716	Apple
+TMmicrosoft online1622	Nasdaq
+TMforce.com1608	New York Times
+TMforce.com1587	Dell
+TMcloud computing OR clouds computing2321	General Electric
+TMapp engine OR google app engine OR app engines OR google app engines108	Google
+TMworkday OR workdays12	Facebook
+TMsalesforce721	Microsoft
+TMforce.com1277	Congress
+TMcloud computing OR clouds computing2297	Dell
+TMgoogle apps748	Google
+TMsalesforce626	Microsoft
+TMforce.com459	Sony
+TMforce.com887	Sun
+TMmicrosoft online1667	Microsoft
+TMsalesforce682	eBay
+TMgoogle apps1823	American Express
+TMforce.com879	Yahoo
+TMsalesforce716	Yahoo
+TMforce.com952	Apple
+TMsoftware as a service OR sass1516	Sun
+TMapp engine OR google app engine OR app engines OR google app engines114	Adobe
+TMforce.com1602	Yahoo
+TMgoogle apps1865	Disney
+TMgoogle apps1849	Oracle
+TMforce.com560	University of California
+TMforce.com924	Yahoo
+TMcloud computing OR clouds computing2412	Google
+TMsoftware as a service OR sass2117	Microsoft
+TMgoogle apps1826	International Business Machines
+TMsoftware as a service OR sass1566	Apple
+TMsalesforce1911	Nokia
+TMcloud computing OR clouds computing2238	New York Times
+TMcloud computing OR clouds computing2336	Amazon
+TMforce.com582	International Business Machines
+TMforce.com261	Nokia
+TMgoogle apps1835	Microsoft
+TMdistributed computing OR distributed comput1719	Amazon
+TMforce.com204	CNN
+TMforce.com1023	Yahoo
+TMsoftware as a service OR sass1431	Google
+TMinfrastructure as a service OR iass1290	Apple
+TMgoogle apps754	Microsoft
+TMgoogle apps392	Microsoft
+TMforce.com215	Apple
+TMsalesforce699	Cisco
+TMforce.com346	Nasdaq
+TMapp engine OR google app engine OR app engines OR google app engines111	eBay
+TMgoogle apps1774	Microsoft
+TMmicrosoft online1651	International Business Machines
+TMhadoop2144	Comcast
+TMforce.com330	Microsoft
+TMsoftware as a service OR sass1367	Nokia
+TMsalesforce598	Microsoft
+TMforce.com219	Microsoft
+TMplatform as a service2468	Bungee Labs
+TMdistributed computing OR distributed comput1714	Wall Street Journal
+TMsalesforce1912	Oracle
+TMdistributed computing OR distributed comput1718	Yahoo
+TMengine yard1744	Apple
+TMsalesforce1942	America Online
+TMcloud computing OR clouds computing2401	Supreme Court
+TMcloud computing OR clouds computing2159	Red Hat
+TMnetsuite2486	American Express
+TMsalesforce1918	Wall Street Journal
+TMcloud computing OR clouds computing2258	Sun
+TMapp engine OR google app engine OR app engines OR google app engines136	Google
+TMgoogle apps1806	Microsoft
+TMapp engine OR google app engine OR app engines OR google app engines135	EMC
+TMgoogle apps731	Google
+TMprivate cloud OR private clouds1690	Dell
+TMmicrosoft online1673	Wall Street Journal
+TMsalesforce1441	Apple
+TMgoogle apps90	America Online
+TMforce.com373	Apple
+TMsoftware as a service OR sass1413	Microsoft
+TMforce.com942	Oracle
+TMhive OR hadoop hive1000	Google
+TMcloud computing OR clouds computing1995	Yahoo
+TMcloud computing OR clouds computing2362	Facebook
+TMforce.com1014	Apple
+TMcloud computing OR clouds computing2219	Intel
+TMforce.com1263	Yahoo
+TMsoftware as a service OR sass2118	BBC
+TMsoftware as a service OR sass1410	Intel
+TMgoogle apps58	Apple
+TMworkday OR workdays2142	Yahoo
+TMcloud computing OR clouds computing1996	Comcast
+TMazure409	Microsoft
+TMmicrosoft online1662	Microsoft
+TMsoftware as a service OR sass1519	Cisco
+TMsalesforce671	Adobe
+TMforce.com1601	Apple
+TMforce.com1284	Apple
+TMforce.com912	Comcast
+TMforce.com350	Yahoo
+TMcloud computing OR clouds computing1499	Microsoft
+TMazure1332	Yahoo
+TMapp engine OR google app engine OR app engines OR google app engines111	Amazon
+TMgoogle apps1803	Twitter
+TMforce.com1165	Microsoft
+TMforce.com978	International Business Machines
+TMcloud computing OR clouds computing2216	Intel
+TMsoftware as a service OR sass1429	Sun
+TMgoogle apps752	Palm
+TMworkday OR workdays12	Twitter
+TMgoogle apps1858	Microsoft
+TMcloud computing OR clouds computing1499	Google
+TMsoftware as a service OR sass1549	Dell
+TMforce.com916	Nasdaq
+TMsalesforce1910	International Business Machines
+TMsoftware as a service OR sass1382	Apple
+TMforce.com875	Congress
+TMforce.com982	Cisco
+TMcloud computing OR clouds computing2161	Stanford
+TMcloud computing OR clouds computing2028	Microsoft
+TMforce.com1224	Apple
+TMforce.com374	Apple
+TMcloud computing OR clouds computing2070	CNN
+TMforce.com1599	Microsoft
+TMmicrosoft online1698	Microsoft
+TMgoogle apps823	Google
+TMsalesforce636	TechCrunch
+TMcloud computing OR clouds computing2422	Apple
+TMcloud computing OR clouds computing2409	Sony
+TMforce.com542	Amazon
+TMgoogle apps388	TechCrunch
+TMforce.com562	Google
+TMforce.com855	Intel
+TMcloud computing OR clouds computing2197	Google
+TMforce.com1096	TechCrunch
+TMcloud computing OR clouds computing2095	Microsoft
+TMcloud computing OR clouds computing2394	International Business Machines
+TMsalesforce1909	Palm
+TMforce.com1061	America Online
+TMforce.com1144	Nasdaq
+TMsalesforce626	eBay
+TMforce.com1209	Nasdaq
+TMcloud computing OR clouds computing2402	Google
+TMforce.com532	Hewlett Packard
+TMcloud computing OR clouds computing2197	International Business Machines
+TMsoftware as a service OR sass1392	eBay
+TMhive OR hadoop hive1002	Sun
+TMsoftware as a service OR sass1566	Sun
+TMforce.com943	Wall Street Journal
+TMforce.com1139	International Business Machines
+TMforce.com438	Adobe
+TMforce.com1249	Yahoo
+TMsoftware as a service OR sass43	Microsoft
+TMforce.com231	Congress
+TMgoogle apps391	Google
+TMforce.com924	Wall Street Journal
+TMforce.com1064	Nasdaq
+TMnetsuite1722	Sony
+TMgoogle apps76	eBay
+TMforce.com1270	CNET
+TMforce.com296	Yahoo
+TMsoftware as a service OR sass1349	Microsoft
+TMworkday OR workdays1636	Microsoft
+TMgoogle apps1823	Dell
+TMcloud computing OR clouds computing2421	International Business Machines
+TMazure401	EMC
+TMsalesforce693	America Online
+TMsoftware as a service OR sass1380	Apple
+TMdistributed computing OR distributed comput1718	eBay
+TMgoogle apps1793	Google
+TMforce.com1067	Nasdaq
+TMazure1306	Microsoft
+TMcloud computing OR clouds computing2064	Amazon
+TMsalesforce1732	Oracle
+TMsalesforce669	Microsoft
+TMforce.com468	Yahoo
+TMforce.com423	Red Hat
+TMinfrastructure as a service OR iass1298	International Business Machines
+TMgoogle apps1827	Google
+TMgoogle apps58	Research In Motion
+TMsalesforce616	Oracle
+TMsoftware as a service OR sass1386	Microsoft
+TMforce.com473	National Science Foundation
+TMforce.com952	Sony
+TMcloud computing OR clouds computing2410	Google
+TMforce.com1230	Google
+TMforce.com288	Google
+TMforce.com943	Google
+TMsalesforce1737	eBay
+TMgoogle apps782	Microsoft
+TMsalesforce681	Yahoo
+TMazure405	Google
+TMcloud computing OR clouds computing2327	Apple
+TMsoftware as a service OR sass2187	Nasdaq
+TMsoftware as a service OR sass1388	Microsoft
+TMforce.com1006	Research In Motion
+TMazure1314	Microsoft
+TMforce.com455	Stanford
+TMcloud computing OR clouds computing2075	America Online
+TMforce.com833	Google
+TMworkday OR workdays2142	CNN
+TMcloud computing OR clouds computing2418	International Business Machines
+TMcloud computing OR clouds computing2361	Microsoft
+TMsalesforce702	Apple
+TMsalesforce616	Adobe
+TMsoftware as a service OR sass1388	Research In Motion
+TMcloud computing OR clouds computing2238	Twitter
+TMforce.com171	Facebook
+TMforce.com453	TechCrunch
+TMforce.com282	Intel
+TMcloud computing OR clouds computing2006	Congress
+TMforce.com365	America Online
+TMcloud computing OR clouds computing2420	Google
+TMworkday OR workdays1634	Google
+TMforce.com924	Nasdaq
+TMplatform as a service2443	Microsoft
+TMgoogle apps732	Microsoft
+TMgoogle apps1815	Google
+TMforce.com249	Apple
+TMsoftware as a service OR sass1359	Sun
+TMgoogle apps769	Yahoo
+TMforce.com1202	Microsoft
+TMforce.com876	Facebook
+TMforce.com1574	America Online
+TMsoftware as a service OR sass1378	America Online
+TMcloud computing OR clouds computing2397	International Business Machines
+TMsoftware as a service OR sass2128	Apple
+TMforce.com883	International Business Machines
+TMcloud computing OR clouds computing2243	International Business Machines
+TMsoftware as a service OR sass1376	TechCrunch
+TMapp engine OR google app engine OR app engines OR google app engines1445	eBay
+TMsalesforce713	Apple
+TMsalesforce1442	Wall Street Journal
+TMgoogle apps85	Apple
+TMcloud computing OR clouds computing2278	Facebook
+TMazure1323	Microsoft
+TMforce.com1062	Research In Motion
+TMforce.com892	Google
+TMsalesforce1731	Microsoft
+TMforce.com1583	Yahoo
+TMsoftware as a service OR sass1409	Google
+TMsalesforce657	Amazon
+TMcloud computing OR clouds computing2358	Sony
+TMazure415	Azure Capital
+TMforce.com1067	Comcast
+TMforce.com1027	Comcast
+TMplatform as a service1478	Microsoft
+TMsalesforce714	Apple
+TMforce.com546	Google
+TMgoogle apps757	Amazon
+TMsoftware as a service OR sass1433	International Business Machines
+TMmicrosoft online1711	Research In Motion
+TMforce.com457	Google
+TMazure398	Microsoft
+TMforce.com1062	Sony
+TMmicrosoft online2480	Microsoft
+TMprivate cloud OR private clouds1683	eBay
+TMdistributed computing OR distributed comput1287	Microsoft
+TMsoftware as a service OR sass2187	Apple
+TMforce.com1270	Federal Communications Commission
+TMhive OR hadoop hive2177	Microsoft
+TMsoftware as a service OR sass1550	Microsoft
+TMcloud computing OR clouds computing2294	Comcast
+TMsalesforce652	Microsoft
+TMseti@home1752	Sun
+TMforce.com580	Yahoo
+TMforce.com154	Federal Communications Commission
+TMsoftware as a service OR sass2185	America Online
+TMplatform as a service2459	Yahoo
+TMcloud computing OR clouds computing2089	Bungee Labs
+TMhive OR hadoop hive2175	Apple
+TMforce.com275	Apple
+TMsoftware as a service OR sass1527	Hewlett Packard
+TMplatform as a service2444	Adobe
+TMsoftware as a service OR sass1552	Sun
+TMforce.com481	Google
+TMsalesforce1942	Microsoft
+TMplatform as a service1482	Research In Motion
+TMforce.com1029	TechCrunch
+TMmicrosoft online1660	Apple
+TMforce.com1168	New York Times
+TMsoftware as a service OR sass1557	Hewlett Packard
+TMmicrosoft online1671	Microsoft
+TMforce.com540	Wall Street Journal
+TMgoogle apps59	Microsoft
+TMgoogle apps1800	Yahoo
+TMsalesforce628	Microsoft
+TMforce.com1128	CNET
+TMcloud computing OR clouds computing2261	Wall Street Journal
+TMsoftware as a service OR sass1419	Microsoft
+TMforce.com564	Apple
+TMcloud computing OR clouds computing2167	Amazon
+TMworkday OR workdays18	BBC
+TMforce.com171	Intel
+TMapp engine OR google app engine OR app engines OR google app engines1450	Twitter
+TMgoogle apps1820	Microsoft
+TMapp engine OR google app engine OR app engines OR google app engines114	TechCrunch
+TMmicrosoft online2485	Research In Motion
+TMforce.com840	University of California
+TMforce.com446	Google
+TMcloud computing OR clouds computing2383	Sun
+TMsoftware as a service OR sass1521	Oracle
+TMgoogle apps1837	Google
+TMforce.com1055	Apple
+TMcloud computing OR clouds computing2409	Nokia
+TMapp engine OR google app engine OR app engines OR google app engines126	Sun
+TMforce.com235	Facebook
+TMforce.com1157	Microsoft
+TMcloud computing OR clouds computing2276	Microsoft
+TMgoogle apps1827	TechCrunch
+TMsoftware as a service OR sass26	Apple
+TMsalesforce697	Apple
+TMsoftware as a service OR sass1352	Cisco
+TMgoogle apps736	Google
+TMforce.com913	Facebook
+TMsalesforce616	Microsoft
+TMmicrosoft online1662	Apple
+TMplatform as a service98	Sony
+TMcloud computing OR clouds computing2046	Microsoft
+TMforce.com500	Yahoo
+TMsalesforce1918	Apple
+TMcloud computing OR clouds computing1995	Apple
+TMworkday OR workdays12	Yahoo
+TMinfrastructure as a service OR iass1290	Joyent
+TMforce.com269	Yahoo
+TMmicrosoft online1653	Microsoft
+TMforce.com561	Research In Motion
+TMplatform as a service2458	America Online
+TMforce.com1082	EMI
+TMsalesforce625	Wall Street Journal
+TMforce.com154	eBay
+TMsoftware as a service OR sass1557	Sun
+TMforce.com1583	Apple
+TMsalesforce657	Microsoft
+TMcloud computing OR clouds computing2386	Google
+TMhadoop2435	Yahoo
+TMhadoop2146	Yahoo
+TMforce.com918	Sony
+TMsoftware as a service OR sass41	Microsoft
+TMforce.com1140	CNN
+TMcloud computing OR clouds computing2166	Microsoft
+TMcloud computing OR clouds computing2217	Oracle
+TMsalesforce1731	Adobe
+TMforce.com268	Amazon
+TMforce.com331	Facebook
+TMsalesforce1944	Massachusetts Institute of Technology
+TMforce.com967	News Corporation
+TMcloud computing OR clouds computing1986	Intel
+TMsoftware as a service OR sass34	Intel
+TMhadoop2430	International Business Machines
+TMcloud computing OR clouds computing1997	Bungee Labs
+TMcloud computing OR clouds computing1499	Yahoo
+TMazure397	Adobe
+TMsoftware as a service OR sass2191	Microsoft
+TMsalesforce1734	Intel
+TMforce.com167	Microsoft
+TMforce.com316	Microsoft
+TMforce.com916	Oracle
+TMgoogle apps1857	Adobe
+TMforce.com842	Amazon
+TMforce.com1585	Microsoft
+TMforce.com525	Amazon
+TMcloud computing OR clouds computing2311	International Business Machines
+TMforce.com1149	Sun
+TMforce.com1099	Stanford
+TMforce.com210	TechCrunch
+TMcloud computing OR clouds computing2165	Yahoo
+TMmicrosoft online1702	Microsoft
+TMforce.com1006	Microsoft
+TMsalesforce1888	Microsoft
+TMsoftware as a service OR sass1421	Intel
+TMapp engine OR google app engine OR app engines OR google app engines134	Bungee Labs
+TMgoogle apps1769	Google
+TMforce.com458	CNN
+TMsoftware as a service OR sass1534	Unisys
+TMhive OR hadoop hive1491	BBC
+TMforce.com1072	Congress
+TMforce.com380	Microsoft
+TMforce.com320	Nokia
+TMforce.com542	Apple
+TMazure402	Microsoft
+TMcloud computing OR clouds computing2379	BBC
+TMsalesforce630	TechCrunch
+TMforce.com1089	Sony
+TMcloud computing OR clouds computing2218	Google
+TMforce.com306	Palm
+TMforce.com257	Sun
+TMforce.com432	Sony
+TMsoftware as a service OR sass1524	America Online
+TMhybrid cloud OR hybrid clouds1468	International Business Machines
+TMforce.com566	Sony
+TMforce.com1275	Facebook
+TMsoftware as a service OR sass2127	Google
+TMforce.com423	Apple
+TMforce.com1608	eBay
+TMgoogle apps81	Microsoft
+TMhive OR hadoop hive1002	Intel
+TMforce.com1104	Apple
+TMsalesforce702	Microsoft
+TMcloud computing OR clouds computing2194	Google
+TMforce.com871	Microsoft
+TMforce.com294	Intel
+TMsoftware as a service OR sass1406	Yahoo
+TMhive OR hadoop hive1493	International Business Machines
+TMsoftware as a service OR sass1541	Twitter
+TMforce.com296	Nasdaq
+TMforce.com948	TechCrunch
+TMgoogle apps751	Microsoft
+TMsoftware as a service OR sass2136	Microsoft
+TMsalesforce1944	Apple
+TMforce.com968	Apple
+TMhive OR hadoop hive2172	Massachusetts Institute of Technology
+TMgoogle apps1853	Google
+TMcloud computing OR clouds computing2315	Stanford
+TMforce.com1595	Sony
+TMmicrosoft online1621	Microsoft
+TMapp engine OR google app engine OR app engines OR google app engines146	Amazon
+TMforce.com1199	Google
+TMforce.com438	International Business Machines
+TMsalesforce656	Google
+TMforce.com227	Apple
+TMgoogle apps74	Google
+TMmicrosoft online1668	Microsoft
+TMgoogle apps1788	Twitter
+TMnetsuite148	Microsoft
+TMsoftware as a service OR sass1391	Cisco
+TMsoftware as a service OR sass24	Apple
+TMcloud computing OR clouds computing2168	Yahoo
+TMgoogle apps92	Microsoft
+TMforce.com1246	Yahoo
+TMforce.com1591	Yahoo
+TMseti@home1749	Microsoft
+TMplatform as a service2467	Microsoft
+TMplatform as a service2458	CNET
+TMgoogle apps808	Yahoo
+TMhadoop2146	Apache Software Foundation
+TMinfrastructure as a service OR iass1294	eBay
+TMgoogle apps1860	Google
+TMcloud computing OR clouds computing1499	International Business Machines
+TMforce.com456	eBay
+TMapp engine OR google app engine OR app engines OR google app engines1463	Google
+TMcloud computing OR clouds computing1976	BBC
+TMforce.com567	Apple
+TMforce.com1006	Apple
+TMgoogle apps385	International Business Machines
+TMsalesforce690	Nasdaq
+TMgoogle apps389	Yahoo
+TMforce.com941	Wall Street Journal
+TMforce.com319	Nasdaq
+TMplatform as a service2460	Microsoft
+TMhadoop2430	Microsoft
+TMforce.com426	Google
+TMcloud computing OR clouds computing2075	Wall Street Journal
+TMforce.com1572	Google
+TMcloud computing OR clouds computing2280	Microsoft
+TMinfrastructure as a service OR iass1301	Cisco
+TMsoftware as a service OR sass1347	Yahoo
+TMsoftware as a service OR sass1439	Hewlett Packard
+TMforce.com224	Palm
+TMinfrastructure as a service OR iass1642	New York Times
+TMforce.com566	Yahoo
+TMsoftware as a service OR sass1535	Wall Street Journal
+TMforce.com1587	Microsoft
+TMforce.com1191	Yahoo
+TMforce.com469	Microsoft
+TMforce.com432	Apple
+TMforce.com1201	Congress
+TMforce.com872	Wikipedia
+TMforce.com298	Yahoo
+TMhive OR hadoop hive1491	Microsoft
+TMplatform as a service1475	Twitter
+TMcloud computing OR clouds computing2016	Google
+TMsoftware as a service OR sass1347	Nasdaq
+TMforce.com908	Facebook
+TMforce.com1134	Hewlett Packard
+TMsoftware as a service OR sass1386	Yahoo
+TMforce.com980	Nasdaq
+TMforce.com534	Amazon
+TMcloud computing OR clouds computing2409	Yahoo
+TMcloud computing OR clouds computing2273	Intel
+TMcloud computing OR clouds computing2234	Federal Communications Commission
+TMforce.com1281	Google
+TMsalesforce1911	Sony
+TMgoogle apps1791	Apple
+TMsoftware as a service OR sass1378	Microsoft
+TMgoogle apps1865	Google
+TMforce.com1150	Cisco
+TMcloud computing OR clouds computing2090	Google
+TMcloud computing OR clouds computing2242	Nasdaq
+TMazure1335	Oracle
+TMforce.com175	CNN
+TMplatform as a service1503	Google
+TMforce.com197	Google
+TMforce.com1213	Yahoo
+TMforce.com1600	Apple
+TMforce.com981	Sony
+TMforce.com980	Sony
+TMforce.com239	Google
+TMapp engine OR google app engine OR app engines OR google app engines117	eBay
+TMazure1313	Apache Software Foundation
+TMforce.com563	America Online
+TMsalesforce697	Wall Street Journal
+TMcloud computing OR clouds computing2353	Facebook
+TMhadoop2430	TechCrunch
+TMgoogle apps1782	Adobe
+TMforce.com152	Amazon
+TMcloud computing OR clouds computing2085	Oracle
+TMforce.com1027	Apple
+TMforce.com482	Microsoft
+TMgoogle apps1857	Microsoft
+TMforce.com494	Wall Street Journal
+TMforce.com1099	Intel
+TMworkday OR workdays1644	Microsoft
+TMcloud computing OR clouds computing2422	Sun
+TMforce.com1597	Yahoo
+TMmicrosoft online2485	Apple
+TMforce.com438	Nokia
+TMcloud computing OR clouds computing2270	America Online
+TMgoogle apps1779	Google
+TMforce.com906	Google
+TMforce.com158	Nokia
+TMforce.com1163	Google
+TMforce.com435	Apple
+TMsalesforce1934	Facebook
+TMinfrastructure as a service OR iass1293	Microsoft
+TMprivate cloud OR private clouds1691	Microsoft
+TMplatform as a service1482	Microsoft
+TMforce.com1073	TechCrunch
+TMgoogle apps789	Twitter
+TMforce.com946	Nokia
+TMforce.com1013	Yahoo
+TMsoftware as a service OR sass1365	Yahoo
+TMnetsuite2489	Google
+TMgoogle apps774	Google
+TMforce.com1160	Apple
+TMforce.com1172	Google
+TMinfrastructure as a service OR iass1298	CSC
+TMcloud computing OR clouds computing2042	Google
+TMforce.com1062	Yahoo
+TMmicrosoft online1673	Microsoft
+TMmicrosoft online1651	Microsoft
+TMforce.com1578	Federal Communications Commission
+TMcloud computing OR clouds computing1988	Apple
+TMcloud computing OR clouds computing2024	Yahoo
+TMforce.com1019	Nasdaq
+TMforce.com1090	Google
+TMsoftware as a service OR sass1561	Supreme Court
+TMforce.com1277	Federal Communications Commission
+TMforce.com489	EMI
+TMsalesforce643	Microsoft
+TMplatform as a service2462	America Online
+TMgoogle apps1794	Microsoft
+TMforce.com333	Twitter
+TMcloud computing OR clouds computing2364	Google
+TMazure1333	Sun
+TMsalesforce1905	Intel
+TMsalesforce671	eBay
+TMsalesforce1878	Microsoft
+TMgoogle apps90	Yahoo
+TMforce.com334	Microsoft
+TMcloud computing OR clouds computing2025	Intel
+TMhive OR hadoop hive2172	University of California
+TMsoftware as a service OR sass1337	Dell
+TMsoftware as a service OR sass1524	TechCrunch
+TMsalesforce1442	Research In Motion
+TMcloud computing OR clouds computing2159	International Business Machines
+TMsoftware as a service OR sass1375	Microsoft
+TMforce.com941	TechCrunch
+TMforce.com1263	Dell
+TMazure1313	Yahoo
+TMsoftware as a service OR sass1406	Apple
+TMapp engine OR google app engine OR app engines OR google app engines1443	Microsoft
+TMplatform as a service1500	Joyent
+TMcloud computing OR clouds computing2164	Google
+TMforce.com378	Apple
+TMforce.com423	Adobe
+TMforce.com1054	Google
+TMsoftware as a service OR sass1552	Hewlett Packard
+TMsalesforce1893	Microsoft
+TMsoftware as a service OR sass1401	Cisco
+TMcloud computing OR clouds computing2075	EMC
+TMcloud computing OR clouds computing2159	TechCrunch
+TMforce.com1609	Research In Motion
+TMsoftware as a service OR sass1352	Hewlett Packard
+TMcloud computing OR clouds computing2335	Microsoft
+TMforce.com1228	TechCrunch
+TMgoogle apps822	Microsoft
+TMcloud computing OR clouds computing2167	University of California
+TMmicrosoft online1703	Yahoo
+TMsoftware as a service OR sass1545	Amazon
+TMforce.com175	Twitter
+TMforce.com432	Adobe
+TMforce.com510	Hewlett Packard
+TMforce.com893	Oracle
+TMforce.com1086	Google
+TMhive OR hadoop hive2180	Google
+TMforce.com1043	Nasdaq
+TMworkday OR workdays1646	Google
+TMforce.com1064	Yahoo
+TMforce.com1187	Apple
+TMgoogle apps798	Google
+TMhive OR hadoop hive1494	Google
+TMforce.com322	Disney
+TMdistributed computing OR distributed comput1488	Google
+TMforce.com1006	Massachusetts Institute of Technology
+TMforce.com1265	Yahoo
+TMforce.com903	Google
+TMforce.com1157	Nasdaq
+TMazure412	Azure Capital
+TMcloud computing OR clouds computing2425	International Business Machines
+TMforce.com234	International Business Machines
+TMsoftware as a service OR sass1557	Microsoft
+TMforce.com835	Yahoo
+TMforce.com554	Apple
+TMnetsuite151	Intel
+TMcloud computing OR clouds computing2385	New York Times
+TMgoogle apps757	Microsoft
+TMforce.com1032	Research In Motion
+TMforce.com1068	CNN
+TMforce.com838	Stanford
+TMforce.com311	Google
+TMsalesforce612	Microsoft
+TMforce.com995	Nasdaq
+TMapp engine OR google app engine OR app engines OR google app engines139	Google
+TMsoftware as a service OR sass2124	Google
+TMforce.com1166	Dell
+TMmicrosoft online1708	Microsoft
+TMhadoop2439	Microsoft
+TMsoftware as a service OR sass1525	Congress
+TMdistributed computing OR distributed comput1286	BBC
+TMforce.com540	Microsoft
+TMforce.com279	New York Times
+TMforce.com839	Microsoft
+TMcloud computing OR clouds computing2279	Yahoo
+TMcloud computing OR clouds computing2243	Adobe
+TMcloud computing OR clouds computing2045	Microsoft
+TMforce.com1605	Comcast
+TMgoogle apps391	Microsoft
+TMcloud computing OR clouds computing2075	Microsoft
+TMforce.com574	Apple
+TMsoftware as a service OR sass1405	Microsoft
+TMnetsuite151	Apple
+TMforce.com351	University of California
+TMgoogle apps385	Google
+TMforce.com480	Nasdaq
+TMsalesforce615	Google
+TMsoftware as a service OR sass1395	Research In Motion
+TMdistributed computing OR distributed comput1489	Sun
+TMgoogle apps51	Sun
+TMazure1309	Nasdaq
+TMsalesforce635	Twitter
+TMforce.com167	America Online
+TMsalesforce1731	Yahoo
+TMsoftware as a service OR sass2185	Google
+TMsalesforce656	TechCrunch
+TMforce.com1131	Amazon
+TMforce.com864	Nasdaq
+TMsoftware as a service OR sass1539	Sony
+TMcloud computing OR clouds computing2045	Yahoo
+TMdistributed computing OR distributed comput1713	Apache Software Foundation
+TMcloud computing OR clouds computing2378	Google
+TMgoogle apps82	Yahoo
+TMforce.com548	University of California
+TMforce.com273	Yahoo
+TMforce.com1597	Google
+TMworkday OR workdays2142	Microsoft
+TMcloud computing OR clouds computing2090	Amazon
+TMsalesforce609	Apple
+TMsoftware as a service OR sass1415	TechCrunch
+TMforce.com1104	Research In Motion
+TMgoogle apps384	Sun
+TMinfrastructure as a service OR iass1301	Supreme Court
+TMapp engine OR google app engine OR app engines OR google app engines129	Microsoft
+TMcloud computing OR clouds computing2004	Google
+TMmicrosoft online1658	Yahoo
+TMgoogle apps1787	Apple
+TMmicrosoft online1702	Yahoo
+TMapp engine OR google app engine OR app engines OR google app engines124	Microsoft
+TMforce.com940	Facebook
+TMazure1315	Apple
+TMcloud computing OR clouds computing2093	Microsoft
+TMmicrosoft online1694	Google
+TMforce.com469	Oracle
+TMforce.com957	Yahoo
+TMgoogle apps1826	Sun
+TMgoogle apps55	Google
+TMhadoop2437	Hewlett Packard
+TMforce.com1281	Facebook
+TMgoogle apps382	Yahoo
+TMsalesforce1908	Sun
+TMforce.com296	Research In Motion
+TMforce.com963	International Business Machines
+TMforce.com1235	Microsoft
+TMhadoop2436	Apache Software Foundation
+TMsalesforce718	Nasdaq
+TMcloud computing OR clouds computing2306	International Business Machines
+TMforce.com442	Congress
+TMsoftware as a service OR sass1337	Google
+TMforce.com1010	Wall Street Journal
+TMcloud computing OR clouds computing2222	CNN
+TMdistributed computing OR distributed comput1484	Microsoft
+TMcloud computing OR clouds computing2263	Cisco
+TMgoogle apps761	Apple
+TMworkday OR workdays12	Dell
+TMsalesforce617	Qwest
+TMforce.com298	TechCrunch
+TMforce.com992	Massachusetts Institute of Technology
+TMsalesforce602	Yahoo
+TMsoftware as a service OR sass2126	Adobe
+TMworkday OR workdays50	CNN
+TMgoogle apps751	New York Times
+TMforce.com308	Google
+TMforce.com1602	Nasdaq
+TMforce.com1242	Yahoo
+TMcloud computing OR clouds computing2409	Intel
+TMforce.com1149	Hewlett Packard
+TMcloud computing OR clouds computing2166	Yahoo
+TMforce.com380	Apple
+TMforce.com336	Microsoft
+TMforce.com943	Nasdaq
+TMapp engine OR google app engine OR app engines OR google app engines142	Google
+TMgoogle apps1778	Google
+TMsoftware as a service OR sass1346	Wall Street Journal
+TMmicrosoft online1711	Apple
+TMsoftware as a service OR sass1426	Microsoft
+TMsoftware as a service OR sass1534	International Business Machines
+TMsoftware as a service OR sass1539	International Business Machines
+TMsalesforce611	Microsoft
+TMazure401	Sun
+TMcloud computing OR clouds computing2309	Research In Motion
+TMsoftware as a service OR sass1518	Sony
+TMmicrosoft online1671	Sony
+TMforce.com521	International Business Machines
+TMforce.com1585	Yahoo
+TMsalesforce1950	Oracle
+TMcloud computing OR clouds computing1990	Hewlett Packard
+TMforce.com1239	Comcast
+TMforce.com1255	Hewlett Packard
+TMsalesforce1946	Congress
+TMsoftware as a service OR sass1345	eBay
+TMgoogle apps1803	Apple
+TMforce.com1223	Facebook
+TMforce.com187	Wall Street Journal
+TMforce.com417	Apple
+TMcloud computing OR clouds computing2033	Dell
+TMforce.com307	Sun
+TMsoftware as a service OR sass1547	Hewlett Packard
+TMgoogle apps58	Yahoo
+TMforce.com373	TechCrunch
+TMforce.com441	Apple
+TMforce.com1237	Apple
+TMapp engine OR google app engine OR app engines OR google app engines114	International Business Machines
+TMcloud computing OR clouds computing2292	Sun
+TMplatform as a service2474	America Online
+TMsalesforce1876	Google
+TMforce.com542	Dell
+TMforce.com1132	EMC
+TMcloud computing OR clouds computing2279	eBay
+TMsoftware as a service OR sass1402	Google
+TMcloud computing OR clouds computing2272	Microsoft
+TMforce.com534	Dell
+TMsoftware as a service OR sass1429	Intel
+TMforce.com1014	Nasdaq
+TMforce.com457	Sun
+TMprivate cloud OR private clouds1678	International Business Machines
+TMsalesforce676	Amazon
+TMmicrosoft online1654	Microsoft
+TMforce.com167	Google
+TMforce.com319	Apple
+TMcloud computing OR clouds computing2058	Hewlett Packard
+TMsalesforce1945	TechCrunch
+TMforce.com306	Sun
+TMsalesforce667	Microsoft
+TMforce.com1570	Amazon
+TMsoftware as a service OR sass1337	Yahoo
+TMsalesforce1914	Twitter
+TMmicrosoft online1665	Yahoo
+TMcloud computing OR clouds computing2203	CSC
+TMgoogle apps1840	Google
+TMcloud computing OR clouds computing2033	Apple
+TMsoftware as a service OR sass1381	Cisco
+TMcloud computing OR clouds computing2373	International Business Machines
+TMazure416	CNN
+TMsoftware as a service OR sass33	Apple
+TMforce.com1206	eBay
+TMgoogle apps1841	Google
+TMcloud computing OR clouds computing2019	Dell
+TMgoogle apps1853	Oracle
+TMforce.com374	Sony
+TMforce.com179	Yahoo
+TMgoogle apps1838	Microsoft
+TMgoogle apps1817	Microsoft
+TMforce.com955	Disney
+TMsoftware as a service OR sass1340	Microsoft
+TMforce.com159	Apple
+TMgoogle apps82	Microsoft
+TMforce.com1281	TechCrunch
+TMforce.com196	Yahoo
+TMsalesforce1912	Apple
+TMgoogle apps1778	Microsoft
+TMsalesforce593	Facebook
+TMsoftware as a service OR sass1365	Nokia
+TMsoftware as a service OR sass1407	Hewlett Packard
+TMforce.com836	Yahoo
+TMcloud computing OR clouds computing2005	Intel
+TMhive OR hadoop hive1494	Microsoft
+TMforce.com264	Apple
+TMinfrastructure as a service OR iass6	Yahoo
+TMcloud computing OR clouds computing2083	Yahoo
+TMdistributed computing OR distributed comput1484	Yahoo
+TMforce.com201	Hewlett Packard
+TMplatform as a service98	Research In Motion
+TMforce.com1262	University of California
+TMsoftware as a service OR sass1438	Microsoft
+TMcloud computing OR clouds computing2095	Apple
+TMforce.com539	Dell
+TMcloud computing OR clouds computing2372	Sun
+TMgoogle apps76	TechCrunch
+TMsalesforce704	Microsoft
+TMforce.com1059	Apple
+TMsoftware as a service OR sass1362	Hewlett Packard
+TMmicrosoft online1710	Sun
+TMsalesforce1912	Yahoo
+TMgoogle apps828	Google
+TMplatform as a service2458	Google
+TMsalesforce1911	Wall Street Journal
+TMsoftware as a service OR sass24	Yahoo
+TMforce.com442	Intel
+TMforce.com307	Hewlett Packard
+TMforce.com1137	Nasdaq
+TMhive OR hadoop hive1730	Microsoft
+TMgoogle apps774	Twitter
+TMcloud computing OR clouds computing2348	Apple
+TMazure1309	Yahoo
+TMprivate cloud OR private clouds1685	International Business Machines
+TMsalesforce630	Oracle
+TMcloud computing OR clouds computing2044	Twitter
+TMforce.com458	Yahoo
+TMgoogle apps85	Microsoft
+TMgoogle apps790	Twitter
+TMforce.com195	Nasdaq
+TMcloud computing OR clouds computing2216	Joyent
+TMgoogle apps63	Google
+TMforce.com486	Microsoft
+TMcloud computing OR clouds computing2035	Dell
+TMgoogle apps1783	Google
+TMforce.com327	Yahoo
+TMforce.com433	Facebook
+TMsoftware as a service OR sass2133	Yahoo
+TMforce.com318	Wall Street Journal
+TMsoftware as a service OR sass1516	Apple
+TMforce.com461	Yahoo
+TMforce.com1603	Disney
+TMcloud computing OR clouds computing2410	Amazon
+TMgoogle apps1782	Google
+TMforce.com360	National Science Foundation
+TMsalesforce685	Google
+TMsoftware as a service OR sass1566	Hewlett Packard
+TMforce.com196	Microsoft
+TMinfrastructure as a service OR iass1298	Cisco
+TMforce.com899	Google
+TMsalesforce630	Microsoft
+TMgoogle apps1795	Cisco
+TMforce.com889	Stanford
+TMforce.com1011	International Business Machines
+TMcloud computing OR clouds computing2215	Cisco
+TMcloud computing OR clouds computing2379	TechCrunch
+TMforce.com915	Microsoft
+TMcloud computing OR clouds computing2213	Microsoft
+TMforce.com892	Federal Communications Commission
+TMsoftware as a service OR sass1347	Microsoft
+TMgoogle apps777	Google
+TMgoogle apps88	Google
+TMcloud computing OR clouds computing2159	Yahoo
+TMcloud computing OR clouds computing2240	CNET
+TMmicrosoft online1665	America Online
+TMforce.com334	Yahoo
+TMapp engine OR google app engine OR app engines OR google app engines147	Amazon
+TMgoogle apps1823	Sun
+TMforce.com872	Yahoo
+TMhive OR hadoop hive2176	Microsoft
+TMgoogle apps1853	Nasdaq
+TMcloud computing OR clouds computing2250	Cisco
+TMforce.com435	Google
+TMsalesforce607	Google
+TMgoogle apps825	New York Times
+TMforce.com1206	America Online
+TMcloud computing OR clouds computing2307	Cisco
+TMsoftware as a service OR sass1521	EMC
+TMcloud computing OR clouds computing2079	Google
+TMazure1316	Google
+TMcloud computing OR clouds computing2027	Dell
+TMapp engine OR google app engine OR app engines OR google app engines123	Microsoft
+TMforce.com438	America Online
+TMsalesforce1737	TechCrunch
+TMseti@home1752	International Business Machines
+TMsalesforce714	Disney
+TMforce.com560	Yahoo
+TMcloud computing OR clouds computing2230	Microsoft
+TMinfrastructure as a service OR iass7	Sun
+TMapp engine OR google app engine OR app engines OR google app engines145	Google
+TMcloud computing OR clouds computing2093	Apple
+TMsoftware as a service OR sass1539	America Online
+TMforce.com1285	Apple
+TMsoftware as a service OR sass2113	Microsoft
+TMgoogle apps797	Google
+TMforce.com1137	Sony
+TMcloud computing OR clouds computing1979	Microsoft
+TMcloud computing OR clouds computing2372	Oracle
+TMprivate cloud OR private clouds1690	CNET
+TMmicrosoft online1622	Research In Motion
+TMsoftware as a service OR sass1400	Google
+TMforce.com1179	Apple
+TMforce.com346	Apple
+TMmicrosoft online2484	Supreme Court
+TMcloud computing OR clouds computing2026	Google
+TMgoogle apps729	General Electric
+TMsalesforce1930	Sony
+TMgoogle apps76	Microsoft
+TMapp engine OR google app engine OR app engines OR google app engines114	Yahoo
+TMazure402	BBC
+TMsalesforce601	Microsoft
+TMcloud computing OR clouds computing2194	Microsoft
+TMforce.com1024	Google
+TMsalesforce676	Yahoo
+TMforce.com963	Disney
+TMsalesforce716	Microsoft
+TMapp engine OR google app engine OR app engines OR google app engines136	Microsoft
+TMforce.com219	International Business Machines
+TMforce.com250	Congress
+TMforce.com233	Twitter
+TMforce.com954	EMI
+TMmicrosoft online1660	Sony
+TMapp engine OR google app engine OR app engines OR google app engines1446	Google
+TMforce.com574	Sony
+TMmicrosoft online2482	Nasdaq
+TMforce.com1270	Research In Motion
+TMforce.com1189	Microsoft
+TMsalesforce723	Oracle
+TMnetsuite1722	Apple
+TMforce.com313	Twitter
+TMgoogle apps1809	Wall Street Journal
+TMplatform as a service1500	Dell
+TMforce.com496	Apple
+TMforce.com282	Dell
+TMsalesforce700	Amazon
+TMgoogle apps775	Google
+TMforce.com436	Disney
+TMforce.com268	Nasdaq
+TMsoftware as a service OR sass28	TechCrunch
+TMcloud computing OR clouds computing2083	Microsoft
+TMforce.com1155	Research In Motion
+TMapp engine OR google app engine OR app engines OR google app engines109	Microsoft
+TMforce.com351	Yahoo
+TMsalesforce1741	Yahoo
+TMsoftware as a service OR sass2137	eBay
+TMazure407	Microsoft
+TMsalesforce665	Wall Street Journal
+TMcloud computing OR clouds computing2254	Microsoft
+TMsalesforce1889	Google
+TMsalesforce1442	Sony
+TMcloud computing OR clouds computing2282	eBay
+TMforce.com875	Comcast
+TMsalesforce1945	Massachusetts Institute of Technology
+TMhive OR hadoop hive2180	New York Times
+TMworkday OR workdays1644	Yahoo
+TMforce.com1590	New York Times
+TMcloud computing OR clouds computing2291	Oracle
+TMazure396	eBay
+TMcloud computing OR clouds computing2402	Congress
+TMforce.com1585	TechCrunch
+TMmicrosoft online1677	Yahoo
+TMsalesforce602	Palm
+TMcloud computing OR clouds computing2348	Amazon
+TMapp engine OR google app engine OR app engines OR google app engines126	Google
+TMgoogle apps1847	Google
+TMcloud computing OR clouds computing2162	Facebook
+TMprivate cloud OR private clouds1680	Intel Capital
+TMforce.com839	Stanford
+TMsalesforce671	Nasdaq
+TMplatform as a service2462	Microsoft
+TMsalesforce671	America Online
+TMsalesforce715	Google
+TMforce.com1150	Sun
+TMforce.com297	Microsoft
+TMsalesforce665	Amazon
+TMinfrastructure as a service OR iass4	Apple
+TMforce.com1123	Oracle
+TMforce.com156	Comcast
+TMgoogle apps827	Yahoo
+TMforce.com195	Yahoo
+TMinfrastructure as a service OR iass1294	General Services Administration
+TMforce.com866	Comcast
+TMapp engine OR google app engine OR app engines OR google app engines1456	International Business Machines
+TMforce.com440	TechCrunch
+TMforce.com1275	Microsoft
+TMsoftware as a service OR sass1558	Sun
+TMsalesforce613	Apple
+TMsoftware as a service OR sass2105	Intel
+TMsalesforce683	Microsoft
+TMplatform as a service1504	Facebook
+TMsalesforce699	BBC
+TMforce.com1191	Sun
+TMapp engine OR google app engine OR app engines OR google app engines104	Apple
+TMcloud computing OR clouds computing2209	Comcast
+TMforce.com1137	Wall Street Journal
+TMsoftware as a service OR sass2113	International Business Machines
+TMforce.com333	Comcast
+TMforce.com1195	Federal Communications Commission
+TMforce.com528	Yahoo
+TMforce.com1596	Yahoo
+TMapp engine OR google app engine OR app engines OR google app engines1455	Google
+TMforce.com210	Congress
+TMapp engine OR google app engine OR app engines OR google app engines1459	New York Times
+TMcloud computing OR clouds computing2246	Google
+TMforce.com320	Adobe
+TMcloud computing OR clouds computing2055	Google
+TMforce.com292	Federal Communications Commission
+TMforce.com1104	Sony
+TMazure1720	Yahoo
+TMcloud computing OR clouds computing2319	Cisco
+TMgoogle apps57	Yahoo
+TMgoogle apps757	Google
+TMforce.com991	eBay
+TMforce.com212	Facebook
+TMsalesforce1944	Intel
+TMsoftware as a service OR sass1514	Yahoo
+TMforce.com282	Apple
+TMforce.com333	Dell
+TMgoogle apps1754	America Online
+TMforce.com935	Yahoo
+TMsoftware as a service OR sass1372	Apple
+TMforce.com981	Nokia
+TMgoogle apps740	Microsoft
+TMcloud computing OR clouds computing2159	Amazon
+TMcloud computing OR clouds computing2410	TechCrunch
+TMsoftware as a service OR sass1337	BBC
+TMforce.com1101	Yahoo
+TMforce.com1088	Microsoft
+TMforce.com437	Yahoo
+TMsalesforce617	Hewlett Packard
+TMgoogle apps56	Apple
+TMgoogle apps1784	Google
+TMmicrosoft online1710	Nasdaq
+TMgoogle apps1846	Bungee Labs
+TMcloud computing OR clouds computing2279	Palm
+TMcloud computing OR clouds computing2328	Palm
+TMsalesforce709	Oracle
+TMazure401	Amazon
+TMforce.com1136	Facebook
+TMsoftware as a service OR sass1545	Apple
+TMplatform as a service1503	Research In Motion
+TMsalesforce721	Adobe
+TMforce.com1118	Yahoo
+TMforce.com847	Microsoft
+TMdistributed computing OR distributed comput1489	eBay
+TMforce.com185	Facebook
+TMcloud computing OR clouds computing1962	eBay
+TMforce.com489	Sony
+TMmicrosoft online1624	Microsoft
+TMforce.com1136	Microsoft
+TMworkday OR workdays1646	Microsoft
+TMforce.com298	Amazon
+TMforce.com1044	Apple
+TMhybrid cloud OR hybrid clouds1468	Sun
+TMgoogle apps831	Yahoo
+TMcloud computing OR clouds computing2167	Yahoo
+TMcloud computing OR clouds computing2073	Microsoft
+TMforce.com334	America Online
+TMazure411	eBay
+TMforce.com856	Facebook
+TMsalesforce1941	Yahoo
+TMsoftware as a service OR sass1438	Apple
+TMforce.com371	Yahoo
+TMcloud computing OR clouds computing2167	eBay
+TMprivate cloud OR private clouds1678	Cisco
+TMforce.com322	Twitter
+TMsoftware as a service OR sass1378	Yahoo
+TMhybrid cloud OR hybrid clouds99	Microsoft
+TMgoogle apps752	Google
+TMsalesforce1735	Microsoft
+TMgoogle apps1792	Amazon
+TMsoftware as a service OR sass1430	Federal Communications Commission
+TMprivate cloud OR private clouds1692	Sun
+TMdistributed computing OR distributed comput1716	Microsoft
+TMforce.com540	America Online
+TMcloud computing OR clouds computing2288	Comcast
+TMforce.com1213	Sony
+TMnetsuite1722	Palm
+TMapp engine OR google app engine OR app engines OR google app engines1463	Apple
+TMforce.com1255	Dell
+TMforce.com1277	Yahoo
+TMsoftware as a service OR sass1431	Amazon
+TMazure413	eBay
+TMcloud computing OR clouds computing2170	Microsoft
+TMcloud computing OR clouds computing2062	TechCrunch
+TMapp engine OR google app engine OR app engines OR google app engines119	Google
+TMforce.com1034	Sony
+TMforce.com1192	Palm
+TMforce.com361	Federal Communications Commission
+TMsalesforce1928	Twitter
+TMgoogle apps791	Microsoft
+TMforce.com253	Twitter
+TMforce.com938	Sony
+TMsoftware as a service OR sass1540	Nokia
+TMmicrosoft online1660	Nasdaq
+TMplatform as a service2450	Yahoo
+TMhadoop2438	Google
+TMsalesforce680	Amazon
+TMforce.com231	TechCrunch
+TMforce.com441	Microsoft
+TMsalesforce1911	Apple
+TMcloud computing OR clouds computing2098	Apple
+TMgoogle apps388	Yahoo
+TMgoogle apps1831	Adobe
+TMforce.com570	Apple
+TMcloud computing OR clouds computing2167	Google
+TMsalesforce726	Adobe
+TMcloud computing OR clouds computing2343	Apple
+TMazure1315	Microsoft
+TMforce.com204	Microsoft
+TMsalesforce1901	Yahoo
+TMforce.com953	Yahoo
+TMengine yard1744	Stanford
+TMsoftware as a service OR sass1354	Microsoft
+TMforce.com206	TechCrunch
+TMforce.com1237	Sony
+TMforce.com1238	Comcast
+TMsalesforce714	Intel
+TMsoftware as a service OR sass2182	Microsoft
+TMmicrosoft online1703	Nasdaq
+TMforce.com1113	Google
+TMgoogle apps390	TechCrunch
+TMforce.com469	Nasdaq
+TMcloud computing OR clouds computing2044	Wikipedia
+TMworkday OR workdays1645	New York Times
+TMforce.com319	Research In Motion
+TMsalesforce667	Yahoo
+TMforce.com192	Comcast
+TMforce.com1239	Wall Street Journal
+TMhadoop2442	Google
+TMforce.com874	Facebook
+TMgoogle apps384	International Business Machines
+TMcloud computing OR clouds computing2381	eBay
+TMsoftware as a service OR sass2120	Apple
+TMforce.com1586	Supreme Court
+TMforce.com581	Microsoft
+TMcloud computing OR clouds computing2167	National Science Foundation
+TMcloud computing OR clouds computing2238	Yahoo
+TMazure1318	Amazon
+TMforce.com1028	Apple
+TMsoftware as a service OR sass1338	Nokia
+TMnetsuite1467	eBay
+TMforce.com1581	America Online
+TMcloud computing OR clouds computing2209	Federal Communications Commission
+TMforce.com272	Microsoft
+TMcloud computing OR clouds computing2019	eBay
+TMforce.com950	Microsoft
+TMapp engine OR google app engine OR app engines OR google app engines141	Amazon
+TMforce.com251	Google
+TMgoogle apps1814	Oracle
+TMsoftware as a service OR sass1431	Wall Street Journal
+TMforce.com233	Yahoo
+TMforce.com320	Palm
+TMforce.com291	Facebook
+TMforce.com1260	Dell
+TMcloud computing OR clouds computing2009	International Business Machines
+TMcloud computing OR clouds computing1966	Apple
+TMgoogle apps85	International Business Machines
+TMsoftware as a service OR sass1382	Cisco
+TMinfrastructure as a service OR iass1293	Twitter
+TMsalesforce710	eBay
+TMforce.com187	Google
+TMazure1334	Microsoft
+TMforce.com1264	Comcast
+TMplatform as a service1483	Intel
+TMforce.com1191	New York Times
+TMsoftware as a service OR sass2139	Sun
+TMforce.com1089	Apple
+TMgoogle apps70	Google
+TMforce.com903	Yahoo
+TMforce.com1577	Google
+TMworkday OR workdays1627	International Business Machines
+TMapp engine OR google app engine OR app engines OR google app engines1450	Yahoo
+TMforce.com1608	Yahoo
+TMsoftware as a service OR sass1420	Bungee Labs
+TMinfrastructure as a service OR iass5	Intel
+TMgoogle apps1769	Apple
+TMhadoop2442	Yahoo
+TMcloud computing OR clouds computing2202	Yahoo
+TMcloud computing OR clouds computing2331	Sun
+TMplatform as a service1503	Microsoft
+TMcloud computing OR clouds computing2402	Stanford
+TMforce.com1592	Nasdaq
+TMcloud computing OR clouds computing2242	Yahoo
+TMazure1333	Amazon
+TMgoogle apps777	Federal Communications Commission
+TMplatform as a service2458	Yahoo
+TMforce.com487	Yahoo
+TMforce.com1601	Wall Street Journal
+TMworkday OR workdays1629	News Corporation
+TMsoftware as a service OR sass2140	Microsoft
+TMsoftware as a service OR sass1337	Wall Street Journal
+TMcloud computing OR clouds computing2058	Intel
+TMsoftware as a service OR sass1514	Wall Street Journal
+TMapp engine OR google app engine OR app engines OR google app engines114	Microsoft
+TMforce.com1032	Wall Street Journal
+TMforce.com1281	Wikipedia
+TMsalesforce1740	Amazon
+TMforce.com1277	Comcast
+TMforce.com1032	Apple
+TMgoogle apps385	Apple
+TMinfrastructure as a service OR iass1297	Hewlett Packard
+TMforce.com1069	Nasdaq
+TMforce.com451	Google
+TMforce.com949	Apple
+TMforce.com1097	Intel
+TMforce.com318	Comcast
+TMcloud computing OR clouds computing2419	Sun
+TMgoogle apps729	Twitter
+TMsalesforce681	eBay
+TMforce.com1034	Research In Motion
+TMmicrosoft online1616	Apple
+TMsoftware as a service OR sass2129	Microsoft
+TMsalesforce666	Yahoo
+TMforce.com363	Facebook
+TMforce.com264	TechCrunch
+TMsoftware as a service OR sass2131	Google
+TMforce.com485	Google
+TMcloud computing OR clouds computing2243	Dell
+TMsoftware as a service OR sass1369	Google
+TMcloud computing OR clouds computing2373	Dell
+TMforce.com314	Twitter
+TMforce.com484	Yahoo
+TMmicrosoft online2482	Microsoft
+TMcloud computing OR clouds computing2041	Facebook
+TMcloud computing OR clouds computing2193	Yahoo
+TMplatform as a service2447	Sun
+TMnetsuite150	Apple
+TMcloud computing OR clouds computing2379	Microsoft
+TMgoogle apps778	Microsoft
+TMcloud computing OR clouds computing2394	Dell
+TMapp engine OR google app engine OR app engines OR google app engines118	Apple
+TMforce.com323	Facebook
+TMcloud computing OR clouds computing2039	Apple
+TMforce.com313	TechCrunch
+TMforce.com365	Google
+TMforce.com239	Palm
+TMcloud computing OR clouds computing2024	Hewlett Packard
+TMplatform as a service2451	Yahoo
+TMcloud computing OR clouds computing2252	Google
+TMforce.com1023	Sony
+TMsoftware as a service OR sass1381	Stanford
+TMforce.com1034	Apple
+TMforce.com1120	Yahoo
+TMmicrosoft online2476	Microsoft
+TMinfrastructure as a service OR iass1288	International Business Machines
+TMforce.com1141	America Online
+TMcloud computing OR clouds computing1992	Wall Street Journal
+TMforce.com516	Nokia
+TMgoogle apps761	Microsoft
+TMcloud computing OR clouds computing2291	Twitter
+TMforce.com1121	Intel
+TMsalesforce616	CNET
+TMsoftware as a service OR sass1381	Microsoft
+TMforce.com1601	Research In Motion
+TMforce.com1133	eBay
+TMplatform as a service1504	Microsoft
+TMcloud computing OR clouds computing2286	Microsoft
+TMcloud computing OR clouds computing2083	Amazon
+TMsoftware as a service OR sass2115	Nokia
+TMhadoop2433	Google
+TMapp engine OR google app engine OR app engines OR google app engines135	America Online
+TMdistributed computing OR distributed comput1488	Microsoft
+TMforce.com1609	Supreme Court
+TMforce.com857	Wikipedia
+TMforce.com471	Nasdaq
+TMforce.com1253	Yahoo
+TMforce.com469	Wall Street Journal
+TMsalesforce725	Yahoo
+TMsalesforce707	Google
+TMsoftware as a service OR sass1549	Apple
+TMforce.com152	International Business Machines
+TMsalesforce713	Yahoo
+TMcloud computing OR clouds computing2044	Sony
+TMsalesforce681	Amazon
+TMforce.com579	Apple
+TMmicrosoft online2484	Google
+TMforce.com991	Nasdaq
+TMsoftware as a service OR sass1538	Amazon
+TMforce.com322	TechCrunch
+TMinfrastructure as a service OR iass1296	Microsoft
+TMforce.com445	Sony
+TMforce.com564	Comcast
+TMmicrosoft online1652	Microsoft
+TMgoogle apps1768	Sony
+TMforce.com1235	Federal Communications Commission
+TMsoftware as a service OR sass1538	Microsoft
+TMsoftware as a service OR sass1420	Oracle
+TMgoogle apps1856	Microsoft
+TMsalesforce1872	International Business Machines
+TMgoogle apps755	Yahoo
+TMforce.com1587	Sun
+TMsalesforce1944	Google
+TMforce.com201	Dell
+TMgoogle apps794	Microsoft
+TMsalesforce1908	Microsoft
+TMforce.com1581	CNN
+TMforce.com1019	Yahoo
+TMsoftware as a service OR sass1554	Apple
+TMsalesforce688	Facebook
+TMforce.com963	TechCrunch
+TMforce.com232	Sun
+TMcloud computing OR clouds computing2405	Wikipedia
+TMforce.com1169	Apple
+TMforce.com1273	Nokia
+TMdistributed computing OR distributed comput1712	University of California
+TMcloud computing OR clouds computing2409	New York Times
+TMworkday OR workdays1639	PeopleSoft
+TMforce.com1090	Facebook
+TMforce.com581	Yahoo
+TMprivate cloud OR private clouds1682	IBM Rational Software Delivery Services
+TMcloud computing OR clouds computing1994	Research In Motion
+TMhive OR hadoop hive2176	Google
+TMforce.com260	Facebook
+TMsalesforce683	Yahoo
+TMgoogle apps821	EMC
+TMforce.com1010	Nasdaq
+TMgoogle apps754	Disney
+TMforce.com224	Apple
+TMforce.com566	Comcast
+TMcloud computing OR clouds computing2379	CNN
+TMforce.com364	Microsoft
+TMforce.com1585	Facebook
+TMsalesforce691	Microsoft
+TMforce.com1218	Cisco
+TMgoogle apps82	Apple
+TMnetsuite2489	TechCrunch
+TMsalesforce662	Microsoft
+TMgoogle apps1760	Google
+TMsalesforce1898	Oracle
+TMapp engine OR google app engine OR app engines OR google app engines1458	Google
+TMforce.com341	Microsoft
+TMsoftware as a service OR sass1382	Sony
+TMdistributed computing OR distributed comput1490	Sony
+TMsalesforce699	LinkedIn
+TMsoftware as a service OR sass1409	Sun
+TMhive OR hadoop hive1000	Yahoo
+TMforce.com226	Google
+TMhive OR hadoop hive1726	Qwest
+TMcloud computing OR clouds computing2165	International Business Machines
+TMsalesforce695	Oracle
+TMsalesforce707	Yahoo
+TMforce.com1182	Apple
+TMcloud computing OR clouds computing2350	International Business Machines
+TMmicrosoft online1657	Microsoft
+TMprivate cloud OR private clouds1686	Cisco
+TMplatform as a service98	Nasdaq
+TMforce.com482	Nasdaq
+TMforce.com992	Google
+TMmicrosoft online1664	Microsoft
+TMsalesforce1950	Microsoft
+TMforce.com1603	Nokia
+TMforce.com1107	America Online
+TMforce.com418	Wikipedia
+TMforce.com1600	Microsoft
+TMforce.com283	Google
+TMcloud computing OR clouds computing1977	Microsoft
+TMgoogle apps1828	Microsoft
+TMforce.com306	Google
+TMgoogle apps1790	Comcast
+TMforce.com547	Federal Communications Commission
+TMforce.com207	Microsoft
+TMcloud computing OR clouds computing2242	Microsoft
+TMsalesforce663	Apple
+TMcloud computing OR clouds computing2289	Intel
+TMforce.com1110	Google
+TMplatform as a service2450	International Business Machines
+TMsalesforce699	America Online
+TMforce.com907	Oracle
+TMsalesforce701	Microsoft
+TMforce.com931	Dell
+TMforce.com1044	Sony
+TMforce.com422	Disney
+TMcloud computing OR clouds computing2055	Microsoft
+TMforce.com1128	America Online
+TMcloud computing OR clouds computing2244	Dell
+TMsalesforce1895	Comcast
+TMsalesforce691	Amazon
+TMcloud computing OR clouds computing2044	Facebook
+TMazure416	New York Times
+TMhadoop2151	Oracle
+TMgoogle apps815	Google
+TMforce.com313	eBay
+TMcloud computing OR clouds computing1962	Adobe
+TMforce.com574	Intel
+TMazure1332	Nasdaq
+TMcloud computing OR clouds computing2379	Google
+TMforce.com265	Apple
+TMforce.com1600	Wall Street Journal
+TMsalesforce669	Wall Street Journal
+TMforce.com219	Cisco
+TMnetsuite2488	Microsoft
+TMsoftware as a service OR sass1382	Facebook
+TMgoogle apps744	Google
+TMforce.com1020	Google
+TMforce.com847	Dell
+TMinfrastructure as a service OR iass1296	Unisys
+TMforce.com847	Apple
+TMgoogle apps752	Microsoft
+TMforce.com550	New York Times
+TMforce.com863	BBC
+TMforce.com269	Microsoft
+TMplatform as a service1508	Yahoo
+TMcloud computing OR clouds computing2228	Amazon
+TMsalesforce1908	Dell
+TMapp engine OR google app engine OR app engines OR google app engines103	Nokia
+TMazure1334	Adobe
+TMgoogle apps384	Google
+TMforce.com1184	Yahoo
+TMgoogle apps745	Google
+TMgoogle apps803	Google
+TMcloud computing OR clouds computing2015	CNET
+TMsalesforce584	LinkedIn
+TMcloud computing OR clouds computing2020	Apple
+TMazure1324	Intel Capital
+TMforce.com208	Wall Street Journal
+TMgoogle apps1788	Google
+TMcloud computing OR clouds computing2159	Sony
+TMforce.com329	Intel
+TMinfrastructure as a service OR iass3	Microsoft
+TMforce.com951	Microsoft
+TMhadoop2442	Microsoft
+TMgoogle apps387	Yahoo
+TMsalesforce687	Oracle
+TMcloud computing OR clouds computing2415	Cisco
+TMsoftware as a service OR sass1345	Amazon
+TMforce.com336	Dell
+TMsoftware as a service OR sass1392	Microsoft
+TMsoftware as a service OR sass2110	Facebook
+TMsalesforce648	Google
+TMsalesforce598	EMC
+TMforce.com199	Apple
+TMsoftware as a service OR sass2189	Microsoft
+TMcloud computing OR clouds computing2051	Microsoft
+TMforce.com890	Microsoft
+TMinfrastructure as a service OR iass4	Amazon
+TMcloud computing OR clouds computing2275	Intel
+TMgoogle apps734	Google
+TMgoogle apps1808	Microsoft
+TMforce.com1233	Google
+TMforce.com1251	Yahoo
+TMforce.com1599	Hewlett Packard
+TMapp engine OR google app engine OR app engines OR google app engines114	Facebook
+TMforce.com1268	Federal Communications Commission
+TMgoogle apps58	Cisco
+TMforce.com451	eBay
+TMsoftware as a service OR sass26	Microsoft
+TMcloud computing OR clouds computing2061	Microsoft
+TMcloud computing OR clouds computing2071	CNN
+TMgoogle apps1855	Microsoft
+TMforce.com247	Adobe
+TMsalesforce701	Facebook
+TMforce.com575	TechCrunch
+TMforce.com159	Congress
+TMhive OR hadoop hive1725	Wikipedia
+TMgoogle apps1801	Microsoft
+TMforce.com217	International Business Machines
+TMsoftware as a service OR sass40	New York Times
+TMforce.com469	Yahoo
+TMhadoop2436	National Science Foundation
+TMhive OR hadoop hive1726	Comcast
+TMcloud computing OR clouds computing1972	Amazon
+TMforce.com897	Facebook
+TMgoogle apps729	International Business Machines
+TMengine yard1744	Azure Capital
+TMsoftware as a service OR sass1412	Facebook
+TMforce.com1261	Cisco
+TMsalesforce584	Microsoft
+TMforce.com497	Google
+TMprivate cloud OR private clouds1680	Joyent
+TMforce.com1184	Nokia
+TMgoogle apps63	Federal Communications Commission
+TMforce.com984	Wall Street Journal
+TMforce.com866	Google
+TMforce.com1056	Apple
+TMgoogle apps832	Google
+TMsalesforce1920	Amazon
+TMforce.com210	Apple
+TMsoftware as a service OR sass1539	Apple
+TMforce.com512	Yahoo
+TMforce.com453	BBC
+TMazure1333	Microsoft
+TMcloud computing OR clouds computing2323	Apple
+TMforce.com1137	Apple
+TMcloud computing OR clouds computing2019	General Electric
+TMforce.com208	Google
+TMgoogle apps1776	Research In Motion
+TMforce.com310	Facebook
+TMcloud computing OR clouds computing2368	Yahoo
+TMgoogle apps784	Apple
+TMforce.com1602	Disney
+TMcloud computing OR clouds computing2096	Oracle
+TMcloud computing OR clouds computing2394	Sun
+TMgoogle apps1791	Google
+TMforce.com960	Research In Motion
+TMforce.com357	TechCrunch
+TMforce.com457	Yahoo
+TMgoogle apps821	Cisco
+TMcloud computing OR clouds computing2166	International Business Machines
+TMmicrosoft online1665	Google
+TMforce.com1061	Yahoo
+TMforce.com1043	Nokia
+TMgoogle apps1862	Microsoft
+TMcloud computing OR clouds computing2395	Intel
+TMsoftware as a service OR sass1545	LinkedIn
+TMcloud computing OR clouds computing2015	Apple
+TMcloud computing OR clouds computing2167	Microsoft
+TMhive OR hadoop hive1491	Wall Street Journal
+TMgoogle apps757	TechCrunch
+TMapp engine OR google app engine OR app engines OR google app engines1462	Google
+TMgoogle apps85	Google
+TMsoftware as a service OR sass1352	Oracle
+TMforce.com237	Yahoo
+TMcloud computing OR clouds computing1995	Nokia
+TMforce.com1220	Google
+TMforce.com1212	Hewlett Packard
+TMworkday OR workdays18	Facebook
+TMforce.com1575	America Online
+TMsoftware as a service OR sass1368	Sony
+TMsoftware as a service OR sass1428	Microsoft
+TMcloud computing OR clouds computing2395	Sun
+TMforce.com506	Apple
+TMmicrosoft online1711	Sony
+TMmicrosoft online2481	eBay
+TMcloud computing OR clouds computing2383	Microsoft
+TMapp engine OR google app engine OR app engines OR google app engines119	Amazon
+TMcloud computing OR clouds computing2230	Apple
+TMgoogle apps1797	Yahoo
+TMcloud computing OR clouds computing1961	Amazon
+TMapp engine OR google app engine OR app engines OR google app engines127	Google
+TMforce.com214	Wall Street Journal
+TMcloud computing OR clouds computing2393	Microsoft
+TMforce.com217	Apple
+TMapp engine OR google app engine OR app engines OR google app engines119	America Online
+TMforce.com435	Disney
+TMforce.com338	Stanford
+TMforce.com259	Yahoo
+TMhadoop2149	International Business Machines
+TMgoogle apps1856	Facebook
+TMforce.com548	Sony
+TMforce.com838	Massachusetts Institute of Technology
+TMcloud computing OR clouds computing2022	Amazon
+TMsalesforce617	Unisys
+TMforce.com1116	Supreme Court
+TMhybrid cloud OR hybrid clouds1470	Sun
+TMforce.com1114	Microsoft
+TMgoogle apps739	Microsoft
+TMforce.com1143	Congress
+TMforce.com1191	eBay
+TMcloud computing OR clouds computing2040	Microsoft
+TMforce.com1088	Yahoo
+TMsoftware as a service OR sass1380	Google
+TMforce.com1268	Apple
+TMforce.com157	New York Times
+TMcloud computing OR clouds computing2322	Apple
+TMgoogle apps392	TechCrunch
+TMgoogle apps777	Microsoft
+TMhive OR hadoop hive999	Microsoft
+TMsoftware as a service OR sass1522	Intel
+TMapp engine OR google app engine OR app engines OR google app engines134	Google
+TMforce.com1238	Research In Motion
+TMforce.com1264	Federal Communications Commission
+TMforce.com994	TechCrunch
+TMcloud computing OR clouds computing1964	Sun
+TMcloud computing OR clouds computing2264	Microsoft
+TMcloud computing OR clouds computing2170	Apple
+TMforce.com839	Wikipedia
+TMcloud computing OR clouds computing2311	Sun
+TMforce.com311	Yahoo
+TMforce.com217	Microsoft
+TMcloud computing OR clouds computing1983	Sun
+TMforce.com1607	Apple
+TMsalesforce1732	NetSuite
+TMgoogle apps1753	Microsoft
+TMforce.com1007	Yahoo
+TMforce.com1191	Google
+TMgoogle apps1834	Microsoft
+TMsoftware as a service OR sass28	Microsoft
+TMmicrosoft online1704	CNET
+TMhadoop2438	International Business Machines
+TMforce.com264	Microsoft
+TMforce.com336	Hewlett Packard
+TMforce.com980	Research In Motion
+TMforce.com1583	Google
+TMforce.com478	eBay
+TMsalesforce1882	Oracle
+TMprivate cloud OR private clouds1680	Dell
+TMsoftware as a service OR sass2139	Amazon
+TMhadoop2439	America Online
+TMforce.com866	Wall Street Journal
+TMsoftware as a service OR sass1524	Google
+TMazure401	International Business Machines
+TMforce.com1062	Google
+TMcloud computing OR clouds computing2392	Apple
+TMcloud computing OR clouds computing2054	eBay
+TMdistributed computing OR distributed comput1718	Google
+TMworkday OR workdays12	eBay
+TMmicrosoft online2481	Sun
+TMforce.com1064	Sony
+TMgoogle apps821	International Business Machines
+TMforce.com1204	Intel
+TMforce.com285	Google
+TMcloud computing OR clouds computing2243	Nokia
+TMsoftware as a service OR sass1522	Google
+TMforce.com485	Yahoo
+TMhadoop2436	International Business Machines
+TMcloud computing OR clouds computing2383	International Business Machines
+TMgoogle apps737	Microsoft
+TMforce.com845	Yahoo
+TMforce.com298	Microsoft
+TMsalesforce1731	Sun
+TMnetsuite1723	Oracle
+TMforce.com848	Google
+TMsoftware as a service OR sass2128	Microsoft
+TMhadoop2146	Microsoft
+TMcloud computing OR clouds computing2379	Apple
+TMforce.com1064	Research In Motion
+TMforce.com1111	Facebook
+TMapp engine OR google app engine OR app engines OR google app engines1465	Twitter
+TMsalesforce1442	Nasdaq
+TMgoogle apps743	Google
+TMforce.com1089	Research In Motion
+TMsoftware as a service OR sass1382	Google
+TMazure1321	Amazon
+TMinfrastructure as a service OR iass1297	Sun
+TMsalesforce1734	Microsoft
+TMplatform as a service2468	Amazon
+TMforce.com296	Apple
+TMcloud computing OR clouds computing2062	Yahoo
+TMforce.com1194	Google
+TMsalesforce633	Microsoft
+TMcloud computing OR clouds computing1996	Apple
+TMsalesforce699	Google
+TMcloud computing OR clouds computing1987	Sun
+TMgoogle apps91	International Business Machines
+TMgoogle apps392	Google
+TMsoftware as a service OR sass1516	Palm
+TMforce.com1141	Nasdaq
+TMsalesforce638	Apple
+TMforce.com279	Apple
+TMhadoop2145	Yahoo
+TMforce.com1196	Apple
+TMcloud computing OR clouds computing2015	Microsoft
+TMforce.com871	Apache Software Foundation
+TMforce.com899	Yahoo
+TMsalesforce1885	Adobe
+TMmicrosoft online1700	Microsoft
+TMapp engine OR google app engine OR app engines OR google app engines105	Microsoft
+TMforce.com215	Microsoft
+TMforce.com1591	eBay
+TMplatform as a service2454	Google
+TMgoogle apps739	TechCrunch
+TMforce.com850	Nasdaq
+TMsalesforce597	Microsoft
+TMforce.com374	Amazon
+TMsoftware as a service OR sass1427	Microsoft
+TMforce.com283	New York Times
+TMgoogle apps1794	Twitter
+TMsoftware as a service OR sass1419	Yahoo
+TMsoftware as a service OR sass1380	Nasdaq
+TMsoftware as a service OR sass1415	Yahoo
+TMapp engine OR google app engine OR app engines OR google app engines1443	International Business Machines
+TMforce.com1080	Sony
+TMcloud computing OR clouds computing2308	Palm
+TMforce.com1239	Microsoft
+TMforce.com1116	CNN
+TMcloud computing OR clouds computing2216	Apple
+TMforce.com1061	Microsoft
+TMgoogle apps729	Microsoft
+TMhybrid cloud OR hybrid clouds99	Adobe
+TMforce.com1187	Microsoft
+TMcloud computing OR clouds computing1976	Google
+TMgoogle apps82	Google
+TMazure1318	Microsoft
+TMforce.com208	New York Times
+TMcloud computing OR clouds computing2044	Microsoft
+TMforce.com1132	Amazon
+TMforce.com1010	Comcast
+TMcloud computing OR clouds computing2193	Microsoft
+TMsalesforce714	Yahoo
+TMhadoop2441	Apache Software Foundation
+TMforce.com497	University of California
+TMforce.com836	Twitter
+TMforce.com1062	Wall Street Journal
+TMgoogle apps57	Adobe
+TMforce.com203	Microsoft
+TMazure1313	eBay
+TMforce.com528	Google
+TMforce.com833	Disney
+TMapp engine OR google app engine OR app engines OR google app engines107	CNET
+TMforce.com559	Apple
+TMinfrastructure as a service OR iass1296	International Business Machines
+TMsalesforce1876	America Online
+TMplatform as a service2455	News Corporation
+TMengine yard1745	New York Times
+TMforce.com282	CNET
+TMmicrosoft online1623	Microsoft
+TMazure1327	Intel
+TMsalesforce699	Oracle
+TMazure1720	Google
+TMsoftware as a service OR sass1396	Microsoft
+TMforce.com1005	Yahoo
+TMgoogle apps828	Yahoo
+TMmicrosoft online2482	Sony
+TMplatform as a service2455	Yahoo
+TMgoogle apps809	Google
+TMsoftware as a service OR sass1368	Amazon
+TMplatform as a service2458	Twitter
+TMapp engine OR google app engine OR app engines OR google app engines104	Google
+TMforce.com1238	Sony
+TMforce.com1033	eBay
+TMforce.com534	Nokia
+TMhive OR hadoop hive1003	Amazon
+TMmicrosoft online2483	Yahoo
+TMazure395	Microsoft
+TMcloud computing OR clouds computing2270	New York Times
+TMcloud computing OR clouds computing1969	Microsoft
+TMsalesforce602	Nasdaq
+TMforce.com1175	eBay
+TMgoogle apps1766	Yahoo
+TMforce.com539	Amazon
+TMhive OR hadoop hive2172	Stanford
+TMforce.com903	Apple
+TMapp engine OR google app engine OR app engines OR google app engines140	TechCrunch
+TMcloud computing OR clouds computing2242	Wall Street Journal
+TMsalesforce628	Google
+TMsoftware as a service OR sass1384	Apple
+TMcloud computing OR clouds computing2096	Microsoft
+TMcloud computing OR clouds computing2232	CNET
+TMdistributed computing OR distributed comput46	National Science Foundation
+TMsalesforce639	Amazon
+TMsalesforce684	Facebook
+TMcloud computing OR clouds computing2383	CNET
+TMforce.com994	International Business Machines
+TMforce.com308	Microsoft
+TMforce.com1601	Nasdaq
+TMforce.com231	Twitter
+TMforce.com320	Microsoft
+TMforce.com1237	Hasbro
+TMsalesforce723	International Business Machines
+TMsoftware as a service OR sass1567	Sun
+TMforce.com218	Disney
+TMsalesforce1442	Microsoft
+TMseti@home1749	Yahoo
+TMsoftware as a service OR sass2124	Microsoft
+TMsoftware as a service OR sass2103	Yahoo
+TMforce.com327	Microsoft
+TMcloud computing OR clouds computing2054	Yahoo
+TMsoftware as a service OR sass21	Microsoft
+TMsoftware as a service OR sass1566	Intel
+TMsoftware as a service OR sass1350	Adobe
+TMsoftware as a service OR sass1558	Microsoft
+TMengine yard1745	Apple
+TMforce.com955	Wall Street Journal
+TMforce.com1143	Yahoo
+TMsalesforce630	Yahoo
+TMgoogle apps1851	Microsoft
+TMforce.com1233	Microsoft
+TMsalesforce1947	Yahoo
+TMforce.com277	Microsoft
+TMforce.com485	Cisco
+TMmicrosoft online1710	Microsoft
+TMsoftware as a service OR sass2105	Nokia
+TMforce.com1212	Microsoft
+TMforce.com202	Google
+TMforce.com1165	Google
+TMplatform as a service96	Yahoo
+TMplatform as a service96	Microsoft
+TMmicrosoft online1619	Google
+TMsalesforce1742	Microsoft
+TMforce.com1023	Nasdaq
+TMforce.com243	Microsoft
+TMsoftware as a service OR sass1435	Amazon
+TMsoftware as a service OR sass1521	Microsoft
+TMplatform as a service1503	America Online
+TMhybrid cloud OR hybrid clouds1468	Unisys
+TMnetsuite151	Sun
+TMsalesforce707	Hewlett Packard
+TMforce.com231	Wikipedia
+TMforce.com168	Microsoft
+TMcloud computing OR clouds computing2243	Yahoo
+TMworkday OR workdays20	CNN
+TMforce.com1159	BBC
+TMforce.com903	Nokia
+TMgoogle apps81	Adobe
+TMcloud computing OR clouds computing2422	Intel
+TMforce.com338	Google
+TMforce.com924	America Online
+TMforce.com1062	Apple
+TMforce.com220	Wall Street Journal
+TMsoftware as a service OR sass1403	Hewlett Packard
+TMsalesforce720	Comcast
+TMforce.com307	Dell
+TMcloud computing OR clouds computing2241	Microsoft
+TMforce.com453	Congress
+TMcloud computing OR clouds computing2086	Apache Software Foundation
+TMplatform as a service2473	Adobe
+TMforce.com1155	Comcast
+TMsalesforce1871	Amazon
+TMcloud computing OR clouds computing2194	International Business Machines
+TMforce.com1184	Apple
+TMforce.com1050	Yahoo
+TMforce.com221	Yahoo
+TMprivate cloud OR private clouds1690	Nokia
+TMinfrastructure as a service OR iass1293	Yahoo
+TMforce.com952	Yahoo
+TMforce.com1020	Federal Communications Commission
+TMforce.com994	BBC
+TMnetsuite149	Microsoft
+TMsoftware as a service OR sass1413	CNN
+TMforce.com1031	CNN
+TMmicrosoft online1703	Apple
+TMforce.com908	Google
+TMforce.com539	Google
+TMforce.com1235	Oracle
+TMsalesforce699	Yahoo
+TMsoftware as a service OR sass1524	Microsoft
+TMforce.com1081	Microsoft
+TMsalesforce695	Yahoo
+TMforce.com1107	Nasdaq
+TMapp engine OR google app engine OR app engines OR google app engines134	Amazon
+TMnetsuite150	Microsoft
+TMforce.com1086	Yahoo
+TMforce.com231	CNN
+TMplatform as a service2468	Google
+TMprivate cloud OR private clouds1680	Sun
+TMsalesforce1928	Microsoft
+TMforce.com161	Wall Street Journal
+TMforce.com433	Microsoft
+TMmicrosoft online2482	Yahoo
+TMforce.com495	Apple
+TMapp engine OR google app engine OR app engines OR google app engines137	Microsoft
+TMcloud computing OR clouds computing2373	CNET
+TMforce.com1050	Microsoft
+TMforce.com1277	Massachusetts Institute of Technology
+TMcloud computing OR clouds computing2329	Apple
+TMforce.com203	Yahoo
+TMforce.com1155	Sony
+TMgoogle apps66	Yahoo
+TMgoogle apps1789	Facebook
+TMazure1326	Oracle
+TMcloud computing OR clouds computing2019	Microsoft
+TMforce.com338	America Online
+TMgoogle apps1761	Google
+TMcloud computing OR clouds computing2246	Microsoft
+TMazure1310	Microsoft
+TMforce.com438	Google
+TMplatform as a service2462	Yahoo
+TMprivate cloud OR private clouds1684	Perot Systems
+TMforce.com978	BBC
+TMcloud computing OR clouds computing2251	International Business Machines
+TMforce.com1251	Cisco
+TMforce.com899	Microsoft
+TMsoftware as a service OR sass2117	Yahoo
+TMforce.com896	Disney
+TMforce.com1089	Nasdaq
+TMforce.com440	Microsoft
+TMdistributed computing OR distributed comput1286	TechCrunch
+TMforce.com257	Oracle
+TMapp engine OR google app engine OR app engines OR google app engines126	Amazon
+TMforce.com1172	Microsoft
+TMforce.com432	Yahoo
+TMforce.com459	Nokia
+TMforce.com943	Research In Motion
+TMcloud computing OR clouds computing2030	America Online
+TMinfrastructure as a service OR iass11	Amazon
+TMforce.com1583	Wall Street Journal
+TMsoftware as a service OR sass34	Microsoft
+TMsalesforce1895	Dell
+TMdistributed computing OR distributed comput1484	TechCrunch
+TMforce.com519	Hewlett Packard
+TMgoogle apps89	Microsoft
+TMforce.com495	Nasdaq
+TMforce.com1065	eBay
+TMforce.com269	Sony
+TMsalesforce658	Google
+TMhive OR hadoop hive1495	Sun
+TMforce.com1033	TechCrunch
+TMsoftware as a service OR sass2184	Yahoo
+TMworkday OR workdays1646	Sun
+TMforce.com1606	Yahoo
+TMsalesforce694	Google
+TMforce.com562	News Corporation
+TMsoftware as a service OR sass1558	Dell
+TMplatform as a service2451	Apple
+TMforce.com340	CNN
+TMsoftware as a service OR sass1542	Intel
+TMplatform as a service2459	Microsoft
+TMsoftware as a service OR sass1539	Yahoo
+TMsalesforce649	Bungee Labs
+TMforce.com1588	Sony
+TMforce.com1116	Facebook
+TMcloud computing OR clouds computing2399	International Business Machines
+TMforce.com340	Federal Communications Commission
+TMcloud computing OR clouds computing2302	Palm
+TMforce.com1163	Yahoo
+TMsoftware as a service OR sass1537	International Business Machines
+TMcloud computing OR clouds computing1987	Microsoft
+TMmicrosoft online2485	Sony
+TMforce.com887	Sony
+TMforce.com362	America Online
+TMsoftware as a service OR sass2130	Apple
+TMmicrosoft online1649	Yahoo
+TMcloud computing OR clouds computing2085	Bungee Labs
+TMgoogle apps387	Google
+TMgoogle apps733	Twitter
+TMcloud computing OR clouds computing2372	Cisco
+TMforce.com271	Federal Communications Commission
+TMforce.com1262	Hewlett Packard
+TMinfrastructure as a service OR iass1296	CSC
+TMforce.com556	Yahoo
+TMcloud computing OR clouds computing2056	Microsoft
+TMforce.com256	Sony
+TMsalesforce1870	Amazon
+TMdistributed computing OR distributed comput48	Intel
+TMcloud computing OR clouds computing2319	International Business Machines
+TMcloud computing OR clouds computing2384	Microsoft
+TMforce.com904	Intel
+TMforce.com1602	Research In Motion
+TMforce.com249	eBay
+TMforce.com330	TechCrunch
+TMforce.com1017	Wikipedia
+TMsoftware as a service OR sass1386	Sun
+TMforce.com978	Microsoft
+TMsalesforce660	Oracle
+TMcloud computing OR clouds computing2380	Intel
+TMcloud computing OR clouds computing2019	Apple
+TMcloud computing OR clouds computing2062	Sun
+TMforce.com562	Microsoft
+TMgoogle apps786	Microsoft
+TMcloud computing OR clouds computing1974	Microsoft
+TMforce.com949	Sony
+TMforce.com178	Yahoo
+TMcloud computing OR clouds computing2012	Microsoft
+TMforce.com1021	Yahoo
+TMforce.com298	International Business Machines
+TMworkday OR workdays13	LinkedIn
+TMcloud computing OR clouds computing2380	International Business Machines
+TMforce.com974	eBay
+TMsalesforce598	Amazon
+TMforce.com1151	Yahoo
+TMplatform as a service2447	Microsoft
+TMgoogle apps811	Google
+TMsalesforce697	Nasdaq
+TMsalesforce1876	TechCrunch
+TMcloud computing OR clouds computing2243	Google
+TMsalesforce642	Microsoft
+TMgoogle apps85	Sun
+TMsalesforce1733	Amazon
+TMsalesforce626	TechCrunch
+TMgoogle apps384	Yahoo
+TMinfrastructure as a service OR iass1297	Oracle
+TMcloud computing OR clouds computing2311	Microsoft
+TMapp engine OR google app engine OR app engines OR google app engines103	Apple
+TMforce.com430	Google
+TMsalesforce1941	Wall Street Journal
+TMgoogle apps1773	Yahoo
+TMsalesforce657	Google
+TMgoogle apps788	Twitter
+TMforce.com1097	Sun
+TMforce.com950	Wall Street Journal
+TMgoogle apps58	eBay
+TMcloud computing OR clouds computing2263	Microsoft
+TMforce.com1277	LinkedIn
+TMforce.com546	Microsoft
+TMforce.com366	America Online
+TMcloud computing OR clouds computing2333	International Business Machines
+TMcloud computing OR clouds computing2409	eBay
+TMsalesforce1920	TechCrunch
+TMforce.com1152	TechCrunch
+TMhive OR hadoop hive1000	Facebook
+TMforce.com195	Apple
+TMforce.com445	Microsoft
+TMsoftware as a service OR sass2140	Intel
+TMforce.com318	Nasdaq
+TMcloud computing OR clouds computing2013	Apple
+TMforce.com253	Microsoft
+TMgoogle apps767	Google
+TMforce.com1235	Palm
+TMforce.com423	International Business Machines
+TMmicrosoft online1705	Microsoft
+TMhadoop2153	International Business Machines
+TMazure1332	Dell
+TMcloud computing OR clouds computing2246	Federal Communications Commission
+TMforce.com1575	Google
+TMforce.com1155	Nasdaq
+TMseti@home1752	Microsoft
+TMforce.com880	Sony
+TMazure413	Azure Capital
+TMcloud computing OR clouds computing2171	Amazon
+TMgoogle apps781	Apple
+TMforce.com1607	Microsoft
+TMsoftware as a service OR sass1401	Microsoft
+TMsalesforce705	International Business Machines
+TMsalesforce589	Microsoft
+TMcloud computing OR clouds computing2069	Intel
+TMinfrastructure as a service OR iass9	Microsoft
+TMcloud computing OR clouds computing2313	Amazon
+TMforce.com1251	Microsoft
+TMforce.com1267	Apple
+TMforce.com833	Sony
+TMforce.com953	Microsoft
+TMgoogle apps780	Google
+TMapp engine OR google app engine OR app engines OR google app engines126	Facebook
+TMcloud computing OR clouds computing2344	America Online
+TMforce.com291	Dell
+TMgoogle apps384	Adobe
+TMforce.com972	Microsoft
+TMplatform as a service1505	Cisco
+TMsoftware as a service OR sass1554	CNET
+TMforce.com533	Nokia
+TMforce.com943	Yahoo
+TMsoftware as a service OR sass2113	Nasdaq
+TMsoftware as a service OR sass1370	Microsoft
+TMsoftware as a service OR sass1388	Sony
+TMforce.com887	Amazon
+TMcloud computing OR clouds computing2158	Google
+TMgoogle apps1823	Google
+TMforce.com1034	Nasdaq
+TMsoftware as a service OR sass1551	Federal Communications Commission
+TMforce.com276	Microsoft
+TMforce.com1034	Intel
+TMsalesforce609	Nasdaq
+TMsalesforce1733	Microsoft
+TMsalesforce1911	Nasdaq
+TMforce.com1033	Yahoo
+TMforce.com500	Google
+TMsalesforce699	Apple
+TMsalesforce691	Yahoo
+TMforce.com328	Google
+TMsoftware as a service OR sass2128	Yahoo
+TMforce.com1157	Yahoo
+TMsoftware as a service OR sass1392	Hasbro
+TMprivate cloud OR private clouds1683	CNET
+TMforce.com1141	Yahoo
+TMforce.com518	New York Times
+TMcloud computing OR clouds computing2373	Apple
+TMforce.com1184	Research In Motion
+TMgoogle apps744	Twitter
+TMforce.com1191	International Business Machines
+TMgoogle apps383	Sony
+TMforce.com487	Google
+TMsoftware as a service OR sass2140	Hewlett Packard
+TMsoftware as a service OR sass45	Nasdaq
+TMforce.com165	Apple
+TMforce.com1237	Microsoft
+TMforce.com453	Apple
+TMsoftware as a service OR sass2117	Google
+TMforce.com856	Microsoft
+TMplatform as a service1503	Nasdaq
+TMcloud computing OR clouds computing1995	Microsoft
+TMsoftware as a service OR sass2184	Oracle
+TMforce.com1238	Yahoo
+TMsalesforce1941	Nasdaq
+TMplatform as a service2450	Apple
+TMgoogle apps1784	Cisco
+TMforce.com1263	Apple
+TMplatform as a service1480	New York Times
+TMsoftware as a service OR sass1524	CNET
+TMcloud computing OR clouds computing2240	Apache Software Foundation
+TMcloud computing OR clouds computing2386	Nasdaq
+TMforce.com1089	Comcast
+TMsalesforce1920	Microsoft
+TMsalesforce1934	Yahoo
+TMforce.com279	Amazon
+TMcloud computing OR clouds computing2056	Amazon
+TMgoogle apps91	Oracle
+TMforce.com1010	Research In Motion
+TMnetsuite1723	Microsoft
+TMforce.com318	Federal Communications Commission
+TMforce.com1010	Sony
+TMsalesforce692	Disney
+TMforce.com559	Disney
+TMmicrosoft online1616	Microsoft
+TMgoogle apps1843	Google
+TMgoogle apps778	Google
+TMcloud computing OR clouds computing2270	Google
+TMapp engine OR google app engine OR app engines OR google app engines122	Twitter
+TMsoftware as a service OR sass2118	Wells Fargo
+TMsalesforce1940	Microsoft
+TMforce.com835	TechCrunch
+TMforce.com1058	Microsoft
+TMgoogle apps392	Dell
+TMforce.com227	Nokia
+TMforce.com1212	Sun
+TMgoogle apps1861	Microsoft
+TMgoogle apps1794	Google
+TMgoogle apps1845	Amazon
+TMforce.com212	Apple
+TMforce.com1235	CNET
+TMmicrosoft online1677	Microsoft
+TMforce.com1015	Apple
+TMsalesforce1938	Microsoft
+TMsoftware as a service OR sass1551	Apple
+TMforce.com1049	Apple
+TMsalesforce1938	Oracle
+TMforce.com1270	Apple
+TMsalesforce699	Microsoft
+TMcloud computing OR clouds computing2321	New York Times
+TMsoftware as a service OR sass1398	Google
+TMplatform as a service2468	Microsoft
+TMsoftware as a service OR sass1370	Apple
+TMforce.com1199	Apple
+TMforce.com1593	Apple
+TMcloud computing OR clouds computing2309	Apple
+TMforce.com1598	Microsoft
+TMcloud computing OR clouds computing2372	Microsoft
+TMforce.com427	New York Times
+TMcloud computing OR clouds computing2240	Yahoo
+TMforce.com1581	Apple
+TMhadoop2146	CNET
+TMforce.com924	Google
+TMforce.com1055	Sony
+TMcloud computing OR clouds computing2409	Twitter
+TMforce.com1239	Research In Motion
+TMsoftware as a service OR sass26	New York Times
+TMcloud computing OR clouds computing2343	Dell
+TMhive OR hadoop hive1491	Dell
+TMcloud computing OR clouds computing2410	America Online
+TMsalesforce1904	Microsoft
+TMsoftware as a service OR sass2129	America Online
+TMforce.com985	Research In Motion
+TMapp engine OR google app engine OR app engines OR google app engines1448	Google
+TMcloud computing OR clouds computing2013	CNET
+TMforce.com887	Yahoo
+TMcloud computing OR clouds computing2025	Yahoo
+TMforce.com264	BBC
+TMforce.com876	Google
+TMforce.com1270	Yahoo
+TMgoogle apps764	Microsoft
+TMgoogle apps741	eBay
+TMazure415	Facebook
+TMhadoop2431	Yahoo
+TMcloud computing OR clouds computing2418	Cisco
+TMforce.com1228	Google
+TMforce.com253	Facebook
+TMforce.com314	Google
+TMforce.com329	Apple
+TMsoftware as a service OR sass2126	Apple
+TMforce.com867	Yahoo
+TMforce.com1235	Unisys
+TMforce.com1174	Apple
+TMforce.com580	Microsoft
+TMforce.com159	Microsoft
+TMgoogle apps1812	Adobe
+TMgoogle apps1780	Google
+TMsoftware as a service OR sass1362	Apple
+TMsoftware as a service OR sass21	Google
+TMcloud computing OR clouds computing2383	Cisco
+TMsalesforce716	Dell
+TMplatform as a service2453	Google
+TMcloud computing OR clouds computing1972	International Business Machines
+TMcloud computing OR clouds computing2038	Apple
+TMforce.com556	America Online
+TMdistributed computing OR distributed comput1485	Yahoo
+TMcloud computing OR clouds computing2034	Amazon
+TMsoftware as a service OR sass29	Oracle
+TMcloud computing OR clouds computing2414	Congress
+TMforce.com509	Hewlett Packard
+TMplatform as a service2458	Microsoft
+TMcloud computing OR clouds computing2281	New York Times
+TMforce.com486	Sony
+TMforce.com220	Yahoo
+TMgoogle apps91	Yahoo
+TMforce.com955	Sony
+TMmicrosoft online1662	Unisys
+TMazure1325	Microsoft
+TMgoogle apps751	Yahoo
+TMforce.com228	Twitter
+TMsoftware as a service OR sass1530	Oracle
+TMsoftware as a service OR sass1405	Apple
+TMforce.com1137	Research In Motion
+TMinfrastructure as a service OR iass1294	Cisco
+TMforce.com1043	Yahoo
+TMforce.com965	eBay
+TMforce.com1192	CNET
+TMforce.com1181	Google
+TMgoogle apps1803	eBay
+TMcloud computing OR clouds computing2087	Facebook
+TMgoogle apps68	International Business Machines
+TMsoftware as a service OR sass1357	Nasdaq
+TMgoogle apps755	Twitter
+TMsalesforce1735	Oracle
+TMforce.com554	Dell
+TMforce.com1164	Nasdaq
+TMsoftware as a service OR sass24	Google
+TMforce.com1081	Comcast
+TMazure399	Oracle
+TMgoogle apps1797	Google
+TMforce.com984	Yahoo
+TMforce.com1080	Dell
+TMforce.com1585	America Online
+TMsoftware as a service OR sass1392	Sony
+TMforce.com279	Sony
+TMforce.com577	America Online
+TMforce.com887	Dell
+TMsalesforce1908	Stanford
+TMworkday OR workdays12	America Online
+TMforce.com972	Yahoo
+TMsoftware as a service OR sass1388	Yahoo
+TMsoftware as a service OR sass1566	Amazon
+TMsoftware as a service OR sass1359	Microsoft
+TMforce.com1607	Sun
+TMhive OR hadoop hive1493	New York Times
+TMforce.com915	Facebook
+TMplatform as a service2475	Amazon
+TMsalesforce683	Disney
+TMplatform as a service2455	Google
+TMgoogle apps730	Apple
+TMhive OR hadoop hive2173	Microsoft
+TMsoftware as a service OR sass1554	Microsoft
+TMforce.com1192	Microsoft
+TMforce.com320	Yahoo
+TMforce.com435	Yahoo
+TMforce.com1043	Sony
+TMforce.com1126	Cisco
+TMsalesforce617	Cisco
+TMgoogle apps1809	Yahoo
+TMsalesforce662	Yahoo
+TMmicrosoft online1703	Microsoft
+TMsoftware as a service OR sass1382	Microsoft
+TMforce.com374	CNET
+TMsoftware as a service OR sass1341	Sony
+TMforce.com355	Apple
+TMsoftware as a service OR sass1418	Oracle
+TMforce.com476	University of California
+TMforce.com1090	TechCrunch
+TMforce.com906	Apple
+TMsalesforce644	CNN
+TMcloud computing OR clouds computing2001	Twitter
+TMsoftware as a service OR sass1568	CNET
+TMforce.com306	New York Times
+TMcloud computing OR clouds computing2247	EMC
+TMforce.com1157	Research In Motion
+TMforce.com504	Apple
+TMcloud computing OR clouds computing2019	Facebook
+TMcloud computing OR clouds computing1981	Amazon
+TMsoftware as a service OR sass2118	Microsoft
+TMgoogle apps1774	Yahoo
+TMdistributed computing OR distributed comput1287	Amazon
+TMforce.com426	Dell
+TMforce.com1194	Apple
+TMprivate cloud OR private clouds1682	International Business Machines
+TMsalesforce688	TechCrunch
+TMgoogle apps382	Microsoft
+TMforce.com342	Wall Street Journal
+TMcloud computing OR clouds computing2420	Microsoft
+TMcloud computing OR clouds computing2086	International Business Machines
+TMhive OR hadoop hive1728	Yahoo
+TMcloud computing OR clouds computing2410	eBay
+TMforce.com512	TechCrunch
+TMforce.com1092	Congress
+TMforce.com1165	Yahoo
+TMprivate cloud OR private clouds1683	Twitter
+TMapp engine OR google app engine OR app engines OR google app engines112	TechCrunch
+TMsalesforce589	Adobe
+TMforce.com1590	America Online
+TMgoogle apps91	General Electric
+TMplatform as a service98	Microsoft
+TMforce.com438	Intel
+TMmicrosoft online1620	Microsoft
+TMforce.com228	Apple
+TMsoftware as a service OR sass1427	Google
+TMsalesforce1938	Cisco
+TMcloud computing OR clouds computing2098	Dell
+TMsalesforce1894	CNET
+TMforce.com1149	Cisco
+TMforce.com289	Apple
+TMcloud computing OR clouds computing2025	National Science Foundation
+TMsoftware as a service OR sass1530	Microsoft
+TMapp engine OR google app engine OR app engines OR google app engines143	Google
+TMgoogle apps783	New York Times
+TMcloud computing OR clouds computing1958	TechCrunch
+TMsalesforce599	Microsoft
+TMforce.com912	Sony
+TMmicrosoft online2483	Microsoft
+TMdistributed computing OR distributed comput1484	Red Hat
+TMforce.com197	Stanford
+TMsoftware as a service OR sass2127	TechCrunch
+TMcloud computing OR clouds computing2000	Hewlett Packard
+TMmicrosoft online2485	Nasdaq
+TMgoogle apps88	Microsoft
+TMsalesforce1945	Google
+TMcloud computing OR clouds computing2006	Microsoft
+TMforce.com1038	Yahoo
+TMcloud computing OR clouds computing2301	Amazon
+TMforce.com1006	CNET
+TMsoftware as a service OR sass1432	Nokia
+TMforce.com441	Adobe
+TMapp engine OR google app engine OR app engines OR google app engines130	Microsoft
+TMforce.com1277	Google
+TMazure1316	Microsoft
+TMmicrosoft online1701	Microsoft
+TMsalesforce623	Yahoo
+TMforce.com177	Facebook
+TMforce.com1006	Federal Communications Commission
+TMazure1311	Microsoft
+TMcloud computing OR clouds computing2263	eBay
+TMsalesforce1442	Joyent
+TMforce.com350	Google
+TMcloud computing OR clouds computing2091	Amazon
+TMforce.com179	International Business Machines
+TMinfrastructure as a service OR iass6	Microsoft
+TMplatform as a service2461	Yahoo
+TMsoftware as a service OR sass1558	Wall Street Journal
+TMforce.com351	Los Angeles Times
+TMforce.com1065	Congress
+TMapp engine OR google app engine OR app engines OR google app engines114	Apple
+TMforce.com843	Microsoft
+TMforce.com257	Yahoo
+TMsalesforce669	General Electric
+TMforce.com1594	Google
+TMgoogle apps1775	Yahoo
+TMcloud computing OR clouds computing2071	Microsoft
+TMsalesforce659	Yahoo
+TMforce.com174	Microsoft
+TMsalesforce691	TechCrunch
+TMsalesforce715	Microsoft
+TMazure399	Microsoft
+TMsoftware as a service OR sass40	Apple
+TMforce.com887	CNET
+TMsalesforce1948	Sun
+TMazure1315	Research In Motion
+TMcloud computing OR clouds computing2163	Yahoo
+TMcloud computing OR clouds computing2323	Microsoft
+TMforce.com254	Federal Communications Commission
+TMdryadlinq93	Apple
+TMforce.com1091	Nasdaq
+TMnetsuite1467	Yahoo
+TMgoogle apps58	New York Times
+TMcloud computing OR clouds computing2343	Google
+TMgoogle apps1865	Microsoft
+TMforce.com1575	Yahoo
+TMsalesforce1738	Yahoo
+TMsoftware as a service OR sass1401	Sony
+TMforce.com1194	Research In Motion
+TMcloud computing OR clouds computing2053	Yahoo
+TMmicrosoft online1618	Oracle
+TMworkday OR workdays50	Apple
+TMsalesforce611	Nokia
+TMmicrosoft online1622	Microsoft
+TMhadoop2153	Google
+TMsoftware as a service OR sass2103	Stanford
+TMforce.com274	Research In Motion
+TMsalesforce686	LinkedIn
+TMforce.com1211	Microsoft
+TMcloud computing OR clouds computing1994	Microsoft
+TMgoogle apps383	Microsoft
+TMforce.com274	Apple
+TMgoogle apps389	Google
+TMcloud computing OR clouds computing2166	Nasdaq
+TMsalesforce616	Dell
+TMsoftware as a service OR sass1533	Cisco
+TMsoftware as a service OR sass2184	eBay
+TMdistributed computing OR distributed comput1486	Microsoft
+TMforce.com1227	Apple
+TMcloud computing OR clouds computing2044	Adobe
+TMmicrosoft online1694	Twitter
+TMengine yard1744	TechCrunch
+TMsalesforce720	Microsoft
+TMnetsuite1467	America Online
+TMsalesforce1441	Microsoft
+TMforce.com473	Hewlett Packard
+TMgoogle apps822	America Online
+TMforce.com1212	Cisco
+TMhive OR hadoop hive2176	Twitter
+TMcloud computing OR clouds computing2019	CNET
+TMforce.com1243	Cisco
+TMsoftware as a service OR sass1338	CNET
+TMgoogle apps774	Yahoo
+TMdistributed computing OR distributed comput1714	Blue One
+TMforce.com1027	Nasdaq
+TMforce.com880	Nokia
+TMazure1327	Microsoft
+TMcloud computing OR clouds computing2014	Amazon
+TMforce.com374	Dell
+TMazure1303	General Electric
+TMforce.com1285	Microsoft
+TMforce.com1285	Congress
+TMsoftware as a service OR sass1340	Yahoo
+TMsoftware as a service OR sass2136	Google
+TMsalesforce634	Twitter
+TMapp engine OR google app engine OR app engines OR google app engines1451	Google
+TMazure406	Microsoft
+TMforce.com1007	Cisco
+TMforce.com1081	Yahoo
+TMnetsuite1723	Unisys
+TMsalesforce1944	Sun
+TMforce.com1585	eBay
+TMforce.com1245	Google
+TMsalesforce1947	Nasdaq
+TMgoogle apps1790	CNET
+TMforce.com435	Microsoft
+TMcloud computing OR clouds computing2293	Microsoft
+TMforce.com472	Microsoft
+TMsoftware as a service OR sass1558	Intel
+TMsoftware as a service OR sass1545	Microsoft
+TMsalesforce700	Microsoft
+TMforce.com838	University of California
+TMsoftware as a service OR sass1368	Disney
+TMsoftware as a service OR sass1346	International Business Machines
+TMgoogle apps1837	Microsoft
+TMforce.com1111	Yahoo
+TMforce.com354	Cisco
+TMforce.com1608	Wall Street Journal
+TMcloud computing OR clouds computing2084	International Business Machines
+TMcloud computing OR clouds computing2238	TechCrunch
+TMcloud computing OR clouds computing2409	International Business Machines
+TMmicrosoft online1698	Google
+TMazure408	Microsoft
+TMgoogle apps1819	Microsoft
+TMsalesforce602	Sony
+TMforce.com1032	Amazon
+TMhadoop2441	Yahoo
+TMsoftware as a service OR sass1416	Adobe
+TMforce.com1070	Google
+TMplatform as a service2462	Google
+TMforce.com1139	Google
+TMforce.com278	Nokia
+TMapp engine OR google app engine OR app engines OR google app engines123	Adobe
+TMmicrosoft online1669	Microsoft
+TMhadoop2435	Google
+TMforce.com1033	Dell
+TMforce.com1273	Apple
+TMsoftware as a service OR sass2135	Google
+TMcloud computing OR clouds computing2389	Sony
+TMcloud computing OR clouds computing2005	Dell
+TMforce.com1032	Federal Communications Commission
+TMprivate cloud OR private clouds1683	Microsoft
+TMsoftware as a service OR sass1394	Apple
+TMworkday OR workdays1648	Nasdaq
+TMcloud computing OR clouds computing2243	eBay
+TMforce.com204	Twitter
+TMgoogle apps790	Google
+TMcloud computing OR clouds computing2245	BBC
+TMplatform as a service1478	International Business Machines
+TMsalesforce682	Stanford
+TMforce.com335	Apple
+TMnetsuite151	Amazon
+TMhive OR hadoop hive1495	Microsoft
+TMazure1329	Facebook
+TMmicrosoft online1693	Twitter
+TMcloud computing OR clouds computing2098	Intel
+TMforce.com1074	Disney
+TMforce.com206	America Online
+TMsalesforce706	Nokia
+TMsalesforce1883	Amazon
+TMsoftware as a service OR sass2116	Nokia
+TMforce.com278	Apple
+TMapp engine OR google app engine OR app engines OR google app engines126	American Express
+TMapp engine OR google app engine OR app engines OR google app engines130	CNN
+TMcloud computing OR clouds computing2044	TechCrunch
+TMplatform as a service2470	Microsoft
+TMapp engine OR google app engine OR app engines OR google app engines114	Sony
+TMgoogle apps80	Google
+TMapp engine OR google app engine OR app engines OR google app engines109	Google
+TMforce.com1020	Congress
+TMsoftware as a service OR sass1440	eBay
+TMcloud computing OR clouds computing2289	Nokia
+TMworkday OR workdays2142	Mexens Technology
+TMforce.com487	Nasdaq
+TMsoftware as a service OR sass1558	Hewlett Packard
+TMforce.com580	Sony
+TMsoftware as a service OR sass1438	eBay
+TMazure1303	International Business Machines
+TMazure1303	Cisco
+TMforce.com160	Hewlett Packard
+TMforce.com423	Yahoo
+TMsalesforce626	Adobe
+TMcloud computing OR clouds computing2042	International Business Machines
+TMgoogle apps757	Intel
+TMforce.com1099	Yahoo
+TMhybrid cloud OR hybrid clouds1470	Amazon
+TMsoftware as a service OR sass1338	Apple
+TMcloud computing OR clouds computing1991	Microsoft
+TMinfrastructure as a service OR iass1295	Cisco
+TMforce.com558	Sony
+TMcloud computing OR clouds computing2210	Microsoft
+TMforce.com1088	America Online
+TMazure1313	Twitter
+TMsoftware as a service OR sass1381	Google
+TMforce.com436	Intel
+TMsoftware as a service OR sass27	Apple
+TMforce.com188	CNET
+TMhive OR hadoop hive1494	Yahoo
+TMplatform as a service2465	Yahoo
+TMsoftware as a service OR sass2109	Microsoft
+TMsoftware as a service OR sass2103	Intel
+TMforce.com1207	New York Times
+TMforce.com975	Yahoo
+TMforce.com1176	Intel
+TMcloud computing OR clouds computing1973	International Business Machines
+TMcloud computing OR clouds computing2025	International Business Machines
+TMsalesforce1929	Facebook
+TMplatform as a service2461	Nasdaq
+TMcloud computing OR clouds computing2285	Comcast
+TMmicrosoft online2482	Apple
+TMforce.com242	Amazon
+TMnetsuite2489	Yahoo
+TMsoftware as a service OR sass1347	Apple
+TMforce.com980	Apple
+TMcloud computing OR clouds computing2284	CSC
+TMgoogle apps58	Microsoft
+TMcloud computing OR clouds computing2417	Congress
+TMsalesforce687	Google
+TMforce.com1268	Yahoo
+TMforce.com1023	Comcast
+TMforce.com1094	Microsoft
+TMsoftware as a service OR sass1352	Microsoft
+TMdistributed computing OR distributed comput1485	International Business Machines
+TMcloud computing OR clouds computing2001	Intel Capital
+TMplatform as a service2474	Yahoo
+TMsalesforce1911	Research In Motion
+TMnetsuite149	Oracle
+TMforce.com839	New York Times
+TMforce.com1049	TechCrunch
+TMhive OR hadoop hive1730	America Online
+TMapp engine OR google app engine OR app engines OR google app engines114	Twitter
+TMforce.com1081	Nasdaq
+TMcloud computing OR clouds computing2165	Google
+TMforce.com904	Microsoft
+TMmicrosoft online1662	Federal Communications Commission
+TMcloud computing OR clouds computing2298	Hewlett Packard
+TMsoftware as a service OR sass1426	Yahoo
+TMsalesforce1883	eBay
+TMforce.com905	New York Times
+TMforce.com496	Disney
+TMcloud computing OR clouds computing2053	Microsoft
+TMforce.com976	Facebook
+TMgoogle apps830	Twitter
+TMforce.com1062	eBay
+TMforce.com217	Google
+TMforce.com1193	America Online
+TMhive OR hadoop hive1002	Microsoft
+TMcloud computing OR clouds computing2168	Microsoft
+TMforce.com294	Apple
+TMforce.com1605	Google
+TMcloud computing OR clouds computing2384	Yahoo
+TMazure1304	CNET
+TMgoogle apps1857	International Business Machines
+TMsalesforce1897	Google
+TMgoogle apps820	Congress
+TMcloud computing OR clouds computing2010	Comcast
+TMforce.com1202	Apple
+TMgoogle apps1795	Microsoft
+TMinfrastructure as a service OR iass1298	Amazon
+TMcloud computing OR clouds computing2052	Dell
+TMgoogle apps1833	Yahoo
+TMcloud computing OR clouds computing1960	Dell
+TMforce.com1174	Yahoo
+TMazure394	Microsoft
+TMforce.com839	Google
+TMcloud computing OR clouds computing2156	Google
+TMforce.com1199	Microsoft
+TMhive OR hadoop hive1727	TechCrunch
+TMforce.com1107	Apple
+TMforce.com1205	Amazon
+TMgoogle apps824	Google
+TMsoftware as a service OR sass1438	Yahoo
+TMforce.com930	Nasdaq
+TMworkday OR workdays15	Federal Communications Commission
+TMsalesforce610	Wall Street Journal
+TMcloud computing OR clouds computing2284	Unisys
+TMsalesforce657	Bungee Labs
+TMhadoop2151	Yahoo
+TMforce.com1235	Adobe
+TMsalesforce692	Yahoo
+TMforce.com1197	Microsoft
+TMsalesforce1739	Facebook
+TMsoftware as a service OR sass41	BBC
+TMazure1720	Azure Capital
+TMcloud computing OR clouds computing2276	Adobe
+TMsoftware as a service OR sass1382	Stanford
+TMforce.com355	Microsoft
+TMcloud computing OR clouds computing2386	Dell
+TMforce.com1285	Dell
+TMforce.com904	Nokia
+TMforce.com1594	Yahoo
+TMforce.com211	Facebook
+TMforce.com437	Wall Street Journal
+TMforce.com336	Apple
+TMforce.com320	International Business Machines
+TMazure1304	New York Times
+TMsoftware as a service OR sass42	Microsoft
+TMazure412	eBay
+TMcloud computing OR clouds computing2002	Microsoft
+TMsoftware as a service OR sass1391	Google
+TMforce.com313	Stanford
+TMsoftware as a service OR sass1405	Oracle
+TMgoogle apps83	Google
+TMplatform as a service2444	Microsoft
+TMcloud computing OR clouds computing1972	EMC
+TMsoftware as a service OR sass2104	Apple
+TMcloud computing OR clouds computing2254	Google
+TMforce.com991	Yahoo
+TMforce.com441	Yahoo
+TMforce.com1612	Sony
+TMforce.com872	Google
+TMcloud computing OR clouds computing2219	Microsoft
+TMsoftware as a service OR sass1388	Wall Street Journal
+TMinfrastructure as a service OR iass1296	Sun
+TMcloud computing OR clouds computing2395	Wall Street Journal
+TMsalesforce1893	TechCrunch
+TMforce.com846	Yahoo
+TMgoogle apps830	Facebook
+TMsoftware as a service OR sass24	TechCrunch
+TMcloud computing OR clouds computing2093	Yahoo
+TMcloud computing OR clouds computing2075	Google
+TMgoogle apps59	Facebook
+TMcloud computing OR clouds computing2251	Amazon
+TMinfrastructure as a service OR iass1292	Microsoft
+TMazure1318	International Business Machines
+TMgoogle apps79	Google
+TMcloud computing OR clouds computing2254	Yahoo
+TMsoftware as a service OR sass1338	Dell
+TMforce.com1577	Yahoo
+TMforce.com490	TechCrunch
+TMmicrosoft online1622	Yahoo
+TMforce.com161	CNET
+TMhadoop2436	Yahoo
+TMforce.com968	Yahoo
+TMforce.com1036	Google
+TMforce.com1064	Comcast
+TMforce.com836	Google
+TMsoftware as a service OR sass2107	Nasdaq
+TMforce.com254	Comcast
+TMforce.com509	Congress
+TMforce.com464	Microsoft
+TMsalesforce617	Microsoft
+TMsoftware as a service OR sass43	Yahoo
+TMcloud computing OR clouds computing2244	Congress
+TMforce.com911	Apple
+TMcloud computing OR clouds computing1990	Apple
+TMforce.com1230	Yahoo
+TMworkday OR workdays1647	American Express
+TMworkday OR workdays1646	Yahoo
+TMforce.com152	Microsoft
+TMmicrosoft online1617	Adobe
+TMhadoop2432	Yahoo
+TMgoogle apps1796	Dell
+TMgoogle apps764	TechCrunch
+TMforce.com560	America Online
+TMforce.com436	Yahoo
+TMmicrosoft online1674	Microsoft
+TMsoftware as a service OR sass1375	Google
+TMsoftware as a service OR sass1421	Microsoft
+TMforce.com1034	Yahoo
+TMgoogle apps829	Google
+TMforce.com1011	Microsoft
+TMengine yard1745	TechCrunch
+TMcloud computing OR clouds computing2357	University of California
+TMgoogle apps781	Google
+TMsalesforce623	eBay
+TMforce.com910	Wall Street Journal
+TMforce.com877	Facebook
+TMgoogle apps1826	Google
+TMforce.com441	Intel
+TMcloud computing OR clouds computing2156	Yahoo
+TMforce.com438	Yahoo
+TMforce.com319	Wall Street Journal
+TMforce.com947	eBay
+TMforce.com178	Sun
+TMforce.com1062	Nasdaq
+TMforce.com1157	Wall Street Journal
+TMforce.com1246	Google
+TMsalesforce725	TechCrunch
+TMforce.com849	New York Times
+TMforce.com1113	Apple
+TMforce.com432	Microsoft
+TMcloud computing OR clouds computing2329	Sony
+TMforce.com1596	Google
+TMgoogle apps786	Sony
+TMsalesforce690	Yahoo
+TMdistributed computing OR distributed comput48	Microsoft
+TMforce.com1132	Microsoft
+TMforce.com196	Wall Street Journal
+TMgoogle apps827	Twitter
+TMsoftware as a service OR sass1392	Google
+TMcloud computing OR clouds computing2312	Stanford
+TMforce.com255	Twitter
+TMcloud computing OR clouds computing1958	Apple
+TMgoogle apps778	Twitter
+TMcloud computing OR clouds computing2170	Nasdaq
+TMcloud computing OR clouds computing2052	Intel
+TMhadoop2430	Amazon
+TMforce.com349	Massachusetts Institute of Technology
+TMsalesforce1887	Google
+TMforce.com535	Nasdaq
+TMsoftware as a service OR sass2118	Cisco
+TMsoftware as a service OR sass1531	America Online
+TMcloud computing OR clouds computing2418	Oracle
+TMforce.com571	New York Times
+TMcloud computing OR clouds computing2397	Amazon
+TMgoogle apps88	CNET
+TMsalesforce1929	Sony
+TMsoftware as a service OR sass2190	Microsoft
+TMforce.com1270	Microsoft
+TMforce.com273	Wall Street Journal
+TMseti@home1749	Google
+TMforce.com1192	Adobe
+TMsalesforce1931	Apple
+TMcloud computing OR clouds computing2067	Sun
+TMforce.com975	Comcast
+TMsoftware as a service OR sass1538	Nokia
+TMcloud computing OR clouds computing2389	Intel
+TMcloud computing OR clouds computing2372	International Business Machines
+TMcloud computing OR clouds computing1959	Microsoft
+TMplatform as a service2448	Bungee Labs
+TMforce.com1032	Yahoo
+TMforce.com1070	Microsoft
+TMapp engine OR google app engine OR app engines OR google app engines136	Amazon
+TMcloud computing OR clouds computing2429	Microsoft
+TMcloud computing OR clouds computing1960	Microsoft
+TMapp engine OR google app engine OR app engines OR google app engines114	eBay
+TMforce.com444	America Online
+TMcloud computing OR clouds computing2240	eBay
+TMsoftware as a service OR sass1569	Yahoo
+TMforce.com562	Yahoo
+TMcloud computing OR clouds computing2391	Microsoft
+TMcloud computing OR clouds computing2418	Microsoft
+TMforce.com542	Microsoft
+TMsoftware as a service OR sass29	Apple
+TMsoftware as a service OR sass36	Apple
+TMforce.com476	America Online
+TMazure403	Microsoft
+TMgoogle apps1801	TechCrunch
+TMgoogle apps789	Amazon
+TMsalesforce681	TechCrunch
+TMplatform as a service2474	Microsoft
+TMgoogle apps72	Google
+TMsalesforce626	Wikipedia
+TMforce.com423	America Online
+TMsalesforce1894	LinkedIn
+TMgoogle apps1858	Google
+TMforce.com240	Apple
+TMforce.com1250	Twitter
+TMcloud computing OR clouds computing2202	Apple
+TMsoftware as a service OR sass1561	Cisco
+TMgoogle apps73	Microsoft
+TMazure416	TechCrunch
+TMsalesforce586	America Online
+TMsoftware as a service OR sass2185	Comcast
+TMcloud computing OR clouds computing2077	Microsoft
+TMsalesforce639	Yahoo
+TMgoogle apps1851	Yahoo
+TMgoogle apps1851	America Online
+TMsalesforce694	Oracle
+TMforce.com890	Disney
+TMplatform as a service1483	Palm
+TMsalesforce696	Oracle
+TMsoftware as a service OR sass1385	Wall Street Journal
+TMmicrosoft online1695	Microsoft
+TMsalesforce619	Oracle
+TMforce.com1016	Sony
+TMforce.com160	Apple
+TMsalesforce1929	Google
+TMcloud computing OR clouds computing2070	Microsoft
+TMsalesforce682	Google
+TMmicrosoft online1663	Microsoft
+TMsoftware as a service OR sass2108	Yahoo
+TMforce.com1249	Wall Street Journal
+TMsoftware as a service OR sass1395	Sony
+TMforce.com1214	Hewlett Packard
+TMforce.com1613	Research In Motion
+TMforce.com309	Intel
+TMazure1324	eBay
+TMengine yard1747	Amazon
+TMengine yard1744	Los Angeles Times
+TMgoogle apps77	International Business Machines
+TMforce.com1049	Microsoft
+TMcloud computing OR clouds computing1499	Apple
+TMforce.com226	Sun
+TMforce.com1239	Google
+TMcloud computing OR clouds computing2300	Wall Street Journal
+TMforce.com1191	Microsoft
+TMcloud computing OR clouds computing2054	America Online
+TMplatform as a service2452	Apple
+TMforce.com1055	Research In Motion
+TMhadoop2149	Google
+TMcloud computing OR clouds computing2397	Yahoo
+TMforce.com1077	Apple
+TMforce.com1602	Comcast
+TMazure1326	International Business Machines
+TMforce.com1184	Nasdaq
+TMforce.com962	Intel
+TMcloud computing OR clouds computing2035	Microsoft
+TMgoogle apps1753	America Online
+TMazure405	BBC
+TMsoftware as a service OR sass2100	Amazon
+TMsalesforce621	International Business Machines
+TMplatform as a service2453	Microsoft
+TMforce.com534	Facebook
+TMcloud computing OR clouds computing2035	Hewlett Packard
+TMsalesforce623	Microsoft
+TMforce.com222	Adobe
+TMgoogle apps1804	Google
+TMgoogle apps767	Microsoft
+TMforce.com1613	Microsoft
+TMgoogle apps91	TechCrunch
+TMforce.com1574	Comcast
+TMnetsuite1723	International Business Machines
+TMforce.com1272	America Online
+TMcloud computing OR clouds computing2265	EMC
+TMmicrosoft online1620	Google
+TMforce.com564	Sony
+TMcloud computing OR clouds computing2097	Amazon
+TMsoftware as a service OR sass1376	Amazon
+TMmicrosoft online1621	Yahoo
+TMcloud computing OR clouds computing2258	Oracle
+TMforce.com1010	Yahoo
+TMforce.com991	Google
+TMforce.com1173	Apple
+TMcloud computing OR clouds computing2410	Microsoft
+TMazure415	Apple
+TMcloud computing OR clouds computing2247	Intel
+TMgoogle apps53	Yahoo
+TMdistributed computing OR distributed comput1715	International Business Machines
+TMsalesforce1441	Google
+TMgoogle apps1781	Google
+TMforce.com1219	Hewlett Packard
+TMsoftware as a service OR sass1436	Microsoft
+TMforce.com845	Wall Street Journal
+TMapp engine OR google app engine OR app engines OR google app engines135	Wall Street Journal
+TMforce.com1605	Microsoft
+TMsalesforce665	Yahoo
+TMgoogle apps1841	TechCrunch
+TMsoftware as a service OR sass2118	American Express
+TMgoogle apps71	Google
+TMforce.com1225	Comcast
+TMsoftware as a service OR sass1407	Nasdaq
+TMplatform as a service1478	Sun
+TMsoftware as a service OR sass40	Microsoft
+TMcloud computing OR clouds computing2020	Microsoft
+TMmicrosoft online1660	America Online
+TMsalesforce1918	Amazon
+TMforce.com418	Microsoft
+TMforce.com1014	Yahoo
+TMforce.com1123	Microsoft
+TMmicrosoft online1676	Apple
+TMsoftware as a service OR sass38	Microsoft
+TMgoogle apps1813	Microsoft
+TMsalesforce674	Yahoo
+TMhive OR hadoop hive2172	Wall Street Journal
+TMhadoop2441	International Business Machines
+TMsalesforce1872	Yahoo
+TMforce.com157	Congress
+TMgoogle apps1776	Google
+TMgoogle apps70	Microsoft
+TMsalesforce676	Oracle
+TMdistributed computing OR distributed comput1484	Amazon
+TMforce.com1590	Google
+TMgoogle apps1857	Yahoo
+TMforce.com259	Microsoft
+TMsoftware as a service OR sass2108	Apple
+TMgoogle apps1798	Google
+TMforce.com229	Apple
+TMsalesforce1943	Twitter
+TMforce.com1152	Apple
+TMdistributed computing OR distributed comput46	Microsoft
+TMcloud computing OR clouds computing2044	Amazon
+TMcloud computing OR clouds computing2194	Twitter
+TMsoftware as a service OR sass1543	Intel
+TMgoogle apps1860	Yahoo
+TMforce.com857	Microsoft
+TMplatform as a service2460	Nasdaq
+TMazure1313	Microsoft
+TMsoftware as a service OR sass1518	Microsoft
+TMseti@home1749	International Business Machines
+TMforce.com341	Intel
+TMazure1312	Twitter
+TMgoogle apps1853	Yahoo
+TMapp engine OR google app engine OR app engines OR google app engines109	Apple
+TMinfrastructure as a service OR iass1289	CSC
+TMapp engine OR google app engine OR app engines OR google app engines110	Hasbro
+TMforce.com1601	Disney
+TMworkday OR workdays1632	Amazon
+TMcloud computing OR clouds computing2003	Microsoft
+TMforce.com160	Cisco
+TMcloud computing OR clouds computing2214	Intel
+TMforce.com1177	Apple
+TMsoftware as a service OR sass1531	Yahoo
+TMcloud computing OR clouds computing2344	Google
+TMsoftware as a service OR sass1386	Oracle
+TMapp engine OR google app engine OR app engines OR google app engines135	Microsoft
+TMforce.com159	Comcast
+TMforce.com1139	Adobe
+TMforce.com289	Microsoft
+TMgoogle apps751	TechCrunch
+TMforce.com521	Wikipedia
+TMazure1720	Disney
+TMforce.com239	Twitter
+TMforce.com1181	Microsoft
+TMforce.com564	Microsoft
+TMforce.com318	Congress
+TMcloud computing OR clouds computing2096	Dell
+TMcloud computing OR clouds computing2161	Yahoo
+TMworkday OR workdays18	General Electric
+TMforce.com980	Yahoo
+TMgoogle apps91	Microsoft
+TMcloud computing OR clouds computing2384	Dell
+TMcloud computing OR clouds computing2429	Oracle
+TMforce.com478	Yahoo
+TMforce.com952	Nasdaq
+TMazure1311	Apple
+TMforce.com961	Microsoft
+TMforce.com272	Apple
+TMcloud computing OR clouds computing2409	Apple
+TMsoftware as a service OR sass34	Sony
+TMmicrosoft online1670	Microsoft
+TMforce.com204	Google
+TMforce.com1088	Google
+TMsalesforce668	Oracle
+TMforce.com1611	Hewlett Packard
+TMforce.com188	Google
+TMsoftware as a service OR sass1380	Research In Motion
+TMgoogle apps759	Google
+TMcloud computing OR clouds computing2098	America Online
+TMforce.com515	Hewlett Packard
+TMsalesforce726	Google
+TMgoogle apps1776	Microsoft
+TMforce.com217	Oracle
+TMforce.com1197	eBay
+TMforce.com1200	Facebook
+TMcloud computing OR clouds computing2425	Sun
+TMforce.com329	Facebook
+TMforce.com1184	Sony
+TMgoogle apps64	Oracle
+TMcloud computing OR clouds computing2368	Twitter
+TMcloud computing OR clouds computing2062	American Express
+TMforce.com1164	Yahoo
+TMcloud computing OR clouds computing2214	Sun
+TMdistributed computing OR distributed comput1486	Google
+TMforce.com1095	Sun
+TMplatform as a service2447	Amazon
+TMforce.com178	TechCrunch
+TMforce.com984	Google
+TMsalesforce686	Wall Street Journal
+TMgoogle apps1866	Google
+TMforce.com538	Research In Motion
+TMgoogle apps1831	Google
+TMforce.com1097	Nokia
+TMforce.com1575	Microsoft
+TMforce.com558	Dell
+TMmicrosoft online2481	Microsoft
+TMforce.com1612	Apple
+TMsalesforce644	Microsoft
+TMmicrosoft online1703	Wall Street Journal
+TMforce.com994	Microsoft
+TMhive OR hadoop hive2172	Yahoo
+TMnetsuite2489	Nasdaq
+TMhadoop2431	Intel
+TMsalesforce606	TechCrunch
+TMcloud computing OR clouds computing2160	International Business Machines
+TMcloud computing OR clouds computing1989	Amazon
+TMcloud computing OR clouds computing2003	Google
+TMsalesforce595	Cisco
+TMforce.com1262	Apple
+TMcloud computing OR clouds computing2264	Amazon
+TMforce.com540	Facebook
+TMapp engine OR google app engine OR app engines OR google app engines1454	Google
+TMcloud computing OR clouds computing2057	Amazon
+TMgoogle apps1803	Facebook
+TMgoogle apps1813	eBay
+TMsalesforce626	Apple
+TMforce.com1067	Research In Motion
+TMcloud computing OR clouds computing2414	Cisco
+TMcloud computing OR clouds computing2299	Facebook
+TMforce.com462	Sony
+TMforce.com464	eBay
+TMapp engine OR google app engine OR app engines OR google app engines114	Wikipedia
+TMforce.com556	Microsoft
+TMsoftware as a service OR sass1340	Nasdaq
+TMforce.com983	Congress
+TMforce.com1582	EMI
+TMengine yard1748	Sun
+TMcloud computing OR clouds computing2348	New York Times
+TMsalesforce684	Google
+TMforce.com165	Disney
+TMsoftware as a service OR sass1539	Oracle
+TMsalesforce1912	International Business Machines
+TMsoftware as a service OR sass1439	Amazon
+TMforce.com249	Yahoo
+TMsoftware as a service OR sass1389	Dell
+TMcloud computing OR clouds computing2232	Microsoft
+TMplatform as a service2461	Research In Motion
+TMforce.com1605	News Corporation
+TMforce.com950	Facebook
+TMworkday OR workdays17	Twitter
+TMengine yard1744	New York Times
+TMdistributed computing OR distributed comput46	University of California
+TMsalesforce1905	Palm
+TMcloud computing OR clouds computing2194	Cisco
+TMinfrastructure as a service OR iass1289	Cisco
+TMcloud computing OR clouds computing2044	Apple
+TMcloud computing OR clouds computing2356	Yahoo
+TMcloud computing OR clouds computing2013	Yahoo
+TMforce.com1119	Wall Street Journal
+TMsalesforce723	Dell
+TMforce.com542	Nokia
+TMcloud computing OR clouds computing2376	Google
+TMnetsuite1723	Adobe
+TMcloud computing OR clouds computing1958	Microsoft
+TMapp engine OR google app engine OR app engines OR google app engines110	Amazon
+TMcloud computing OR clouds computing1962	Sun
+TMsoftware as a service OR sass2185	Yahoo
+TMapp engine OR google app engine OR app engines OR google app engines108	Apple
+TMcloud computing OR clouds computing2422	Dell
+TMsoftware as a service OR sass2140	Dell
+TMforce.com576	Massachusetts Institute of Technology
+TMgoogle apps816	Comcast
+TMforce.com1244	Microsoft
+TMforce.com1588	Apple
+TMsoftware as a service OR sass1569	Sony
+TMcloud computing OR clouds computing2088	Google
+TMforce.com1601	Comcast
+TMforce.com1007	New York Times
+TMforce.com329	Microsoft
+TMcloud computing OR clouds computing1969	LinkedIn
+TMsoftware as a service OR sass1440	Google
+TMsalesforce619	Comcast
+TMmicrosoft online1706	Microsoft
+TMforce.com347	Facebook
+TMforce.com179	Microsoft
+TMgoogle apps1789	Amazon
+TMmicrosoft online2484	Microsoft
+TMapp engine OR google app engine OR app engines OR google app engines140	Google
+TMforce.com1201	Azure Capital
+TMforce.com1225	Google
+TMforce.com490	Microsoft
+TMprivate cloud OR private clouds1691	Sun
+TMgoogle apps1803	Wikipedia
+TMapp engine OR google app engine OR app engines OR google app engines129	TechCrunch
+TMcloud computing OR clouds computing2331	Wall Street Journal
+TMcloud computing OR clouds computing2286	Wall Street Journal
+TMforce.com982	International Business Machines
+TMforce.com534	Apple
+TMcloud computing OR clouds computing2395	Dell
+TMcloud computing OR clouds computing2030	Yahoo
+TMcloud computing OR clouds computing2090	Yahoo
+TMforce.com158	Apple
+TMgoogle apps782	Google
+TMgoogle apps383	Adobe
+TMmicrosoft online1694	Microsoft
+TMsoftware as a service OR sass1514	Apple
+TMengine yard1745	CNN
+TMforce.com168	Facebook
+TMforce.com1573	Sony
+TMazure1324	Intel
+TMdistributed computing OR distributed comput1715	National Science Foundation
+TMnetsuite150	Amazon
+TMsoftware as a service OR sass1525	Perot Systems
+TMsalesforce623	Sony
+TMcloud computing OR clouds computing2296	International Business Machines
+TMsoftware as a service OR sass1567	International Business Machines
+TMforce.com185	Twitter
+TMcloud computing OR clouds computing2156	Microsoft
+TMcloud computing OR clouds computing1975	Microsoft
+TMsalesforce1920	LinkedIn
+TMforce.com912	Yahoo
+TMforce.com231	Stanford
+TMcloud computing OR clouds computing2317	Sony
+TMgoogle apps783	Apple
+TMforce.com1086	Congress
+TMforce.com563	Google
+TMcloud computing OR clouds computing2350	Twitter
+TMforce.com231	BBC
+TMforce.com351	Wall Street Journal
+TMforce.com256	Wall Street Journal
+TMsoftware as a service OR sass1525	Dell
+TMsalesforce693	News Corporation
+TMsoftware as a service OR sass1563	Cisco
+TMgoogle apps68	Yahoo
+TMforce.com231	Yahoo
+TMgoogle apps1844	Google
+TMcloud computing OR clouds computing2075	Facebook
+TMsalesforce666	Wall Street Journal
+TMcloud computing OR clouds computing2392	CNET
+TMcloud computing OR clouds computing2161	Intel
+TMforce.com1192	TechCrunch
+TMforce.com224	Microsoft
+TMgoogle apps792	Microsoft
+TMsalesforce1895	Twitter
+TMsalesforce721	eBay
+TMplatform as a service98	Apple
+TMhive OR hadoop hive1491	Yahoo
+TMmicrosoft online2484	America Online
+TMmicrosoft online2481	Disney
+TMgoogle apps84	Yahoo
+TMforce.com443	eBay
+TMcloud computing OR clouds computing2165	Amazon
+TMsoftware as a service OR sass2191	Apple
+TMgoogle apps1839	Yahoo
+TMgoogle apps786	Apple
+TMforce.com978	Stanford
+TMazure412	EMC
+TMforce.com1270	Dell
+TMgoogle apps742	Microsoft
+TMforce.com545	eBay
+TMsalesforce713	Wall Street Journal
+TMsoftware as a service OR sass1363	Google
+TMforce.com984	Sony
+TMhive OR hadoop hive1725	Google
+TMsalesforce1870	CNET
+TMforce.com257	CNET
+TMforce.com451	News Corporation
+TMplatform as a service96	Supreme Court
+TMsoftware as a service OR sass39	Apple
+TMsalesforce1940	Sun
+TMplatform as a service1473	Apple
+TMforce.com1591	Microsoft
+TMforce.com539	Nokia
+TMcloud computing OR clouds computing2164	Federal Communications Commission
+TMprivate cloud OR private clouds1684	Dell
+TMsalesforce690	Wall Street Journal
+TMgoogle apps737	Oracle
+TMforce.com1146	Nokia
+TMforce.com849	Wall Street Journal
+TMsalesforce1741	Amazon
+TMforce.com497	Microsoft
+TMgoogle apps787	Wall Street Journal
+TMsalesforce616	Palm
+TMsoftware as a service OR sass2126	Sun
+TMforce.com1167	Amazon
+TMcloud computing OR clouds computing2062	Amazon
+TMforce.com489	Yahoo
+TMforce.com1107	Wall Street Journal
+TMsoftware as a service OR sass1518	Yahoo
+TMsoftware as a service OR sass2187	Wall Street Journal
+TMforce.com840	Intel
+TMcloud computing OR clouds computing2067	Amazon
+TMforce.com935	CNN
+TMcloud computing OR clouds computing2236	Twitter
+TMforce.com210	Amazon
+TMsalesforce626	Google
+TMforce.com269	Nokia
+TMsalesforce1735	Apple
+TMprivate cloud OR private clouds1678	Microsoft
+TMforce.com980	Comcast
+TMcloud computing OR clouds computing2098	Sony
+TMforce.com298	Google
+TMcloud computing OR clouds computing2275	Nokia
+TMforce.com183	Dell
+TMplatform as a service1471	Google
+TMcloud computing OR clouds computing2022	Yahoo
+TMforce.com338	Yahoo
+TMapp engine OR google app engine OR app engines OR google app engines103	Microsoft
+TMcloud computing OR clouds computing2010	Amazon
+TMgoogle apps798	Twitter
+TMsalesforce667	Google
+TMforce.com185	Google
+TMforce.com1175	Amazon
+TMforce.com453	Microsoft
+TMgoogle apps56	Microsoft
+TMmicrosoft online1660	Research In Motion
+TMforce.com1014	Research In Motion
+TMforce.com182	CNN
+TMforce.com217	CNET
+TMplatform as a service97	Microsoft
+TMforce.com1011	Hewlett Packard
+TMcloud computing OR clouds computing2238	Microsoft
+TMforce.com500	Supreme Court
+TMsalesforce687	LinkedIn
+TMsoftware as a service OR sass1516	Nokia
+TMsoftware as a service OR sass1429	Yahoo
+TMmicrosoft online1664	Google
+TMsalesforce604	Twitter
+TMsoftware as a service OR sass33	Microsoft
+TMforce.com913	Oracle
+TMinfrastructure as a service OR iass1294	Microsoft
+TMforce.com1570	America Online
+TMforce.com987	Apple
+TMsalesforce667	International Business Machines
+TMforce.com1139	Yahoo
+TMforce.com994	Oracle
+TMazure1315	Yahoo
+TMazure1320	EMC
+TMforce.com512	America Online
+TMcloud computing OR clouds computing2273	Hewlett Packard
+TMforce.com496	BBC
+TMsalesforce1906	Sun
+TMsoftware as a service OR sass1520	Microsoft
+TMgoogle apps791	Google
+TMcloud computing OR clouds computing2268	Apple
+TMforce.com1121	Yahoo
+TMcloud computing OR clouds computing2284	International Business Machines
+TMforce.com313	Congress
+TMazure1321	Microsoft
+TMcloud computing OR clouds computing2291	Red Hat
+TMcloud computing OR clouds computing2395	Microsoft
+TMforce.com219	Hewlett Packard
+TMcloud computing OR clouds computing2279	America Online
+TMcloud computing OR clouds computing2362	Yahoo
+TMcloud computing OR clouds computing2160	Amazon
+TMforce.com1593	Google
+TMcloud computing OR clouds computing2379	Yahoo
+TMinfrastructure as a service OR iass4	Google
+TMmicrosoft online1710	Hewlett Packard
+TMgoogle apps1794	CNN
+TMnetsuite1723	Apple
+TMnetsuite1951	Facebook
+TMsalesforce676	Sun
+TMazure415	CNN
+TMcloud computing OR clouds computing2384	International Business Machines
+TMcloud computing OR clouds computing2364	Apple
+TMgoogle apps813	Google
+TMforce.com1121	Google
+TMforce.com553	America Online
+TMsoftware as a service OR sass2120	Nasdaq
+TMsalesforce668	Bungee Labs
+TMcloud computing OR clouds computing2223	Comcast
+TMcloud computing OR clouds computing2414	Sun
+TMforce.com982	Microsoft
+TMsoftware as a service OR sass1521	Dell
+TMforce.com984	Comcast
+TMsoftware as a service OR sass1365	Microsoft
+TMapp engine OR google app engine OR app engines OR google app engines144	Amazon
+TMforce.com867	Wall Street Journal
+TMcloud computing OR clouds computing2409	BBC
+TMsalesforce655	Microsoft
+TMgoogle apps76	Yahoo
+TMapp engine OR google app engine OR app engines OR google app engines126	Dell
+TMforce.com251	CNET
+TMcloud computing OR clouds computing2415	International Business Machines
+TMsalesforce719	eBay
+TMsoftware as a service OR sass2183	Microsoft
+TMforce.com1178	Intel
+TMgoogle apps1790	Amazon
+TMmicrosoft online2480	Apple
+TMgoogle apps1821	Google
+TMforce.com320	eBay
+TMcloud computing OR clouds computing2000	General Electric
+TMgoogle apps1763	LinkedIn
+TMforce.com377	Oracle
+TMprivate cloud OR private clouds1690	Microsoft
+TMforce.com371	Nasdaq
+TMforce.com836	Facebook
+TMsoftware as a service OR sass2187	Yahoo
+TMsoftware as a service OR sass1431	Yahoo
+TMsoftware as a service OR sass1390	Microsoft
+TMcloud computing OR clouds computing2042	National Science Foundation
+TMinfrastructure as a service OR iass1291	Microsoft
+TMforce.com558	Apple
+TMazure1720	Oracle
+TMforce.com204	New York Times
+TMcloud computing OR clouds computing2221	International Business Machines
+TMforce.com436	Nasdaq
+TMforce.com517	Nasdaq
+TMplatform as a service1474	Adobe
+TMsalesforce1944	Yahoo
+TMforce.com1174	Wall Street Journal
+TMforce.com1021	Google
+TMsalesforce655	Google
+TMdistributed computing OR distributed comput1489	International Business Machines
+TMsalesforce695	Microsoft
+TMgoogle apps60	Google
+TMsoftware as a service OR sass1406	Google
+TMsalesforce616	Research In Motion
+TMcloud computing OR clouds computing2003	Cisco
+TMmicrosoft online1708	Sony
+TMsoftware as a service OR sass1438	Nokia
+TMforce.com351	National Science Foundation
+TMforce.com981	Apple
+TMsoftware as a service OR sass1527	Microsoft
+TMapp engine OR google app engine OR app engines OR google app engines116	Twitter
+TMsalesforce1940	Cisco
+TMforce.com1033	Facebook
+TMforce.com860	Facebook
+TMforce.com1152	Yahoo
+TMgoogle apps826	Google
+TMgoogle apps786	Nokia
+TMplatform as a service1508	Microsoft
+TMforce.com254	America Online
+TMforce.com291	Amazon
+TMforce.com1099	Google
+TMforce.com453	Sony
+TMcloud computing OR clouds computing2379	eBay
+TMforce.com236	Google
+TMcloud computing OR clouds computing2305	EMC
+TMsalesforce1901	Google
+TMmicrosoft online1699	Google
+TMgoogle apps1803	International Business Machines
+TMapp engine OR google app engine OR app engines OR google app engines110	Google
+TMforce.com1005	Microsoft
+TMforce.com1235	Apple
+TMforce.com1591	Google
+TMcloud computing OR clouds computing2214	Dell
+TMapp engine OR google app engine OR app engines OR google app engines105	Google
+TMprivate cloud OR private clouds1678	Amazon
+TMcloud computing OR clouds computing1972	Sun
+TMcloud computing OR clouds computing2093	Stanford
+TMsoftware as a service OR sass1425	Microsoft
+TMgoogle apps1836	Google
+TMforce.com1278	Stanford
+TMsalesforce1948	Hewlett Packard
+TMforce.com904	Apple
+TMsalesforce586	Yahoo
+TMgoogle apps821	Oracle
+TMhadoop2438	National Science Foundation
+TMforce.com311	Microsoft
+TMsalesforce704	Yahoo
+TMgoogle apps385	Sun
+TMengine yard1745	Los Angeles Times
+TMforce.com309	Dell
+TMdistributed computing OR distributed comput1486	International Business Machines
+TMforce.com522	Google
+TMplatform as a service2474	Nasdaq
+TMcloud computing OR clouds computing2092	Google
+TMdistributed computing OR distributed comput1713	Yahoo
+TMsalesforce636	Google
+TMforce.com1144	Yahoo
+TMsoftware as a service OR sass1347	International Business Machines
+TMsalesforce591	Oracle
+TMforce.com1081	Sony
+TMmicrosoft online1619	Facebook
+TMsoftware as a service OR sass1400	Microsoft
+TMmicrosoft online1711	Nasdaq
+TMsalesforce630	Sun
+TMforce.com192	Disney
+TMgoogle apps768	Twitter
+TMforce.com507	New York Times
+TMprivate cloud OR private clouds1690	Apple
+TMforce.com218	Comcast
+TMmicrosoft online1696	Congress
+TMcloud computing OR clouds computing2093	Intel
+TMcloud computing OR clouds computing2026	Yahoo
+TMforce.com1260	Wall Street Journal
+TMgoogle apps1772	America Online
+TMcloud computing OR clouds computing2072	Microsoft
+TMforce.com1264	Stanford
+TMgoogle apps382	International Business Machines
+TMforce.com1281	America Online
+TMforce.com1099	Microsoft
+TMcloud computing OR clouds computing2044	eBay
+TMworkday OR workdays50	New York Times
+TMcloud computing OR clouds computing2081	Microsoft
+TMgoogle apps90	TechCrunch
+TMcloud computing OR clouds computing2096	Facebook
+TMgoogle apps807	Google
+TMcloud computing OR clouds computing2000	Dell
+TMmicrosoft online1699	Microsoft
+TMsalesforce623	Nasdaq
+TMcloud computing OR clouds computing2088	Amazon
+TMcloud computing OR clouds computing2096	International Business Machines
+TMforce.com1253	Cisco
+TMsalesforce616	Unisys
+TMsalesforce626	Sony
+TMsalesforce631	Microsoft
+TMforce.com1188	Intel
+TMforce.com1067	Sony
+TMcloud computing OR clouds computing2210	Intel
+TMgoogle apps1818	Twitter
+TMforce.com1605	Yahoo
+TMgoogle apps1858	Wall Street Journal
+TMforce.com429	Microsoft
+TMforce.com1572	Microsoft
+TMforce.com1052	Google
+TMgoogle apps1832	Amazon
+TMforce.com160	Google
+TMcloud computing OR clouds computing2199	New York Times
+TMcloud computing OR clouds computing2411	Twitter
+TMforce.com332	Facebook
+TMforce.com835	Google
+TMazure400	Microsoft
+TMforce.com1570	Yahoo
+TMcloud computing OR clouds computing2228	Hewlett Packard
+TMapp engine OR google app engine OR app engines OR google app engines145	Amazon
+TMworkday OR workdays12	TechCrunch
+TMsalesforce1872	Microsoft
+TMmicrosoft online1662	CNET
+TMcloud computing OR clouds computing2051	TechCrunch
+TMforce.com1076	Nasdaq
+TMmicrosoft online2481	Apple
+TMsalesforce705	Yahoo
+TMgoogle apps51	Google
+TMforce.com1213	Nasdaq
+TMnetsuite1723	CNET
+TMmicrosoft online1669	Facebook
+TMmicrosoft online1702	America Online
+TMforce.com1101	CNET
+TMmicrosoft online1658	Apple
+TMforce.com521	Microsoft
+TMcloud computing OR clouds computing2166	Wall Street Journal
+TMgoogle apps1754	Yahoo
+TMsalesforce1874	Nasdaq
+TMgoogle apps824	Microsoft
+TMsoftware as a service OR sass41	Yahoo
+TMforce.com441	Sun
+TMdistributed computing OR distributed comput1717	Yahoo
+TMgoogle apps746	Google
+TMsalesforce1883	Disney
+TMsalesforce641	Facebook
+TMforce.com165	Wall Street Journal
+TMgoogle apps1849	Google
+TMsalesforce1740	Apple
+TMsoftware as a service OR sass2113	Google
+TMsalesforce670	Google
+TMprivate cloud OR private clouds1690	Research In Motion
+TMforce.com323	America Online
+TMforce.com863	Los Angeles Times
+TMforce.com1240	Twitter
+TMforce.com1603	Apple
+TMcloud computing OR clouds computing2090	eBay
+TMsalesforce584	Yahoo
+TMsoftware as a service OR sass1365	Apple
+TMazure1324	Cisco
+TMcloud computing OR clouds computing2266	Amazon
+TMforce.com178	Twitter
+TMsalesforce682	Microsoft
+TMsalesforce626	Facebook
+TMcloud computing OR clouds computing2247	Microsoft
+TMapp engine OR google app engine OR app engines OR google app engines118	Microsoft
+TMsalesforce599	Google
+TMmicrosoft online1659	Microsoft
+TMcloud computing OR clouds computing1988	Yahoo
+TMsalesforce701	eBay
+TMplatform as a service2456	Yahoo
+TMcloud computing OR clouds computing2086	Yahoo
+TMmicrosoft online1660	Microsoft
+TMsalesforce606	Microsoft
+TMsalesforce1442	Apple
+TMforce.com320	Google
+TMforce.com1254	Twitter
+TMforce.com1081	Apple
+TMcloud computing OR clouds computing2395	Hewlett Packard
+TMforce.com430	Microsoft
+TMcloud computing OR clouds computing2258	Microsoft
+TMgoogle apps771	Google
+TMforce.com1268	Comcast
+TMforce.com835	Microsoft
+TMcloud computing OR clouds computing2022	Nasdaq
+TMgoogle apps804	Google
+TMgoogle apps1832	Google
+TMcloud computing OR clouds computing1973	New York Times
+TMsoftware as a service OR sass38	Yahoo
+TMgoogle apps389	Microsoft
+TMnetsuite151	Hewlett Packard
+TMforce.com377	Microsoft
+TMsoftware as a service OR sass1398	Apple
+TMforce.com441	International Business Machines
+TMsalesforce614	Twitter
+TMcloud computing OR clouds computing2019	Yahoo
+TMdistributed computing OR distributed comput48	Dell
+TMgoogle apps1765	Google
+TMazure414	Congress
+TMforce.com542	Facebook
+TMforce.com314	Disney
+TMsoftware as a service OR sass34	Apple
+TMhadoop2437	Intel
+TMsoftware as a service OR sass2135	Microsoft
+TMforce.com990	Congress
+TMsoftware as a service OR sass1364	eBay
+TMforce.com267	Microsoft
+TMcloud computing OR clouds computing2156	Sony
+TMcloud computing OR clouds computing2378	Microsoft
+TMforce.com1219	Yahoo
+TMforce.com1157	Dell
+TMsalesforce1883	Apple
+TMworkday OR workdays1637	Yahoo
+TMgoogle apps1789	Yahoo
+TMforce.com1210	Microsoft
+TMprivate cloud OR private clouds1683	Apache Software Foundation
+TMcloud computing OR clouds computing2402	Sun
+TMforce.com844	Google
+TMcloud computing OR clouds computing2409	Amazon
+TMforce.com1055	Yahoo
+TMcloud computing OR clouds computing2193	Wall Street Journal
+TMplatform as a service1511	Apple
+TMforce.com558	Disney
+TMforce.com360	New York Times
+TMgoogle apps1812	Google
+TMcloud computing OR clouds computing2226	Massachusetts Institute of Technology
+TMapp engine OR google app engine OR app engines OR google app engines111	Twitter
+TMforce.com1192	Apple
+TMcloud computing OR clouds computing2290	Apple
+TMsoftware as a service OR sass2127	Apple
+TMmicrosoft online2479	Yahoo
+TMsoftware as a service OR sass2134	eBay
+TMsalesforce1741	Google
+TMgoogle apps1806	Yahoo
+TMcloud computing OR clouds computing2386	Oracle
+TMforce.com467	Microsoft
+TMapp engine OR google app engine OR app engines OR google app engines127	Sun
+TMforce.com1249	Nasdaq
+TMforce.com1234	Intel
+TMsoftware as a service OR sass1551	Yahoo
+TMcloud computing OR clouds computing2362	Sony
+TMsoftware as a service OR sass1546	International Business Machines
+TMgoogle apps89	Google
+TMnetsuite2487	Microsoft
+TMsoftware as a service OR sass1440	Stanford
+TMhadoop2146	eBay
+TMforce.com1131	Microsoft
+TMforce.com573	Microsoft
+TMsoftware as a service OR sass31	Microsoft
+TMforce.com548	Apple
+TMsalesforce1944	TechCrunch
+TMprivate cloud OR private clouds1691	Intel
+TMforce.com1062	Comcast
+TMmicrosoft online2477	Microsoft
+TMcloud computing OR clouds computing2409	America Online
+TMcloud computing OR clouds computing2319	Dell
+TMplatform as a service1482	Apple
+TMforce.com310	Apple
+TMazure1312	CNET
+TMforce.com371	Wall Street Journal
+TMsoftware as a service OR sass1535	Oracle
+TMforce.com1210	International Business Machines
+TMforce.com1011	Apple
+TMforce.com1022	Apple
+TMcloud computing OR clouds computing2422	Oracle
+TMforce.com1594	Microsoft
+TMcloud computing OR clouds computing2384	Apple
+TMsalesforce1733	Google
+TMsoftware as a service OR sass1388	Apple
+TMforce.com537	CNET
+TMsoftware as a service OR sass1534	Microsoft
+TMsalesforce616	Federal Communications Commission
+TMforce.com334	Google
+TMhive OR hadoop hive2172	National Science Foundation
+TMsoftware as a service OR sass2108	Nasdaq
+TMprivate cloud OR private clouds1685	Microsoft
+TMcloud computing OR clouds computing1992	Oracle
+TMprivate cloud OR private clouds1691	Wall Street Journal
+TMforce.com366	New York Times
+TMforce.com890	Yahoo
+TMhive OR hadoop hive1492	CNN
+TMcloud computing OR clouds computing2275	Google
+TMsalesforce721	Bungee Labs
+TMengine yard1615	International Business Machines
+TMforce.com1124	Microsoft
+TMcloud computing OR clouds computing2199	CNET
+TMsoftware as a service OR sass2105	Microsoft
+TMcloud computing OR clouds computing2195	Red Hat
+TMsalesforce1948	Apple
+TMapp engine OR google app engine OR app engines OR google app engines1450	Microsoft
+TMcloud computing OR clouds computing2014	Apple
+TMplatform as a service2455	Microsoft
+TMcloud computing OR clouds computing2238	Google
+TMforce.com457	New York Times
+TMsoftware as a service OR sass1409	International Business Machines
+TMmicrosoft online1662	Dell
+TMgoogle apps1839	Google
+TMinfrastructure as a service OR iass1292	International Business Machines
+TMforce.com1155	Apple
+TMgoogle apps757	Yahoo
+TMcloud computing OR clouds computing2323	Amazon
+TMforce.com1067	Apple
+TMforce.com1061	Wall Street Journal
+TMforce.com1118	Microsoft
+TMgoogle apps1776	Facebook
+TMcloud computing OR clouds computing2429	Cisco
+TMforce.com867	Facebook
+TMforce.com321	Facebook
+TMforce.com178	America Online
+TMforce.com160	Facebook
+TMgoogle apps68	Microsoft
+TMsalesforce1949	Google
+TMsalesforce1905	eBay
+TMcloud computing OR clouds computing2158	Yahoo
+TMdistributed computing OR distributed comput1716	Dell
+TMforce.com984	Research In Motion
+TMcloud computing OR clouds computing2279	Intel
+TMworkday OR workdays1647	Boing Boing
+TMforce.com1010	Microsoft
+TMmicrosoft online1622	Google
+TMsalesforce727	Google
+TMforce.com462	Yahoo
+TMsalesforce1930	Google
+TMforce.com934	Yahoo
+TMsoftware as a service OR sass1376	Disney
+TMforce.com1235	International Business Machines
+TMforce.com848	New York Times
+TMworkday OR workdays18	Stanford
+TMsoftware as a service OR sass2129	Yahoo
+TMforce.com1584	Congress
+TMsalesforce623	America Online
+TMapp engine OR google app engine OR app engines OR google app engines141	Google
+TMforce.com1602	Sony
+TMcloud computing OR clouds computing1967	Adobe
+TMforce.com1285	CNET
+TMforce.com185	News Corporation
+TMsalesforce706	Apple
+TMcloud computing OR clouds computing2216	Intel Capital
+TMgoogle apps762	Google
+TMforce.com152	Cisco
+TMmicrosoft online1659	Nasdaq
+TMforce.com964	Sun
+TMgoogle apps1803	TechCrunch
+TMmicrosoft online1673	Amazon
+TMsalesforce1948	Oracle
+TMazure416	Los Angeles Times
+TMplatform as a service2456	Microsoft
+TMplatform as a service2472	Bungee Labs
+TMnetsuite1951	Oracle
+TMgoogle apps1863	Oracle
+TMnetsuite150	TechCrunch
+TMforce.com1194	Microsoft
+TMprivate cloud OR private clouds1688	University of California
+TMworkday OR workdays1629	Apple
+TMforce.com234	IBM Rational Software Delivery Services
+TMcloud computing OR clouds computing2166	Google
+TMforce.com1151	Apple
+TMplatform as a service2462	Nasdaq
+TMmicrosoft online1649	Microsoft
+TMseti@home1752	eBay
+TMplatform as a service1483	International Business Machines
+TMforce.com889	Federal Communications Commission
+TMcloud computing OR clouds computing2026	National Science Foundation
+TMsoftware as a service OR sass1368	Microsoft
+TMsoftware as a service OR sass1366	Google
+TMnetsuite149	Sun
+TMforce.com868	Federal Communications Commission
+TMgoogle apps1759	Microsoft
+TMsoftware as a service OR sass2110	Microsoft
+TMsoftware as a service OR sass42	Intel
+TMmicrosoft online1704	Microsoft
+TMforce.com344	Apple
+TMforce.com845	Apple
+TMgoogle apps392	Apple
+TMcloud computing OR clouds computing2409	Facebook
+TMforce.com1123	LinkedIn
+TMsoftware as a service OR sass1393	Apple
+TMmicrosoft online1696	Microsoft
+TMforce.com306	CNN
+TMforce.com848	Yahoo
+TMgoogle apps78	Microsoft
+TMhive OR hadoop hive1002	International Business Machines
+TMforce.com955	Nasdaq
+TMsoftware as a service OR sass1391	Stanford
+TMforce.com189	Apple
+TMsalesforce673	Bungee Labs
+TMgoogle apps1792	Apple
+TMforce.com871	Google
+TMsoftware as a service OR sass1367	Sony
+TMforce.com255	Facebook
+TMcloud computing OR clouds computing2409	Google
+TMcloud computing OR clouds computing2368	Facebook
+TMplatform as a service1476	Apple
+TMinfrastructure as a service OR iass1641	Microsoft
+TMforce.com866	Federal Communications Commission
+TMdistributed computing OR distributed comput49	Microsoft
+TMazure1315	Twitter
+TMsalesforce591	Microsoft
+TMforce.com1153	Apple
+TMmicrosoft online2484	Yahoo
+TMgoogle apps781	Federal Communications Commission
+TMgoogle apps385	Dell
+TMgoogle apps1856	Wall Street Journal
+TMsalesforce1906	Palm
+TMdistributed computing OR distributed comput1714	Nasdaq
+TMforce.com1209	Sony
+TMforce.com232	Apple
+TMforce.com301	CNET
+TMplatform as a service1505	Adobe
+TMcloud computing OR clouds computing2419	Microsoft
+TMhive OR hadoop hive2175	Google
+TMsalesforce1942	Twitter
+TMsalesforce1905	America Online
+TMforce.com1043	Research In Motion
+TMforce.com843	Apple
+TMforce.com179	Dell
+TMforce.com251	Sun
+TMcloud computing OR clouds computing2343	Twitter
+TMsoftware as a service OR sass2120	Microsoft
+TMapp engine OR google app engine OR app engines OR google app engines1454	Apple
+TMgoogle apps388	Google
+TMgoogle apps385	Yahoo
+TMcloud computing OR clouds computing2297	Microsoft
+TMsalesforce1948	Dell
+TMforce.com978	Apple
+TMhive OR hadoop hive1491	Google
+TMprivate cloud OR private clouds1680	Facebook
+TMworkday OR workdays1648	Apple
+TMcloud computing OR clouds computing2240	Twitter
+TMforce.com438	EMC
+TMforce.com458	Apple
+TMdistributed computing OR distributed comput1489	Microsoft
+TMforce.com377	Sun
+TMforce.com1140	New York Times
+TMapp engine OR google app engine OR app engines OR google app engines1460	Google
+TMforce.com540	TechCrunch
+TMhive OR hadoop hive1002	eBay
+TMnetsuite2488	Nasdaq
+TMazure416	Apple
+TMforce.com881	TechCrunch
+TMmicrosoft online1619	Microsoft
+TMforce.com1170	Microsoft
+TMcloud computing OR clouds computing2024	Intel
+TMcloud computing OR clouds computing2056	Dell
+TMforce.com848	University of California
+TMforce.com256	Amazon
+TMforce.com1139	Microsoft
+TMgoogle apps90	General Electric
+TMforce.com173	Wall Street Journal
+TMforce.com496	Sony
+TMforce.com339	eBay
+TMsalesforce616	Apple
+TMforce.com1178	Comcast
+TMforce.com195	Amazon
+TMforce.com261	Apple
+TMcloud computing OR clouds computing2402	Wikipedia
+TMforce.com186	Twitter
+TMsalesforce1741	Microsoft
+TMforce.com845	Microsoft
+TMprivate cloud OR private clouds1679	Red Hat
+TMgoogle apps1765	Microsoft
+TMgoogle apps81	CNET
+TMgoogle apps58	Federal Communications Commission
+TMsoftware as a service OR sass1392	New York Times
+TMinfrastructure as a service OR iass8	Microsoft
+TMcloud computing OR clouds computing2078	Amazon
+TMcloud computing OR clouds computing2386	Yahoo
+TMsalesforce611	Apple
+TMgoogle apps1814	Twitter
+TMsoftware as a service OR sass1537	Oracle
+TMworkday OR workdays1644	Apple
+TMforce.com849	Yahoo
+TMmicrosoft online1662	Nokia
+TMgoogle apps1760	Apple
+TMsoftware as a service OR sass2101	Oracle
+TMforce.com1082	Sony
+TMforce.com985	Nasdaq
+TMforce.com898	Facebook
+TMsoftware as a service OR sass1547	Apple
+TMcloud computing OR clouds computing2203	Cisco
+TMazure403	Google
+TMmicrosoft online1658	International Business Machines
+TMsoftware as a service OR sass1337	Microsoft
+TMgoogle apps383	Apple
+TMforce.com1583	Research In Motion
+TMforce.com941	Yahoo
+TMmicrosoft online1658	Microsoft
+TMsoftware as a service OR sass33	Sony
+TMforce.com1090	America Online
+TMazure1720	Intel Capital
+TMforce.com1267	Sun
+TMforce.com566	Research In Motion
+TMcloud computing OR clouds computing2044	Google
+TMplatform as a service2463	Google
+TMgoogle apps1819	Adobe
+TMforce.com1022	CNET
+TMinfrastructure as a service OR iass1	Microsoft
+TMsalesforce1948	Amazon
+TMcloud computing OR clouds computing2006	Dell
+TMgoogle apps90	Google
+TMcloud computing OR clouds computing2295	Congress
+TMinfrastructure as a service OR iass1290	Intel
+TMforce.com1082	Yahoo
+TMsalesforce1741	Sun
+TMinfrastructure as a service OR iass1642	International Business Machines
+TMworkday OR workdays1632	Google
+TMforce.com340	Microsoft
+TMforce.com941	Disney
+TMforce.com874	Congress
+TMhadoop2439	Yahoo
+TMforce.com334	Congress
+TMapp engine OR google app engine OR app engines OR google app engines145	Bungee Labs
+TMapp engine OR google app engine OR app engines OR google app engines107	Comcast
+TMsoftware as a service OR sass1388	Dell
+TMgoogle apps82	Adobe
+TMforce.com874	CNET
+TMworkday OR workdays2142	Coca-Cola Company
+TMforce.com211	Twitter
+TMcloud computing OR clouds computing2051	Yahoo
+TMcloud computing OR clouds computing2012	Yahoo
+TMforce.com994	Wells Fargo
+TMsalesforce1888	Apple
+TMcloud computing OR clouds computing2392	Google
+TMforce.com847	Nokia
+TMforce.com965	Google
+TMdistributed computing OR distributed comput1716	Federal Communications Commission
+TMazure415	New York Times
+TMforce.com1275	Stanford
+TMforce.com1598	Sony
+TMforce.com273	Congress
+TMcloud computing OR clouds computing2024	Amazon
+TMforce.com1159	New York Times
+TMsalesforce638	Microsoft
+TMforce.com880	Apple
+TMforce.com1033	International Business Machines
+TMsoftware as a service OR sass2113	Yahoo
+TMapp engine OR google app engine OR app engines OR google app engines106	Google
+TMcloud computing OR clouds computing1976	Microsoft
+TMforce.com366	Disney
+TMforce.com879	Nasdaq
+TMforce.com457	Microsoft
+TMcloud computing OR clouds computing2062	Facebook
+TMplatform as a service2459	Google
+TMforce.com177	Twitter
+TMcloud computing OR clouds computing2159	Microsoft
+TMgoogle apps390	Google
+TMhive OR hadoop hive1728	America Online
+TMgoogle apps1772	Microsoft
+TMforce.com559	Hewlett Packard
+TMforce.com1006	Congress
+TMsalesforce1441	New York Times
+TMsalesforce1880	Microsoft
+TMforce.com1264	Massachusetts Institute of Technology
+TMforce.com316	eBay
+TMprivate cloud OR private clouds1687	International Business Machines
+TMforce.com320	America Online
+TMmicrosoft online1676	Google
+TMforce.com917	Microsoft
+TMforce.com505	New York Times
+TMsalesforce656	Yahoo
+TMsoftware as a service OR sass1524	Cisco
+TMsoftware as a service OR sass1376	Sony
+TMcloud computing OR clouds computing2299	Twitter
+TMnetsuite1951	NetSuite
+TMsalesforce612	Google
+TMworkday OR workdays1629	Sony
+TMforce.com1256	Intel
+TMsoftware as a service OR sass1401	Stanford
+TMsalesforce1735	TechCrunch
+TMmicrosoft online1696	Yahoo
+TMcloud computing OR clouds computing2410	Sun
+TMforce.com1027	Sony
+TMgoogle apps786	Yahoo
+TMforce.com554	Intel
+TMazure1303	Microsoft
+TMsoftware as a service OR sass2185	Microsoft
+TMgoogle apps746	Microsoft
+TMapp engine OR google app engine OR app engines OR google app engines1446	Twitter
+TMcloud computing OR clouds computing2066	Twitter
+TMforce.com364	Dell
+TMinfrastructure as a service OR iass4	Hasbro
+TMsoftware as a service OR sass1408	Facebook
+TMapp engine OR google app engine OR app engines OR google app engines135	TechCrunch
+TMforce.com993	Nasdaq
+TMforce.com372	Microsoft
+TMsalesforce699	Facebook
+TMdistributed computing OR distributed comput1716	Nokia
+TMapp engine OR google app engine OR app engines OR google app engines136	CNET
+TMazure1307	Microsoft
+TMforce.com1600	Yahoo
+TMsalesforce699	New York Times
+TMforce.com1152	Wall Street Journal
+TMnetsuite1467	Oracle
+TMcloud computing OR clouds computing2002	Qwest
+TMsalesforce1941	Oracle
+TMplatform as a service2451	Microsoft
+TMcloud computing OR clouds computing1990	International Business Machines
+TMmicrosoft online1674	Nasdaq
+TMnetsuite150	LinkedIn
+TMforce.com1180	EMI
+TMnetsuite2488	Disney
+TMworkday OR workdays1635	Microsoft
+TMmicrosoft online1670	Sony
+TMcloud computing OR clouds computing2408	CNET
+TMcloud computing OR clouds computing2350	Microsoft
+TMapp engine OR google app engine OR app engines OR google app engines1443	Google
+TMcloud computing OR clouds computing2032	Intel
+TMsalesforce1731	Google
+TMforce.com1035	New York Times
+TMforce.com468	TechCrunch
+TMmicrosoft online1623	Sony
+TMforce.com1066	Sony
+TMsalesforce688	LinkedIn
+TMforce.com1086	Sun
+TMsoftware as a service OR sass2131	Joyent
+TMsoftware as a service OR sass2183	Google
+TMgoogle apps781	Microsoft
+TMsoftware as a service OR sass1565	Congress
+TMforce.com1099	Cisco
+TMforce.com556	Google
+TMforce.com313	Intel
+TMmicrosoft online1665	Microsoft
+TMgoogle apps1853	Wall Street Journal
+TMforce.com255	America Online
+TMplatform as a service2466	Microsoft
+TMsoftware as a service OR sass2182	Yahoo
+TMsalesforce701	America Online
+TMcloud computing OR clouds computing2015	International Business Machines
+TMprivate cloud OR private clouds1678	General Electric
+TMforce.com1012	Facebook
+TMcloud computing OR clouds computing2390	Amazon
+TMgoogle apps1823	TechCrunch
+TMforce.com856	America Online
+TMgoogle apps1854	eBay
+TMforce.com521	TechCrunch
+TMmicrosoft online1674	Wall Street Journal
+TMforce.com870	Congress
+TMhadoop2145	Google
+TMsalesforce697	Comcast
+TMcloud computing OR clouds computing2297	Sun
+TMdistributed computing OR distributed comput1715	Google
+TMsalesforce631	Google
+TMmicrosoft online1703	Wells Fargo
+TMforce.com1023	Apple
+TMsalesforce649	Amazon
+TMsoftware as a service OR sass1563	Google
+TMcloud computing OR clouds computing1971	Amazon
+TMforce.com457	Wall Street Journal
+TMsoftware as a service OR sass1569	Cisco
+TMcloud computing OR clouds computing2246	CNN
+TMsoftware as a service OR sass2118	Oracle
+TMsoftware as a service OR sass1411	Microsoft
+TMforce.com1604	Yahoo
+TMforce.com548	Google
+TMforce.com1570	eBay
+TMcloud computing OR clouds computing2075	TechCrunch
+TMcloud computing OR clouds computing2263	General Services Administration
+TMplatform as a service1511	Microsoft
+TMazure1312	Microsoft
+TMhadoop2433	Yahoo
+TMazure400	Amazon
+TMsalesforce698	Facebook
+TMsalesforce683	Google
+TMforce.com340	Apple
+TMcloud computing OR clouds computing2235	Wall Street Journal
+TMgoogle apps1863	Microsoft
+TMforce.com1260	Intel
+TMforce.com1148	Nasdaq
+TMapp engine OR google app engine OR app engines OR google app engines128	Yahoo
+TMsoftware as a service OR sass1534	CSC
+TMapp engine OR google app engine OR app engines OR google app engines133	Google
+TMnetsuite2489	Wall Street Journal
+TMforce.com958	Microsoft
+TMforce.com1238	Apple
+TMplatform as a service2473	Facebook
+TMmicrosoft online1693	Yahoo
+TMgoogle apps1813	Google
+TMforce.com896	Microsoft
+TMcloud computing OR clouds computing2078	Google
+TMgoogle apps1789	Microsoft
+TMapp engine OR google app engine OR app engines OR google app engines1461	Yahoo
+TMforce.com904	Google
+TMforce.com255	Microsoft
+TMforce.com1117	Yahoo
+TMazure1327	Amazon
+TMcloud computing OR clouds computing2284	Microsoft
+TMforce.com1187	Yahoo
+TMcloud computing OR clouds computing2328	Google
+TMgoogle apps1775	Nokia
+TMforce.com318	Yahoo
+TMhadoop2145	National Science Foundation
+TMgoogle apps387	Apple
+TMforce.com1033	Sun
+TMforce.com1253	Microsoft
+TMcloud computing OR clouds computing2054	Google
+TMforce.com546	TechCrunch
+TMforce.com993	Federal Communications Commission
+TMforce.com1239	Apple
+TMplatform as a service1477	Cisco
+TMgoogle apps745	Sun
+TMapp engine OR google app engine OR app engines OR google app engines106	Twitter
+TMforce.com280	Yahoo
+TMgoogle apps392	America Online
+TMforce.com934	eBay
+TMcloud computing OR clouds computing2242	Comcast
+TMforce.com288	News Corporation
+TMcloud computing OR clouds computing2052	Microsoft
+TMforce.com1114	Adobe
+TMplatform as a service2451	Nasdaq
+TMhive OR hadoop hive1493	eBay
+TMsoftware as a service OR sass1379	Comcast
+TMcloud computing OR clouds computing2410	CNET
+TMinfrastructure as a service OR iass1293	Google
+TMforce.com267	Apple
+TMforce.com841	Los Angeles Times
+TMforce.com300	Nokia
+TMforce.com1181	Yahoo
+TMsoftware as a service OR sass35	America Online
+TMforce.com471	Research In Motion
+TMsalesforce724	Google
+TMforce.com839	TechCrunch
+TMforce.com527	Google
+TMgoogle apps1799	Microsoft
+TMforce.com1155	Yahoo
+TMgoogle apps1829	TechCrunch
+TMcloud computing OR clouds computing2249	Yahoo
+TMmicrosoft online1672	America Online
+TMforce.com380	Research In Motion
+TMforce.com306	BBC
+TMapp engine OR google app engine OR app engines OR google app engines1456	Oracle
+TMforce.com1213	Hewlett Packard
+TMsalesforce1925	Yahoo
+TMforce.com1097	Cisco
+TMsoftware as a service OR sass2130	Yahoo
+TMsalesforce623	Research In Motion
+TMsalesforce690	Google
+TMforce.com879	PeopleSoft
+TMsalesforce1941	Dell
+TMsoftware as a service OR sass1525	New York Times
+TMforce.com496	Microsoft
+TMforce.com1187	America Online
+TMgoogle apps1869	Microsoft
+TMforce.com833	Microsoft
+TMdistributed computing OR distributed comput1713	International Business Machines
+TMsoftware as a service OR sass2110	Nasdaq
+TMforce.com372	Apple
+TMcloud computing OR clouds computing2409	TechCrunch
+TMforce.com1033	Microsoft
+TMsoftware as a service OR sass1394	Microsoft
+TMcloud computing OR clouds computing2054	Amazon
+TMnetsuite151	Oracle
+TMsalesforce1876	Twitter
+TMsoftware as a service OR sass1353	Twitter
+TMseti@home1749	Amazon
+TMcloud computing OR clouds computing2156	Disney
+TMsalesforce1940	CNET
+TMmicrosoft online1655	Microsoft
+TMsalesforce716	International Business Machines
+TMforce.com537	Apple
+TMgoogle apps1814	International Business Machines
+TMsalesforce626	Twitter
+TMforce.com161	Comcast
+TMsalesforce699	Twitter
+TMforce.com564	Nasdaq
+TMgoogle apps65	Oracle
+TMgoogle apps385	Oracle
+TMsoftware as a service OR sass1406	Microsoft
+TMcloud computing OR clouds computing2261	Apple
+TMgoogle apps1806	Google
+TMmicrosoft online1677	America Online
+TMcloud computing OR clouds computing2024	International Business Machines
+TMforce.com199	Microsoft
+TMforce.com912	Apple
+TMmicrosoft online1696	Google
+TMinfrastructure as a service OR iass381	Yahoo
+TMforce.com374	Microsoft
+TMmicrosoft online2485	Yahoo
+TMapp engine OR google app engine OR app engines OR google app engines129	Google
+TMazure1332	Google
+TMforce.com910	Nokia
+TMforce.com438	Apple
+TMnetsuite1951	Yahoo
+TMsoftware as a service OR sass1549	Yahoo
+TMcloud computing OR clouds computing2218	Microsoft
+TMcloud computing OR clouds computing2012	TechCrunch
+TMforce.com448	Google
+TMcloud computing OR clouds computing1983	Cisco
+TMforce.com320	Cisco
+TMforce.com1021	America Online
+TMforce.com519	Google
+TMsoftware as a service OR sass1429	Microsoft
+TMforce.com984	Microsoft
+TMworkday OR workdays18	New York Times
+TMcloud computing OR clouds computing2157	Microsoft
+TMforce.com254	Yahoo
+TMsalesforce643	Bungee Labs
+TMsalesforce639	Microsoft
+TMsoftware as a service OR sass1392	Yahoo
+TMforce.com1054	International Business Machines
+TMprivate cloud OR private clouds1681	Oracle
+TMforce.com1206	Yahoo
+TMapp engine OR google app engine OR app engines OR google app engines145	Microsoft
+TMazure415	Los Angeles Times
+TMsalesforce1732	Nasdaq
+TMcloud computing OR clouds computing2344	Apple
+TMmicrosoft online1711	Yahoo
+TMforce.com218	CNET
+TMsoftware as a service OR sass1552	Intel
+TMforce.com1032	Stanford
+TMcloud computing OR clouds computing2171	Yahoo
+TMsalesforce621	Palm
+TMcloud computing OR clouds computing2317	Apple
+TMgoogle apps729	Google
+TMforce.com896	Yahoo
+TMgoogle apps1803	Google
+TMforce.com158	Amazon
+TMforce.com836	Microsoft
+TMforce.com267	Cisco
+TMworkday OR workdays1648	Sony
+TMgoogle apps1857	Google
+TMnetsuite1951	Nasdaq
+TMgoogle apps1779	Microsoft
+TMsoftware as a service OR sass2105	Google
+TMcloud computing OR clouds computing2245	eBay
+TMazure1313	CNET
+TMcloud computing OR clouds computing2292	Hewlett Packard
+TMsoftware as a service OR sass1405	International Business Machines
+TMforce.com1601	Yahoo
+TMhadoop2144	Facebook
+TMcloud computing OR clouds computing2423	New York Times
+TMcloud computing OR clouds computing2373	Microsoft
+TMcloud computing OR clouds computing2201	Google
+TMforce.com306	Apple
+TMforce.com207	CNET
+TMengine yard1744	Facebook
+TMgoogle apps1762	Microsoft
+TMforce.com849	Google
+TMmicrosoft online1711	Microsoft
+TMcloud computing OR clouds computing2041	Amazon
+TMsalesforce683	Sony
+TMgoogle apps818	Google
+TMforce.com1590	Yahoo
+TMforce.com272	Nokia
+TMforce.com228	Facebook
+TMforce.com291	Google
+TMazure1336	Microsoft
+TMinfrastructure as a service OR iass1289	EMC
+TMsoftware as a service OR sass1439	Apple
+TMsoftware as a service OR sass2184	America Online
+TMforce.com1120	Google
+TMgoogle apps82	TechCrunch
+TMforce.com1283	Apple
+TMcloud computing OR clouds computing2386	Wall Street Journal
+TMgoogle apps1795	Google
+TMforce.com1157	Comcast
+TMcloud computing OR clouds computing2389	Microsoft
+TMhadoop2430	Sony
+TMsoftware as a service OR sass2106	Microsoft
+TMforce.com496	Yahoo
+TMcloud computing OR clouds computing2361	Twitter
+TMsalesforce666	Nasdaq
+TMforce.com1054	Microsoft
+TMforce.com1590	News Corporation
+TMplatform as a service2469	Bungee Labs
+TMworkday OR workdays1644	PeopleSoft
+TMforce.com306	Nokia
+TMcloud computing OR clouds computing2295	Comcast
+TMforce.com1141	Wall Street Journal
+TMforce.com257	International Business Machines
+TMgoogle apps756	Google
+TMsoftware as a service OR sass1381	Sony
+TMforce.com1138	Microsoft
+TMsoftware as a service OR sass1380	Sony
+TMsalesforce676	International Business Machines
+TMcloud computing OR clouds computing2210	Hewlett Packard
+TMforce.com845	Nasdaq
+TMdryadlinq93	Microsoft
+TMforce.com440	Yahoo
+TMsoftware as a service OR sass2188	Microsoft
+TMnetsuite151	Dell
+TMforce.com1038	Federal Communications Commission
+TMforce.com322	Hasbro
+TMgoogle apps734	International Business Machines
+TMforce.com1105	Sony
+TMapp engine OR google app engine OR app engines OR google app engines127	International Business Machines
+TMcloud computing OR clouds computing1994	Apple
+TMmicrosoft online2479	Microsoft
+TMhive OR hadoop hive1497	Facebook
+TMazure1720	Apple
+TMcloud computing OR clouds computing2163	International Business Machines
+TMhadoop2151	Google
+TMcloud computing OR clouds computing2081	Intel
+TMforce.com277	Sun
+TMforce.com1105	Microsoft
+TMforce.com1234	International Business Machines
+TMcloud computing OR clouds computing1978	Microsoft
+TMsalesforce697	Yahoo
+TMsalesforce1944	Nokia
+TMgoogle apps1803	Adobe
+TMsalesforce723	EMC
+TMforce.com850	Research In Motion
+TMsoftware as a service OR sass1552	Oracle
+TMazure1304	Microsoft
+TMgoogle apps1862	Google
+TMforce.com1274	Supreme Court
+TMplatform as a service1466	eBay
+TMcloud computing OR clouds computing1499	Sun
+TMsalesforce606	Facebook
+TMforce.com308	Yahoo
+TMsoftware as a service OR sass1393	Intel
+TMinfrastructure as a service OR iass1290	Intel Capital
+TMgoogle apps1854	Google
+TMapp engine OR google app engine OR app engines OR google app engines119	Research In Motion
+TMforce.com1268	Wall Street Journal
+TMhadoop2436	Intel
+TMforce.com879	Oracle
+TMplatform as a service98	Yahoo
+TMcloud computing OR clouds computing2422	Hewlett Packard
+TMmicrosoft online1703	Sony
+TMforce.com860	New York Times
+TMforce.com979	News Corporation
+TMgoogle apps57	Microsoft
+TMsalesforce666	Microsoft
+TMforce.com1137	Comcast
+TMsalesforce626	Amazon
+TMsoftware as a service OR sass1401	Google
+TMworkday OR workdays1636	Yahoo
+TMgoogle apps1846	Microsoft
+TMforce.com548	Disney
+TMapp engine OR google app engine OR app engines OR google app engines117	Microsoft
+TMapp engine OR google app engine OR app engines OR google app engines135	Google
+TMforce.com181	America Online
+TMsoftware as a service OR sass1515	Apple
+TMplatform as a service2462	TechCrunch
+TMsalesforce705	TechCrunch
+TMapp engine OR google app engine OR app engines OR google app engines1461	Twitter
+TMcloud computing OR clouds computing2223	Microsoft
+TMforce.com1133	Google
+TMinfrastructure as a service OR iass7	Amazon
+TMcloud computing OR clouds computing1994	Google
+TMhadoop2437	Google
+TMsoftware as a service OR sass1392	Facebook
+TMworkday OR workdays18	Google
+TMmicrosoft online1674	Yahoo
+TMprivate cloud OR private clouds1678	Twitter
+TMapp engine OR google app engine OR app engines OR google app engines117	Google
+TMapp engine OR google app engine OR app engines OR google app engines1449	Google
+TMazure1324	Hasbro
+TMcloud computing OR clouds computing2419	Yahoo
+TMcloud computing OR clouds computing2309	New York Times
+TMsalesforce658	Oracle
+TMprivate cloud OR private clouds1691	Hewlett Packard
+TMcloud computing OR clouds computing2429	Facebook
+TMcloud computing OR clouds computing2157	Google
+TMforce.com445	Wall Street Journal
+TMforce.com1057	New York Times
+TMforce.com1613	Nasdaq
+TMforce.com1603	News Corporation
+TMworkday OR workdays2142	America Online
+TMforce.com548	Microsoft
+TMazure1334	Apple
+TMapp engine OR google app engine OR app engines OR google app engines133	TechCrunch
+TMforce.com306	Microsoft
+TMcloud computing OR clouds computing2270	Yahoo
+TMsalesforce1940	International Business Machines
+TMsoftware as a service OR sass1396	Sony
+TMnetsuite151	Microsoft
+TMsalesforce633	LinkedIn
+TMforce.com566	Apple
+TMsalesforce632	Twitter
+TMforce.com351	Research In Motion
+TMhive OR hadoop hive2176	Consumer Watchdog
+TMforce.com1597	University of California
+TMgoogle apps1819	Google
+TMforce.com204	Sun
+TMgoogle apps384	Microsoft
+TMforce.com1197	Yahoo
+TMsalesforce705	Disney
+TMforce.com534	Google
+TMgoogle apps54	Google
+TMforce.com376	Apple
+TMforce.com1263	Amazon
+TMazure414	Azure Capital
+TMsalesforce696	Facebook
+TMcloud computing OR clouds computing2244	New York Times
+TMforce.com1219	Microsoft
+TMmicrosoft online1660	Yahoo
+TMforce.com187	Twitter
+TMsalesforce727	Microsoft
+TMsalesforce643	Amazon
+TMazure1329	America Online
+TMcloud computing OR clouds computing2015	Congress
+TMcloud computing OR clouds computing2162	Dell
+TMsalesforce602	Wall Street Journal
+TMinfrastructure as a service OR iass10	Amazon
+TMcloud computing OR clouds computing2062	Google
+TMforce.com1032	Google
+TMgoogle apps1858	General Electric
+TMcloud computing OR clouds computing2003	Adobe
+TMforce.com1243	Google
+TMgoogle apps1812	Microsoft
+TMforce.com963	Yahoo
+TMforce.com994	Cisco
+TMforce.com1086	Microsoft
+TMforce.com993	Research In Motion
+TMmicrosoft online1699	Yahoo
+TMsalesforce1442	eBay
+TMsalesforce636	Yahoo
+TMgoogle apps733	CNN
+TMsalesforce615	Microsoft
+TMforce.com326	Twitter
+TMcloud computing OR clouds computing2098	Microsoft
+TMgoogle apps1782	Microsoft
+TMsalesforce1944	Facebook
+TMforce.com202	eBay
+TMforce.com833	Yahoo
+TMcloud computing OR clouds computing2045	Google
+TMforce.com1033	Wikipedia
+TMsoftware as a service OR sass1372	Microsoft
+TMforce.com1137	Yahoo
+TMsalesforce712	CNET
+TMcloud computing OR clouds computing2319	CSC
+TMsalesforce1883	Federal Communications Commission
+TMcloud computing OR clouds computing2194	Amazon
+TMforce.com840	Microsoft
+TMgoogle apps1814	Google
+TMprivate cloud OR private clouds1680	Intel
+TMsalesforce665	Microsoft
+TMforce.com278	Google
+TMgoogle apps751	Google
+TMcloud computing OR clouds computing2015	Yahoo
+TMcloud computing OR clouds computing2329	Research In Motion
+TMforce.com448	Yahoo
+TMworkday OR workdays1635	American Express
+TMazure410	Microsoft
+TMworkday OR workdays1627	Twitter
+TMhive OR hadoop hive2172	Apple
+TMsoftware as a service OR sass35	TechCrunch
+TMsalesforce1910	Microsoft
+TMplatform as a service1500	Facebook
+TMplatform as a service2447	EMC
+TMdistributed computing OR distributed comput1488	Yahoo
+TMapp engine OR google app engine OR app engines OR google app engines124	Google
+TMforce.com1174	General Electric
+TMinfrastructure as a service OR iass1292	Amazon
+TMmicrosoft online1676	Yahoo
+TMmicrosoft online1710	Yahoo
+TMforce.com178	New York Times
+TMforce.com244	Twitter
+TMsoftware as a service OR sass1542	Microsoft
+TMforce.com1097	Hewlett Packard
+TMsoftware as a service OR sass2187	eBay
+TMgoogle apps80	Microsoft
+TMforce.com1596	News Corporation
+TMapp engine OR google app engine OR app engines OR google app engines133	Amazon
+TMcloud computing OR clouds computing2026	Intel
+TMdistributed computing OR distributed comput1489	Intel
+TMsoftware as a service OR sass1378	Facebook
+TMapp engine OR google app engine OR app engines OR google app engines132	Twitter
+TMforce.com1275	Google
+TMsalesforce697	Facebook
+TMsalesforce1733	Intel
+TMapp engine OR google app engine OR app engines OR google app engines134	Microsoft
+TMsoftware as a service OR sass2184	Google
+TMsalesforce1898	Sun
+TMsalesforce671	Twitter
+TMcloud computing OR clouds computing1973	Intel
+TMcloud computing OR clouds computing2313	Intel
+TMsalesforce706	Microsoft
+TMforce.com313	Sun
+TMforce.com841	Congress
+TMmicrosoft online1652	Yahoo
+TMsoftware as a service OR sass2120	Yahoo
+TMforce.com1048	eBay
+TMforce.com1070	Apple
+TMcloud computing OR clouds computing2279	Facebook
+TMdistributed computing OR distributed comput1490	Stanford
+TMhybrid cloud OR hybrid clouds1470	Microsoft
+TMsoftware as a service OR sass1518	Nasdaq
+TMdistributed computing OR distributed comput1484	International Business Machines
+TMforce.com1115	Facebook
+TMforce.com198	Facebook
+TMsalesforce723	TechCrunch
+TMforce.com1028	Nasdaq
+TMsalesforce722	Cisco
+TMsalesforce598	Sun
+TMforce.com955	Yahoo
+TMsoftware as a service OR sass1395	Nasdaq
+TMgoogle apps76	Google
+TMforce.com353	International Business Machines
+TMapp engine OR google app engine OR app engines OR google app engines110	Apple
+TMgoogle apps751	Twitter
+TMgoogle apps778	Yahoo
+TMforce.com559	Dell
+TMcloud computing OR clouds computing2171	Microsoft
+TMmicrosoft online1705	Yahoo
+TMforce.com1122	Microsoft
+TMapp engine OR google app engine OR app engines OR google app engines119	Nokia
+TMhadoop2433	Microsoft
+TMgoogle apps1811	Twitter
+TMforce.com1583	Sony
+TMsalesforce701	Yahoo
+TMforce.com346	Research In Motion
+TMforce.com233	Google
+TMgoogle apps60	Facebook
+TMforce.com329	Palm
+TMcloud computing OR clouds computing2000	Wall Street Journal
+TMsalesforce1872	Dell
+TMmicrosoft online1698	Yahoo
+TMmicrosoft online1656	Google
+TMforce.com540	Stanford
+TMcloud computing OR clouds computing2168	Google
+TMcloud computing OR clouds computing2053	Wall Street Journal
+TMcloud computing OR clouds computing2379	Dell
+TMforce.com1174	Disney
+TMplatform as a service2460	Yahoo
+TMgoogle apps1865	Yahoo
+TMforce.com448	Cisco
+TMapp engine OR google app engine OR app engines OR google app engines129	General Electric
+TMhive OR hadoop hive1000	America Online
+TMforce.com857	Wall Street Journal
+TMhadoop2146	Twitter
+TMazure411	America Online
+TMsalesforce679	Amazon
+TMforce.com453	New York Times
+TMdistributed computing OR distributed comput49	CNN
+TMsoftware as a service OR sass1524	Apple
+TMforce.com156	Facebook
+TMforce.com1125	Facebook
+TMsoftware as a service OR sass2187	Joyent
+TMforce.com494	Google
+TMgoogle apps382	Google
+TMcloud computing OR clouds computing2223	Yahoo
+TMforce.com264	Yahoo
+TMgoogle apps64	Microsoft
+TMdistributed computing OR distributed comput1484	Sony
+TMforce.com478	Microsoft
+TMhadoop2437	National Science Foundation
+TMsalesforce1948	Microsoft
+TMapp engine OR google app engine OR app engines OR google app engines108	Microsoft
+TMhive OR hadoop hive1493	Yahoo
+TMgoogle apps1846	Amazon
+TMcloud computing OR clouds computing2060	Google
+TMsalesforce1899	Federal Communications Commission
+TMsalesforce1912	America Online
+TMcloud computing OR clouds computing2379	Twitter
+TMforce.com1119	Nasdaq
+TMforce.com306	TechCrunch
+TMforce.com253	Yahoo
+TMforce.com1101	Google
+TMforce.com206	Google
+TMinfrastructure as a service OR iass2	Microsoft
+TMplatform as a service94	Comcast
+TMmicrosoft online1697	Microsoft
+TMcloud computing OR clouds computing2032	Amazon
+TMgoogle apps773	Yahoo
+TMforce.com338	TechCrunch
+TMsoftware as a service OR sass1368	Intel
+TMsoftware as a service OR sass1357	Palm
+TMsalesforce1731	Apple
+TMgoogle apps1827	General Electric
+TMazure399	LinkedIn
+TMforce.com319	Yahoo
+TMplatform as a service1476	Wall Street Journal
+TMcloud computing OR clouds computing2402	Twitter
+TMmicrosoft online1693	Microsoft
+TMforce.com446	Microsoft
+TMsoftware as a service OR sass2132	Yahoo
+TMsalesforce649	Microsoft
+TMsoftware as a service OR sass1376	Apple
+TMsoftware as a service OR sass1427	Apple
+TMforce.com329	TechCrunch
+TMforce.com984	America Online
+TMgoogle apps1863	Yahoo
+TMapp engine OR google app engine OR app engines OR google app engines1454	Microsoft
+TMforce.com1197	America Online
+TMforce.com978	CNN
+TMazure1332	Wall Street Journal
+TMgoogle apps388	Microsoft
+TMcloud computing OR clouds computing2214	Intel Capital
+TMazure1332	Oracle
+TMforce.com1116	Congress
+TMgoogle apps786	America Online
+TMforce.com1140	America Online
+TMforce.com1236	Microsoft
+TMcloud computing OR clouds computing2381	Intel
+TMforce.com1032	Congress
+TMplatform as a service1506	Yahoo
+TMmicrosoft online1662	Research In Motion
+TMplatform as a service2462	Apple
+TMforce.com445	Research In Motion
+TMhadoop2433	International Business Machines
+TMcloud computing OR clouds computing2364	Sony
+TMsoftware as a service OR sass2130	Microsoft
+TMforce.com952	Comcast
+TMforce.com1213	Comcast
+TMforce.com1602	Apple
+TMforce.com537	Dell
+TMforce.com1244	Google
+TMsalesforce698	Oracle
+TMsalesforce1929	Yahoo
+TMazure397	Microsoft
+TMmicrosoft online1676	Microsoft
+TMforce.com1203	EMI
+TMdistributed computing OR distributed comput1286	Microsoft
+TMcloud computing OR clouds computing2399	Microsoft
+TMforce.com908	Oracle
+TMgoogle apps802	Microsoft
+TMgoogle apps729	Cisco
+TMmicrosoft online2481	Google
+TMforce.com220	Apple
+TMforce.com321	Amazon
+TMhadoop2433	Amazon
+TMcloud computing OR clouds computing2277	Adobe
+TMmicrosoft online1697	Yahoo
+TMforce.com943	Microsoft
+TMdistributed computing OR distributed comput1486	Amazon
+TMforce.com944	Microsoft
+TMsalesforce1731	Oracle
+TMforce.com539	Apple
+TMforce.com857	Yahoo
+TMgoogle apps1832	TechCrunch
+TMforce.com1235	Research In Motion
+TMplatform as a service1508	Google
+TMcloud computing OR clouds computing2044	Yahoo
+TMgoogle apps79	Microsoft
+TMcloud computing OR clouds computing2203	EMC
+TMforce.com1586	Apple
+TMcloud computing OR clouds computing1973	Apple
+TMforce.com951	CNN
+TMapp engine OR google app engine OR app engines OR google app engines123	Google
+TMcloud computing OR clouds computing2223	Apple
+TMforce.com283	CNET
+TMcloud computing OR clouds computing1972	Microsoft
+TMgoogle apps69	Microsoft
+TMsoftware as a service OR sass1421	America Online
+TMgoogle apps1774	Google
+TMmicrosoft online1619	Yahoo
+TMforce.com374	Yahoo
+TMnetsuite2488	Sony
+TMforce.com232	Nokia
+TMforce.com1032	Sony
+TMforce.com1184	Comcast
+TMsalesforce703	TechCrunch
+TMforce.com1585	Amazon
+TMforce.com961	Yahoo
+TMcloud computing OR clouds computing2061	Amazon
+TMgoogle apps66	Adobe
+TMsalesforce1934	Twitter
+TMgoogle apps1775	Microsoft
+TMdistributed computing OR distributed comput1486	Yahoo
+TMforce.com996	Research In Motion
+TMsalesforce598	International Business Machines
+TMgoogle apps1796	Apple
+TMcloud computing OR clouds computing2294	New York Times
+TMazure1329	Azure Capital
+TMforce.com1590	Microsoft
+TMcloud computing OR clouds computing2096	EMC
+TMforce.com1590	Comcast
+TMforce.com554	Sony
+TMgoogle apps92	International Business Machines
+TMsoftware as a service OR sass1380	Yahoo
+TMforce.com494	TechCrunch
+TMsoftware as a service OR sass2124	Adobe
+TMprivate cloud OR private clouds1690	Federal Communications Commission
+TMgoogle apps57	Google
+TMsalesforce708	EMC
+TMsalesforce1911	Adobe
+TMgoogle apps746	Yahoo
+TMforce.com261	Microsoft
+TMcloud computing OR clouds computing2224	Microsoft
+TMsoftware as a service OR sass1358	Microsoft
+TMsalesforce605	Sun
+TMnetsuite1723	Palm
+TMforce.com1033	America Online
+TMforce.com945	Apple
+TMgoogle apps1828	CNN
+TMforce.com343	Google
+TMcloud computing OR clouds computing2393	Sun
+TMcloud computing OR clouds computing2207	Intel
+TMgoogle apps74	Microsoft
+TMmicrosoft online1672	Yahoo
+TMforce.com1577	America Online
+TMforce.com434	Yahoo
+TMforce.com1067	Yahoo
+TMsoftware as a service OR sass2124	Yahoo
+TMhive OR hadoop hive2176	Apple
+TMsalesforce1899	Apple
+TMsoftware as a service OR sass1566	Microsoft
+TMgoogle apps1823	Facebook
+TMgoogle apps831	Microsoft
+TMmicrosoft online2481	Adobe
+TMforce.com237	Facebook
+TMcloud computing OR clouds computing2380	Microsoft
+TMsalesforce1732	Yahoo
+TMgoogle apps87	Google
+TMcloud computing OR clouds computing2412	Apple
+TMsoftware as a service OR sass2188	Apple
+TMforce.com1049	Adobe
+TMinfrastructure as a service OR iass1297	Wall Street Journal
+TMforce.com1148	Apple
+TMforce.com968	CNN
+TMcloud computing OR clouds computing2280	Nokia
+TMcloud computing OR clouds computing2251	Microsoft
+TMcloud computing OR clouds computing2422	Amazon
+TMcloud computing OR clouds computing2419	Hewlett Packard
+TMcloud computing OR clouds computing2025	Apache Software Foundation
+TMsoftware as a service OR sass1515	Google
+TMsoftware as a service OR sass2123	Apple
+TMsoftware as a service OR sass1535	Hewlett Packard
+TMgoogle apps1807	Microsoft
+TMapp engine OR google app engine OR app engines OR google app engines1464	Google
+TMforce.com839	Yahoo
+TMsalesforce1898	Microsoft
+TMcloud computing OR clouds computing2026	Hewlett Packard
+TMsalesforce1912	Microsoft
+TMhive OR hadoop hive2175	Microsoft
+TMsoftware as a service OR sass28	Yahoo
+TMforce.com1132	International Business Machines
+TMforce.com270	Apple
+TMsoftware as a service OR sass2115	Nasdaq
+TMgoogle apps800	Google
+TMforce.com313	International Business Machines
+TMplatform as a service1473	Yahoo
+TMforce.com923	Microsoft
+TMforce.com1228	Wikipedia
+TMsalesforce643	Oracle
+TMcloud computing OR clouds computing2355	International Business Machines
+TMforce.com244	CNET
+TMsoftware as a service OR sass1539	Microsoft
+TMsalesforce1891	Microsoft
+TMsalesforce1887	Microsoft
+TMcloud computing OR clouds computing2242	International Business Machines
+TMforce.com178	Wikipedia
+TMforce.com241	Apple
+TMsoftware as a service OR sass1518	Research In Motion
+TMsoftware as a service OR sass33	Amazon
+TMsoftware as a service OR sass1346	Microsoft
+TMmicrosoft online1673	Facebook
+TMforce.com1055	Comcast
+TMcloud computing OR clouds computing2007	Microsoft
+TMsoftware as a service OR sass1423	Bungee Labs
+TMforce.com887	Microsoft
+TMforce.com494	Oracle
+TMforce.com277	Oracle
+TMforce.com496	Federal Communications Commission
+TMcloud computing OR clouds computing2019	Nasdaq
+TMsalesforce693	Microsoft
+TMazure404	Microsoft
+TMcloud computing OR clouds computing2422	Microsoft
+TMforce.com298	Intel
+TMnetsuite1722	Research In Motion
+TMforce.com1166	Apple
+TMsoftware as a service OR sass1440	Microsoft
+TMforce.com1055	Nasdaq
+TMforce.com1587	Intel
+TMcloud computing OR clouds computing2333	Intel
+TMcloud computing OR clouds computing1963	Sun
+TMgoogle apps1808	Google
+TMsalesforce726	Yahoo
+TMforce.com326	Facebook
+TMforce.com495	Yahoo
+TMplatform as a service2459	International Business Machines
+TMforce.com438	Sun
+TMforce.com266	Facebook
+TMforce.com1596	Stanford
+TMnetsuite150	Google
+TMgoogle apps799	Google
+TMcloud computing OR clouds computing2240	Microsoft
+TMplatform as a service1473	Twitter
+TMprivate cloud OR private clouds1681	International Business Machines
+TMgoogle apps734	Microsoft
+TMsalesforce1912	Sony
+TMsalesforce1920	Google
+TMsalesforce685	CNET
+TMsoftware as a service OR sass2140	Oracle
+TMforce.com1213	Apple
+TMcloud computing OR clouds computing2243	America Online
+TMnetsuite1723	Federal Communications Commission
+TMplatform as a service1503	Facebook
+TMforce.com1608	Los Angeles Times
+TMcloud computing OR clouds computing2038	Yahoo
+TMforce.com484	Google
+TMgoogle apps92	Apple
+TMazure1307	Apple
+TMdistributed computing OR distributed comput1718	Amazon
+TMforce.com1598	Intel
+TMsalesforce1926	Sony
+TMforce.com848	America Online
+TMforce.com342	Congress
+TMcloud computing OR clouds computing2016	Cisco
+TMcloud computing OR clouds computing2209	Google
+TMcloud computing OR clouds computing2319	Amazon
+TMforce.com542	Google
+TMcloud computing OR clouds computing2328	Apple
+TMforce.com354	Microsoft
+TMforce.com1583	Nasdaq
+TMcloud computing OR clouds computing2328	Microsoft
+TMmicrosoft online2484	University of California
+TMforce.com1011	Dell
+TMsoftware as a service OR sass1427	Yahoo
+TMgoogle apps53	Google
+TMforce.com975	eBay
+TMforce.com1585	Google
+TMinfrastructure as a service OR iass381	TechCrunch
+TMforce.com1574	Google
+TMforce.com254	Congress
+TMcloud computing OR clouds computing1499	Oracle
+TMgoogle apps781	Dell
+TMgoogle apps1775	Apple
+TMcloud computing OR clouds computing2312	Google
+TMmicrosoft online1662	Yahoo
+TMforce.com306	Wall Street Journal
+TMgoogle apps1780	Microsoft
+TMworkday OR workdays1648	Yahoo
+TMsoftware as a service OR sass1385	Yahoo
+TMsoftware as a service OR sass1545	Google
+TMazure396	Azure Capital
+TMforce.com857	TechCrunch
+TMsoftware as a service OR sass1563	Microsoft
+TMsalesforce667	Adobe
+TMsalesforce716	Oracle
+TMhive OR hadoop hive2176	Yahoo
+TMforce.com971	Sony
+TMsalesforce684	LinkedIn
+TMgoogle apps388	Dell
+TMdistributed computing OR distributed comput1717	International Business Machines
+TMforce.com214	Yahoo
+TMforce.com313	Massachusetts Institute of Technology
+TMgoogle apps1769	Yahoo
+TMsoftware as a service OR sass2117	Hewlett Packard
+TMazure415	TechCrunch
+TMforce.com329	Nokia
+TMgoogle apps1836	Microsoft
+TMcloud computing OR clouds computing2065	International Business Machines
+TMhive OR hadoop hive1493	Sun
+TMforce.com457	TechCrunch
+TMforce.com1098	Microsoft
+TMcloud computing OR clouds computing2217	International Business Machines
+TMforce.com274	Dell
+TMnetsuite2487	NetSuite
+TMsalesforce1944	Microsoft
+TMhive OR hadoop hive1727	Microsoft
+TMsoftware as a service OR sass1534	Sun
+TMsalesforce721	Amazon
+TMforce.com1129	Yahoo
+TMsoftware as a service OR sass1535	Sun
+TMsoftware as a service OR sass1540	Apple
+TMazure1303	Twitter
+TMsalesforce649	Google
+TMforce.com1082	Apple
+TMforce.com903	Intel
+TMforce.com964	Microsoft
+TMsoftware as a service OR sass1357	Apple
+TMforce.com1600	Disney
+TMsoftware as a service OR sass1564	Microsoft
+TMforce.com307	Perot Systems
+TMcloud computing OR clouds computing2023	Adobe
+TMnetsuite1723	Research In Motion
+TMgoogle apps390	Microsoft
+TMforce.com273	Apple
+TMforce.com924	Research In Motion
+TMcloud computing OR clouds computing2426	Google
+TMplatform as a service1503	Wall Street Journal
+TMforce.com910	Apple
+TMforce.com890	Facebook
+TMforce.com917	Facebook
+TMsalesforce1873	Cisco
+TMsoftware as a service OR sass39	Microsoft
+TMsoftware as a service OR sass2183	Amazon
+TMcloud computing OR clouds computing2317	Massachusetts Institute of Technology
+TMcloud computing OR clouds computing2246	Apple
+TMforce.com365	Yahoo
+TMsalesforce1905	Yahoo
+TMforce.com906	Microsoft
+TMforce.com1082	Microsoft
+TMgoogle apps1864	Google
+TMforce.com285	Yahoo
+TMforce.com1023	Research In Motion
+TMcloud computing OR clouds computing2061	Yahoo
+TMgoogle apps1800	Amazon
+TMengine yard1744	CNN
+TMsalesforce1738	TechCrunch
+TMforce.com306	Twitter
+TMsalesforce676	Microsoft
+TMapp engine OR google app engine OR app engines OR google app engines107	Amazon
+TMforce.com1064	Apple
+TMengine yard1745	Azure Capital
+TMcloud computing OR clouds computing2384	CNET
+TMcloud computing OR clouds computing2060	Microsoft
+TMworkday OR workdays12	Google
+TMsalesforce602	Apple
+TMdistributed computing OR distributed comput1713	National Science Foundation
+TMforce.com835	Apple
+TMforce.com527	Yahoo
+TMcloud computing OR clouds computing1965	Amazon
+TMsoftware as a service OR sass1515	Microsoft
+TMsoftware as a service OR sass1521	Hewlett Packard
+TMforce.com1602	Wall Street Journal
+TMcloud computing OR clouds computing1966	Google
+TMplatform as a service96	Google
+TMworkday OR workdays1629	EMI
+TMcloud computing OR clouds computing2208	Google
+TMforce.com1107	Comcast
+TMforce.com1285	Research In Motion
+TMprivate cloud OR private clouds1685	Amazon
+TMsoftware as a service OR sass1560	Dell
+TMforce.com296	Comcast
+TMapp engine OR google app engine OR app engines OR google app engines126	Yahoo
+TMforce.com1588	Microsoft
+TMsoftware as a service OR sass1530	Sun
+TMgoogle apps1823	Amazon
+TMsoftware as a service OR sass1337	Sun
+TMgoogle apps58	Google
+TMforce.com1049	Facebook
+TMforce.com201	Cisco
+TMforce.com892	America Online
+TMforce.com320	Dell
+TMhadoop2150	Amazon
+TMforce.com1232	Congress
+TMhive OR hadoop hive1492	University of California
+TMforce.com424	Sony
+TMsoftware as a service OR sass1569	Nasdaq
+TMforce.com935	LinkedIn
+TMhive OR hadoop hive1493	Microsoft
+TMforce.com562	America Online
+TMapp engine OR google app engine OR app engines OR google app engines1454	Palm
+TMgoogle apps1792	Google
+TMforce.com970	Facebook
+TMsalesforce713	Research In Motion
+TMforce.com1032	Comcast
+TMgoogle apps777	Apple
+TMforce.com528	Disney
+TMapp engine OR google app engine OR app engines OR google app engines1465	Facebook
+TMforce.com1023	Adobe
+TMcloud computing OR clouds computing2014	Google
+TMcloud computing OR clouds computing2379	Amazon
+TMsoftware as a service OR sass2127	General Electric
+TMsoftware as a service OR sass1512	Apple
+TMforce.com1164	Wall Street Journal
+TMgoogle apps384	Apple
+TMplatform as a service95	Google
+TMcloud computing OR clouds computing2051	Oracle
+TMforce.com1274	Massachusetts Institute of Technology
+TMforce.com957	Microsoft
+TMgoogle apps1815	Microsoft
+TMhive OR hadoop hive2177	Facebook
+TMgoogle apps1803	Microsoft
+TMforce.com952	Research In Motion
+TMgoogle apps382	Oracle
+TMsalesforce663	America Online
+TMcloud computing OR clouds computing2379	Facebook
+TMforce.com1183	Apple
+TMforce.com945	Nokia
+TMazure1720	Cisco
+TMapp engine OR google app engine OR app engines OR google app engines129	Yahoo
+TMforce.com1192	Nokia
+TMforce.com265	Microsoft
+TMseti@home2154	National Science Foundation
+TMforce.com1582	Sony
+TMforce.com1277	Microsoft
+TMforce.com1605	America Online
+TMsoftware as a service OR sass1386	International Business Machines
+TMmicrosoft online1661	Microsoft
+TMforce.com539	Microsoft
+TMforce.com1224	Sony
+TMforce.com986	Apple
+TMplatform as a service95	Microsoft
+TMworkday OR workdays1632	Apple
+TMgoogle apps742	Google
+TMforce.com519	Yahoo
+TMnetsuite1467	Google
+TMsalesforce1890	Microsoft
+TMforce.com448	Microsoft
+TMmicrosoft online1667	Yahoo
+TMplatform as a service2450	Microsoft
+TMhadoop2149	Microsoft
+TMnetsuite1723	Dell
+TMforce.com1577	Microsoft
+TMforce.com493	eBay
+TMcloud computing OR clouds computing2380	Cisco
+TMsalesforce590	Microsoft
+TMforce.com178	CNN
+TMhadoop2430	Red Hat
+TMgoogle apps1754	Google
+TMforce.com497	Apple
+TMazure1309	Microsoft
+TMsoftware as a service OR sass2108	Sony
+TMforce.com307	Cisco
+TMazure1326	Microsoft
+TMforce.com356	Google
+TMgoogle apps814	Google
+TMsoftware as a service OR sass1517	International Business Machines
+TMazure1309	Apple
+TMsalesforce689	Oracle
+TMforce.com1200	Twitter
+TMplatform as a service2460	Research In Motion
+TMgoogle apps1842	Microsoft
+TMplatform as a service2443	Google
+TMforce.com525	TechCrunch
+TMgoogle apps1833	Google
+TMapp engine OR google app engine OR app engines OR google app engines1456	Google
+TMforce.com315	Palm
+TMforce.com330	Google
+TMsalesforce1930	Apple
+TMdistributed computing OR distributed comput1716	CNET
+TMforce.com530	Apple
+TMforce.com445	Yahoo
+TMforce.com968	New York Times
+TMforce.com903	Microsoft
+TMsoftware as a service OR sass2126	Federal Communications Commission
+TMplatform as a service1503	Yahoo
+TMplatform as a service2469	Oracle
+TMforce.com154	Yahoo
+TMsoftware as a service OR sass1385	Nasdaq
+TMcloud computing OR clouds computing2349	Wall Street Journal
+TMhive OR hadoop hive2175	Yahoo
+TMworkday OR workdays1633	Google
+TMforce.com879	Wall Street Journal
+TMgoogle apps86	Adobe
+TMforce.com529	Hewlett Packard
+TMforce.com1184	Cisco
+TMcloud computing OR clouds computing2009	Dell
+TMsalesforce1442	Yahoo
+TMazure411	Azure Capital
+TMforce.com457	Stanford
+TMforce.com264	Comcast
+TMforce.com464	Yahoo
+TMsoftware as a service OR sass1538	Apple
+TMhive OR hadoop hive1491	Sun
+TMazure1303	Amazon
+TMgoogle apps1827	Yahoo
+TMgoogle apps789	Microsoft
+TMcloud computing OR clouds computing2035	Intel
+TMforce.com320	Research In Motion
+TMforce.com366	Google
+TMforce.com564	Yahoo
+TMsalesforce610	Oracle
+TMsalesforce695	Google
+TMsalesforce712	Yahoo
+TMforce.com178	Facebook
+TMforce.com1275	Cisco
+TMcloud computing OR clouds computing2421	Google
+TMforce.com1268	Nasdaq
+TMforce.com1023	Microsoft
+TMforce.com199	Google
+TMhadoop2144	LinkedIn
+TMsoftware as a service OR sass1412	Microsoft
+TMcloud computing OR clouds computing2168	Hewlett Packard
+TMcloud computing OR clouds computing2391	Sun
+TMsalesforce1907	Twitter
+TMsalesforce606	Twitter
+TMforce.com282	Microsoft
+TMmicrosoft online2482	Research In Motion
+TMcloud computing OR clouds computing1967	Microsoft
+TMcloud computing OR clouds computing2362	Google
+TMcloud computing OR clouds computing2054	Microsoft
+TMforce.com240	Microsoft
+TMsalesforce1919	Wall Street Journal
+TMforce.com513	Congress
+TMforce.com1269	CNN
+TMgoogle apps1827	Microsoft
+TMforce.com280	Wall Street Journal
+TMcloud computing OR clouds computing2418	CNET
+TMcloud computing OR clouds computing2401	Cisco
+TMcloud computing OR clouds computing2226	Intel
+TMforce.com1043	Comcast
+TMgoogle apps729	Amazon
+TMmicrosoft online1659	Yahoo
+TMcloud computing OR clouds computing2383	Amazon
+TMprivate cloud OR private clouds1678	Google
+TMforce.com302	New York Times
+TMsalesforce691	Red Hat
+TMsalesforce629	Microsoft
+TMcloud computing OR clouds computing2092	Yahoo
+TMapp engine OR google app engine OR app engines OR google app engines126	TechCrunch
+TMsalesforce1732	Facebook
+TMplatform as a service1473	Microsoft
+TMcloud computing OR clouds computing2236	Microsoft
+TMsoftware as a service OR sass1395	Microsoft
+TMforce.com458	Nasdaq
+TMsoftware as a service OR sass1392	Cisco
+TMsalesforce597	Amazon
+TMazure1720	eBay
+TMsoftware as a service OR sass1549	Microsoft
+TMsalesforce1918	New York Times
+TMnetsuite1722	Wall Street Journal
+TMworkday OR workdays17	International Business Machines
+TMgoogle apps1827	Facebook
+TMmicrosoft online1622	Wall Street Journal
+TMhadoop2145	University of California
+TMforce.com518	Hewlett Packard
+TMsalesforce678	Adobe
+TMcloud computing OR clouds computing2160	Google
+TMgoogle apps58	Intel
+TMgoogle apps812	Microsoft
+TMforce.com350	Microsoft
+TMforce.com1188	Supreme Court
+TMsoftware as a service OR sass2102	Microsoft
+TMgoogle apps1782	Cisco
+TMsalesforce724	Joyent
+TMcloud computing OR clouds computing2313	Microsoft
+TMplatform as a service2456	Google
+TMplatform as a service2454	Microsoft
+TMcloud computing OR clouds computing2002	Unisys
+TMgoogle apps72	Microsoft
+TMforce.com1033	Oracle
+TMgoogle apps1814	Yahoo
+TMforce.com1601	Sony
+TMcloud computing OR clouds computing2010	CNET
+TMsoftware as a service OR sass2187	Microsoft
+TMsalesforce1734	Sony
+TMcloud computing OR clouds computing2080	Google
+TMcloud computing OR clouds computing2392	Microsoft
+TMforce.com994	Comcast
+TMsoftware as a service OR sass2121	eBay
+TMsoftware as a service OR sass1338	Microsoft
+TMforce.com1263	Microsoft
+TMsoftware as a service OR sass2183	Yahoo
+TMcloud computing OR clouds computing2410	Yahoo
+TMgoogle apps1800	Twitter
+TMforce.com1282	Apple
+TMcloud computing OR clouds computing2157	Sun

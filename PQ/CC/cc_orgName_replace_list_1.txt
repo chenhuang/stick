@@ -1,0 +1,54 @@
+The New York Times::REMOVE
+New York Times::REMOVE
+The Wall Street Journal::REMOVE
+Wall Street Journal::REMOVE
+Washington Post::REMOVE
+Los Angeles Times::REMOVE
+Chicago Tribune::REMOVE
+Christian Science Monitor::REMOVE 
+The Atlanta Journal-Constitution::REMOVE
+The Boston Globe::REMOVE
+Chicago Tribune::REMOVE
+The Denver Post::REMOVE
+USA Today::REMOVE
+Austin American Statesman::REMOVE
+Detroit News::REMOVE
+Honolulu Star Advertiser::REMOVE
+Las Vegas Review-Journal::REMOVE
+Minneapolis Star Tribune::REMOVE
+New York Daily News::REMOVE
+Oakland Tribune::REMOVE
+Orange County Register::REMOVE
+Philadelphia Inquirer::REMOVE
+Pittsburgh Post-Gazette::REMOVE
+San Antonio Express-News::REMOVE
+San Jose Mercury News::REMOVE
+South Florida Sun-Sentinel::REMOVE
+St. Louis Post-Dispatch::REMOVE
+St. Petersburg Times::REMOVE
+Dow Jones  Company Inc::REMOVE
+Mercedes-Benz::Mercedes
+Copyright Char - Koosta News Mar::Copyright Char - Koosta News Aug
+Washington Post::REMOVE
+Washington::REMOVE
+City Council::Council
+Washington Post Company::REMOVE
+Washington Post Company Apr::REMOVE
+The Times Credit::REMOVE
+The Times::REMOVE
+New York Times Company::REMOVE
+New York Times::REMOVE
+Metropolitan Opera House::Metropolitan Opera
+Microsoft Corp::Microsoft
+Department of Agriculture::Agriculture Department
+The Wall Street Journal::REMOVE
+Wall Street Journal::REMOVE
+Council::REMOVE
+FDA::Food and Drug Administration
+CIA::Central Intelligence Agency
+USC::University of Southern California
+SEC::Securities and Exchange Commission
+WTO::World Trade Organization
+KLM::REMOVE
+MTV::REMOVE
+UCLA::University of California, Los Angeles

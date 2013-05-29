@@ -1,0 +1,286 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<link rel="stylesheet" type="text/css" href="1024px.css" title="1024px" media="screen,projection" />
+<title>STICK</title>
+<style type="text/css">
+#sddm
+{	margin: 0;
+	padding: 0;
+	z-index: 30
+}
+
+#sddm li
+{	margin: 0;
+	padding: 0;
+	list-style: none;
+	float: left;
+	font: bold 11px arial;}
+
+#sddm li a
+{	display: block;
+	margin: 0 1px 0 0;
+	padding: 4px 10px;
+	width: 112px;
+	background: #006699;
+	color: #FFF;
+	text-align: center;
+	text-decoration: none}
+
+#sddm li a:hover
+{	background: #006699}
+
+#sddm div
+{	position: absolute;
+	visibility: hidden;
+	margin: 0;
+	padding: 0;
+	background: #EAEBD8;
+	border: 1px solid #006699}
+
+	#sddm div a
+	{	position: relative;
+		display: block;
+		margin: 0;
+		padding: 5px 10px;
+		width: auto;
+		white-space: nowrap;
+		text-align: left;
+		text-decoration: none;
+		background: #EAEBD8;
+		color: #2875DE;
+		font: 11px arial}
+
+	#sddm div a:hover
+	{	background: #006699;
+		color: #FFF}
+
+</style>
+
+<head>
+<script type="text/javascript" src="./lib/load.js"></script>
+</head>
+<body>
+
+
+<div class="center" id="wrap">
+<table>
+<tr>
+<td><img src="BugOnLeave.png" alt="" width="92" height="72" />
+</td> 
+<td></td>
+<td> 
+<p align=justify><font face="Verdana" size="6" color="#006699"> <strong>S</strong></font><strong><font face="Verdana" size="6" color="#006699">TICK</font><br />
+    <font face="Verdana" size="3" color="#006699"> Science &amp; Technology Innovation Concept Knowledge-base</font>      </b>
+    </strong></td>
+    </tr>
+    </table>
+<ul id="sddm">
+	<li><a href="index.htm">Home</a></li>
+    <li><a href="news.htm">News and Events</a></li>
+    <li><a href="project.htm"onmouseover="mopen('m2')" 
+        onmouseout="mclosetime()">About Us</a>
+       <div id="m2" 
+            onmouseover="mcancelclosetime()" 
+            onmouseout="mclosetime()">
+	<a href="project.htm">Project Description &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+	<a href="people.htm">Project Team</a>
+	
+        </div>
+    </li>
+    <li><a href="publications.htm">Publications</a></li>
+    <li><a href="details.html" 
+        onmouseover="mopen('m1')" 
+        onmouseout="mclosetime()">Details</a>
+       <div id="m1" 
+            onmouseover="mcancelclosetime()" 
+            onmouseout="mclosetime()">
+	<a href="innovation_ecosystem.html">Innovation Eco-System</a>
+	<a href="stick_framework.html">STICK Framework</a>
+	<a href="building_innovation_knowledgebase.html">Building Innovation Knowledge-base</a>
+	<a href="data_collection_processing.html">Data Collection and Processing</a>
+    <a href="innovation_ontology.html">Innovation Ontology</a>
+    <a href="data_analysis_and_visualization.html">Data Analysis and Visualization</a>
+    <a href="IT_innovations.html">Case 1: 200 IT Innovations</a>
+    <a href="cc_case.html">Case 2: Cloud Computing</a>
+    <a href="treemap_case.html">Case 3: Treemap Visualizations</a>
+   <a href="crmweb20_case.html">Case 4: CRM and Web2.0</a>
+     <a href="business_intelligence.html">Case 5: Business Intelligence</a>
+    <a href="next_step.html">The Next Step</a>
+    </div></li>
+    <li><a href="contact.htm">Contact</a></li>
+    
+
+</ul>
+<div style="clear:both"></div>
+<div>
+<div class="SubNav">
+ <br />
+  <p><font size=2 px><a href="index.htm">Home</a> &gt; <a href="details.html">Details</a>&gt; Data Chart
+</font></p>
+<p>
+</p>
+<br />
+</div>
+<p></p>
+<h2 id="next_step"><font color="#006699">Stick Data Chart</font></h2>
+
+<table>
+<tr>
+<td>
+</td>
+<td>
+Proquest
+</td>
+<td>
+ACM
+</td>
+<td>
+Patent
+</td>
+<td>
+Techmeme
+</td>
+</tr>
+<tr>
+<td>
+CRM
+</td>
+<td>
+<a href="http://stick.ischool.umd.edu/data/table/pq/CRM-trajectory.html">Details</a>
+</td>
+<td>
+<a href="http://stick.ischool.umd.edu/data/table/acm/CRM-trajectory.html">Details</a>
+</td>
+<td>
+<a href="http://stick.ischool.umd.edu/data/table/patent/CRM-trajectory.html">Details</a>
+</td>
+<td>
+<a href="http://stick.ischool.umd.edu/data/table/techmeme/CRM-trajectory.html">Details</a>
+</td>
+</tr>
+<tr>
+<td>
+Web2.0
+</td>
+<td>
+<a href="http://stick.ischool.umd.edu/data/table/pq/WEB-trajectory.html">Details</a>
+</td>
+<td>
+<a href="http://stick.ischool.umd.edu/data/table/acm/WEB-trajectory.html">Details</a>
+</td>
+<td>
+<a href="http://stick.ischool.umd.edu/data/table/patent/WEB-trajectory.html">Details</a>
+</td>
+<td>
+<a href="http://stick.ischool.umd.edu/data/table/techmeme/WEB-trajectory.html">Details</a>
+</td>
+</tr>
+<tr>
+<td>
+BI
+</td>
+<td>
+<a href="http://stick.ischool.umd.edu/data/table/pq/BI-trajectory.html">Details</a>
+</td>
+<td>
+<a href="http://stick.ischool.umd.edu/data/table/acm/BI-trajectory.html">Details</a>
+</td>
+<td>
+</td>
+<td>
+<a href="http://stick.ischool.umd.edu/data/table/techmeme/BI-trajectory.html">Details</a>
+</td>
+</tr>
+<tr>
+<td>
+CC
+</td>
+<td>
+<a href="http://stick.ischool.umd.edu/data/table/pq/CC-trajectory.html">Details</a>
+</td>
+<td>
+<a href="http://stick.ischool.umd.edu/data/table/acm/CC-trajectory.html">Details</a>
+</td>
+<td>
+</td>
+<td>
+<a href="http://stick.ischool.umd.edu/data/table/techmeme/CC-trajectory.html">Details</a>
+</td>
+</tr>
+<tr>
+<td>
+HIT
+</td>
+<td>
+<a href="http://stick.ischool.umd.edu/data/table/pq/HIT-trajectory.html">Details</a>
+</td>
+<td>
+<a href="http://stick.ischool.umd.edu/data/table/acm/HIT-trajectory.html">Details</a>
+</td>
+<td>
+</td>
+<td>
+<a href="http://stick.ischool.umd.edu/data/table/techmeme/HIT-trajectory.html">Details</a>
+</td>
+</tr>
+<tr>
+<td>
+PHR
+</td>
+<td>
+<a href="http://stick.ischool.umd.edu/data/table/pq/PHR-trajectory.html">Details</a>
+</td>
+<td>
+</td>
+<td>
+<a href="http://stick.ischool.umd.edu/data/table/patent/PHR-trajectory.html">Details</a>
+</td>
+<td>
+<a href="http://stick.ischool.umd.edu/data/table/techmeme/PHR-trajectory.html">Details</a>
+</td>
+</tr>
+<tr>
+<td>
+GreenIT
+</td>
+<td>
+<a href="http://stick.ischool.umd.edu/data/table/pq/GIT-trajectory.html">Details</a>
+</td>
+<td>
+</td>
+<td>
+<a href="http://stick.ischool.umd.edu/data/table/patent/GIT-trajectory.html">Details</a>
+</td>
+<td>
+<a href="http://stick.ischool.umd.edu/data/table/techmeme/GIT-trajectory.html">Details</a>
+</td>
+</tr>
+</table>
+<p></p>
+</div>
+<div id="footer">
+<table WIDTH="800" style="border-left-width: 0; border-right-width: 0; border-top-width: 0; border-bottom-style: solid; border-bottom-width: 0" id="AutoNumber1" >
+<tr>
+<td><img border="0" src="nsf%20logo.jpg" align="justify" width="35" height="32"></td>
+<td>This 
+project is supported by the National Science Foundation, </span>
+<span style="FONT-STYLE: italic; FONT-FAMILY: Verdana">Award Number </span>
+</font><i><span class="pageheadsubline"><strong style="font-weight: 400">
+<font size="2" face="Verdana" color="#006699">
+<a href="http://www.nsf.gov/awardsearch/showAward.do?AwardNumber=0915645" target="_blank" style="text-decoration: none">
+<font color="#006699">0915645</font></a></font></strong></span></i><font size="2" color="#666666"><span style="FONT-STYLE: italic; FONT-FAMILY: Verdana">
+</span><span style="font-family: Verdana; font-style:italic">
+under the </span>
+</font><span style="font-family: Verdana; font-style:italic">
+<a href="http://www.nsf.gov/funding/pgm_summ.jsp?pims_id=501084" target="_blank" style="text-decoration: none">
+<font size="2" color="#006699">Science of Science and Innovation Policy</font></a><a href="http://www.nsf.gov/funding/pgm_summ.jsp?pims_id=11678&org=NSF" style="text-decoration: none"><font size="2" color="#666666"> 
+program</font></a><font size="2" color="#666666">.</font></span>
+
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+</html>

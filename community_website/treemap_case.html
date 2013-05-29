@@ -1,0 +1,231 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<script type="text/javascript" src="http://stick.ischool.umd.edu/lib/load.js"></script>
+<script type="text/javascript" src="http://stick.ischool.umd.edu/lib/jquery-1.8.0.min.js"></script>
+<script type="text/javascript">
+            $(document).ready(function() {
+                draw_frame();
+            });
+</script>
+<link rel="stylesheet" type="text/css" href="http://stick.ischool.umd.edu/1024px.css" title="1024px" media="screen,projection" />
+<title>STICK</title>
+<style type="text/css"> 
+<!-- 
+
+.twoColLiqLtHdr #container { 
+	width: 800px;  /* 这将创建一个占据 80% 浏览器宽度的容器 */
+	background: #FFFFFF;
+	text-align: left; /* 这将覆盖 body 元素上的“text-align: center”。 */
+} 
+.twoColLiqLtHdr #header { 
+	/*padding: 0 10px;*/  /* 此填充会将出现在它后面的 div 中的元素左对齐。如果 #header 中使用的是图像（而不是文本），您最好删除填充。 */
+} 
+.twoColLiqLtHdr #header h1 {
+	margin: 0px; /* 将 #header div 中最后一个元素的边距设置为零将避免边距重叠（即 div 之间出现的无法解释的空白）。如果 div 周围有边框，则不必将边距设置为零，因为边框也会避免边距重叠 */
+	padding: 0px 0px; /* 使用填充而不使用边距将可以使元素远离 div 的边缘 */
+}
+
+/* sidebar1 提示：
+1. 由于我们使用的是百分比，因此最好不要在侧栏中使用填充。它将会新增至宽度，而让符合标准的浏览器建立未知的实际宽度。 
+2. 如果为 div 中的元素设置左边距和右边距，则会在 div 边缘和这些元素之间产生空白，如“.twoColLiqLtHdr #sidebar1 p”规则中所示。
+3. 由于 Explorer 会在父元素显示之后计算宽度，因此基于百分比的栏有时会出现无法解释的错误。如果您需要更可预见的结果，可选择改为以像素为单位设置栏的大小。
+*/
+.twoColLiqLtHdr #sidebar1 {
+	float: left; 
+	width: 159px; /* 由于此元素是浮动的，因此必须指定宽度 */
+	padding: 5px 0; /* 顶部和底部的填充将在该 div 中产生视觉空间 */
+}
+.twoColLiqLtHdr #sidebar1 h3, .twoColLiqLtHdr #sidebar1 p {
+	margin-left: 10px; /* 对于将要放在侧栏中的每个元素，都应当设置左边距和右边距 */
+	margin-right: 10px;
+}
+
+/* mainContent 提示：
+1. mainContent 和 sidebar1 之间的空白是由 mainContent div 的左边距创建的。无论 sidebar1 div 中包含多少内容，都将保留栏空白。如果您希望在 #sidebar1 中的内容结束时，用 #mainContent div 的文本填充 #sidebar1 空白，则可以删除此左边距。
+2. 为了避免在所支持的最小分辨率 800 x 600 下出现“浮动下降”，mainContent div 中的元素（包括图像）不应大于 430 像素。
+3. 在下面的 Internet Explorer 条件注释中，zoom 属性用来赋予 mainContent“hasLayout”。这会避免几个特定于 IE 的错误。
+*/
+.twoColLiqLtHdr #mainContent { 
+	margin: 0px 20px 0px 0px; /* 右边距可以用百分比或像素来指定，它会在页面的右下方产生空白。 */
+} 
+.twoColLiqLtHdr #footer { 
+	padding: 0 10px; /* 此填充会将它上面 div 中的所有元素左对齐。 */
+} 
+.twoColLiqLtHdr #footer p {
+	margin: 0; /* 将脚注中第一个元素的边距设置为零将避免出现可能的边距重叠（即 div 之间出现的空白）*/
+	padding: 10px 0; /* 就像边距会产生空白一样，此元素上的填充也将产生空白，但不会出现边距重叠问题 */
+}
+
+/* 要重用的各种类 */
+.fltrt { /* 此类可用来使页面中的元素向右浮动。浮动元素必须位于页面上要与之相邻的元素之前。 */
+	float: right;
+	margin-left: 8px;
+}
+.fltlft { /* 此类可用来使页面上的元素向左浮动 */
+	float: left;
+	margin-right: 8px;
+}
+.clearfloat { /* 此类应当放在 div 或 break 元素上，而且该元素应当是完全包含浮动的容器关闭之前的最后一个元素 */
+	clear:both;
+    height:0;
+    font-size: 1px;
+    line-height: 0px;
+}
+#sddm1
+{	margin: 0;
+	padding: 0;
+	z-index: 30}
+	
+#sddm1 li
+{	margin: 0;
+	padding: 0;
+	list-style: none;
+	float: left;
+	font: bold 13px arial;}
+
+#sddm
+{	margin: 0;
+	padding: 0;
+	z-index: 30}
+
+#sddm li
+{	margin: 0px;
+	padding: 0;
+	list-style: none;
+	float: left;
+	font: bold 11px arial;}
+
+#sddm li a
+{	display: block;
+	margin: 0 1px 0 0;
+	padding: 4px 10px;
+	width: 112px;
+	background: #006699;
+	color: #FFF;
+	text-align: center;
+	text-decoration: none}
+
+#sddm li a:hover
+{	background: #006699}
+
+#sddm div
+{	position: absolute;
+	visibility: hidden;
+	margin: 0;
+	padding: 0;
+	background: #EAEBD8;
+	border: 1px solid #006699}
+
+	#sddm div a
+	{	position: relative;
+		display: block;
+		margin: 0;
+		padding: 5px 10px;
+		width: auto;
+		white-space: nowrap;
+		text-align: left;
+		text-decoration: none;
+		background: #EAEBD8;
+		color: #2875DE;
+		font: 11px arial}
+
+	#sddm div a:hover
+	{	background: #006699;
+		color: #FFF}
+		
+--> 
+</style><!--[if IE]>
+<style type="text/css"> 
+/* 请将所有版本的 IE 的 css 修复放在这个条件注释中 */
+.twoColLiqLtHdr #sidebar1 { padding-top: 30px; }
+.twoColLiqLtHdr #mainContent { zoom: 1; padding-top: 15px; }
+/* 上面的专用 zoom 属性为 IE 提供避免错误所需的 hasLayout */
+</style>
+<![endif]-->
+
+<script type="text/javascript">
+// Copyright 2006-2007 javascript-array.com
+
+var timeout	= 500;
+var closetimer	= 0;
+var ddmenuitem	= 0;
+
+// open hidden layer
+function mopen(id)
+{	
+	// cancel close timer
+	mcancelclosetime();
+
+	// close old layer
+	if(ddmenuitem) ddmenuitem.style.visibility = 'hidden';
+
+	// get new layer and show it
+	ddmenuitem = document.getElementById(id);
+	ddmenuitem.style.visibility = 'visible';
+
+}
+// close showed layer
+function mclose()
+{
+	if(ddmenuitem) ddmenuitem.style.visibility = 'hidden';
+}
+
+// go close timer
+function mclosetime()
+{
+	closetimer = window.setTimeout(mclose, timeout);
+}
+
+// cancel close timer
+function mcancelclosetime()
+{
+	if(closetimer)
+	{
+		window.clearTimeout(closetimer);
+		closetimer = null;
+	}
+}
+
+// close layer when click-out
+document.onclick = mclose; 
+</script>
+
+</head>
+
+<body class="twoColLiqLtHdr">
+
+<div class="center" id="wrap"> 
+  <div>
+<div style="clear:both"></div>
+<div class="SubNav">
+ <br />
+  <p><font size=2 px><a href="index.htm">Home</a> &gt; <a href="details.html">Details</a>&gt; Case 3: Treemaps, ConeTrees and Hyperbolic Trees
+</font></p>
+<p>
+</p>
+<br />
+</div>
+  <!-- end #header --></div>
+
+
+  <div id="mainContent">
+<h3 id="treemap"><font color="#006699">Case 3: Treemaps, ConeTrees and Hyperbolic Trees</font></h3>
+<table WIDTH="800" style="border-left-width: 0; border-right-width: 0; border-top-width: 0; border-bottom-style: solid; border-bottom-width: 0" id="AutoNumber1" >
+	<tr><td><img src="TM.png" width="267"/><center><strong><font size="1">TreeMap</font></strong></center></td><td><img src="HT.png" width="267"/><center><strong><font size="1">Hyperpolic Tree</font></strong></center></td><td><img src="CT.png" width="267"/><center><strong><font size="1">ConeTree</font></strong></center></td></tr><tr></tr></table>
+The healthy outpouring of innovations from the information visualization community has raised important questions about how to measure the efficacy, adoption, and durability of these innovations. This case study reviews the trajectory of three information visualization innovations: treemaps, conetrees, and hyperbolic trees. These three ideas were first published in the early 1990s, so we are able to track academic publications, patents, trade press articles over almost two decades. We offers the information visualization community a history of how certain ideas evolved, influenced others, and were adopted for widespread use and provides example of how such trajectories of historical trends can be visualized. Guidance for innovators and future analysts is offered.
+<table WIDTH="800" style="border-left-width: 0; border-right-width: 0; border-top-width: 0; border-bottom-style: solid; border-bottom-width: 0" id="AutoNumber1" >
+	<tr><td><a href="vizs/publications for each term with fade out.png"><img src="vizs/publications for each term with fade out.png" width="380" height="350"/><center><strong><font size="1">publications for each term with fade out</font></strong></center></td><td><a href="vizs/citations for each term with fade out.png"><img src="vizs/citations for each term with fade out.png" width="380" height="350"/><center><strong><font size="1">citations for each term with fade out</font></strong></center></td></tr><tr></tr></table>
+<p>These line charts on the left show the number of trade press articles (top), academic papers (middle), and patents (bottom) published each year matching each innovation. Each line represents a different innovation: treemaps (TM/green), hyperbolic trees (HT/blue), and cone trees (CT/red). Note: the sharp fall in patent figures in the faded area may be to average 32-month USPTO processing time in 2005-2008. These line charts on the right show the number of citations academic papers (top) and patents (bottom) matching each innovation received each year. Each line represents a different innovation: treemaps (TM/green), hyperbolic trees (HT/blue), and cone trees (CT/red). Note: the sharp fall in patent figures in the faded area may be to average 32-month USPTO processing time in 2005-2008.  </p>
+ <table WIDTH="800" style="border-left-width: 0; border-right-width: 0; border-top-width: 0; border-bottom-style: solid; border-bottom-width: 0" id="AutoNumber1" >
+	<tr><td><a href="vizs/Citations for each publication.png"><img src="vizs/Citations for each publication.png" width="380" height="350"/><center><strong><font size="1">Citations for each publication</font></strong></center></td><td><a href="vizs/Citations for each publication line with fade out.png"><img src="vizs/Citations for each publication line with fade out.png" width="380" height="350"/><center><strong><font size="1">Citations for each publication line with fade out</font></strong></center></td></tr><tr></tr></table>
+    <p>The total number of citations each academic paper and patent receives  is plotted on the left, providing another measure of its influence. The number  of citations, or in-degree, a publication receives is plotted on the  vertical axis and the publication year is plotted on the horizontal.  The rows divide the innovations: cone trees (CT/top), hyperbolic trees  (HT/middle), and treemaps (TM/bottom) and the columns publication type:  academic papers (left) and patents right).</p>
+    <p>The citation trajectory of the two top cited academic papers and the  two patents with the most consistent or interesting citation patterns  is shown on the right. Each colored line represents a publication and indicates  how many citations it received each year. This provides another view of  their long-term impact. The rows divide the innovations: cone trees  (CT/top), hyperbolic trees (HT/middle), and treemaps (TM/bottom) and  the columns publication type: academic papers (left) and patents  right). Note: the sharp fall in patent figures in the faded area may be  to average 32-month USPTO processing time in 2005-2008.</p>
+  </div>
+
+
+	<!-- 这个用于清除浮动的元素应当紧跟 #mainContent div 之后，以便强制 #container div 包含所有的子浮动 --><br class="clearfloat" />
+<!-- end #container --></div>
+</body>
+</html>

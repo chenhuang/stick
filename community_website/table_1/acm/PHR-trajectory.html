@@ -1,0 +1,15 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head><link rel="stylesheet" type="text/css" href="http://stick.ischool.umd.edu/1024px.css" title="1024px" media="screen,projection" /><link rel="stylesheet" type="text/css" href="http://stick.ischool.umd.edu/style.css" title="1024px" media="screen,projection" /><title>STICK</title><head><script type="text/javascript" src="http://stick.ischool.umd.edu/lib/load.js"></script> <script type="text/javascript" src="http://stick.ischool.umd.edu/lib/jquery-1.8.0.min.js"></script> <script type="text/javascript"> $(document).ready(function() { draw_frame(); }); </script> </head> <body> <div class="center" id="wrap"> <div> <div class="SubNav"> <br /> <p><font size=2 px><a href="http://stick.ischool.umd.edu/index.htm">Home</a> &gt; <a href="http://stick.ischool.umd.edu/details.html">Details</a>&gt; <a href="http://stick.ischool.umd.edu/data_charts.html">Data Chart </a> </font></p> <p> </p> <br /> </div> <p></p> <h2><font color="#006699">Title</font></h2>
+<script>
+function load(elem){
+    if (elem.innerHTML == "show trajectory") {
+      document.getElementById(elem.id + "div").style.display = 'block';
+      elem.innerHTML = "hide trajectory"
+    } else {
+      document.getElementById(elem.id + "div").style.display = 'none';
+      elem.innerHTML = "show trajectory"
+    }
+}
+</script>
+<p><span style="font-size:12px;"><span style="font-family: arial,helvetica,sans-serif;">Personal Health Record&nbsp;&nbsp;&nbsp; <a href="http://stick.ischool.umd.edu/website/Patent/PHR/Personal_health_record.html" target="_blank">data chart</a></span></span>&nbsp; <a id="Personal_health_record" onclick="load(this)">show trajectory</a></p><div id="Personal_health_recorddiv" style="display:none"><script type="text/javascript" src="C:\Users\Jia Sun\Desktop\Patent\trajectory\Patent/PHR/Personal health record"></script></div>
+<p><span style="font-size:12px;"><span style="font-family: arial,helvetica,sans-serif;">Patient Portal&nbsp;&nbsp;&nbsp; <a href="http://stick.ischool.umd.edu/website/Patent/PHR/Patient_portal.html" target="_blank">data chart</a></span></span>&nbsp; <a id="Patient_portal" onclick="load(this)">show trajectory</a></p><div id="Patient_portaldiv" style="display:none"><script type="text/javascript" src="C:\Users\Jia Sun\Desktop\Patent\trajectory\Patent/PHR/Patient portal"></script></div>
+<p><span style="font-size:12px;"><span style="font-family: arial,helvetica,sans-serif;">Patient Health Record&nbsp;&nbsp;&nbsp; <a href="http://stick.ischool.umd.edu/website/Patent/PHR/Patient_health_record.html" target="_blank">data chart</a></span></span>&nbsp; <a id="Patient_health_record" onclick="load(this)">show trajectory</a></p><div id="Patient_health_recorddiv" style="display:none"><script type="text/javascript" src="C:\Users\Jia Sun\Desktop\Patent\trajectory\Patent/PHR/Patient health record"></script></div></div></div></body></html>

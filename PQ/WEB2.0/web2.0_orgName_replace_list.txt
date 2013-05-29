@@ -1,0 +1,34 @@
+Deutsche Postbank AG::Deutsche Bank
+United Pan-Europe Communications NV::United Pan-Europe Communications
+Ford Motor Co::Ford Motor Company
+Palm::REMOVE
+Siebel Systems Inc::Siebel Systems
+Vivendi Universal SA::Vivendi Universal
+Union Carbide Corporation::Union Carbide
+Provident::Provident Bank
+Oracle Corp::Oracle
+Wells Fargo Bank::Wells Fargo
+Washington Post Company Apr::REMOVE
+Delta::Dell
+Baptist Church::REMOVE
+Liberty Media Corp::Liberty Media
+Gartner Group::Gartner
+Yahoo!::Yahoo
+Time Warner Cable::Time Warner
+Trinity UCC::Trinity
+Compaq Computer::Compaq
+DMA::Direct Marketing Association
+WSJ::REMOVE
+RCI::Reed Consulting Inc
+BET::REMOVE
+AOL::America Online 
+FCC::Federal Communications Commission
+NATO::North Atlantic Treaty Organization
+PG::Procter & Gamble
+VA::REMOVE
+NDA::REMOVE
+GM::General Motors
+FTC::Federal Trade Commission
+UWC::REMOVE
+UCCLA::University Catholic Center 
+RSS::REMOVE

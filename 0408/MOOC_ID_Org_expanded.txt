@@ -1,0 +1,637 @@
+1237681361	Columbia
+1237681361	Carlyle Group
+1237681361	D.C. Council
+1237681361	WJLA-TV
+1237681361	Georgetown
+1283977543	Google Inc.
+1283977543	Google Docs
+1283977543	Georgia Institute of Technology
+1283977543	Georgia Tech
+1283977543	Stanford University
+1283977543	Coursera
+1283977543	Stanford
+1283977543	Google
+1151616999	Association of Public and Land-Grant Universities
+1151616999	University of Maryland
+1151616999	Mellon Foundation
+1151616999	Princeton
+1151616999	Melinda Gates Foundation
+1151616999	Princeton University
+1151616999	Gates Foundation
+1151616999	Coursera
+1151616999	American Council on Education
+1151616999	Stanford
+1265993200	University of Prince Edward Island
+1265993200	Autodesk Inc
+1265993200	Google Inc.
+1265993200	Udacity
+1265993200	Harvard University
+1265993200	Pearson PLC
+1265993200	Antioch University
+1265993200	Harvard
+1265993200	Stanford University
+1265993200	New Enterprise Associates
+1265993200	University of California
+1265993200	Princeton
+1265993200	Princeton University
+1265993200	Duke
+1265993200	State University of New York
+1265993200	Carnegie Mellon University
+1265993200	Kleiner Perkins Caufield
+1265993200	Massachusetts Institute of Technology
+1265993200	Pearson VUE
+1265993200	Coursera
+1265993200	American Council on Education
+1265993200	Antioch
+1265993200	Stanford
+1265993200	Duke University
+1265993200	Google
+1265993200	New Enterprise Associates Inc.
+1272132827	Association of Public and Land-Grant Universities
+1272132827	University of Cincinnati
+1272132827	Harvard
+1272132827	University of Texas
+1272132827	Arizona State
+1272132827	Stanford
+1272132827	University of Arkansas
+1150395597	Udacity
+1150395597	Princeton
+1150395597	Coursera
+926133652	MIT
+926133652	Athabasca University
+926133652	Facebook
+926133652	Udacity
+926133652	Dartmouth
+926133652	Georgia Institute of Technology
+926133652	M.I.T.
+926133652	Georgia Tech
+926133652	University of Virginia
+926133652	Northwestern University
+926133652	Yahoo
+926133652	University of Virginia
+926133652	Massachusetts Institute of Technology
+926133652	New York Times
+926133652	Stanford
+926133652	Google
+1223501161	MIT
+1223501161	Udacity
+1223501161	Harvard University
+1223501161	Harvard
+1223501161	Johns Hopkins University
+1223501161	Stanford University
+1223501161	University of Southern California
+1223501161	Melinda Gates Foundation
+1223501161	Gates Foundation
+1223501161	University of Illinois
+1223501161	Coursera
+1223501161	American Council on Education
+1223501161	Stanford
+1317578624	MIT
+1317578624	Columbia
+1317578624	University of Michigan
+1317578624	University of British Columbia
+1317578624	Association for Continuing Higher Education
+1317578624	Udacity
+1317578624	Harvard
+1317578624	University Professional and Continuing Education Association
+1317578624	Moody's Investors Service
+1317578624	MIT Center for Civic Media
+1317578624	I.B.M.
+1317578624	Stanford University
+1317578624	American Council on Education's College Credit Recommendation Service
+1317578624	University of Phoenix
+1317578624	University of California
+1317578624	Princeton
+1317578624	Berklee College of Music
+1317578624	Massachusetts Institute of Technology
+1317578624	Coursera
+1317578624	American Council on Education
+1317578624	Stanford
+1317578624	Texas Christian University
+1242726708	PENTAGON
+1242726708	Congress
+1242726708	American Dialect Society
+1282196567	University of Delaware
+1282196567	Columbia
+1282196567	M.I.T.
+1282196567	DePaul University
+1282196567	Columbia University
+1282196567	Wellesley College
+1282196567	Modern Language Association of America
+1282196567	Dickinson College Carlisle
+1223506453	University of Pennsylvania
+1223506453	Udacity
+1223506453	Harvard University
+1223506453	Antioch University
+1223506453	Johns Hopkins Bloomberg School of Public Health
+1223506453	University of Maryland
+1223506453	Harvard
+1223506453	Liberty University
+1223506453	Johns Hopkins University
+1223506453	Georgia Tech
+1223506453	Cornell
+1223506453	Stanford University
+1223506453	University of Texas
+1223506453	University of California
+1223506453	StraighterLine
+1223506453	George Washington University
+1223506453	Massachusetts Institute of Technology
+1223506453	Penn
+1223506453	University of Maryland University College
+1223506453	Coursera
+1223506453	Antioch
+1223506453	Stanford
+1223506453	Cornell University
+1316960745	American Association of State Colleges and Universities
+1316960745	Babson College
+1316960745	University CouncilAmerican Federation of Teachers
+1316960745	American Association of State Colleges
+1316960745	Udacity
+1316960745	Pearson Foundation
+1316960745	California Faculty Association
+1316960745	University of California
+1316960745	California Senate
+1316960745	Coursera
+1316960745	American Council on Education
+1010661048	MIT
+1010661048	Columbia
+1010661048	Athabasca University
+1010661048	University of Michigan
+1010661048	University of Pennsylvania
+1010661048	Harvard Corporation
+1010661048	Udacity
+1010661048	Harvard
+1010661048	Computer Science and Artificial Intelligence Laboratory
+1010661048	M.I.T.
+1010661048	Columbia University
+1010661048	Princeton
+1010661048	Massachusetts Institute of Technology
+1010661048	Penn
+1010661048	Coursera
+1010661048	Tufts
+1010661048	University of Chicago
+1010661048	Stanford
+1010661048	Yale
+1312436996	Bowie State
+1312436996	Frostburg State
+1312436996	University of Maryland Eastern Shore
+1312436996	Harvard University
+1312436996	University of Maryland
+1312436996	Harvard
+1312436996	YouTube
+1312436996	Stanford University
+1312436996	University of Virginia
+1312436996	Massachusetts Institute of Technology
+1312436996	Coursera
+1312436996	The Washington Post
+1312436996	Stanford
+1270855956	Harvard
+1270855956	M.I.T.
+1270855956	National Center for Education Statistics
+1270855956	Presbyterian Church of America
+1270855956	Nintendo
+1270855956	Massachusetts Institute of Technology
+1270855956	New York Times
+1270855956	Rensselaer Polytechnic Institute
+1270855956	Raytheon
+1269210042	San Jose State University
+1269210042	National Science Foundation
+1269210042	Udacity
+1269210042	San Jose State
+1269210042	Harvard
+1269210042	Winfree Academy Charter School
+1269210042	California State University System
+1269210042	California Faculty Association
+1269210042	Massachusetts Institute of Technology
+1269210042	New York Times
+1269210042	Massachusetts Institute of Technology and Harvard
+1269210042	Coursera
+1269210042	Stanford
+1269210042	Google
+1266707887	Facebook
+1266707887	University of Pennsylvania
+1266707887	Udacity
+1266707887	Antioch University
+1266707887	Harvard
+1266707887	University of Melbourne
+1266707887	Stanford University
+1266707887	New Enterprise Associates
+1266707887	Duke
+1266707887	The University of Pennsylvania
+1266707887	University of Washington
+1266707887	Massachusetts Institute of Technology
+1266707887	Texas Rangers
+1266707887	New York Times
+1266707887	Penn
+1266707887	Coursera
+1266707887	American Council on Education
+1266707887	Antioch
+1266707887	New York Law School
+1266707887	Stanford
+1266707887	Duke University
+1040911397	Brown University
+1040911397	University of Florida
+1040911397	Wesleyan University
+1040911397	Mount Sinai School of Medicine
+1040911397	Columbia
+1040911397	University of Pennsylvania
+1040911397	College of Pharmacy
+1040911397	Udacity
+1040911397	Mount Sinai
+1040911397	Moody's Investors Service
+1040911397	University of Melbourne
+1040911397	Columbia University
+1040911397	Princeton
+1040911397	Berklee College of Music
+1040911397	Hong Kong University of Science and Technology
+1040911397	Penn
+1040911397	Coursera
+1040911397	Ohio State
+1040911397	College of Cardinals
+1040911397	Stanford
+1040911397	Hebrew University of Jerusalem
+1265946799	University of Prince Edward Island
+1265946799	University of Michigan
+1265946799	Autodesk Inc
+1265946799	Massachusetts Institute of Technology An
+1265946799	Google Inc.
+1265946799	Udacity
+1265946799	Harvard University
+1265946799	Pearson PLC
+1265946799	Antioch University
+1265946799	Massachusetts Institute of Technology Introduction
+1265946799	Harvard
+1265946799	Microsoft
+1265946799	University of North Carolina
+1265946799	Stanford University
+1265946799	New Enterprise Associates
+1265946799	University of California
+1265946799	Princeton
+1265946799	University of Virginia
+1265946799	Princeton University
+1265946799	Duke
+1265946799	State University of New York
+1265946799	Carnegie Mellon University
+1265946799	Kleiner Perkins Caufield
+1265946799	Massachusetts Institute of Technology
+1265946799	Pearson VUE
+1265946799	Coursera
+1265946799	American Council on Education
+1265946799	Antioch
+1265946799	Stanford
+1265946799	Duke University
+1265946799	Google
+1265946799	New Enterprise Associates Inc.
+926133655	MIT
+926133655	Udacity
+926133655	Brigham Young University
+926133655	Microsoft
+926133655	Stanford University
+926133655	Mozilla
+926133655	Massachusetts Institute of Technology
+926133655	Stanford
+926133655	Google
+926133655	Catherine T. MacArthur Foundation
+1223498483	Harvard University
+1223498483	Harvard
+1223498483	Johns Hopkins University
+1223498483	Johns Hopkins University Bloomberg School of Public Health
+1223498483	University of Southern California
+1223498483	George Washington University
+1223498483	Massachusetts Institute of Technology
+1223498483	JHU
+1223498483	Coursera
+1223498483	American Council on Education
+1171298855	Association of Public and Land-Grant Universities
+1171298855	University of Michigan
+1171298855	University of Pennsylvania
+1171298855	Wikipedia
+1171298855	Udacity
+1171298855	Colorado State University
+1171298855	Colorado State
+1171298855	Harvard
+1171298855	University of Texas
+1171298855	University of California
+1171298855	Princeton
+1171298855	Massachusetts Institute of Technology
+1171298855	New York Times
+1171298855	Penn
+1171298855	Coursera
+1171298855	Stanford
+1171298855	Google
+1289448862	Rice University
+1289448862	Berries RecalledKellogg Co.
+1289448862	Clearwire Corp
+1289448862	Australian National University
+1289448862	Sprint Nextel Corp.
+1289448862	Harvard University
+1289448862	Harvard
+1289448862	McGill University
+1289448862	Dish Network
+1289448862	Toll Brothers
+1289448862	National University
+1289448862	National Taiwan University
+1289448862	IE Business School
+1289448862	Massachusetts Institute of Technology
+1289448862	DiversifyDish Network Corp.
+1289448862	Northwestern University
+1289448862	Coursera
+1289448862	Clearwire
+1289448862	RecoveryBenefits Home BuilderToll Brothers Inc.
+1289448862	Sprint
+1267769192	Wikipedia
+1267769192	Udacity
+1267769192	Georgia Tech
+1267769192	Stanford University
+1267769192	University of California
+1267769192	Duke
+1267769192	University of Illinois
+1267769192	Pearson VUE
+1267769192	Coursera
+1267769192	Stanford
+1267769192	Duke University
+1267769192	University of California-San Francisco
+1223820726	Udacity
+1223820726	Harvard University
+1223820726	Harvard
+1223820726	Johns Hopkins University
+1223820726	University of Texas
+1223820726	University of California
+1223820726	Massachusetts Institute of Technology
+1223820726	Coursera
+1237676716	Brown University
+1237676716	MIT
+1237676716	Chronicle of Higher Education
+1237676716	Harvard University
+1237676716	Georgetown University
+1237676716	Harvard
+1237676716	New America Foundation
+1237676716	Johns Hopkins University
+1237676716	University of Texas
+1237676716	University of California
+1237676716	The University of Texas
+1237676716	Duke
+1237676716	University of Washington
+1237676716	Massachusetts Institute of Technology
+1237676716	Georgetown
+1237676716	Coursera
+1237676716	Wellesley College
+1237676716	Duke University
+1284593482	San Jose State University
+1284593482	University of Pennsylvania
+1284593482	Udacity
+1284593482	San Jose State
+1284593482	University of Pennsylvania
+1284593482	University of California
+1284593482	Duke
+1284593482	Penn
+1284593482	Coursera
+1284593482	American Council on Education
+1284593482	Duke University
+1289224162	Rice University
+1289224162	Australian National University
+1289224162	Udacity
+1289224162	Harvard University
+1289224162	Harvard
+1289224162	McGill University
+1289224162	National University
+1289224162	National Taiwan University
+1289224162	IE Business School
+1289224162	Massachusetts Institute of Technology
+1289224162	Northwestern University
+1289224162	Coursera
+1289224162	American Council on Education
+1314361479	Izembek National Wildlife Refuge
+1314361479	University of Virginia
+1314149314	C.I.A.
+1314149314	University of Florida
+1314149314	University of Pennsylvania
+1314149314	Vanderbilt University
+1314149314	Harvard
+1314149314	M.I.T.
+1314149314	Duke
+1314149314	Penn
+1314149314	Coursera
+1314149314	Google
+1287878933	Proctor U
+1287878933	MIT
+1287878933	University of Michigan
+1287878933	University of Pennsylvania
+1287878933	Udacity
+1287878933	Georgia State University
+1287878933	University of Michigan English
+1287878933	Proctor U.
+1287878933	Massachusetts Institute of Technology
+1287878933	Penn
+1287878933	Coursera
+1287878933	American Council on Education
+1287878933	Google
+1287878933	Pearson Vue
+1034336131	University of Pennsylvania
+1034336131	Harvard
+1034336131	M.I.T.
+1034336131	Penn
+1034336131	Coursera
+1034336131	Stanford
+1034336131	Peer University
+1281889332	Chronicle of Higher Education
+1281889332	Udacity
+1281889332	Harvard
+1281889332	M.I.T.
+1281889332	University of California
+1281889332	Princeton
+1281889332	Princeton University
+1281889332	Massachusetts Institute of Technology
+1281889332	Penn
+1281889332	Coursera
+1281889332	Stanford
+1291504118	Sony
+1291504118	New York University
+1291504118	Sony Wonder Technology Lab
+1291504118	Sony Building
+1291504118	PowerHouse Arena
+1237617894	Khan Academy
+1237617894	MIT
+1237617894	Starbucks
+1237617894	Harvard
+1237617894	Stanford University
+1237617894	Stanford
+1268139167	MIT
+1268139167	International Center for Academic Integrity
+1268139167	Udacity
+1268139167	Harvard University
+1268139167	Georgetown University
+1268139167	Harvard
+1268139167	Johns Hopkins University
+1268139167	Georgia Tech
+1268139167	Stanford University
+1268139167	University of Texas
+1268139167	University of California
+1268139167	Duke
+1268139167	Clemson University
+1268139167	University of Illinois
+1268139167	Massachusetts Institute of Technology
+1268139167	Georgetown
+1268139167	Coursera
+1268139167	Wellesley College
+1268139167	Stanford
+1268139167	Duke University
+1241180048	Harvard University
+1241180048	Harvard
+1241180048	Kentucky Fried Chicken
+1241180048	YouTube
+1241180048	Tennessee State University
+1241180048	Stanford
+1283981600	Columbia
+1283981600	Google Docs
+1283981600	Georgia Institute of Technology
+1283981600	NASA
+1283981600	Columbia University
+1283981600	Hechinger Institute on Education
+1283981600	World Bank
+1283981600	McGraw-Hill
+1283981600	Coursera
+1283981600	Google
+1223501887	GMU
+1223501887	The Washington Post
+1223501887	George Mason University
+1223501887	Marginal Revolution University
+1313802801	American Association of State Colleges and Universities
+1313802801	The Center for College Affordability
+1313802801	American Association of State Colleges
+1313802801	Udacity
+1313802801	Harvard University
+1313802801	Harvard
+1313802801	Stanford University
+1313802801	Texas Public Policy Foundation
+1313802801	Massachusetts Institute of Technology
+1313802801	Quinnipiac University
+1313802801	Coursera
+1313802801	Stanford
+1315980671	San Jose State University
+1315980671	San Jose State
+1315980671	Academic Senate
+1315980671	Georgia State University
+1315980671	California Senate
+1315980671	Coursera
+1315980671	American Council on Education
+1289440479	White House
+1289440479	MIT
+1289440479	Association of Public and Land-Grant Universities
+1289440479	Harvard
+1289440479	New America Foundation
+1289440479	Department of Education
+1289440479	Congress
+1265946806	Association of American Colleges and Universities
+1265946806	MIT
+1265946806	San Jose State University
+1265946806	Udacity
+1265946806	Harvard University
+1265946806	San Jose State
+1265946806	Harvard
+1265946806	Princeton
+1265946806	Princeton University
+1265946806	Gates Foundation
+1265946806	Massachusetts Institute of Technology
+1265946806	Coursera
+1304249069	Stanford University
+1304249069	Arlington Public Schools
+1304249069	Penn
+1304249069	Stanford
+1312334296	University of Pennsylvania
+1312334296	Udacity
+1312334296	Johns Hopkins University
+1312334296	University of Virginia
+1312334296	Duke
+1312334296	Massachusetts Institute of Technology
+1312334296	Penn
+1312334296	National Security Council
+1312334296	Coursera
+1312334296	The Washington Post
+1312334296	Duke University
+1038185909	Udacity
+1038185909	Colorado State University
+1038185909	Colorado State
+1038185909	Harvard
+1038185909	M.I.T.
+1038185909	Pearson VUE
+1038185909	Coursera
+1319346917	Harvard
+1319346917	University of Texas
+1319346917	University of California
+1319346917	Massachusetts Institute of Technology
+1319346917	Georgetown
+1319346917	Stanford
+1281906574	MIT
+1281906574	Harvards
+1281906574	Reserve Board
+1281906574	Harvard
+1281906574	Stanford University
+1281906574	Duke
+1281906574	Stanford
+1317354288	Colloquy
+1317354288	University of Pennsylvania
+1317354288	Udacity
+1317354288	The Washington Post Co.
+1317354288	Georgetown University
+1317354288	University of Maryland
+1317354288	Harvard
+1317354288	American University
+1317354288	D.C. Council
+1317354288	George Washington University
+1317354288	Advance Collegiate Schools of Business
+1317354288	Penn
+1317354288	Georgetown
+1317354288	Coursera
+1317354288	The Washington Post
+1317354288	Stanford
+1317354288	George Mason University
+1317354288	University of Denver
+1039850126	Harvey Mudd College
+1039850126	Athabasca University
+1039850126	Facebook
+1039850126	Cisco
+1039850126	Chronicle of Higher Education
+1039850126	National Research Council of Canada
+1039850126	Kettering University
+1039850126	Harvard
+1039850126	Georgia Institute of Technology
+1039850126	M.I.T.
+1039850126	Cornell
+1039850126	California Institute of Technology
+1039850126	Yahoo
+1039850126	University of California
+1039850126	Worcester Polytechnic Institute
+1039850126	Princeton
+1039850126	Melinda Gates Foundation
+1039850126	Gates Foundation
+1039850126	Massachusetts Institute of Technology
+1039850126	Caltech
+1039850126	SUNY
+1039850126	Stanford
+1039850126	Empire State College
+1151371049	Khan Academy
+1151371049	Columbia
+1151371049	Facebook
+1151371049	University of Pennsylvania
+1151371049	Ansir Innovation Center
+1151371049	Udacity
+1151371049	San Jose State
+1151371049	Harvard
+1151371049	Microsoft
+1151371049	M.I.T.
+1151371049	Massachusetts Bay Community College
+1151371049	University of Texas
+1151371049	University of California
+1151371049	Princeton
+1151371049	University of Virginia
+1151371049	University of Pennsylvania Wharton School
+1151371049	Duke
+1151371049	University of Illinois
+1151371049	Massachusetts Institute of Technology
+1151371049	Penn
+1151371049	Coursera
+1151371049	Stanford
+1151371049	Google
+1266472355	U.S. Department of Agriculture
+1266472355	U.S. News

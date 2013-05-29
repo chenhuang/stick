@@ -1,0 +1,238 @@
+<DOCUMENT>
+  <publisher>PR Newswire</publisher>
+  <fulltext>&lt;div class="news-col topics"&gt;
+ &lt;link href="http://www.prnewswire.com/includes/PRN_thickbox.css" media="all" rel="stylesheet" type="text/css"/&gt;
+ &lt;script src="http://www.prnewswire.com/includes/PRN_thickbox-compressed.js" type="text/javascript"&gt;
+ &lt;/script&gt;
+ &lt;div&gt;
+  &lt;a name="linktopagetop"&gt;
+  &lt;/a&gt;
+  &lt;div class="featured"&gt;
+   &lt;div style="display:none"&gt;
+    &lt;a class="thickbox" href="http://photos.prnewswire.com/prn/20120611/MM21794-a" id="aThickbox_1" name="A peek inside SoftChalk Cloud. This comprehensive product allows educators to easily create, organize, store and share lesson plans and other content from one location." rel="158262305" target="_new"&gt;
+    &lt;/a&gt;
+    &lt;a class="thickbox" href="http://photos.prnewswire.com/prn/20120611/MM21794LOGO-b" id="aThickbox_2" name="Introducing SoftChalk Cloud, an award-winning content authoring solution, now with additional features, functionality and cloud-based storage and sharing." rel="158262305" target="_new"&gt;
+    &lt;/a&gt;
+   &lt;/div&gt;
+   &lt;div id="dvFlexViewall"&gt;
+    &lt;a class="flexViewall" href="#" onclick="javascript:ViewAllImages('aThickbox_2');omniture_corousal('Inline','View all images');"&gt;
+     View all images
+    &lt;/a&gt;
+    &lt;br/&gt;
+   &lt;/div&gt;
+   &lt;div class="photo clearboth1" rel="newsImageDiv"&gt;
+    &lt;div class="imageDivider leftend" rel="newsImage"&gt;
+    &lt;/div&gt;
+    &lt;div class="imgcaption floatright" title="A peek inside SoftChalk Cloud. This comprehensive product allows educators to easily create, organize, store and share lesson plans and other content from one location."&gt;
+     &lt;span class="thickbox" id="spThickbox_1" itemprop="associatedMedia" itemscope="" itemtype="http://schema.org/ImageObject"&gt;
+      &lt;img alt="A peek inside SoftChalk Cloud. This comprehensive product allows educators to easily create, organize, store and share lesson plans and other content from one location." class="logo" id="imageid_1" itemprop="contentUrl" rel="newsImage" src="http://photos.prnewswire.com/prnthumb/20120611/MM21794-a"/&gt;
+      &lt;meta content="A peek inside SoftChalk Cloud. This comprehensive product allows educators to easily create, organize, store and share lesson plans and other content from one location." itemprop="caption"/&gt;
+     &lt;/span&gt;
+     &lt;br/&gt;
+     &lt;a href="http://photos.prnewswire.com/prnthumb/20120611/MM21794-a" title="Download image"&gt;
+      Download image
+     &lt;/a&gt;
+    &lt;/div&gt;
+    &lt;div class="imageDivider " rel="newsImage"&gt;
+    &lt;/div&gt;
+    &lt;script type="text/javascript"&gt;
+     $('#imageid_1')&#13;
+										.load(function(){&#13;
+										})&#13;
+										.error(function(){&#13;
+											$('#imageid_1').remove();&#13;
+										});
+    &lt;/script&gt;
+    &lt;div class="imgcaption floatright" title="Introducing SoftChalk Cloud, an award-winning content authoring solution, now with additional features, functionality and cloud-based storage and sharing."&gt;
+     &lt;span class="thickbox" id="spThickbox_2" itemprop="associatedMedia" itemscope="" itemtype="http://schema.org/ImageObject"&gt;
+      &lt;img alt="Introducing SoftChalk Cloud, an award-winning content authoring solution, now with additional features, functionality and cloud-based storage and sharing." class="logo" id="imageid_2" itemprop="contentUrl" rel="newsImage" src="http://photos.prnewswire.com/prnthumb/20120611/MM21794LOGO-b"/&gt;
+      &lt;meta content="Introducing SoftChalk Cloud, an award-winning content authoring solution, now with additional features, functionality and cloud-based storage and sharing." itemprop="caption"/&gt;
+     &lt;/span&gt;
+     &lt;br/&gt;
+     &lt;a href="http://photos.prnewswire.com/prnthumb/20120611/MM21794LOGO-b" title="Download image"&gt;
+      Download image
+     &lt;/a&gt;
+    &lt;/div&gt;
+    &lt;div class="imageDivider rightend" rel="newsImage"&gt;
+    &lt;/div&gt;
+    &lt;script type="text/javascript"&gt;
+     $('#imageid_2')&#13;
+										.load(function(){&#13;
+										})&#13;
+										.error(function(){&#13;
+											$('#imageid_2').remove();&#13;
+										});
+    &lt;/script&gt;
+   &lt;/div&gt;
+   &lt;style type="text/css"&gt;
+    .pdfcont { padding-top:15px !important}
+   &lt;/style&gt;
+   &lt;script src="http://www.prnewswire.com/includes/PRN_jwplayer.js " type="text/javascript"&gt;
+   &lt;/script&gt;
+   &lt;div class="video imgcaption" id="imgCaption" title="Listen as Sue Polyson Evans - SoftChalk CEO and education technology expert - explains the key benefits of SoftChalk Cloud."&gt;
+    &lt;div class="video" id="videoContainer"&gt;
+     Loading the player...
+    &lt;/div&gt;
+    &lt;script type="text/javascript"&gt;
+     jwplayer("videoContainer").setup({&#13;
+								flashplayer: "http://media.prnewswire.com/FlexPlayer/jwplayer/player.swf",      //flash player source&#13;
+								file: "http://origin-qps.onstreammedia.com/origin/multivu_archive/PRNA/ENR/FX-MM21794-20120611.mp4",   //video source&#13;
+								image: 'http://origin-qps.onstreammedia.com/origin/multivu_archive/PRNA/ENR/FX-MM21794-20120611_10s.jpg',        //screenshot image to show when player is loaded or video completes&#13;
+								height: 288,                    //can be changed to any value&#13;
+								width: 512,                     //can be changed to any value&#13;
+								skin: "http://media.prnewswire.com/FlexPlayer/jwplayer/skin/en.xml",   //zip file for flash (faster for flash to use a zip), but the unzipped files must still live in the skin folder for HTML5 use&#13;
+								'stretching': 'uniform',        //will stretch the video to the size of the player, but will not distort the videos ratio&#13;
+								plugins: {&#13;
+									 'viral-2': {'functions':'share,embed','title':'This is the video title','description':'This is the video description'}&#13;
+								   }        &#13;
+								});
+    &lt;/script&gt;
+   &lt;/div&gt;
+   &lt;span itemprop="video" itemscope="" itemtype="http://schema.org/VideoObject"&gt;
+    &lt;meta content="http://origin-qps.onstreammedia.com/origin/multivu_archive/PRNA/ENR/FX-MM21794-20120611.mp4" itemprop="embedUrl"/&gt;
+    &lt;meta content="Listen as Sue Polyson Evans - SoftChalk CEO and education technology expert - explains the key benefits of SoftChalk Cloud." itemprop="caption"/&gt;
+   &lt;/span&gt;
+  &lt;/div&gt;
+  &lt;p itemprop="articleBody"&gt;
+   &lt;span class="xn-location" itemprop="contentLocation" itemscope="" itemtype="http://schema.org/Place"&gt;
+    &lt;span itemprop="geo" itemscope="" itemtype="http://schema.org/address"&gt;
+     &lt;span itemprop="addressLocality"&gt;
+      RICHMOND, Va.
+     &lt;/span&gt;
+    &lt;/span&gt;
+   &lt;/span&gt;
+   ,
+   &lt;span class="xn-chron"&gt;
+    June 11, 2012
+   &lt;/span&gt;
+   /PRNewswire/ -- Award-winning education technology leader,
+   &lt;b&gt;
+    SoftChalk, LLC
+   &lt;/b&gt;
+   (
+   &lt;a href="http://www.softchalk.com/" onclick="linkOnClick(this)" target="_blank"&gt;
+    www.softchalk.com
+   &lt;/a&gt;
+   ) today announced the launch of
+   &lt;b&gt;
+    SoftChalk Cloud
+   &lt;/b&gt;
+   , the world's first complete e-learning content authoring platform in the cloud. SoftChalk Cloud enables educators to easily create, manage and share rich, engaging online learning content with one convenient solution.
+  &lt;/p&gt;
+  &lt;p itemprop="articleBody"&gt;
+   &lt;b&gt;
+    SoftChalk Cloud
+   &lt;/b&gt;
+   includes
+   &lt;b&gt;
+    SoftChalk Create
+   &lt;/b&gt;
+   , a refined version of the company's popular content authoring tool, plus powerful collaboration tools and simple LMS integration. Improved features and functionality build from SoftChalk's original, successful desktop-only solution.
+  &lt;/p&gt;
+  &lt;p itemprop="articleBody"&gt;
+   "Educators will get the same outstanding content authoring product—now with the convenience of the cloud," says
+   &lt;span class="xn-person" itemscope="" itemtype="http://schema.org/Person"&gt;
+    &lt;span itemprop="name"&gt;
+     Sue Polyson Evans
+    &lt;/span&gt;
+   &lt;/span&gt;
+   , CEO of SoftChalk. "SoftChalk Cloud sets the standard as the easiest, most flexible way to create and manage engaging, media-rich e-learning content."
+  &lt;/p&gt;
+  &lt;p itemprop="articleBody"&gt;
+   Key benefits of SoftChalk Cloud include:
+  &lt;/p&gt;
+  &lt;ul style="list-style-type:disc" type="disc"&gt;
+   &lt;li&gt;
+    &lt;b&gt;
+     Anytime, anywhere access.
+    &lt;/b&gt;
+    Educators can log in to SoftChalk Cloud from their web browser, to create and modify content online.
+    &lt;br/&gt;
+   &lt;/li&gt;
+   &lt;li&gt;
+    &lt;b&gt;
+     Transition-proof content.
+    &lt;/b&gt;
+    Content created in SoftChalk Cloud seamlessly integrates with almost any LMS. An institution's content can stay put, even if they switch their LMS, and one SoftChalk item can be used in multiple LMS simultaneously.
+    &lt;br/&gt;
+   &lt;/li&gt;
+   &lt;li&gt;
+    &lt;b&gt;
+     Quick and easy sharing.
+    &lt;/b&gt;
+    With SoftChalk Cloud, users can organize and share learning content and media with colleagues, groups or their entire community.
+    &lt;br/&gt;
+   &lt;/li&gt;
+   &lt;li&gt;
+    &lt;b&gt;
+     Efficient content management.
+    &lt;/b&gt;
+    One SoftChalk Cloud content item can link into multiple courses and track student score results into multiple LMS gradebooks. When content is updated in one place, every course is updated simultaneously.
+    &lt;br/&gt;
+   &lt;/li&gt;
+   &lt;li&gt;
+    &lt;b&gt;
+     Track student score results.
+    &lt;/b&gt;
+    SoftChalk Cloud allows detailed student score tracking inside or outside of the LMS gradebook.
+   &lt;/li&gt;
+  &lt;/ul&gt;
+  &lt;p itemprop="articleBody"&gt;
+   SoftChalk Cloud is sold on a subscription basis with site license pricing available.
+   &lt;b&gt;
+    For more information, email
+   &lt;/b&gt;
+   &lt;a href="mailto:learnmore@softchalk.com" onclick="linkOnClick(this)" target="_blank"&gt;
+    &lt;b&gt;
+     learnmore@softchalk.com
+    &lt;/b&gt;
+   &lt;/a&gt;
+   &lt;b&gt;
+    , call 877-638-2425 (ext. 1) or visit
+   &lt;/b&gt;
+   &lt;a href="http://www.softchalk.com/" onclick="linkOnClick(this)" target="_blank"&gt;
+    &lt;b&gt;
+     www.softchalk.com
+    &lt;/b&gt;
+   &lt;/a&gt;
+   &lt;b&gt;
+    .
+   &lt;/b&gt;
+  &lt;/p&gt;
+  &lt;p itemprop="articleBody"&gt;
+   &lt;b&gt;
+    About SoftChalk, LLC
+    &lt;br/&gt;
+   &lt;/b&gt;
+   SoftChalk, LLC is an award-winning provider of eLearning software for worldwide education and business institutions. Specializing in the development of intuitive, easy-to-use tools, SoftChalk products allow instructors to create powerful and professional-looking content for eLearning and smart classrooms in K-12, higher education and corporate training. For more information, visit
+   &lt;a href="http://www.softchalk.com/" onclick="linkOnClick(this)" target="_blank"&gt;
+    www.softchalk.com
+   &lt;/a&gt;
+   .
+  &lt;/p&gt;
+  &lt;p&gt;
+  &lt;/p&gt;
+  &lt;p&gt;
+   SOURCE  SoftChalk, LLC
+  &lt;/p&gt;
+  &lt;br/&gt;
+  &lt;br/&gt;
+  RELATED LINKS
+  &lt;br/&gt;
+  &lt;a href="http://www.softchalk.com" onclick="linkOnClick(this)" target="_blank" title="Link to http://www.softchalk.com"&gt;
+   http://www.softchalk.com
+  &lt;/a&gt;
+  &lt;br/&gt;
+ &lt;/div&gt;
+&lt;/div&gt;</fulltext>
+  <pub_title>PR Newswire</pub_title>
+  <document_url>http://www.prnewswire.com/news-releases/softchalk-takes-to-the-cloud-158262305.html</document_url>
+  <author></author>
+  <abstract></abstract>
+  <title>SoftChalk Takes to the Cloud</title>
+  <database>PR Newswire</database>
+  <query>MOOC</query>
+  <pub_date>2012-06-11T09:00:00Z</pub_date>
+  <document_id>prnewswire-158262305</document_id>
+  <source>SoftChalk, LLC</source>
+</DOCUMENT>

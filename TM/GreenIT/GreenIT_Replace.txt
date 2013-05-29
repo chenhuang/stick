@@ -1,0 +1,5 @@
+New York Times Company::New York Times
+NFL::National Football League
+NCAA::National Collegiate Athletic Association
+NASA::National Aeronautics and Space Administration
+EPA::Environmental Protection Agency

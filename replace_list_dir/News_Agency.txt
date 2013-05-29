@@ -1,0 +1,30 @@
+The New York Times::REMOVE
+New York Times::REMOVE
+The Wall Street Journal::REMOVE
+Wall Street Journal::REMOVE
+Washington Post::REMOVE
+Los Angeles Times::REMOVE
+Chicago Tribune::REMOVE
+Christian Science Monitor::REMOVE 
+The Atlanta Journal-Constitution::REMOVE
+The Boston Globe::REMOVE
+Chicago Tribune::REMOVE
+The Denver Post::REMOVE
+USA Today::REMOVE
+Austin American Statesman::REMOVE
+Detroit News::REMOVE
+Honolulu Star Advertiser::REMOVE
+Las Vegas Review-Journal::REMOVE
+Minneapolis Star Tribune::REMOVE
+New York Daily News::REMOVE
+Oakland Tribune::REMOVE
+Orange County Register::REMOVE
+Philadelphia Inquirer::REMOVE
+Pittsburgh Post-Gazette::REMOVE
+San Antonio Express-News::REMOVE
+San Jose Mercury News::REMOVE
+South Florida Sun-Sentinel::REMOVE
+St. Louis Post-Dispatch::REMOVE
+St. Petersburg Times::REMOVE
+Dow Jones  Company Inc::REMOVE
+Dow Jones  Company::REMOVE

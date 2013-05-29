@@ -1,0 +1,43 @@
+AOL::America Online
+AWS::REMOVE
+Azure Capital Partners::Azure Capital
+Cisco Systems::Cisco
+EPA::Environmental Protection Agency
+FCC::Federal Communications Commission
+FTC::Federal Trade Commission
+Forrester Research::Forrester
+GE::General Electric
+HHS::Health and Human Services
+Hewlett-Packard::Hewlett Packard
+IBM::International Business Machines
+MIT::Massachusetts Institute of Technology
+MS::REMOVE
+Microsofts::Microsoft
+NASA::National Aeronautics and Space Administration
+NCAA::National Collegiate Athletic Association
+NFL::National Football League
+NIH::National Institutes of Health
+NSA::National Security Agency
+NYSE::New York Stock Exchange
+New York Times Company::New York Times
+New York Times Company::New York Times
+RIM::Research In Motion
+Suns::Sun
+Tech Crunch::TechCruch
+TechCrunch Party::TechCrunch
+The Wall Street Journal::Wall Street Journal
+Time Warner Cable::Time Warner
+Verizon Wireless::Verizon
+WSJ::Wall Street Journal
+Wal-Mart::Walmart
+Yahoo!::Yahoo
+Google-Yahoo::REMOVE
+Journal Community::REMOVE
+Sun Microsystems::Sun
+Yahoo News::Yahoo
+Center for Digital Business::REMOVE
+Verizon Communications::Verizon
+American Online::America Online
+CBS Interactive::CBS
+NBC Universal::NBC
+NY Times::New York Times

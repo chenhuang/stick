@@ -1,0 +1,53 @@
+Police Department::Fire Department
+Stanford University::Cornell University
+Mercedes-Benz::Mercedes
+Metropolitan Museum of Art::Hunterdon Museum of Art
+Food Force::Air Force
+Copyright Char - Koosta News Mar::Copyright Char - Koosta News Aug
+Tribal Council::CSKT Council
+Washington Post::Washington
+Health Department::Police Department
+City Council::Council
+Washington Post Company::Washington Post
+University of Maryland::University of Montana
+University of Montana::Stanford University
+University of California::University of Montana
+Washington Post Company Apr::Washington Post
+American Airlines Theater::American Ballet Theater
+The Times Credit::The Times
+Columbia University::Cornell University
+Agriculture Department::Police Department
+New York Times Company::New York Times
+Air France::Air Force
+Metropolitan Opera House::Metropolitan Opera
+The Times Mirror Company::New York Times Company
+Hunterdon Museum of Art::Museum of Modern Art
+Microsoft Corp::Microsoft
+Department of Agriculture::Agriculture Department
+The Wall Street Journal::Wall Street Journal
+Imperial Theater::Zipper Theater
+CSKT Council::Council
+FDA::REMOVE
+CIA::REMOVE
+USC::REMOVE
+IBM::REMOVE
+ESPN::REMOVE
+HBO::REMOVE
+SETI::REMOVE
+SEC::REMOVE
+BMW::REMOVE
+WNV::REMOVE
+NBA::REMOVE
+OSBOURN::REMOVE
+WTO::REMOVE
+CO::REMOVE
+KLM::REMOVE
+MTV::REMOVE
+CNN::REMOVE
+EADS::REMOVE
+CSKT::REMOVE
+CDC::REMOVE
+UCLA::REMOVE
+CBS::REMOVE
+NASA::REMOVE
+FBI::REMOVE

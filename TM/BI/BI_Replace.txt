@@ -1,0 +1,5 @@
+Yahoo!::Yahoo
+WSJ::Wall Street Journal
+IBM::International Business Machines
+AOL::American Online
+MIT::Massachusetts Institute of Technology

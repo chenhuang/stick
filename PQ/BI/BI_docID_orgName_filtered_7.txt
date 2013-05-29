@@ -1,0 +1,6242 @@
+PQ318619921	In-Q-Tel
+PQ296310351	American Civil Liberties Union
+PQ1707752031	Defense Department
+PQ1486829251	University of Pennsylvania
+PQ1225638791	Morgan Stanley
+PQ1035518961	Electronic Frontier Foundation
+PQ95285452	Norton
+PQ1584489261	Central Intelligence Agency
+PQ337140311	Waldenbooks
+PQ707054731	Commerce Department
+PQ588601941	Sun Microsystems
+PQ1168559371	International Business Machines
+PQ70492408	Securities and Exchange Commission
+PQ1636044211	Federal Trade Commission
+PQ468222831	Visa
+PQ70909994	Microsoft
+PQ768396381	Sun Microsystems
+PQ1036497251	Federal Bureau of Investigation
+PQ139329191	Jim Collins / HarperBusiness
+PQ1382382971	Airbus
+PQ1381822901	Apple
+PQ121976142	Ford
+PQ688113921	Central Intelligence Agency
+PQ810140631	Federal Trade Commission
+PQ102117702	Jim Collins / HarperBusiness
+PQ69547398	CNN
+PQ1312508391	Senate Judiciary Committee
+PQ1191281041	NCR
+PQ899789241	National Institutes of Health
+PQ1332405701	ATT
+PQ89284761	Janssen Healthcare Innovation
+PQ1464260421	eBay
+PQ1584359071	World Bank
+PQ62766157	Securities and Exchange Commission
+PQ1381836041	Constellation Brands
+PQ52503181	Janssen Healthcare Innovation
+PQ70492408	MicroStrategy
+PQ75420056	Morgan Stanley
+PQ1178635431	New Pittsburgh Courier
+PQ1592312611	New Pittsburgh Courier
+PQ53760750	Norton
+PQ1383689821	Harvard
+PQ1225642771	Securities and Exchange Commission
+PQ784653961	Small Business Association
+PQ1132692611	Waldenbooks
+PQ1628519831	Dell
+PQ276938941	Defense Department
+PQ1191258301	Oracle
+PQ337837841	Harvard
+PQ901463271	Waldenbooks
+PQ167165551	NCR
+PQ238909721	Waldenbooks
+PQ902699351	Sun Microsystems
+PQ116090980	Waldenbooks
+PQ354181551	Waldenbooks
+PQ96548751	Federal Reserve
+PQ1096620091	National Security Agency
+PQ621161601	Norton
+PQ259536391	National Security Agency
+PQ1884661791	White House
+PQ69219891	Oracle
+PQ340346351	Morgan Stanley
+PQ79201096	Waldenbooks
+PQ355106921	Norton
+PQ1811951701	Federal Bureau of Investigation
+PQ141735161	Jim Collins / HarperBusiness
+PQ1299546111	Harvard
+PQ525786061	European Union
+PQ122911411	Federal Bureau of Investigation
+PQ516154611	Anchor Inn
+PQ60675981	University of California
+PQ481810471	International Business Machines
+PQ1037776961	National Security Agency
+PQ62766157	MicroStrategy
+PQ948035881	Pentagon
+PQ281109721	White House
+PQ491025631	National Institutes of Health
+PQ1117921251	Jim Collins / HarperBusiness
+PQ914605621	Waldenbooks
+PQ340346351	Citigroup
+PQ1336886861	Electronic Frontier Foundation
+PQ885094401	Securities and Exchange Commission
+PQ50637104	Defense Department
+PQ51850564	Dell
+PQ114217892	Harvard Business School
+PQ948870131	National Security Agency
+PQ803930791	Yahoo
+PQ411409771	Goldman Sachs
+PQ1047994511	Vatican
+PQ50637104	New York Stock Exchange
+PQ904731201	Jim Collins / HarperBusiness
+PQ1236233221	Alliance for Excellent Education
+PQ74598019	Columbia University
+PQ784653961	Ford
+PQ885552091	Pentagon
+PQ314883561	Federal Reserve
+PQ91621489	Lipper Analytical Services
+PQ1920218531	Norton
+PQ52067117	Waldenbooks
+PQ1194210511	National Security Agency
+PQ1321502681	Waldenbooks
+PQ1797801491	White House
+PQ491090431	Citigroup
+PQ56024583	Federal Bureau of Investigation
+PQ113472784	ATT
+PQ1020901631	National Security Agency
+PQ199151021	Motorola
+PQ1381834981	New York Stock Exchange
+PQ585186571	Norton
+PQ643120311	Defense Department
+PQ570259111	Procter  Gamble
+PQ1554594691	National Security Agency
+PQ56407931	Waldenbooks
+PQ408433931	Loyola University
+PQ885094371	Social Security Administration
+PQ887710371	Jim Collins / HarperBusiness
+PQ1640632421	Dell
+PQ1802311801	Harvard
+PQ1563160161	Defense Department
+PQ110342427	Central Intelligence Agency
+PQ52620658	Securities and Exchange Commission
+PQ526790931	Transportation Security Administration
+PQ1225638791	Oracle
+PQ98741055	White House
+PQ178880671	Visa
+PQ1385528661	Oracle
+PQ1458865521	International Business Machines
+PQ87065340	Johns Hopkins University
+PQ1645552971	Dell
+PQ901438571	Waldenbooks
+PQ1444290531	Environmental Protection Agency
+PQ1507798021	Microsoft
+PQ52828059	CNN
+PQ790656841	Healthcare Information and Management Systems Society
+PQ293341171	Stanford University
+PQ69003799	Massachusetts Institute of Technology
+PQ1440668631	American Banking Association
+PQ1439794251	Goldman Sachs
+PQ480556201	United Way
+PQ187432251	Waldenbooks
+PQ1524684141	Norton
+PQ899276541	University of California
+PQ709312251	Google
+PQ1928720771	Transportation Security Administration
+PQ1536828531	American Civil Liberties Union
+PQ80941225	International Business Machines
+PQ1518674701	Department of Transportation
+PQ1198280181	Federal Bureau of Investigation
+PQ318619921	Defense Department
+PQ52563004	New York Stock Exchange
+PQ1274049141	Oracle
+PQ1522606261	University of Iowa
+PQ1553940911	White House
+PQ1274935111	Apple
+PQ1459716971	University of Maryland
+PQ338922521	Sun Microsystems
+PQ62804694	University of Chicago
+PQ1681636251	Visa
+PQ740859401	Dell
+PQ283708181	MicroStrategy
+PQ1174467301	European Union
+PQ1169254941	Google
+PQ68922629	International Business Machines
+PQ110683837	Eastern Loudoun Regional Library
+PQ54772100	Janssen Healthcare Innovation
+PQ377081931	Defense Department
+PQ491088321	MicroStrategy
+PQ97336824	Department of Transportation
+PQ1134636701	General Motors
+PQ1224756711	Hyperion Solutions
+PQ1502560901	Northern Virginia Technology Council
+PQ890836161	Federal Bureau of Investigation
+PQ56024583	White House
+PQ1065157061	Waldenbooks
+PQ665848321	Dell
+PQ1389024291	Stanford University
+PQ1518674701	Air Force
+PQ79764260	NCR
+PQ56456999	Dell
+PQ820533351	General Motors
+PQ1201807801	ATT
+PQ149413921	Waldenbooks
+PQ491762981	Ford
+PQ102117702	Waldenbooks
+PQ1029506401	Hyatt Regency Chicago
+PQ1281721961	University of Chicago
+PQ1807767881	International Business Machines
+PQ897979461	Citigroup
+PQ1235345831	European Union
+PQ1220652301	National Cancer Institute
+PQ1213187701	Waldenbooks
+PQ1485579321	Morgan Stanley
+PQ98923656	American Diabetes Association
+PQ72457140	Cisco
+PQ329642271	General Dynamics
+PQ623624241	BMW
+PQ123101091	Federal Bureau of Investigation
+PQ709334271	Waldenbooks
+PQ613050431	Waldenbooks
+PQ1254539431	Forbes
+PQ1254379021	Citibank
+PQ90642653	Janssen Healthcare Innovation
+PQ734992931	Waldenbooks
+PQ1598340861	AOL Time Warner
+PQ1833316051	Microsoft
+PQ64899859	Federal Bureau of Investigation
+PQ578178461	White House
+PQ124031791	Healthcare Information and Management Systems Society
+PQ750588801	Yahoo
+PQ1880912171	General Motors
+PQ1369542831	Pentagon
+PQ1214594381	CNBC
+PQ50414515	New York Stock Exchange
+PQ654284091	Sun Microsystems
+PQ1193354891	Cisco
+PQ1007382471	White House
+PQ982639561	The Carroll County Planning and Zoning Commission
+PQ1381847391	University of California
+PQ75142113	Lipper Analytical Services
+PQ52119385	Dell
+PQ387192961	Waldenbooks
+PQ617893031	Johns Hopkins University
+PQ1601897801	Wharton School
+PQ948023341	Pentagon
+PQ95285965	Federal Bureau of Investigation
+PQ110683837	George Washington University
+PQ1412815861	International Business Machines
+PQ592006431	Department of Homeland Security
+PQ1036484261	National Security Agency
+PQ326002971	New York Stock Exchange
+PQ1013857151	Norton
+PQ72007216	Securities and Exchange Commission
+PQ947141471	Microsoft
+PQ79764260	Harvard Business School
+PQ410215851	Transportation Security Administration
+PQ545254811	Yahoo
+PQ63301250	CNN
+PQ1061332361	White House
+PQ234706271	Pentagon
+PQ1538530341	International Business Machines
+PQ1325338781	Citigroup
+PQ1472432061	Environmental Protection Agency
+PQ1598340851	Dell Foundation
+PQ1442818651	World Bank
+PQ652648951	International Business Machines
+PQ1037266261	Columbia University
+PQ114217892	University of Chicago
+PQ468180691	Commerce Department
+PQ62439811	Northern Virginia Technology Council
+PQ1225642751	Constellation Brands
+PQ1038329821	Air Force
+PQ596633041	Defense Department
+PQ717443351	World Bank
+PQ1225642751	Morgan Stanley
+PQ1464260421	American Civil Liberties Union
+PQ73383276	Lipper Analytical Services
+PQ1134063231	Yahoo
+PQ338790551	Pentagon
+PQ1382382971	Organization of the Petroleum Exporting Countries
+PQ1110228621	Anne Arundel Community College
+PQ983509181	Electronic Frontier Foundation
+PQ62191589	Federal Bureau of Investigation
+PQ74833102	Waldenbooks
+PQ54584827	General Motors
+PQ1644576451	American Heart Association
+PQ923729151	Frostburg State University
+PQ1381834971	BHP Billiton
+PQ325507681	Jim Collins / HarperBusiness
+PQ1046410501	White House
+PQ110272876	White House
+PQ52666149	Lipper Analytical Services
+PQ1313492921	American Civil Liberties Union
+PQ71310656	Texas Instruments
+PQ928758331	Oracle
+PQ1518586741	Google
+PQ1204116751	Federal Bureau of Investigation
+PQ493408301	Small Business Association
+PQ344811351	Norton
+PQ63412215	Gartner
+PQ48661076	CNN
+PQ74889049	Lipper Analytical Services
+PQ635413331	Vatican
+PQ280362491	Defense Department
+PQ766912391	Jim Collins / HarperBusiness
+PQ1797801491	Central Intelligence Agency
+PQ130653571	Defense Department
+PQ875481301	Dell
+PQ681833941	Commerce Department
+PQ333826381	Electronic Privacy Information Center
+PQ491017111	Vatican
+PQ52493558	Norton
+PQ1829564251	White House
+PQ1114936221	Electronic Frontier Foundation
+PQ495535771	University of Pennsylvania
+PQ276938941	American Civil Liberties Union
+PQ1246145571	Harvard University
+PQ656195401	Vatican
+PQ624961521	General Accounting Office
+PQ62193469	Air Force
+PQ90647443	Defense Supply Center
+PQ1440848731	Small Business Association
+PQ56024583	Central Intelligence Agency
+PQ1662642301	Sun Microsystems
+PQ947832901	National Security Agency
+PQ1172859051	American Civil Liberties Union
+PQ903970501	Ford
+PQ1939542231	Commerce Department
+PQ1308485491	Ford
+PQ1276168191	University of California
+PQ72786874	Sony
+PQ1823524571	Google
+PQ269271251	Pentagon
+PQ791108291	ATT
+PQ1169885601	University of California
+PQ1077396591	Treasury Department
+PQ727858921	Federal Bureau of Investigation
+PQ673192771	International Business Machines
+PQ435408291	Norton
+PQ1487849731	Bank of America
+PQ56726972	Waldenbooks
+PQ920758091	Weems Creek Conservancy
+PQ622480821	New Pittsburgh Courier
+PQ72786791	Waldenbooks
+PQ50437178	Ford
+PQ768062421	Environmental Protection Agency
+PQ807720541	Nasdaq
+PQ99491957	National Security Agency
+PQ842296371	Waldenbooks
+PQ1518305621	Federal Bureau of Investigation
+PQ110272876	Federal Bureau of Investigation
+PQ111265812	Defense Department
+PQ93230400	Federal Bureau of Investigation
+PQ272562131	Yahoo
+PQ73157406	Oracle
+PQ1195687351	National Security Agency
+PQ884210721	Jim Collins / HarperBusiness
+PQ405173011	MicroStrategy
+PQ795278591	Institute of Medicine
+PQ288431361	Microsoft
+PQ1675229721	New York Stock Exchange
+PQ57573572	Janssen Healthcare Innovation
+PQ285034431	Defense Department
+PQ55046744	Securities and Exchange Commission
+PQ58311407	Dell
+PQ1370246601	Oracle
+PQ1802311801	Federal Bureau of Investigation
+PQ1010150711	Federal Reserve
+PQ90647443	Federal Highway Administration
+PQ495886231	Yahoo
+PQ609350121	National Aeronautics and Space Administration
+PQ937582581	Sun Microsystems
+PQ830253121	CNBC
+PQ269280301	Pentagon
+PQ727181751	Dell
+PQ682305271	Morgan Stanley
+PQ480505941	Federal Bureau of Investigation
+PQ860406801	University of Maryland
+PQ1015696811	University of California
+PQ69160795	Waldenbooks
+PQ1622501051	Dell
+PQ89859338	Harvard
+PQ305600621	Jim Collins / HarperBusiness
+PQ1332817331	World Bank
+PQ64184023	World Bank
+PQ71661091	CNN
+PQ348955341	White House
+PQ98308262	Air Force
+PQ1295675891	Ford
+PQ870683041	Jim Collins / HarperBusiness
+PQ1065118181	White House
+PQ658699311	General Services Administration
+PQ1036094551	Yahoo
+PQ311744311	Waldenbooks
+PQ894496021	Vatican
+PQ1130232371	Harvard
+PQ56767801	CNN
+PQ435408291	Vatican
+PQ665794351	Defense Department
+PQ981511611	National Security Agency
+PQ81900988	Electronic Privacy Information Center
+PQ1464501891	Department of Transportation
+PQ877944161	Waldenbooks
+PQ65087399	CNN
+PQ65070210	Norton
+PQ96538473	Federal Bureau of Investigation
+PQ877944161	Jim Collins / HarperBusiness
+PQ820009771	Dell
+PQ609350121	Norton
+PQ846382351	eBay
+PQ52288052	National Security Agency
+PQ1235345831	Siebel Systems
+PQ480505941	Vatican
+PQ773113421	Air Force
+PQ1467032301	White House
+PQ151962161	Federal Bureau of Investigation
+PQ667204471	Vatican
+PQ156112691	Securities and Exchange Commission
+PQ1426651291	Pentagon
+PQ1564088491	Yahoo
+PQ48597532	Microsoft
+PQ712815601	Jim Collins / HarperBusiness
+PQ791890651	Jim Collins / HarperBusiness
+PQ952771161	National Security Agency
+PQ219924771	Federal Reserve
+PQ752328631	White House
+PQ983509181	Department of Homeland Security
+PQ866318551	New York Stock Exchange
+PQ1589469531	White House
+PQ460034261	Norton
+PQ657457791	Defense Department
+PQ73537794	Janssen Healthcare Innovation
+PQ515400481	Waldenbooks
+PQ1558545121	Dell
+PQ852006731	Waldenbooks
+PQ615463321	Vatican
+PQ694896171	General Services Administration
+PQ763244801	Microsoft
+PQ69846611	University of Chicago
+PQ784187991	Alcoa
+PQ651496041	Securities and Exchange Commission
+PQ1572218621	Microsoft
+PQ970849051	New York Stock Exchange
+PQ121943569	American Civil Liberties Union
+PQ67727264	ComEd
+PQ410215851	Pentagon
+PQ127404581	Waldenbooks
+PQ1178623211	Harvard University
+PQ96550676	Oracle
+PQ61523375	Dell
+PQ1076534811	Central Intelligence Agency
+PQ810158761	Defense Logistics Agency
+PQ1210597351	MicroStrategy
+PQ1571963791	Columbia University
+PQ1626680611	World Bank
+PQ67377157	Lipper Analytical Services
+PQ62291522	Cisco
+PQ52666208	NCR
+PQ1477380931	Google
+PQ109575781	Waldenbooks
+PQ53044231	Forbes
+PQ1020385701	National Security Agency
+PQ1035534611	National Security Agency
+PQ69709508	CNN
+PQ1191280041	CVS
+PQ1483570501	Pentagon
+PQ1096775871	ATT
+PQ504543381	Federal Bureau of Investigation
+PQ572727471	University of Chicago
+PQ1298584421	International Business Machines
+PQ1582384091	Syracuse University
+PQ723476471	Federal Bureau of Investigation
+PQ94027527	Federal Bureau of Investigation
+PQ1032745871	Microsoft
+PQ111265812	Air Force Space Command
+PQ579183131	Dell
+PQ1269620121	Federal Trade Commission
+PQ324420731	Air Force
+PQ54170982	Citibank
+PQ1562847801	Dell
+PQ71650261	Ford
+PQ762345211	National Aeronautics and Space Administration
+PQ276938941	Pentagon
+PQ51327242	National Institutes of Health
+PQ1370298691	Citibank
+PQ1618863501	Compaq
+PQ1132678011	White House
+PQ74598019	National Institutes of Health
+PQ617893031	Federal Government
+PQ1278112271	Ford
+PQ71664362	National Aeronautics and Space Administration
+PQ71959517	International Business Machines
+PQ983509181	CNN
+PQ1160771001	Air Force
+PQ1759734801	Oracle
+PQ224294651	Alcoa
+PQ64634540	White House
+PQ1043384291	Morgan Stanley
+PQ662446371	New York Stock Exchange
+PQ1381839241	Oracle
+PQ810213731	Dell
+PQ1027781411	Department of Homeland Security
+PQ69219926	Lipper Analytical Services
+PQ110342427	National Security Agency
+PQ1533675361	Dell
+PQ1783750621	Apple
+PQ825542781	Jim Collins / HarperBusiness
+PQ1201807801	eBay
+PQ49792663	Massachusetts Institute of Technology
+PQ1276168191	Yahoo
+PQ98741055	Securities and Exchange Commission
+PQ1191280041	Department of Homeland Security
+PQ63412070	National Press Club
+PQ878564851	Vatican
+PQ878561291	Citigroup
+PQ71247259	Massachusetts Institute of Technology
+PQ272562131	International Business Machines
+PQ947841401	National Security Agency
+PQ1035659101	University of Maryland
+PQ47996330	Stanford University
+PQ52104472	Securities and Exchange Commission
+PQ912202811	National Cancer Institute
+PQ53771586	CNN
+PQ884791931	National Aeronautics and Space Administration
+PQ1363158761	Waldenbooks
+PQ1042335121	Jim Collins / HarperBusiness
+PQ93616529	Gannett
+PQ1472432061	Yahoo
+PQ66947981	Waldenbooks
+PQ911382981	Northern Virginia Community College
+PQ750588801	eBay
+PQ1069642931	National Security Agency
+PQ931475931	Waldenbooks
+PQ637019011	Jim Collins / HarperBusiness
+PQ390224631	Pentagon
+PQ743244211	Harvard University
+PQ1807687471	SPSS Inc
+PQ1065118181	Federal Bureau of Investigation
+PQ712815601	Waldenbooks
+PQ857434451	Citigroup
+PQ433640711	Sony
+PQ1096775871	National Security Agency
+PQ1203072421	Waldenbooks
+PQ794930641	Jim Collins / HarperBusiness
+PQ333826381	Pentagon
+PQ1506180191	American Civil Liberties Union
+PQ1618863501	Dell
+PQ1035572761	National Security Agency
+PQ1285889131	Naval Facilities Engineering Command
+PQ49333325	Pentagon
+PQ658699311	Naval Sea Systems Command
+PQ1346859041	Harvard
+PQ92668012	Jim Collins / HarperBusiness
+PQ1443509481	Google
+PQ883016821	Pentagon
+PQ53771586	Janssen Healthcare Innovation
+PQ1125912281	White House
+PQ1501859981	White House
+PQ821506341	Siebel Systems
+PQ639670131	American Civil Liberties Union
+PQ1159720421	Morgan Stanley
+PQ1013833191	New York Stock Exchange
+PQ93274904	Sun Microsystems
+PQ71343856	Air Force
+PQ110321536	Motorola
+PQ69547398	Lipper Analytical Services
+PQ840970201	American Civil Liberties Union
+PQ51961039	Yahoo
+PQ278452981	Transportation Security Administration
+PQ1085687301	ATT
+PQ1155873601	Waldenbooks
+PQ711595641	NCR
+PQ1522606261	Harvard
+PQ1015729161	Stanford University
+PQ1034465291	National Security Agency
+PQ90647443	National Aeronautics and Space Administration
+PQ1165427491	White House
+PQ52666080	Electronic Frontier Foundation
+PQ1381823541	Oracle
+PQ1930447651	Central Intelligence Agency
+PQ1483307061	Microsoft
+PQ124031791	Visa
+PQ1505811791	Norton
+PQ1436106311	Compaq
+PQ1597507401	New York Stock Exchange
+PQ1807727381	Microsoft
+PQ1823524571	CVS
+PQ52656064	Dell
+PQ932290881	Air Force
+PQ1225638791	General Motors
+PQ948035881	European Union
+PQ277528201	Eastern Loudoun Regional Library
+PQ1637606471	Federal Bureau of Investigation
+PQ230345441	Harvard
+PQ1424911741	World Bank
+PQ90647443	Department of Transportation
+PQ62470474	Waldenbooks
+PQ1687458921	Apple
+PQ94027190	Ford
+PQ141728691	New York Stock Exchange
+PQ51892515	CNN
+PQ54170982	International Business Machines
+PQ63897185	Cisco
+PQ96747552	General Services Administration
+PQ1224756711	PeopleSoft
+PQ332036751	National Aeronautics and Space Administration
+PQ1736101931	Bank of America
+PQ82392469	Defense Logistics Agency
+PQ352296631	Waldenbooks
+PQ480615061	Federal Bureau of Investigation
+PQ923727881	Anne Arundel Medical Center Hospice Program
+PQ71340863	Lipper Analytical Services
+PQ1049148481	Federal Bureau of Investigation
+PQ62766157	Nasdaq
+PQ932069491	Harvard
+PQ63385846	Sony
+PQ981511611	American Civil Liberties Union
+PQ1803746921	Apple
+PQ868529171	General Accounting Office
+PQ391232901	Securities and Exchange Commission
+PQ72964360	Gartner
+PQ523990261	National Aeronautics and Space Administration
+PQ63897185	Northern Virginia Technology Council
+PQ1512676811	Johns Hopkins University
+PQ282025961	MicroStrategy
+PQ468215551	Stanford University
+PQ1440668631	National Institutes of Health
+PQ96747552	Microsoft
+PQ1846940631	National Aeronautics and Space Administration
+PQ1233148001	National Assessment of Educational Progress
+PQ481127751	White House
+PQ55630886	Association for Competitive Technology
+PQ1174138011	Federal Reserve
+PQ374450351	Securities and Exchange Commission
+PQ62301446	eBay
+PQ1928735381	National Counterterrorism Center
+PQ73185613	National Security Agency
+PQ714736381	Columbia University
+PQ234168041	Waldenbooks
+PQ797531541	Vatican
+PQ75142113	CNN
+PQ1381834981	Hyperion Solutions
+PQ804041101	Columbia University
+PQ495902541	International Business Machines
+PQ76397946	Waldenbooks
+PQ1124181561	Waldenbooks
+PQ65210214	MicroStrategy
+PQ75183792	NCR
+PQ466600501	Waldenbooks
+PQ868529171	ATT Labs
+PQ73072509	Nasdaq
+PQ784675781	Commerce Department
+PQ76615838	European Union
+PQ1225642771	Nasdaq
+PQ623406661	Google
+PQ655785941	Vatican
+PQ1206501741	Office of Personnel Management
+PQ1273398041	PeopleSoft
+PQ79764260	Sony
+PQ1134383071	Hyperion Solutions
+PQ129547141	Yahoo
+PQ1263658171	Citigroup
+PQ1807727381	Oracle
+PQ123533511	Waldenbooks
+PQ58381437	Janssen Healthcare Innovation
+PQ1920218561	Harvard
+PQ94532287	Federal Bureau of Investigation
+PQ1890684181	CNN
+PQ1375336611	Federal Trade Commission
+PQ995762521	Apple
+PQ1069473481	Waldenbooks
+PQ76397771	Publicis Groupe
+PQ775077541	Jim Collins / HarperBusiness
+PQ1151939011	WPP Group
+PQ1096595721	Electronic Frontier Foundation
+PQ66745132	General Motors
+PQ121973206	Federal Bureau of Investigation
+PQ1424911741	America Online
+PQ77283385	CNN
+PQ812399791	Jim Collins / HarperBusiness
+PQ79764260	ATT
+PQ347282111	Harvard University
+PQ52980589	Goldman Sachs
+PQ93226854	National Security Agency
+PQ980752141	National Press Club
+PQ59269648	Sun Microsystems
+PQ1848618221	Yahoo
+PQ153629821	Pentagon
+PQ71247259	Compaq
+PQ73930461	CNN
+PQ67379659	WPP Group
+PQ1076834171	Waldenbooks
+PQ219956261	Pentagon
+PQ1329011381	Federal Bureau of Investigation
+PQ69944118	SRI Consulting Business Intelligence
+PQ230240481	Google
+PQ1182329771	ATT
+PQ324420731	NCR
+PQ64899859	Harvard
+PQ657449781	Microsoft
+PQ1499387831	Air Force
+PQ52829334	America Online
+PQ65087399	Lipper Analytical Services
+PQ410223541	Transportation Security Administration
+PQ482330641	White House
+PQ820533561	Senate Judiciary Committee
+PQ672060851	Vatican
+PQ948031561	University of Pittsburgh
+PQ60909521	CNN
+PQ950558051	Harvard University
+PQ988592811	Defense Department
+PQ922356401	Department of Homeland Security
+PQ234948711	Unilever
+PQ50346391	Janssen Healthcare Innovation
+PQ548036641	Pentagon
+PQ52980501	NCR
+PQ594388221	Norton
+PQ976068871	Yahoo
+PQ110009957	Oracle
+PQ58945969	Janssen Healthcare Innovation
+PQ63412070	Eastern Loudoun Regional Library
+PQ1029503681	Defense Logistics Agency
+PQ899332701	Federal Bureau of Investigation
+PQ52702436	Harvard
+PQ896242381	Johns Hopkins University
+PQ732411031	Norton
+PQ1867320041	National Aeronautics and Space Administration
+PQ643193761	National Aeronautics and Space Administration
+PQ1405142851	University of Pennsylvania
+PQ483148211	NCR
+PQ1257488971	BMW
+PQ725635691	New York Stock Exchange
+PQ53880197	Sony
+PQ1824605441	Columbia University
+PQ778032961	University of Maryland
+PQ51647183	Coca-Cola
+PQ857434451	Central Intelligence Agency
+PQ1171206871	White House
+PQ1522606261	Commerce Department
+PQ491286241	National Aeronautics and Space Administration
+PQ1066293001	Babson College
+PQ57559339	Norton
+PQ812856291	Environmental Protection Agency
+PQ65923343	Coca-Cola
+PQ346648301	Jim Collins / HarperBusiness
+PQ77031829	CNN
+PQ980752141	Pentagon
+PQ62263007	Lipper Analytical Services
+PQ190919111	Department of Transportation
+PQ1456607581	Environmental Protection Agency
+PQ321195281	Jim Collins / HarperBusiness
+PQ627500531	Sun Microsystems
+PQ132660541	Norton
+PQ1538567561	Oracle
+PQ49934009	Lipper Analytical Services
+PQ75183792	New York Stock Exchange
+PQ1195584301	American Civil Liberties Union
+PQ769039291	Vatican
+PQ541250031	National Aeronautics and Space Administration
+PQ74648390	Yahoo
+PQ65087399	Janssen Healthcare Innovation
+PQ86731608	CNN
+PQ68417610	White House
+PQ974906881	National Security Agency
+PQ980752141	White House
+PQ82236801	Waldenbooks
+PQ868529171	ATT
+PQ1188558551	Environmental Protection Agency
+PQ807720541	New York Stock Exchange
+PQ51086585	General Motors
+PQ62517991	Microsoft
+PQ1191280041	Harvard University
+PQ1056367901	Vatican
+PQ1587166121	Oracle
+PQ1109914511	National Security Agency
+PQ804041101	Johns Hopkins University
+PQ1636598961	Citigroup
+PQ990142581	Babson College
+PQ480505941	Norton
+PQ239448831	International Business Machines
+PQ922356401	Defense Department
+PQ118616627	Defense Department
+PQ1315966761	White House
+PQ810317521	Norton
+PQ272616391	ATT
+PQ289137961	Waldenbooks
+PQ1456607421	Securities and Exchange Commission
+PQ899332701	Senate Judiciary Committee
+PQ1807687471	International Business Machines
+PQ669332871	American Civil Liberties Union
+PQ682810011	Microsoft
+PQ120063593	Waldenbooks
+PQ1561056871	Oracle
+PQ73924045	CNBC
+PQ62734436	University of Maryland
+PQ66677102	Compaq
+PQ596633041	Pentagon
+PQ1038668211	National Security Agency
+PQ546044631	National Aeronautics and Space Administration
+PQ922580621	Bank of America
+PQ56024529	Janssen Healthcare Innovation
+PQ495535771	National Aeronautics and Space Administration
+PQ67379659	SRI Consulting Business Intelligence
+PQ79097506	Nasdaq
+PQ1161068011	Yahoo
+PQ1749516641	ComEd
+PQ1035518961	Central Intelligence Agency
+PQ75183857	Goldman Sachs
+PQ623624241	Defense Department
+PQ871416581	Apple
+PQ623624241	Cisco
+PQ1660168991	Office of Personnel Management
+PQ1239304571	Oracle
+PQ64842626	Waldenbooks
+PQ1819276181	White House
+PQ1068741781	Treasury Department
+PQ1416280521	International Business Machines
+PQ85283936	Wal-Mart Stores
+PQ843300321	Federal Reserve
+PQ923727881	University of Pittsburgh
+PQ56178151	Waldenbooks
+PQ1364338501	ATT
+PQ62193469	World Bank
+PQ402126151	Waldenbooks
+PQ339168401	General Accounting Office
+PQ1848618221	Stanford University
+PQ919081871	George Washington University
+PQ51524188	Morgan Stanley
+PQ1332817331	Harvard
+PQ62301446	Securities and Exchange Commission
+PQ1661997201	Microsoft
+PQ1483307061	Columbia University
+PQ117604278	Waldenbooks
+PQ1142176031	Dell
+PQ495884211	Microsoft
+PQ355762411	MicroStrategy
+PQ91646662	Social Security Administration
+PQ885094371	Air Force
+PQ222214111	NCR
+PQ1481964681	Financial Times
+PQ1009801241	Loyola University
+PQ1095678741	Data Warehouse
+PQ98438834	Forbes
+PQ885094371	Department of Homeland Security
+PQ56078230	Nasdaq
+PQ1364410461	Dell
+PQ1035572761	White House
+PQ1522606261	ATT
+PQ1177596061	Google
+PQ1066672421	Senate Judiciary Committee
+PQ665848321	Vatican
+PQ1383689821	Federal Bureau of Investigation
+PQ867601751	Jim Collins / HarperBusiness
+PQ1402613011	Coca-Cola
+PQ870683041	Waldenbooks
+PQ878564851	Dell
+PQ1458865521	Cisco
+PQ60781103	International Business Machines
+PQ68820426	Lipper Analytical Services
+PQ1833332081	National Aeronautics and Space Administration
+PQ467913481	Madras University
+PQ769039291	Dell
+PQ1402950161	Dell
+PQ67155545	Unilever
+PQ53537765	Norton
+PQ350016951	Norton
+PQ623624241	Federal Bureau of Investigation
+PQ1020901631	American Civil Liberties Union
+PQ1223958701	Department of Homeland Security
+PQ52210924	Defense Department
+PQ1833316051	White House
+PQ377619471	Pentagon
+PQ1412202701	Northern Virginia Technology Council
+PQ997606291	American Civil Liberties Union
+PQ1494942041	University of California
+PQ90647443	National Institutes of Health
+PQ355152071	CNBC
+PQ387833391	Dell
+PQ1032745871	Charles Schwab
+PQ62439811	Federal Trade Commission
+PQ1360808031	Google
+PQ107287444	Senate Judiciary Committee
+PQ1928709401	Transportation Security Administration
+PQ60946821	Forbes
+PQ72001659	MicroStrategy
+PQ1480644511	Yahoo
+PQ810140631	Electronic Privacy Information Center
+PQ665848321	Federal Bureau of Investigation
+PQ53843965	National Press Club
+PQ1045930921	White House
+PQ1476885571	National Aeronautics and Space Administration
+PQ810317521	Dell
+PQ75187284	Wal-Mart Stores
+PQ91646662	Air Force
+PQ115133616	Federal Bureau of Investigation
+PQ85313567	Air Force
+PQ62263007	Janssen Healthcare Innovation
+PQ468180691	National Aeronautics and Space Administration
+PQ114729331	New York Stock Exchange
+PQ64669223	White House
+PQ372744911	Securities and Exchange Commission
+PQ82388849	Lipper Analytical Services
+PQ1381836041	Airbus
+PQ1293769371	University of Chicago
+PQ74405791	NCR
+PQ871423171	Dell
+PQ1326510421	White House
+PQ1295308051	Commerce Department
+PQ759726871	White House
+PQ1884661791	National Security Agency
+PQ1381823551	Harvard
+PQ905366271	Sun Microsystems
+PQ76533784	Lipper Analytical Services
+PQ1495940871	Department of Homeland Security
+PQ541250031	Dell
+PQ529432491	Air Force
+PQ110272876	Environmental Protection Agency
+PQ653439091	Oracle
+PQ1613190401	ATT
+PQ325885131	White House
+PQ939133401	Microsoft
+PQ1661997201	Google
+PQ69007296	Harvard
+PQ82392469	Defense Department
+PQ1092672451	Wharton School
+PQ585186571	Vatican
+PQ121696804	Yahoo
+PQ519323291	Northern Virginia Community College
+PQ140276771	Sun Microsystems
+PQ1036557821	White House
+PQ1929953201	Transportation Security Administration
+PQ1159799141	CNN
+PQ826468291	Securities and Exchange Commission
+PQ70425995	Lipper Analytical Services
+PQ96747552	Ford
+PQ49231207	Lipper Analytical Services
+PQ654416291	National Aeronautics and Space Administration
+PQ535952031	Vatican
+PQ1381834971	Organization of the Petroleum Exporting Countries
+PQ812400311	Yahoo
+PQ1175269721	Department of Homeland Security
+PQ1225642771	Oracle
+PQ161900191	Jim Collins / HarperBusiness
+PQ830253121	Columbia University
+PQ527181431	America Online
+PQ779295071	Federal Bureau of Investigation
+PQ421127261	Jim Collins / HarperBusiness
+PQ826468291	Oracle
+PQ318951271	Waldenbooks
+PQ1163281521	Transportation Security Administration
+PQ56278441	Motorola
+PQ759726871	Department of Homeland Security
+PQ1601897801	Harvard Business School
+PQ403807081	Defense Department
+PQ103960326	Waldenbooks
+PQ1381834981	White House
+PQ988582681	Pentagon
+PQ54170982	Harvard Business School
+PQ1522606261	Unilever
+PQ77286392	Coca-Cola
+PQ1391824041	Ford
+PQ1928475221	National Counterterrorism Center
+PQ730556301	Waldenbooks
+PQ58381533	Harvard Business School
+PQ759726871	BMW
+PQ526790931	Electronic Privacy Information Center
+PQ196504651	Waldenbooks
+PQ1036597571	Harvard
+PQ96747552	General Motors
+PQ52702436	University of Maryland
+PQ65613672	CNN
+PQ350171601	Dell
+PQ1206501741	Securities and Exchange Commission
+PQ855070451	Jim Collins / HarperBusiness
+PQ69219891	Nasdaq
+PQ115133616	Oracle
+PQ271377321	Waldenbooks
+PQ136060521	Goldman Sachs
+PQ219956261	Federal Bureau of Investigation
+PQ65023214	Waldenbooks
+PQ1317812631	Transportation Security Administration
+PQ1101231221	CNBC
+PQ1302473131	Electronic Frontier Foundation
+PQ1161102481	Yahoo
+PQ1376656051	Air Force
+PQ1077606921	Federal Bureau of Investigation
+PQ59417444	CNN
+PQ129522761	Waldenbooks
+PQ187432251	Jim Collins / HarperBusiness
+PQ527181301	Federal Government
+PQ536230031	University of Delaware
+PQ790778321	Norton
+PQ1161119801	Naval Sea Systems Command
+PQ113884272	Publicis Groupe
+PQ923729151	University of Delaware
+PQ1460795011	Wal-Mart Stores
+PQ1001516611	Central Intelligence Agency
+PQ925637861	Norton
+PQ92668012	Waldenbooks
+PQ112207371	Johns Hopkins University
+PQ87496480	Defense Department
+PQ495451001	Department of Homeland Security
+PQ1469240291	Financial Times
+PQ142078621	National Institutes of Health
+PQ717443351	Vatican
+PQ1381790611	New York Stock Exchange
+PQ1235345831	Oracle
+PQ59752944	Norton
+PQ259536391	Electronic Frontier Foundation
+PQ959151841	Bank of America
+PQ334177151	Jim Collins / HarperBusiness
+PQ1062122731	Federal Bureau of Investigation
+PQ1768644011	Stanford University
+PQ1073003571	Bank of America
+PQ1225643971	Ford
+PQ683823531	Waldenbooks
+PQ735687211	Visa
+PQ72955110	National Aeronautics and Space Administration
+PQ947841401	White House
+PQ690217241	PeopleSoft
+PQ372744901	Google
+PQ1191281041	New York Stock Exchange
+PQ377081931	Pentagon
+PQ939193701	Waldenbooks
+PQ79875677	Unilever
+PQ1454065361	Apple
+PQ1007382471	George Washington University Hospital
+PQ527181431	Google
+PQ748161561	Federal Bureau of Investigation
+PQ1160771001	Equifax
+PQ52104472	CNBC
+PQ899789241	Pentagon
+PQ1563160161	Securities and Exchange Commission
+PQ1206447841	University of Iowa
+PQ57818833	Waldenbooks
+PQ976068871	Google
+PQ1378493731	Dell
+PQ885512571	Pentagon
+PQ1225637651	Dell
+PQ1660168991	Department of Homeland Security
+PQ1096595721	National Security Agency
+PQ1174138011	Google
+PQ1648311901	University of Maryland
+PQ1930418631	Federal Bureau of Investigation
+PQ1041146101	American Civil Liberties Union
+PQ1930147061	Central Intelligence Agency
+PQ735687211	NCR
+PQ302361521	Jim Collins / HarperBusiness
+PQ75142030	Citigroup
+PQ52829334	eBay
+PQ59391307	Northern Virginia Technology Council
+PQ390227061	Federal Bureau of Investigation
+PQ239448831	Massachusetts Institute of Technology
+PQ1176973031	Department of Homeland Security
+PQ56767747	New York Stock Exchange
+PQ521357721	Federal Bureau of Investigation
+PQ2019201951	Oracle
+PQ66256981	Janssen Healthcare Innovation
+PQ533327341	National Aeronautics and Space Administration
+PQ1807767881	University of Chicago
+PQ1239304571	Hyperion Solutions
+PQ1246922631	Waldenbooks
+PQ1188143941	University of Pennsylvania
+PQ1096619741	Jim Collins / HarperBusiness
+PQ85284049	Janssen Healthcare Innovation
+PQ621161601	Vatican
+PQ1348334101	Commerce Department
+PQ947188641	Jim Collins / HarperBusiness
+PQ1819276181	Google
+PQ968769291	White House
+PQ923727881	Anne Arundel Community College
+PQ1518305621	Dell
+PQ669332871	Pentagon
+PQ1339807961	Federal Bureau of Investigation
+PQ1225638791	Federal Reserve
+PQ54171088	University of Chicago
+PQ1923814521	ATT
+PQ74597892	CNN
+PQ399158431	Federal Bureau of Investigation
+PQ1039804371	Vatican
+PQ94126946	Federal Bureau of Investigation
+PQ1584489261	Pentagon
+PQ1363066561	CNBC
+PQ1369542581	Defense Department
+PQ69846611	International Business Machines
+PQ1360808031	International Business Machines
+PQ1125079261	National Security Agency
+PQ49934009	Janssen Healthcare Innovation
+PQ74648376	New York Stock Exchange
+PQ637566911	Vatican
+PQ868529171	America Online
+PQ643193761	Vatican
+PQ1269966871	Federal Bureau of Investigation
+PQ51241206	Janssen Healthcare Innovation
+PQ818356441	Transportation Security Administration
+PQ664269811	MicroStrategy
+PQ660616471	Jim Collins / HarperBusiness
+PQ948035881	Air Force
+PQ1093320561	Pentagon
+PQ812856291	Federal Bureau of Investigation
+PQ650429271	Vatican
+PQ1398392021	Waldenbooks
+PQ520943401	White House
+PQ785153631	Jim Collins / HarperBusiness
+PQ47687217	MicroStrategy
+PQ68898366	MicroStrategy
+PQ416597701	Securities and Exchange Commission
+PQ923729151	Boys and Girls Club
+PQ55697055	Sun Microsystems
+PQ885094371	National Security Agency
+PQ270650631	Babson College
+PQ1507798021	European Union
+PQ49114395	America Online
+PQ1746493961	Stanford University
+PQ879291861	Central Intelligence Agency
+PQ1661389451	Sony
+PQ68061885	Federal Bureau of Investigation
+PQ1161119801	General Services Administration
+PQ1483307061	Citigroup
+PQ719488441	European Union
+PQ378144591	Jim Collins / HarperBusiness
+PQ264312761	Jim Collins / HarperBusiness
+PQ1648311901	Cisco
+PQ1662642301	Dell
+PQ794930641	Waldenbooks
+PQ807208171	Dell
+PQ80830331	Federal Bureau of Investigation
+PQ670995381	Oracle
+PQ1177292011	Dell
+PQ896249981	University of Pittsburgh
+PQ1618902171	Small Business Association
+PQ705396891	Vatican
+PQ270516151	Air Force
+PQ242626011	White House
+PQ1065962681	Vatican
+PQ573988181	Vatican
+PQ854313511	Treasury Department
+PQ618527201	Waldenbooks
+PQ677117901	National Aeronautics and Space Administration
+PQ57887202	General Motors
+PQ1138613321	European Union
+PQ289690521	University of Pennsylvania
+PQ47603727	Janssen Healthcare Innovation
+PQ50290004	Securities and Exchange Commission
+PQ62301446	Eastern Loudoun Regional Library
+PQ894502421	Procter  Gamble
+PQ943915061	White House
+PQ1027781411	Pentagon
+PQ355100801	Norton
+PQ55296570	Securities and Exchange Commission
+PQ1782698701	National Security Agency
+PQ1360072941	Microsoft
+PQ1146060111	General Dynamics
+PQ1033342391	Hyatt Regency Chicago
+PQ1033343231	Space and Missile Systems Center
+PQ323918711	University of Chicago
+PQ751250161	Jim Collins / HarperBusiness
+PQ271208891	Air Force
+PQ963031151	Pentagon
+PQ1840608811	Microsoft
+PQ1065157061	Jim Collins / HarperBusiness
+PQ113472784	Goldman Sachs
+PQ1513656341	Federal Bureau of Investigation
+PQ53954293	Janssen Healthcare Innovation
+PQ1332830621	Electronic Frontier Foundation
+PQ132349251	Waldenbooks
+PQ1385528661	International Business Machines
+PQ62841697	Norton
+PQ1173150931	Sony
+PQ983509181	Defense Department
+PQ1346911351	Northern Virginia Community College
+PQ59417444	Janssen Healthcare Innovation
+PQ321195281	Waldenbooks
+PQ430869041	Norton
+PQ65896722	CNN
+PQ248793781	Federal Bureau of Investigation
+PQ199151021	Texas Instruments
+PQ803666631	Federal Trade Commission
+PQ55477804	Microsoft
+PQ1258695261	National Press Club
+PQ125217061	Department of Homeland Security
+PQ1191280011	NCR
+PQ1569400121	University of Pennsylvania
+PQ1571687531	Oracle
+PQ62739756	ATT
+PQ73446145	Nasdaq
+PQ850680101	Dell
+PQ96747552	Motorola
+PQ1648311901	Harvard University
+PQ981439581	Pentagon
+PQ1021559551	Cisco
+PQ88539527	Pentagon
+PQ47603727	Lipper Analytical Services
+PQ326002971	Securities and Exchange Commission
+PQ98741055	MicroStrategy
+PQ1554315621	Norton
+PQ796200231	World Bank
+PQ1220652301	Harvard University
+PQ65209930	Waldenbooks
+PQ1302473131	Department of Homeland Security
+PQ350160461	Federal Bureau of Investigation
+PQ393930621	University of Maryland
+PQ770446321	Jim Collins / HarperBusiness
+PQ280362491	Pentagon
+PQ1939542231	Madras University
+PQ1590999331	Oracle
+PQ357189601	Jim Collins / HarperBusiness
+PQ59752944	Federal Bureau of Investigation
+PQ1101231221	Wharton School
+PQ56278441	ATT Labs
+PQ1655436451	International Business Machines
+PQ1456607581	National Aeronautics and Space Administration
+PQ810158761	Treasury Department
+PQ1366007001	Anne Arundel Community College
+PQ72457140	Ford
+PQ1156742701	Air Force
+PQ717443351	Federal Bureau of Investigation
+PQ1381790611	Organization of the Petroleum Exporting Countries
+PQ623624241	ATT
+PQ936861291	Norton
+PQ99491957	Sun Microsystems
+PQ1092693421	National Security Agency
+PQ1491105811	University of Chicago
+PQ75528449	MicroStrategy
+PQ1127061151	Federal Bureau of Investigation
+PQ548036641	Transportation Security Administration
+PQ1563160161	Commerce Department
+PQ1036735101	Hyatt Regency Chicago
+PQ88877258	Jim Collins / HarperBusiness
+PQ1018375181	Air Force
+PQ79764260	Dell
+PQ1538530341	Microsoft
+PQ98923656	Microsoft
+PQ404997911	Federal Bureau of Investigation
+PQ120063593	Jim Collins / HarperBusiness
+PQ727181751	Norton
+PQ80054167	Federal Bureau of Investigation
+PQ639823221	Norton
+PQ77031829	Janssen Healthcare Innovation
+PQ1384863121	Cisco
+PQ125213881	George Washington University
+PQ1270859411	National Security Agency
+PQ1538022161	White House
+PQ1748655991	ComEd
+PQ334878031	Hyperion Solutions
+PQ1239285341	Siebel Systems
+PQ1505811791	Dell
+PQ816550781	Defense Department
+PQ70568712	International Business Machines
+PQ482746011	World Bank
+PQ55046814	CNN
+PQ1494682951	White House
+PQ1121180831	Norton
+PQ570259111	Federal Reserve
+PQ1712675111	Microsoft
+PQ69846611	Federal Reserve
+PQ1193938171	Federal Bureau of Investigation
+PQ125213851	MicroStrategy
+PQ62734436	Northern Virginia Technology Council
+PQ1094823251	Johns Hopkins University
+PQ1138332001	Norton
+PQ723908181	Dell
+PQ123921381	Federal Bureau of Investigation
+PQ1383689821	Transportation Security Administration
+PQ1405028711	Electronic Frontier Foundation
+PQ75183857	Procter  Gamble
+PQ804041101	CNBC
+PQ651917711	Massachusetts Institute of Technology
+PQ75817449	Janssen Healthcare Innovation
+PQ1151939471	Waldenbooks
+PQ74169568	Microsoft
+PQ920759001	Louisiana State University
+PQ810158761	International Business Machines
+PQ75968993	International Business Machines
+PQ208616171	Jim Collins / HarperBusiness
+PQ238376961	White House
+PQ76533784	Janssen Healthcare Innovation
+PQ839711711	American Civil Liberties Union
+PQ87490989	Waldenbooks
+PQ1175572701	Stanford University
+PQ329642271	International Business Machines
+PQ1632256131	White House
+PQ147620221	Jim Collins / HarperBusiness
+PQ1522606261	Harvard Business School
+PQ520360821	White House
+PQ639700431	Jim Collins / HarperBusiness
+PQ1332405701	White House
+PQ1304924591	New York Stock Exchange
+PQ865086301	Vatican
+PQ245699661	Ford
+PQ114467976	Eastern Loudoun Regional Library
+PQ1085685831	Federal Bureau of Investigation
+PQ75422606	Coca-Cola
+PQ587222061	National Science Foundation
+PQ495880891	Motorola
+PQ73924045	Apple
+PQ279983051	Pentagon
+PQ1270859411	ATT
+PQ1199870041	Ford
+PQ581209731	Oracle
+PQ591079291	Vatican
+PQ657544851	Microsoft
+PQ281109721	Sun Microsystems
+PQ803664251	Norton
+PQ113013190	University of Delaware
+PQ1062392171	White House
+PQ323918711	Loyola University
+PQ711499251	CACI International
+PQ1823524571	Microsoft
+PQ1041769041	ATT
+PQ377619471	Defense Department
+PQ1239304571	White House
+PQ117215853	Federal Bureau of Investigation
+PQ1036094551	ATT
+PQ846382351	Oracle
+PQ672061331	Motorola
+PQ314883561	Securities and Exchange Commission
+PQ185939631	Federal Government
+PQ1083413501	Cisco
+PQ75420056	Goldman Sachs
+PQ623864531	Norton
+PQ1469240291	White House
+PQ1504489641	Department of Homeland Security
+PQ1046657731	Securities and Exchange Commission
+PQ82774153	CNN
+PQ72699890	Yahoo
+PQ1391824041	Norton
+PQ50943361	Norton
+PQ883433671	Defense Department
+PQ1928475221	Transportation Security Administration
+PQ905685841	White House
+PQ1041769041	American Civil Liberties Union
+PQ874871691	Jim Collins / HarperBusiness
+PQ647019571	Vatican
+PQ796200231	European Union
+PQ878561291	Electronic Privacy Information Center
+PQ491105101	Compaq
+PQ348553491	AOL Time Warner
+PQ1506180191	National Security Agency
+PQ332357961	Defense Department
+PQ664269811	Securities and Exchange Commission
+PQ657457791	ATT
+PQ700934341	White House
+PQ444807841	Pentagon
+PQ98308262	Microsoft
+PQ326005791	World Bank
+PQ1563160161	Air Force
+PQ770446321	Waldenbooks
+PQ55625891	Oracle
+PQ884800231	Norton
+PQ104019938	MicroStrategy
+PQ1178219091	Nasdaq
+PQ119887235	Eastern Loudoun Regional Library
+PQ923729151	Anne Arundel Community College
+PQ923729151	Anne Arundel Medical Center Hospice Program
+PQ899332701	Pentagon
+PQ491088321	Massachusetts Institute of Technology
+PQ69551043	eBay
+PQ1369542831	American Civil Liberties Union
+PQ74079878	National Cancer Institute
+PQ408769641	Stanford University
+PQ565808491	Vatican
+PQ234948711	Microsoft
+PQ920759001	George Washington University
+PQ49864876	Norton
+PQ1381835771	Oracle
+PQ1920218561	Norton
+PQ862385511	Nasdaq
+PQ898251301	Morgan Stanley
+PQ1092695411	Waldenbooks
+PQ385989751	Apple
+PQ65923343	Oracle
+PQ1167484851	Waldenbooks
+PQ338797851	Transportation Security Administration
+PQ408433931	University of Iowa
+PQ1181743391	University of Chicago
+PQ78844140	Lipper Analytical Services
+PQ643656571	Jim Collins / HarperBusiness
+PQ903953781	New York Stock Exchange
+PQ125454081	Jim Collins / HarperBusiness
+PQ72786874	Microsoft
+PQ671582191	Waldenbooks
+PQ1660168951	Office of Personnel Management
+PQ912202811	Treasury Department
+PQ56278441	ATT
+PQ1706456871	ATT
+PQ399150071	White House
+PQ1206501741	Federal Trade Commission
+PQ115195666	University of Iowa
+PQ1944589401	Microsoft
+PQ981439581	Federal Bureau of Investigation
+PQ80406842	Procter  Gamble
+PQ843300321	Goldman Sachs
+PQ798154391	Jim Collins / HarperBusiness
+PQ1725200741	Norton
+PQ62841905	Syracuse University
+PQ70492408	Nasdaq
+PQ1127916561	Sony
+PQ69225755	Federal Trade Commission
+PQ859263071	Sun Microsystems
+PQ682305271	Microsoft
+PQ49826337	University of Chicago
+PQ528242621	Waldenbooks
+PQ91512587	Syracuse University
+PQ1707752021	Treasury Department
+PQ1123447271	National Security Agency
+PQ54099048	Decision Support Systems
+PQ81857130	Microsoft
+PQ441471571	Citibank
+PQ778677331	Federal Bureau of Investigation
+PQ922580621	Social Security Administration
+PQ948023341	General Accounting Office
+PQ1501859981	Norton
+PQ51231858	Dell
+PQ374996441	Waldenbooks
+PQ638225701	Pentagon
+PQ74161353	Norton
+PQ60554379	Norton
+PQ1887012891	University of Maryland
+PQ1536828531	White House
+PQ491017111	Federal Bureau of Investigation
+PQ64717643	Nasdaq
+PQ1035540271	Defense Department
+PQ245699661	Hyperion Solutions
+PQ520938461	SRI Consulting Business Intelligence
+PQ1270264171	European Union
+PQ948035881	Central Intelligence Agency
+PQ143336141	New York Stock Exchange
+PQ1225643971	Dell
+PQ1311979011	National Security Agency
+PQ67989871	MicroStrategy
+PQ53131377	NCR
+PQ284015431	Waldenbooks
+PQ702547751	NCR
+PQ1905807801	Microsoft
+PQ47996330	University of Chicago
+PQ1438197851	Small Business Association
+PQ130653571	General Services Administration
+PQ1472432061	Financial Times
+PQ948870131	White House
+PQ1498626631	Norton
+PQ623624241	eBay
+PQ896242381	University of Maryland
+PQ544647211	Transportation Security Administration
+PQ1046657151	Defense Logistics Agency
+PQ98741581	University of Arizona
+PQ716346901	Bank of America
+PQ1323531091	Google
+PQ1621151941	Dell
+PQ947832901	Pentagon
+PQ613050431	Jim Collins / HarperBusiness
+PQ1580263781	Equifax
+PQ1040076231	eBay
+PQ338791101	National Security Agency
+PQ91621489	CNN
+PQ632266991	Vatican
+PQ1281612111	National Institutes of Health
+PQ1039483371	Pentagon
+PQ446110101	Waldenbooks
+PQ74252369	eBay
+PQ643193761	Norton
+PQ1225642771	Microsoft
+PQ1464260421	Department of Homeland Security
+PQ75420086	Janssen Healthcare Innovation
+PQ121943569	Federal Bureau of Investigation
+PQ297643101	Dominican University
+PQ1558855091	Treasury Department
+PQ1440972851	National Institutes of Health
+PQ379515751	Sun Microsystems
+PQ1302473131	Federal Bureau of Investigation
+PQ1015857641	Microsoft
+PQ1233147221	Alliance for Excellent Education
+PQ1294088131	Pentagon
+PQ932065291	Central Intelligence Agency
+PQ57207044	Norton
+PQ1905807801	Oracle
+PQ122200731	Treasury Department
+PQ99491957	Defense Department
+PQ279325811	Transportation Security Administration
+PQ51327133	Massachusetts Institute of Technology
+PQ85183582	Federal Bureau of Investigation
+PQ1438193591	National Security Agency
+PQ983509181	Electronic Privacy Information Center
+PQ1149832951	New York Stock Exchange
+PQ74079876	National Cancer Institute
+PQ49345308	Massachusetts Institute of Technology
+PQ99049830	Waldenbooks
+PQ339168401	Pentagon
+PQ48604523	Sony
+PQ1036557821	Sun Microsystems
+PQ1319570581	George Washington University
+PQ68425860	Lipper Analytical Services
+PQ548860381	Vatican
+PQ96747552	CACI International
+PQ1647604271	National Institutes of Health
+PQ70499253	MicroStrategy
+PQ72457140	Nasdaq
+PQ66759933	Janssen Healthcare Innovation
+PQ897237831	Northern Virginia Community College
+PQ521357721	Harvard
+PQ65613691	New York Stock Exchange
+PQ1326258361	Pentagon
+PQ813261011	Federal Reserve
+PQ687730341	Waldenbooks
+PQ181576971	NCR
+PQ1224756711	Oracle
+PQ65649033	Sun Microsystems
+PQ1300732921	White House
+PQ814375501	NCR
+PQ1518586741	Microsoft
+PQ1929754181	Federal Bureau of Investigation
+PQ677117901	Vatican
+PQ1085687301	International Business Machines
+PQ92205820	Federal Reserve
+PQ1929754191	Federal Bureau of Investigation
+PQ1188558551	White House
+PQ1174138011	Treasury Department
+PQ1824653161	Oracle
+PQ62734436	Mason Enterprise Center
+PQ1483570501	White House
+PQ711478701	NCR
+PQ1398955111	University of Maryland
+PQ1311978611	Nasdaq
+PQ55215765	Waldenbooks
+PQ1467032301	Electronic Privacy Information Center
+PQ1405028711	Citibank
+PQ1474860071	New York Stock Exchange
+PQ817514421	Norton
+PQ1036079691	National Security Agency
+PQ80830331	White House
+PQ1187404091	General Motors
+PQ763269481	Harvard University
+PQ1901037171	CNN
+PQ125749021	White House
+PQ1035658681	White House
+PQ60781075	Yahoo
+PQ852672061	Goldman Sachs
+PQ1843007791	Yahoo
+PQ1939542231	Harvard University
+PQ51327288	International Business Machines
+PQ768559671	Commerce Department
+PQ1620311631	National Aeronautics and Space Administration
+PQ1171967621	Waldenbooks
+PQ731800541	Federal Bureau of Investigation
+PQ50741314	Norton
+PQ120951991	George Washington University
+PQ72962126	Janssen Healthcare Innovation
+PQ480588921	Oracle
+PQ48275331	Securities and Exchange Commission
+PQ93744013	Jim Collins / HarperBusiness
+PQ1239285341	PeopleSoft
+PQ75187284	NCR
+PQ1382382971	European Union
+PQ385453231	Vatican
+PQ1579243021	Oracle
+PQ974906881	American Civil Liberties Union
+PQ865780201	University of Maryland
+PQ1665704691	White House
+PQ854313511	Pentagon
+PQ810175591	Apple
+PQ70005265	Central Intelligence Agency
+PQ948024171	American Civil Liberties Union
+PQ91646662	Defense Logistics Agency
+PQ55121098	Oracle
+PQ909969191	NCR
+PQ786628271	Dell
+PQ53539833	Microsoft
+PQ204142971	Waldenbooks
+PQ1381836061	Fortune Brands
+PQ748214651	Pentagon
+PQ750588801	Sun Microsystems
+PQ1130232371	University of Arizona
+PQ64966149	Apple
+PQ96747552	Goldman Sachs
+PQ688781481	Pentagon
+PQ1665704691	University of Maryland
+PQ92319733	Dell
+PQ1444690541	Goldman Sachs
+PQ1759773071	Federal Bureau of Investigation
+PQ1285088471	Microsoft
+PQ740618221	Harvard
+PQ107735458	Waldenbooks
+PQ281764871	Federal Trade Commission
+PQ1323531091	White House
+PQ1348334101	General Dynamics
+PQ90127407	Waldenbooks
+PQ63301250	Lipper Analytical Services
+PQ706365471	University of Pennsylvania
+PQ99049830	Jim Collins / HarperBusiness
+PQ76984706	Waldenbooks
+PQ1036096541	BMW
+PQ944279331	University of Chicago
+PQ279325811	Defense Department
+PQ281996321	Waldenbooks
+PQ1318963231	Yahoo
+PQ93311594	Harvard Business School
+PQ1134636701	Central Intelligence Agency
+PQ62301446	Northern Virginia Technology Council
+PQ682330771	Norton
+PQ970928801	University of Maryland
+PQ1132678011	Defense Department
+PQ624961521	General Services Administration
+PQ1114936221	Federal Bureau of Investigation
+PQ1204439531	Johns Hopkins University
+PQ896242381	Catholic Relief Services
+PQ51241206	Lipper Analytical Services
+PQ1405039741	CNBC
+PQ727858921	Vatican
+PQ882010611	Yahoo
+PQ64669337	CNN
+PQ1930496871	Central Intelligence Agency
+PQ54300651	University of California
+PQ98308262	Dell
+PQ1313077581	American Civil Liberties Union
+PQ822303171	Waldenbooks
+PQ374450351	University of Chicago
+PQ59755196	University of Chicago
+PQ110709622	WPP Group
+PQ1625756081	Harvard University
+PQ1036094571	ATT
+PQ1257488971	Citigroup
+PQ1128641331	Norton
+PQ1494994841	Norton
+PQ1485579321	General Motors
+PQ688293661	Vatican
+PQ69219926	Janssen Healthcare Innovation
+PQ77236855	Waldenbooks
+PQ72007203	National Aeronautics and Space Administration
+PQ248793781	Harvard
+PQ59838963	CNN
+PQ1220652301	National Institutes of Health
+PQ125874871	National Security Agency
+PQ983509181	Transportation Security Administration
+PQ1622501051	Bank of America
+PQ582218661	General Accounting Office
+PQ1155852451	Department of Homeland Security
+PQ1146410901	Pentagon
+PQ471691551	Sony
+PQ279325811	Federal Bureau of Investigation
+PQ621161601	White House
+PQ565808491	National Aeronautics and Space Administration
+PQ318951271	Jim Collins / HarperBusiness
+PQ1226682271	Dell
+PQ1582383961	Syracuse University
+PQ797531571	Dell
+PQ87188533	Airbus
+PQ1069473481	Jim Collins / HarperBusiness
+PQ1469240291	Ford
+PQ912202811	Naval Facilities Engineering Command
+PQ355152071	AOL Time Warner
+PQ112536935	Siebel Systems
+PQ980752141	Federal Bureau of Investigation
+PQ706607111	Norton
+PQ1047148091	University of Pennsylvania
+PQ174505271	Jim Collins / HarperBusiness
+PQ377081931	White House
+PQ944279331	National Security Agency
+PQ281764871	Electronic Frontier Foundation
+PQ885094371	ATT
+PQ771236321	Sun Microsystems
+PQ440038871	Waldenbooks
+PQ1121824041	National Security Agency
+PQ70909994	Goldman Sachs
+PQ981439581	Air Force
+PQ948028971	White House
+PQ1485579321	European Union
+PQ77283385	Janssen Healthcare Innovation
+PQ1130232371	Wharton School
+PQ1833316051	National Security Agency
+PQ980752141	National Security Agency
+PQ1370298691	University of Pennsylvania
+PQ96747552	Bank of America
+PQ923727881	Frostburg State University
+PQ78922515	White House
+PQ1381836051	BHP Billiton
+PQ1877354401	Microsoft
+PQ948023341	Central Intelligence Agency
+PQ846569101	Apple
+PQ98308262	America Online
+PQ339168401	Federal Bureau of Investigation
+PQ902130381	Vatican
+PQ80040478	Sony
+PQ204842491	Syracuse University
+PQ1320612161	American Civil Liberties Union
+PQ63503428	Waldenbooks
+PQ1062392171	Transportation Security Administration
+PQ55477818	Lipper Analytical Services
+PQ1506180191	Federal Bureau of Investigation
+PQ1311684461	White House
+PQ1173155431	Norton
+PQ839711711	Department of Homeland Security
+PQ1424911741	Wharton School
+PQ810175591	Microsoft
+PQ1706456871	International Business Machines
+PQ98923656	University of Arizona
+PQ765505511	SRI Consulting Business Intelligence
+PQ1440848731	Federal Government
+PQ73157410	eBay
+PQ1192470151	Senate Judiciary Committee
+PQ1252683211	Electronic Frontier Foundation
+PQ78927676	Northern Virginia Technology Council
+PQ1232205301	Equifax
+PQ1736101931	Citigroup
+PQ98741055	Air Force
+PQ995715881	White House
+PQ699796781	Vatican
+PQ229425161	Jim Collins / HarperBusiness
+PQ1425626041	Microsoft
+PQ1411559101	CNBC
+PQ504545001	Norton
+PQ1809145651	Harvard Business School
+PQ1321308041	White House
+PQ580630321	New York Stock Exchange
+PQ69007296	Sun Microsystems
+PQ50346391	CNN
+PQ1151589971	Small Business Association
+PQ1460795011	Pentagon
+PQ1332830621	National Security Agency
+PQ804555871	Vatican
+PQ74889049	Janssen Healthcare Innovation
+PQ1130232371	University of Pittsburgh
+PQ778705731	Jim Collins / HarperBusiness
+PQ1007382471	National Security Agency
+PQ1222629711	Department of Homeland Security
+PQ1381791401	Fortune Brands
+PQ89284761	CNN
+PQ410215851	Electronic Privacy Information Center
+PQ1036597571	George Washington University
+PQ1060567981	National Security Agency
+PQ1206501741	National Press Club
+PQ1082021021	General Services Administration
+PQ1000608471	National Institutes of Health
+PQ783683221	Dell
+PQ422760531	Vatican
+PQ1239304571	Siebel Systems
+PQ1405039741	White House
+PQ581958861	Jim Collins / HarperBusiness
+PQ94023749	Norton
+PQ79764260	Sun Microsystems
+PQ94126946	BMW
+PQ1391824041	Harvard
+PQ773113421	Treasury Department
+PQ1444804811	Federal Government
+PQ68760437	Federal Bureau of Investigation
+PQ1390925921	Harvard
+PQ771378271	Norton
+PQ52656064	Norton
+PQ115133616	Microsoft
+PQ820009771	Vatican
+PQ1745739491	NCR
+PQ73924045	Compaq
+PQ63897185	Mason Enterprise Center
+PQ1432955701	Yahoo
+PQ422768601	Department of Homeland Security
+PQ122933071	AOL Time Warner
+PQ96747552	Defense Department
+PQ1195584301	Treasury Department
+PQ73148583	Norton
+PQ1191280011	CVS
+PQ1319570581	Treasury Department
+PQ1339807961	White House
+PQ1509112031	Federal Bureau of Investigation
+PQ681529521	Vatican
+PQ271209381	Pentagon
+PQ1013833191	Harvard
+PQ690920361	Vatican
+PQ276636931	Dell
+PQ1597530571	Yahoo
+PQ111265812	Defense Supply Center
+PQ1516604731	Yahoo
+PQ209037511	Federal Bureau of Investigation
+PQ1148574361	Waldenbooks
+PQ1274049141	Google
+PQ993306061	ATT
+PQ527181431	Microsoft
+PQ748453091	Norton
+PQ1646219171	Microsoft
+PQ50951473	ATT
+PQ637019011	Waldenbooks
+PQ1325974841	George Washington University
+PQ495535771	University of California
+PQ81745831	Waldenbooks
+PQ345578791	Anchor Inn
+PQ1538269841	Dell
+PQ71737998	International Business Machines
+PQ1929273371	Stanford University
+PQ707054731	Oracle
+PQ326002971	Citigroup
+PQ1481964681	Citigroup
+PQ372744911	Ford
+PQ88877202	Citigroup
+PQ737894141	Harvard University
+PQ579183131	National Aeronautics and Space Administration
+PQ88539527	White House
+PQ881574881	Defense Department
+PQ491028251	Department of Homeland Security
+PQ53192497	White House
+PQ85178708	Defense Department
+PQ923729151	Air Force
+PQ976068871	Microsoft
+PQ65661984	America Online
+PQ1789107701	New York Stock Exchange
+PQ162965071	Pentagon
+PQ1200376831	eBay
+PQ652648951	Sony
+PQ53942914	Norton
+PQ53760750	Dell
+PQ814375501	Securities and Exchange Commission
+PQ943915061	National Security Agency
+PQ672767171	National Aeronautics and Space Administration
+PQ1485579321	Securities and Exchange Commission
+PQ682330771	Vatican
+PQ99347831	Procter  Gamble
+PQ1313077581	Senate Judiciary Committee
+PQ425228541	Vatican
+PQ1013833191	Goldman Sachs
+PQ1046653891	Vatican
+PQ1332810091	Central Intelligence Agency
+PQ1930418631	National Counterterrorism Center
+PQ1257495651	National Assessment of Educational Progress
+PQ1174679831	National Security Agency
+PQ70909889	Janssen Healthcare Innovation
+PQ690238031	Jim Collins / HarperBusiness
+PQ1938576451	University of California
+PQ256957601	National Aeronautics and Space Administration
+PQ1502224581	Norton
+PQ1332810091	National Security Agency
+PQ925637861	Apple
+PQ1204439471	Coca-Cola
+PQ1860589431	Harvard
+PQ273616871	Waldenbooks
+PQ1142152611	Federal Bureau of Investigation
+PQ1239305311	Nasdaq
+PQ480613331	Federal Bureau of Investigation
+PQ162960561	Harvard University
+PQ1440743601	National Counterterrorism Center
+PQ1038978471	Jim Collins / HarperBusiness
+PQ1037266261	McAfee
+PQ1381791231	Oracle
+PQ230240481	Massachusetts Institute of Technology
+PQ385453791	Norton
+PQ939167111	Air Force
+PQ52210926	General Motors
+PQ118918568	Jim Collins / HarperBusiness
+PQ58945399	George Washington University Hospital
+PQ548387591	Securities and Exchange Commission
+PQ490133751	Air Force
+PQ59034415	George Washington University
+PQ666768651	Vatican
+PQ653246941	Norton
+PQ977992221	Oracle
+PQ1170104501	Sun Microsystems
+PQ723476471	Vatican
+PQ70909889	Lipper Analytical Services
+PQ61523375	Federal Bureau of Investigation
+PQ50706973	Waldenbooks
+PQ1208959391	Senate Judiciary Committee
+PQ812856291	Department of Homeland Security
+PQ668359521	Jim Collins / HarperBusiness
+PQ545254811	University of Maryland
+PQ753366671	Commerce Department
+PQ1661389451	White House
+PQ1928709401	Department of Homeland Security
+PQ1276168191	Google
+PQ1403194051	Naval Sea Systems Command
+PQ425925091	European Union
+PQ387192961	Jim Collins / HarperBusiness
+PQ652647691	Airbus
+PQ1207640181	Securities and Exchange Commission
+PQ1298035151	White House
+PQ1131267261	Yahoo
+PQ822246471	University of Pennsylvania
+PQ60680175	Microsoft
+PQ478838181	Federal Bureau of Investigation
+PQ65028421	Procter  Gamble
+PQ332198401	Hyperion Solutions
+PQ74889049	CNN
+PQ1479480691	Waldenbooks
+PQ74090044	Coca-Cola
+PQ79764260	Oracle
+PQ1582384091	Federal Bureau of Investigation
+PQ1069642931	ATT
+PQ936643401	Harvard
+PQ714016831	Massachusetts Institute of Technology
+PQ68661148	Waldenbooks
+PQ111669652	George Washington University
+PQ58381437	Lipper Analytical Services
+PQ71009428	White House
+PQ347280771	Norton
+PQ99353752	Federal Bureau of Investigation
+PQ348955341	CNN
+PQ1036557821	ATT
+PQ1319570581	American Civil Liberties Union
+PQ627500531	Apple
+PQ1948042891	New Pittsburgh Courier
+PQ63958828	Waldenbooks
+PQ896267411	Yahoo
+PQ74994723	Waldenbooks
+PQ981439581	White House
+PQ65070210	Federal Bureau of Investigation
+PQ495882651	University of Iowa
+PQ217181891	Department of Homeland Security
+PQ908049711	Jim Collins / HarperBusiness
+PQ52491296	Dell
+PQ51327288	Goldman Sachs
+PQ1035538061	University of Chicago
+PQ84453694	CNN
+PQ339168401	Department of Homeland Security
+PQ260479701	White House
+PQ1677295941	National Aeronautics and Space Administration
+PQ1601622731	International Business Machines
+PQ1326510421	National Security Agency
+PQ372744911	Federal Bureau of Investigation
+PQ95461188	University of California
+PQ54322097	Janssen Healthcare Innovation
+PQ1290904361	Morgan Stanley
+PQ53954293	Lipper Analytical Services
+PQ69939210	Waldenbooks
+PQ47602449	Citibank
+PQ1487846791	Defense Department
+PQ530941841	Dell
+PQ909467641	Ford
+PQ948024171	National Security Agency
+PQ75777473	Unilever
+PQ858342181	Jim Collins / HarperBusiness
+PQ675883601	Vatican
+PQ920758091	University of Maryland
+PQ480556201	New Pittsburgh Courier
+PQ1209467431	Social Security Administration
+PQ1239285341	Oracle
+PQ70499253	Securities and Exchange Commission
+PQ1065158031	European Union
+PQ85180595	Harvard
+PQ90642653	Lipper Analytical Services
+PQ912202811	Air Force
+PQ63630074	Ford
+PQ410215851	Federal Trade Commission
+PQ97336824	In-Q-Tel
+PQ53539833	National Oceanic and Atmospheric Administration
+PQ88539527	Norton
+PQ77286392	Unilever
+PQ748214651	International Business Machines
+PQ1621989031	Microsoft
+PQ336261141	Sun Microsystems
+PQ53539799	America Online
+PQ1656350281	University of Chicago
+PQ1427537641	Securities and Exchange Commission
+PQ1036497251	Harvard University
+PQ52131104	Janssen Healthcare Innovation
+PQ523124511	Federal Bureau of Investigation
+PQ321195781	Goldman Sachs
+PQ1117889631	Federal Bureau of Investigation
+PQ1472432061	Apple
+PQ871415611	Department of Homeland Security
+PQ988582681	Defense Department
+PQ279325811	Department of Homeland Security
+PQ1682544751	National Science Foundation
+PQ986345531	National Security Agency
+PQ70568712	European Union
+PQ672767171	Norton
+PQ491088321	Securities and Exchange Commission
+PQ67393575	National Institutes of Health
+PQ48385062	NCR
+PQ74169466	CNN
+PQ1799576531	University of California
+PQ1601878751	Department of Homeland Security
+PQ1505811791	Federal Bureau of Investigation
+PQ1483307061	Wharton School
+PQ75422606	Waldenbooks
+PQ54581657	Waldenbooks
+PQ116534915	Microsoft
+PQ687157871	Microsoft
+PQ570239971	Microsoft
+PQ1134383071	Texas Instruments
+PQ73446186	Goldman Sachs
+PQ655226111	Waldenbooks
+PQ1518005211	White House
+PQ525786061	Electronic Privacy Information Center
+PQ60554379	Dell
+PQ1069557611	National Security Agency
+PQ91621381	George Washington University
+PQ1278112271	White House
+PQ1236233201	Oracle
+PQ110272754	Waldenbooks
+PQ1036752901	National Security Agency
+PQ929176961	Pentagon
+PQ1937440681	Yahoo
+PQ79875776	Waldenbooks
+PQ1624686521	Securities and Exchange Commission
+PQ283708181	Securities and Exchange Commission
+PQ59752944	National Aeronautics and Space Administration
+PQ1151939011	Sony
+PQ838691141	Ford
+PQ959151841	Citibank
+PQ1621142051	Central Intelligence Agency
+PQ270516151	Pentagon
+PQ1355451411	Waldenbooks
+PQ997606291	Federal Bureau of Investigation
+PQ76615838	Morgan Stanley
+PQ50290004	Oracle
+PQ1041769041	National Security Agency
+PQ639823221	Vatican
+PQ239487911	CNN
+PQ1191280041	Harvard
+PQ482071361	Sun Microsystems
+PQ544647211	Department of Homeland Security
+PQ67152573	CNN
+PQ62263021	Nasdaq
+PQ1327589391	Ford
+PQ114729270	Jim Collins / HarperBusiness
+PQ1819276181	George Washington University
+PQ1782698701	White House
+PQ773113421	Pentagon
+PQ1176455481	Waldenbooks
+PQ1225642751	Nasdaq
+PQ852663791	Vatican
+PQ948024101	National Security Agency
+PQ67823636	Procter  Gamble
+PQ110211320	Ford
+PQ1706587421	White House
+PQ1342275391	Northern Virginia Community College
+PQ1360808031	Wal-Mart Stores
+PQ1093279031	University of California
+PQ830253121	White House
+PQ93226854	White House
+PQ219956261	Defense Department
+PQ425228541	Norton
+PQ52980589	Yahoo
+PQ49221692	Electronic Frontier Foundation
+PQ431214211	Air Force
+PQ947841401	Pentagon
+PQ897975781	Vatican
+PQ1746493961	Microsoft
+PQ47602449	Harvard University
+PQ1169253641	Sun Microsystems
+PQ254313561	Waldenbooks
+PQ338797851	Electronic Frontier Foundation
+PQ1581081471	Department of Homeland Security
+PQ49934009	CNN
+PQ62517937	Janssen Healthcare Innovation
+PQ778034631	Eastern Loudoun Regional Library
+PQ527181431	Yahoo
+PQ1444804811	BlackSand Research
+PQ62841905	Ameritech
+PQ79542340	Janssen Healthcare Innovation
+PQ1325968631	Procter  Gamble
+PQ62739770	Forbes
+PQ51892515	Janssen Healthcare Innovation
+PQ526134961	Vatican
+PQ282025961	Nasdaq
+PQ931475931	Jim Collins / HarperBusiness
+PQ1487482031	Norton
+PQ1578637271	Apple
+PQ609157671	Department of Homeland Security
+PQ923727881	Catholic Relief Services
+PQ345386661	Sun Microsystems
+PQ59244265	Morgan Stanley
+PQ1448705231	ATT
+PQ1336886861	American Civil Liberties Union
+PQ1706456871	University of Pennsylvania
+PQ80054166	Federal Bureau of Investigation
+PQ55923026	Northern Virginia Technology Council
+PQ50751652	Lipper Analytical Services
+PQ918673891	Norton
+PQ57244989	CNN
+PQ928758331	Siebel Systems
+PQ93226844	Ford
+PQ865780201	Massachusetts Institute of Technology
+PQ1251566391	International Business Machines
+PQ816552091	Central Intelligence Agency
+PQ604635911	Vatican
+PQ920758091	Admiral Heights Improvement Association
+PQ86731608	Lipper Analytical Services
+PQ1328390091	Waldenbooks
+PQ682305271	Oracle
+PQ1317797301	Senate Judiciary Committee
+PQ658699311	Air Force
+PQ1038668211	White House
+PQ64184023	Harvard Business School
+PQ1389024291	George Washington University
+PQ444803851	Harvard University
+PQ1777816731	Google
+PQ850676901	Senate Judiciary Committee
+PQ262825171	Department of Homeland Security
+PQ1458865491	University of California
+PQ621890091	Eastern Loudoun Regional Library
+PQ54300634	Dell
+PQ1522606261	Louisiana State University
+PQ1313492921	Pentagon
+PQ321195781	Dell
+PQ62840820	Federal Reserve
+PQ795278591	Healthcare Information and Management Systems Society
+PQ936658801	White House
+PQ72457140	MicroStrategy
+PQ50751652	Janssen Healthcare Innovation
+PQ1175269721	National Security Agency
+PQ72457140	Securities and Exchange Commission
+PQ86899734	SPSS Inc
+PQ923727881	Boys and Girls Club
+PQ1224756051	Airbus
+PQ1381823541	International Business Machines
+PQ260479701	Air Force
+PQ1159719291	Waldenbooks
+PQ719513311	Jim Collins / HarperBusiness
+PQ653439361	Securities and Exchange Commission
+PQ1621989031	Google
+PQ1061249121	Waldenbooks
+PQ1319869021	Transportation Security Administration
+PQ50637104	National Security Agency
+PQ49601022	Dell
+PQ1173150931	Microsoft
+PQ274335471	MicroStrategy
+PQ1175269721	Central Intelligence Agency
+PQ72962126	Lipper Analytical Services
+PQ491389491	White House
+PQ125217061	White House
+PQ1312508391	Federal Bureau of Investigation
+PQ70443804	Federal Bureau of Investigation
+PQ1050058131	Federal Bureau of Investigation
+PQ429740791	NCR
+PQ82388849	Janssen Healthcare Innovation
+PQ684996091	White House
+PQ1498919421	Air Force
+PQ147620221	Waldenbooks
+PQ898251301	PeopleSoft
+PQ65661984	CNN
+PQ818908131	Jim Collins / HarperBusiness
+PQ482385731	Federal Bureau of Investigation
+PQ59244322	New York Stock Exchange
+PQ1929754191	Transportation Security Administration
+PQ73924045	Johns Hopkins University
+PQ1463767521	eBay
+PQ48604590	Lipper Analytical Services
+PQ1348334101	Securities and Exchange Commission
+PQ525183661	Waldenbooks
+PQ307922591	White House
+PQ69329123	Securities and Exchange Commission
+PQ1621989031	Yahoo
+PQ1276168191	Microsoft
+PQ53464602	National Science Foundation
+PQ122200731	Federal Trade Commission
+PQ80406842	Central Intelligence Agency
+PQ1736101931	Publicis Groupe
+PQ72007203	University of Maryland
+PQ79875776	Norton
+PQ545254811	International Business Machines
+PQ1920218531	Federal Reserve
+PQ1132678011	Federal Bureau of Investigation
+PQ1412202701	Small Business Association
+PQ586176291	New York Stock Exchange
+PQ1432955701	University of California
+PQ1518674701	Naval Facilities Engineering Command
+PQ64717643	CNBC
+PQ525786061	Pentagon
+PQ264312761	Waldenbooks
+PQ50951469	CNN
+PQ1403194051	Air Force
+PQ835404271	Equifax
+PQ527181301	George Mason University
+PQ1122091261	Electronic Frontier Foundation
+PQ115613530	Harvard Business School
+PQ1235345831	PeopleSoft
+PQ674106781	Department of Homeland Security
+PQ805049421	Harvard
+PQ649859401	Jim Collins / HarperBusiness
+PQ79349629	Unilever
+PQ681529521	White House
+PQ329642271	Central Intelligence Agency
+PQ548711501	Pentagon
+PQ332357961	General Services Administration
+PQ1528356341	Dell
+PQ1182329771	National Security Agency
+PQ1225643971	Hyperion Solutions
+PQ431214211	Transportation Security Administration
+PQ1101231221	Securities and Exchange Commission
+PQ953243661	Department of Homeland Security
+PQ54772100	CNN
+PQ52119385	White House
+PQ765505511	University of California
+PQ123921381	National Security Agency
+PQ48597532	America Online
+PQ923729151	Catholic Relief Services
+PQ56767801	Janssen Healthcare Innovation
+PQ85313567	Environmental Protection Agency
+PQ63000005	CNN
+PQ119620062	Securities and Exchange Commission
+PQ1469240291	Yahoo
+PQ52980589	America Online
+PQ424669051	University of Pennsylvania
+PQ293343061	Pentagon
+PQ883036471	Federal Bureau of Investigation
+PQ1518674701	National Aeronautics and Space Administration
+PQ1381823551	University of Maryland
+PQ63385846	Gartner
+PQ52828059	Lipper Analytical Services
+PQ1138298681	Federal Bureau of Investigation
+PQ797531571	Norton
+PQ1073003571	Federal Reserve
+PQ623624241	Forbes
+PQ63129680	Waldenbooks
+PQ1225642751	Securities and Exchange Commission
+PQ79542340	CNN
+PQ661386131	Federal Bureau of Investigation
+PQ50951469	Lipper Analytical Services
+PQ1381823541	Goldman Sachs
+PQ60608547	CNN
+PQ347281321	General Motors
+PQ623406661	Stanford University
+PQ121203549	Jim Collins / HarperBusiness
+PQ881574881	Pentagon
+PQ1132678011	Pentagon
+PQ782723791	Norton
+PQ53036712	Norton
+PQ59244265	AOL Time Warner
+PQ204842491	Pentagon
+PQ808823961	Waldenbooks
+PQ1036713991	Securities and Exchange Commission
+PQ1381834981	Oracle
+PQ1712675351	Harvard
+PQ354181551	Jim Collins / HarperBusiness
+PQ314876081	SAS Institute
+PQ779285861	University of California
+PQ1366007001	University of Maryland
+PQ1381836041	Organization of the Petroleum Exporting Countries
+PQ68611666	Nasdaq
+PQ56274021	Lipper Analytical Services
+PQ1041166541	Air Force
+PQ694896171	Federal Bureau of Investigation
+PQ77286392	Procter  Gamble
+PQ648984601	National Aeronautics and Space Administration
+PQ58945398	Air Force
+PQ1029506401	CNBC
+PQ502264421	Waldenbooks
+PQ657449781	PeopleSoft
+PQ1382382971	Citigroup
+PQ1393255751	Department of Homeland Security
+PQ932290881	Defense Department
+PQ1848618221	Google
+PQ60911041	Forbes
+PQ680289231	Stanford University
+PQ1036752901	Electronic Frontier Foundation
+PQ275629001	Jim Collins / HarperBusiness
+PQ714016831	Pentagon
+PQ58394123	New York Stock Exchange
+PQ1037246121	National Security Agency
+PQ399150071	Stanford University
+PQ1178623211	University of Iowa
+PQ950558381	National Security Agency
+PQ1759733371	National Science Foundation
+PQ1929335861	Infosys
+PQ1381834971	Fortune Brands
+PQ821506341	Nasdaq
+PQ222136041	Microsoft
+PQ72457140	University of Maryland
+PQ1416904681	Securities and Exchange Commission
+PQ943915061	Pentagon
+PQ229153771	Google
+PQ820533241	University of California
+PQ1058244511	Senate Judiciary Committee
+PQ762345211	Norton
+PQ1223958701	Pentagon
+PQ779505351	Motorola
+PQ674841031	Waldenbooks
+PQ524715951	NCR
+PQ136060521	Morgan Stanley
+PQ72457119	Pentagon
+PQ1513922681	Ford
+PQ66545359	Yahoo
+PQ1765651661	Federal Bureau of Investigation
+PQ72457140	General Motors
+PQ247789031	Norton
+PQ1043384291	Microsoft
+PQ773113421	George Mason University
+PQ1177301251	Pentagon
+PQ321672681	Department of Homeland Security
+PQ230346241	Central Intelligence Agency
+PQ1440668631	Federal Government
+PQ77394869	Dell
+PQ1582782721	Massachusetts Institute of Technology
+PQ932065291	White House
+PQ90255212	University of Maryland
+PQ689815791	Norton
+PQ981439581	National Science Foundation
+PQ51893133	Securities and Exchange Commission
+PQ58381533	Harvard
+PQ970849091	NCR
+PQ1591735751	Columbia University
+PQ988582681	National Security Agency
+PQ60911041	University of Maryland
+PQ440038521	Oracle
+PQ1052794871	Jim Collins / HarperBusiness
+PQ50951473	New York Stock Exchange
+PQ924437491	Harvard
+PQ1461349601	Yahoo
+PQ432355151	MicroStrategy
+PQ53270544	CNN
+PQ1096570051	National Security Agency
+PQ238376961	Defense Department
+PQ56024583	George Washington University
+PQ387839091	Federal Bureau of Investigation
+PQ60675972	America Online
+PQ64926484	MicroStrategy
+PQ269271591	Commerce Department
+PQ1035538061	Defense Department
+PQ478781051	National Oceanic and Atmospheric Administration
+PQ675883601	White House
+PQ654416291	Norton
+PQ652505501	Jim Collins / HarperBusiness
+PQ1208970751	Waldenbooks
+PQ1498281071	White House
+PQ1438193591	Electronic Frontier Foundation
+PQ1224756051	Federal Reserve
+PQ1193354891	University of Pennsylvania
+PQ846548141	Forest Service
+PQ1109914511	Harvard
+PQ500782071	Oracle
+PQ1381834971	International Business Machines
+PQ246089701	Pentagon
+PQ716346901	Microsoft
+PQ1295308051	Oracle
+PQ348059821	AOL Time Warner
+PQ1274049141	Babson College
+PQ69790669	Janssen Healthcare Innovation
+PQ1498626631	Dell
+PQ1065962921	Federal Bureau of Investigation
+PQ1863441131	National Security Agency
+PQ1060567981	Defense Department
+PQ1582384091	Electronic Frontier Foundation
+PQ670995381	Apple
+PQ1314326561	National Security Agency
+PQ52666208	Oracle
+PQ56466350	CNN
+PQ74252378	Oracle
+PQ161900191	Waldenbooks
+PQ289690521	White House
+PQ1035540271	National Security Agency
+PQ691172111	Vatican
+PQ60675981	White House
+PQ53843965	American Diabetes Association
+PQ1178623211	Yahoo
+PQ69225755	AOL Time Warner
+PQ669332871	Transportation Security Administration
+PQ648984601	White House
+PQ74648390	Coca-Cola
+PQ351193401	White House
+PQ49792663	AOL Time Warner
+PQ355152071	Microsoft
+PQ1178196591	Equifax
+PQ63385846	Microsoft
+PQ72001659	Nasdaq
+PQ62841905	BMW
+PQ762345211	Vatican
+PQ117808935	Norton
+PQ1843007791	National Science Foundation
+PQ75187284	ATT
+PQ378963991	General Motors
+PQ845580011	University of Pittsburgh
+PQ1704394561	Federal Bureau of Investigation
+PQ1058244511	White House
+PQ55630886	Oracle
+PQ74891855	Federal Reserve
+PQ1109914511	Norton
+PQ1257488971	Publicis Groupe
+PQ1408303081	Dell
+PQ63289967	Norton
+PQ239448831	Cisco
+PQ1146060111	Securities and Exchange Commission
+PQ50337492	Dell
+PQ65210214	Securities and Exchange Commission
+PQ1618863501	Microsoft
+PQ129547141	MicroStrategy
+PQ1480440081	Norton
+PQ283708181	Bain
+PQ635413351	Norton
+PQ247485931	Waldenbooks
+PQ1132692611	Jim Collins / HarperBusiness
+PQ62766060	Waldenbooks
+PQ1307379441	Nasdaq
+PQ64899859	Microsoft
+PQ791890651	Waldenbooks
+PQ1687458921	Dell
+PQ1381835331	International Business Machines
+PQ782723791	National Aeronautics and Space Administration
+PQ1062122731	Vatican
+PQ1929273371	University of Maryland
+PQ52620700	Norton
+PQ1046410501	Federal Bureau of Investigation
+PQ635413331	White House
+PQ103051636	CACI International
+PQ713954551	Harvard
+PQ1518305621	Norton
+PQ411409771	NCR
+PQ65256640	Lipper Analytical Services
+PQ1036497251	National Security Agency
+PQ1042831451	Syracuse University
+PQ704470211	Department of Homeland Security
+PQ1833332081	Environmental Protection Agency
+PQ975505701	National Institutes of Health
+PQ750588801	Microsoft
+PQ280826721	Federal Bureau of Investigation
+PQ62990222	Dell
+PQ69846611	Harvard
+PQ1105412091	CNN
+PQ50752943	Babson College
+PQ1460795011	White House
+PQ1469240291	Securities and Exchange Commission
+PQ886649941	Air Force
+PQ99491957	Central Intelligence Agency
+PQ751223691	National Security Agency
+PQ338797851	Pentagon
+PQ97343616	Federal Bureau of Investigation
+PQ699796781	White House
+PQ1381836041	Fortune Brands
+PQ410223541	Federal Trade Commission
+PQ1035659101	White House
+PQ1034465291	White House
+PQ100935363	Federal Bureau of Investigation
+PQ621890091	Federal Trade Commission
+PQ1186999721	Waldenbooks
+PQ390224631	Social Security Administration
+PQ1206520731	Senate Judiciary Committee
+PQ1318963231	Google
+PQ648984601	Norton
+PQ65209930	White House
+PQ325507681	Waldenbooks
+PQ573718031	Commerce Department
+PQ391232901	Morgan Stanley
+PQ1065962681	Norton
+PQ784653961	National Aeronautics and Space Administration
+PQ523990261	Vatican
+PQ1629729841	White House
+PQ66269881	Microsoft
+PQ1033343231	Air Force
+PQ1093279031	Yahoo
+PQ1223958701	Senate Judiciary Committee
+PQ1079647061	ATT
+PQ334878031	Federal Reserve
+PQ1596950001	International Business Machines
+PQ64926484	Electronic Frontier Foundation
+PQ1366687761	Federal Trade Commission
+PQ107772096	White House
+PQ1369592501	White House
+PQ948023341	National Security Agency
+PQ1487849731	Apple
+PQ547103811	Microsoft
+PQ923729151	Anne Arundel County Department of Aging
+PQ425496281	Jim Collins / HarperBusiness
+PQ1224756051	Securities and Exchange Commission
+PQ1002625791	National Aeronautics and Space Administration
+PQ117215853	Central Intelligence Agency
+PQ1015729161	International Business Machines
+PQ1225642771	Morgan Stanley
+PQ1867039191	SPSS Inc
+PQ868529171	AOL Time Warner
+PQ185939631	Northern Virginia Technology Council
+PQ156545441	Waldenbooks
+PQ846382351	Yahoo
+PQ424669051	University of Chicago
+PQ1625756081	Harvard
+PQ1140751731	National Security Agency
+PQ1317797301	Transportation Security Administration
+PQ1225623341	Oracle
+PQ665848321	White House
+PQ1249438401	Federal Bureau of Investigation
+PQ1378493731	Infosys
+PQ1209467431	Department of Homeland Security
+PQ772556371	Jim Collins / HarperBusiness
+PQ234168041	Jim Collins / HarperBusiness
+PQ73157406	Microsoft
+PQ342381241	Harvard University
+PQ1485579321	Citigroup
+PQ1047998151	White House
+PQ1326510421	Senate Judiciary Committee
+PQ71661086	National Aeronautics and Space Administration
+PQ1085687301	BMW
+PQ96747552	Compaq
+PQ1090872221	Dell
+PQ1456702801	Capitol College
+PQ115123127	White House
+PQ872379841	Hyperion Solutions
+PQ822246471	National Institutes of Health
+PQ224163411	Senate Judiciary Committee
+PQ806400951	Securities and Exchange Commission
+PQ783683221	Norton
+PQ1036752991	Electronic Privacy Information Center
+PQ75412050	Federal Bureau of Investigation
+PQ1341073821	NCR
+PQ70301306	Waldenbooks
+PQ865302111	White House
+PQ983815851	Apple
+PQ69225755	Electronic Privacy Information Center
+PQ69997871	Janssen Healthcare Innovation
+PQ809928391	General Dynamics
+PQ51327133	Nasdaq
+PQ288431361	Coca-Cola
+PQ691172111	Norton
+PQ1236233201	Alliance for Excellent Education
+PQ1558855091	Environmental Protection Agency
+PQ1331495261	CNN
+PQ288157031	Central Intelligence Agency
+PQ999090211	Data Warehouse
+PQ224163411	Federal Bureau of Investigation
+PQ1789150941	Microsoft
+PQ1381834981	Fortune Brands
+PQ1481964681	Yahoo
+PQ47603681	Commerce Department
+PQ65073384	Motorola
+PQ1930418631	Central Intelligence Agency
+PQ51524188	Coca-Cola
+PQ113472784	International Business Machines
+PQ840037331	Vatican
+PQ48383764	New York Stock Exchange
+PQ1015857641	Hyperion Solutions
+PQ1295308051	White House
+PQ1173155431	George Washington University
+PQ818356441	White House
+PQ339168401	American Civil Liberties Union
+PQ58945969	CNN
+PQ1505551131	White House
+PQ1824653161	Sun Microsystems
+PQ72699890	MicroStrategy
+PQ50414515	Oracle
+PQ1381834981	Constellation Brands
+PQ52067117	Norton
+PQ1139552371	Harvard Business School
+PQ1132645611	Defense Department
+PQ82178941	George Mason University
+PQ1381835331	Citigroup
+PQ55296570	MicroStrategy
+PQ1201807801	Sun Microsystems
+PQ109575781	Jim Collins / HarperBusiness
+PQ56757961	Norton
+PQ73446186	Sun Microsystems
+PQ922580621	White House
+PQ955586681	White House
+PQ1652951541	Stanford University
+PQ1214203451	Apple
+PQ1321308041	Federal Bureau of Investigation
+PQ75609714	Waldenbooks
+PQ63630074	CNBC
+PQ113472784	Yahoo
+PQ405173011	Securities and Exchange Commission
+PQ545254811	Google
+PQ343956431	National Institutes of Health
+PQ1015857641	Siebel Systems
+PQ645259861	White House
+PQ896242381	Goucher College
+PQ769039291	National Aeronautics and Space Administration
+PQ1348334101	Naval Facilities Engineering Command
+PQ1313077581	White House
+PQ448310341	Vatican
+PQ1712675111	Harvard
+PQ599485061	Jim Collins / HarperBusiness
+PQ378144591	Waldenbooks
+PQ593605941	Department of Homeland Security
+PQ495900681	CNN
+PQ277830091	Jim Collins / HarperBusiness
+PQ51430567	MicroStrategy
+PQ666768651	Dell
+PQ87188533	European Union
+PQ1807687471	Sun Microsystems
+PQ59138017	Compaq
+PQ500782071	PeopleSoft
+PQ810213731	Federal Bureau of Investigation
+PQ1784401791	Microsoft
+PQ110272876	American Civil Liberties Union
+PQ74648390	CVS
+PQ110321536	Central Intelligence Agency
+PQ1348334101	Department of Homeland Security
+PQ74405791	Securities and Exchange Commission
+PQ1389024291	Harvard
+PQ1381823541	Nasdaq
+PQ711971501	Procter  Gamble
+PQ58311407	Norton
+PQ1622502381	Federal Reserve
+PQ119887235	Northern Virginia Technology Council
+PQ58381437	CNN
+PQ80054167	Harvard
+PQ651090811	Sun Microsystems
+PQ109632939	Harvard Business School
+PQ911382981	George Mason University
+PQ520360821	Johns Hopkins University
+PQ687157871	MicroStrategy
+PQ196503811	Ford
+PQ740859401	Vatican
+PQ1047994511	CNN
+PQ1388861341	University of California
+PQ874871691	Waldenbooks
+PQ72457140	America Online
+PQ355108491	SRI Consulting Business Intelligence
+PQ618527201	Jim Collins / HarperBusiness
+PQ707054731	Federal Reserve
+PQ52812446	Dell
+PQ1222200701	Federal Bureau of Investigation
+PQ62734436	Eastern Loudoun Regional Library
+PQ85313567	National Institutes of Health
+PQ743244211	University of Chicago
+PQ1174467301	Treasury Department
+PQ852672061	Federal Reserve
+PQ1572218621	Sun Microsystems
+PQ1029503681	Transportation Security Administration
+PQ177758161	European Union
+PQ999090211	White House
+PQ871415861	White House
+PQ1141389661	Jim Collins / HarperBusiness
+PQ995762521	Google
+PQ403807081	White House
+PQ1319869021	Electronic Privacy Information Center
+PQ60909521	Janssen Healthcare Innovation
+PQ377507511	Pentagon
+PQ908592941	NCR
+PQ374450351	CNBC
+PQ1332810091	American Civil Liberties Union
+PQ1460795011	Microsoft
+PQ939165671	Federal Reserve
+PQ1254379021	Alcoa
+PQ98438834	Yahoo
+PQ1125075891	Norton
+PQ1440972851	Small Business Association
+PQ480597411	Stanford University
+PQ541042901	Charles Schwab
+PQ94023760	Vatican
+PQ1706456871	Wharton School
+PQ120913675	Pentagon
+PQ66269881	International Business Machines
+PQ657449781	Siebel Systems
+PQ1037266261	British Columbia Institute of Technology
+PQ1325718681	Norton
+PQ855962311	Securities and Exchange Commission
+PQ130653571	Federal Bureau of Investigation
+PQ82392469	General Services Administration
+PQ70426077	New York Stock Exchange
+PQ1332810091	Electronic Frontier Foundation
+PQ1121824041	Federal Bureau of Investigation
+PQ1386780651	International Business Machines
+PQ1746493961	Dell
+PQ1558077641	White House
+PQ98312382	Federal Bureau of Investigation
+PQ1636043621	Environmental Protection Agency
+PQ525774621	Department of Transportation
+PQ217181891	Transportation Security Administration
+PQ905365311	Norton
+PQ1054595251	University of California
+PQ418549321	Norton
+PQ60784977	George Washington University
+PQ73157406	Ford
+PQ1939542231	Environmental Protection Agency
+PQ132751941	Department of Transportation
+PQ1134383071	Microsoft
+PQ85949640	Waldenbooks
+PQ1648311901	Healthcare Information and Management Systems Society
+PQ1849100461	Johns Hopkins University
+PQ1281721961	White House
+PQ1468249801	New York Stock Exchange
+PQ676555411	Hyperion Solutions
+PQ1242529241	Department of Homeland Security
+PQ565808491	Dell
+PQ1188143941	Microsoft
+PQ716346901	Federal Reserve
+PQ321195781	International Business Machines
+PQ698772891	Waldenbooks
+PQ1617151631	Microsoft
+PQ527181301	Mason Enterprise Center
+PQ114729331	NCR
+PQ410656281	Transportation Security Administration
+PQ963031151	White House
+PQ99491957	In-Q-Tel
+PQ1273054231	Waldenbooks
+PQ67736140	Janssen Healthcare Innovation
+PQ667191601	ATT
+PQ651496041	Nasdaq
+PQ1065962681	CNN
+PQ2019201951	Microsoft
+PQ1536828531	Federal Bureau of Investigation
+PQ323918711	Harvard University
+PQ1485579321	Financial Times
+PQ840037331	Norton
+PQ755599701	Dell
+PQ154700631	Jim Collins / HarperBusiness
+PQ707054731	Securities and Exchange Commission
+PQ57423570	Motorola
+PQ762345211	Dell
+PQ708620851	Microsoft
+PQ953243661	National Security Agency
+PQ657544851	Apple
+PQ140146481	Yahoo
+PQ923729151	Admiral Heights Improvement Association
+PQ797531541	Dell
+PQ1035518961	National Security Agency
+PQ753366671	Bank of America
+PQ1342276461	Northern Virginia Community College
+PQ53547944	Janssen Healthcare Innovation
+PQ1662642301	International Business Machines
+PQ1382155221	University of Pennsylvania
+PQ55296503	Dell
+PQ854313511	Department of Homeland Security
+PQ499845581	New York Stock Exchange
+PQ1225642751	Motorola
+PQ60363875	General Motors
+PQ68922629	Microsoft
+PQ129074431	CNBC
+PQ1513656341	Norton
+PQ56757961	Dell
+PQ910501931	Ford
+PQ1295310801	Hyperion Solutions
+PQ108383639	Dell
+PQ115327037	Microsoft
+PQ408769641	University of Chicago
+PQ1332405701	Electronic Frontier Foundation
+PQ868529171	Federal Trade Commission
+PQ940075771	National Aeronautics and Space Administration
+PQ96747552	ComEd
+PQ90255212	Sun Microsystems
+PQ276938941	Electronic Privacy Information Center
+PQ440038521	PeopleSoft
+PQ121687494	Sun Microsystems
+PQ495884211	Yahoo
+PQ1092672451	Madras University
+PQ1035572421	Waldenbooks
+PQ639670131	Federal Bureau of Investigation
+PQ122062311	Norton
+PQ820458811	NCR
+PQ495205001	Columbia University
+PQ66759933	Lipper Analytical Services
+PQ719513311	Waldenbooks
+PQ736742011	Vatican
+PQ1833316051	Department of Homeland Security
+PQ71452932	New York Stock Exchange
+PQ93226854	International Business Machines
+PQ871415611	Pentagon
+PQ86764215	Microsoft
+PQ293343061	Transportation Security Administration
+PQ657993551	Waldenbooks
+PQ599485061	Waldenbooks
+PQ383589191	George Washington University
+PQ981511611	Electronic Frontier Foundation
+PQ52788213	Waldenbooks
+PQ797495991	Federal Reserve
+PQ70443804	White House
+PQ1225642771	Siebel Systems
+PQ846382351	McAfee
+PQ50741314	Dell
+PQ98741581	American Diabetes Association
+PQ825542781	Waldenbooks
+PQ76798397	MicroStrategy
+PQ441473001	White House
+PQ100423193	Waldenbooks
+PQ759802021	Visa
+PQ74405791	MicroStrategy
+PQ685211981	Microsoft
+PQ84142761	Waldenbooks
+PQ63412070	Mason Enterprise Center
+PQ277830091	Waldenbooks
+PQ623414211	Vatican
+PQ55046814	Janssen Healthcare Innovation
+PQ287541001	Pentagon
+PQ96747552	Yahoo
+PQ671582191	Jim Collins / HarperBusiness
+PQ1036497251	Department of Homeland Security
+PQ1042335121	Waldenbooks
+PQ635141821	CNBC
+PQ486452171	Norton
+PQ334878031	Securities and Exchange Commission
+PQ750588801	Dell
+PQ1608082321	Dell
+PQ93615563	Norton
+PQ1062392171	Department of Homeland Security
+PQ52666149	CNN
+PQ222135261	Jim Collins / HarperBusiness
+PQ1046653891	Norton
+PQ387833391	Vatican
+PQ76533784	CNN
+PQ93744013	Waldenbooks
+PQ81901019	Lipper Analytical Services
+PQ67989871	Securities and Exchange Commission
+PQ113472784	Securities and Exchange Commission
+PQ1458865491	National Science Foundation
+PQ104019880	Transportation Security Administration
+PQ480648971	Yahoo
+PQ1015857641	Indian Institute of Management
+PQ339520251	Waldenbooks
+PQ58394123	Nasdaq
+PQ1461163151	Dell
+PQ1315169941	White House
+PQ56767801	Lipper Analytical Services
+PQ981511611	White House
+PQ62507105	Dell
+PQ403807081	Forbes
+PQ1257488971	Air Force
+PQ881795291	Norton
+PQ1124138551	Harvard
+PQ1037799431	Securities and Exchange Commission
+PQ703638651	Department of Homeland Security
+PQ1224772491	Air Force
+PQ493583231	Citibank
+PQ56726910	New York Stock Exchange
+PQ50437178	Oracle
+PQ82392469	Social Security Administration
+PQ246089701	University of Maryland
+PQ74598019	Institute of Medicine
+PQ54096349	Forbes
+PQ119887235	Securities and Exchange Commission
+PQ65896722	Janssen Healthcare Innovation
+PQ781909621	Waldenbooks
+PQ1657947781	Commerce Department
+PQ74090044	WPP Group
+PQ1469240291	European Union
+PQ1225638791	Dell
+PQ1005692991	Norton
+PQ852663791	Norton
+PQ1381823551	Louisiana State University
+PQ727181751	Federal Bureau of Investigation
+PQ117215853	Pentagon
+PQ48240617	General Accounting Office
+PQ69547398	Janssen Healthcare Innovation
+PQ57895803	Lipper Analytical Services
+PQ948024101	White House
+PQ1311971591	National Security Agency
+PQ98001376	Waldenbooks
+PQ489824501	Waldenbooks
+PQ269278251	Air Force
+PQ73362172	Norton
+PQ1490064531	General Dynamics
+PQ1654240761	University of Maryland
+PQ523990261	Dell
+PQ69846611	Harvard Business School
+PQ444807841	Citibank
+PQ72457140	Oracle
+PQ378963991	Harvard Business School
+PQ953243661	Pentagon
+PQ82392469	Federal Highway Administration
+PQ653470011	Securities and Exchange Commission
+PQ74252369	Oracle
+PQ62808123	Janssen Healthcare Innovation
+PQ810213731	Vatican
+PQ923729151	University of Iowa
+PQ96747552	MicroStrategy
+PQ1929330841	Department of Homeland Security
+PQ1569400121	Department of Homeland Security
+PQ1251566391	Securities and Exchange Commission
+PQ85284049	CNN
+PQ462875211	Norton
+PQ72503880	CNN
+PQ61668149	CNN
+PQ52666149	Janssen Healthcare Innovation
+PQ56994004	MicroStrategy
+PQ1522606261	Harvard University
+PQ55625891	Association for Competitive Technology
+PQ417484721	Jim Collins / HarperBusiness
+PQ1130232371	Stanford University
+PQ1484636821	Department of Transportation
+PQ942441411	CACI International
+PQ639823221	National Aeronautics and Space Administration
+PQ103960326	Jim Collins / HarperBusiness
+PQ826447481	Securities and Exchange Commission
+PQ59752944	White House
+PQ1085685831	Norton
+PQ1893671431	Procter  Gamble
+PQ1369542831	Department of Homeland Security
+PQ1944589401	ATT
+PQ1212606871	Sun Microsystems
+PQ115613530	America Online
+PQ127066971	Pentagon
+PQ377672511	Harvard
+PQ622911401	Waldenbooks
+PQ62808123	CNN
+PQ1090104521	Oracle
+PQ1524402131	White House
+PQ71523713	MicroStrategy
+PQ74879108	Federal Bureau of Investigation
+PQ709334271	Jim Collins / HarperBusiness
+PQ883016821	Federal Bureau of Investigation
+PQ111940310	National Security Agency
+PQ73077095	Hyperion Solutions
+PQ75183857	International Business Machines
+PQ52620658	Nasdaq
+PQ113060044	Nasdaq
+PQ688293661	White House
+PQ57895803	Janssen Healthcare Innovation
+PQ491762981	Dell
+PQ1660168991	Federal Bureau of Investigation
+PQ51430567	Nasdaq
+PQ91517861	Federal Bureau of Investigation
+PQ1905808231	Goldman Sachs
+PQ1332405701	National Security Agency
+PQ1173168521	University of Pennsylvania
+PQ1783750621	Yahoo
+PQ1109914511	Ford
+PQ1236233221	National Assessment of Educational Progress
+PQ279960051	Waldenbooks
+PQ69846611	Bank of America
+PQ1939542231	International Business Machines
+PQ1321885771	Pentagon
+PQ1468962941	Dell
+PQ53763432	Defense Department
+PQ686459971	Norton
+PQ1403194051	Department of Homeland Security
+PQ886075161	European Union
+PQ885512571	Defense Department
+PQ1476885611	Defense Department
+PQ89549462	Microsoft
+PQ113672162	Securities and Exchange Commission
+PQ468608251	Vatican
+PQ1191280011	Goldman Sachs
+PQ1580263781	Data Warehouse
+PQ1225642771	Hyperion Solutions
+PQ52812446	Norton
+PQ495205001	Harvard University
+PQ998546651	Citigroup
+PQ1239305311	Oracle
+PQ108692801	Commerce Department
+PQ1524684141	Federal Bureau of Investigation
+PQ694898601	White House
+PQ1789107701	Securities and Exchange Commission
+PQ51530054	Securities and Exchange Commission
+PQ235640111	Microsoft
+PQ1472432061	Federal Reserve
+PQ52050250	Harvard
+PQ878561291	Bank of America
+PQ53537765	Dell
+PQ711971501	Yahoo
+PQ912202811	Pentagon
+PQ74652829	Sun Microsystems
+PQ1598340861	University of Pittsburgh
+PQ57938530	Federal Reserve
+PQ1088819931	Jim Collins / HarperBusiness
+PQ113884272	Zenith Optimedia Group
+PQ929176961	Defense Department
+PQ1225643971	Securities and Exchange Commission
+PQ920758091	College of Notre Dame of Maryland
+PQ122062311	National Security Agency
+PQ57199890	Harvard
+PQ623406661	Yahoo
+PQ901463361	Wal-Mart Stores
+PQ82644770	Ford
+PQ977979521	National Security Agency
+PQ1037266261	Department of Homeland Security
+PQ53771586	Lipper Analytical Services
+PQ809928391	Johns Hopkins University
+PQ1463767521	International Business Machines
+PQ285034431	American Civil Liberties Union
+PQ892691821	The Carroll County Planning and Zoning Commission
+PQ1782698701	Central Intelligence Agency
+PQ890897151	Jim Collins / HarperBusiness
+PQ838690391	Jim Collins / HarperBusiness
+PQ337842141	Norton
+PQ1192469891	Senate Judiciary Committee
+PQ97336824	Defense Department
+PQ1142809871	Johns Hopkins University
+PQ52047670	International Business Machines
+PQ86518931	Pentagon
+PQ616648161	Harvard
+PQ1134063231	ATT
+PQ1185580911	Securities and Exchange Commission
+PQ907252751	Ford
+PQ125217061	American Civil Liberties Union
+PQ1225642751	Oracle
+PQ403518861	Pentagon
+PQ868282511	Dell
+PQ623864531	National Aeronautics and Space Administration
+PQ230346241	Pentagon
+PQ62301446	ATT
+PQ1039483371	Air Force
+PQ75183857	New York Stock Exchange
+PQ53044231	White House
+PQ399150071	Norton
+PQ852672061	Harvard University
+PQ287541001	Defense Department
+PQ868282511	Norton
+PQ66545359	Cisco
+PQ121973206	Ford
+PQ1440743601	Federal Bureau of Investigation
+PQ456736511	Waldenbooks
+PQ71523685	Waldenbooks
+PQ686459971	Vatican
+PQ1217862441	Institute of Medicine
+PQ79764260	International Business Machines
+PQ69551043	International Business Machines
+PQ1381836061	Organization of the Petroleum Exporting Countries
+PQ1476885611	Air Force Space Command
+PQ1224756051	Oracle
+PQ751223691	Federal Bureau of Investigation
+PQ96747552	WPP Group
+PQ331520121	Jim Collins / HarperBusiness
+PQ903362691	Defense Department
+PQ347281321	Department of Homeland Security
+PQ810158761	Defense Department
+PQ129074431	Securities and Exchange Commission
+PQ923727881	Admiral Heights Improvement Association
+PQ814308531	NCR
+PQ1313085181	Senate Judiciary Committee
+PQ1246145571	Harvard
+PQ939152231	Apple
+PQ865086301	Norton
+PQ63412215	Motorola
+PQ1129602591	Yahoo
+PQ381189491	Waldenbooks
+PQ69790669	Lipper Analytical Services
+PQ112942952	Jim Collins / HarperBusiness
+PQ68236785	Waldenbooks
+PQ1661997201	Yahoo
+PQ71523713	Securities and Exchange Commission
+PQ1142809871	Harvard University
+PQ435403891	Louisiana State University
+PQ325885131	Defense Department
+PQ1725200741	Vatican
+PQ110708456	Waldenbooks
+PQ102552183	Dell
+PQ1173164431	Yahoo
+PQ48240617	America Online
+PQ1296629451	Waldenbooks
+PQ78405667	Federal Bureau of Investigation
+PQ356358481	Bank of America
+PQ74597892	Lipper Analytical Services
+PQ1782698701	Defense Department
+PQ1036597571	ATT
+PQ689815791	National Aeronautics and Space Administration
+PQ1563160161	Naval Facilities Engineering Command
+PQ270119421	Jim Collins / HarperBusiness
+PQ382642551	Norton
+PQ1069642931	Federal Bureau of Investigation
+PQ63000005	Lipper Analytical Services
+PQ71343856	Yahoo
+PQ686459971	Dell
+PQ883433671	Pentagon
+PQ1134399571	Norton
+PQ1315497511	ATT
+PQ59755196	Harvard Business School
+PQ1481964681	White House
+PQ923729151	Morgan State University
+PQ62949876	Waldenbooks
+PQ936664561	White House
+PQ859243851	Hyperion Solutions
+PQ259536391	Federal Bureau of Investigation
+PQ1225642751	Microsoft
+PQ73305131	Waldenbooks
+PQ76643219	World Bank
+PQ408769641	SPSS Inc
+PQ1142330251	White House
+PQ224163411	Electronic Privacy Information Center
+PQ350171601	Microsoft
+PQ48597532	Oracle
+PQ1073586741	eBay
+PQ690217241	Oracle
+PQ444190651	International Business Machines
+PQ93230400	Norton
+PQ48339648	New York Stock Exchange
+PQ820533351	International Business Machines
+PQ1546688301	National Counterterrorism Center
+PQ69575651	Procter  Gamble
+PQ846382351	Charles Schwab
+PQ59762355	Federal Trade Commission
+PQ1622501051	SAS Institute
+PQ1625756081	White House
+PQ63630074	Federal Reserve
+PQ1460795011	Yahoo
+PQ52699068	Gartner
+PQ828325951	University of Iowa
+PQ1275841311	American Civil Liberties Union
+PQ792839361	European Union
+PQ1225638791	Apple
+PQ1018375181	George Mason University
+PQ1483570501	Sun Microsystems
+PQ1483307061	University of Pennsylvania
+PQ121669812	Norton
+PQ1128645191	Federal Bureau of Investigation
+PQ1035659101	National Security Agency
+PQ1846940631	Capitol College
+PQ121696804	Siebel Systems
+PQ773449351	Harvard
+PQ52829346	CACI International
+PQ1474114731	Alcoa
+PQ1381834971	Oracle
+PQ99473149	In-Q-Tel
+PQ1381822901	Citigroup
+PQ736742011	Norton
+PQ67152573	Lipper Analytical Services
+PQ1225643491	Oracle
+PQ62439811	Mason Enterprise Center
+PQ52594883	Mason Enterprise Center
+PQ1266892821	Harvard
+PQ311744311	Jim Collins / HarperBusiness
+PQ677117901	Norton
+PQ1311979011	Senate Judiciary Committee
+PQ1490064531	Securities and Exchange Commission
+PQ74890752	Microsoft
+PQ703638651	Central Intelligence Agency
+PQ60909521	Lipper Analytical Services
+PQ768226821	Federal Bureau of Investigation
+PQ1169253641	Yahoo
+PQ47707267	Waldenbooks
+PQ1564088491	International Business Machines
+PQ1440848731	National Institutes of Health
+PQ1326510421	Harvard University
+PQ64894651	CNN
+PQ259536391	Defense Department
+PQ92205820	Pentagon
+PQ66269877	Securities and Exchange Commission
+PQ1509112031	Norton
+PQ47996330	Wharton School
+PQ52829334	Forbes
+PQ880302751	Defense Department
+PQ69790669	CNN
+PQ1348334101	Air Force
+PQ545254811	Microsoft
+PQ783524401	Federal Bureau of Investigation
+PQ84891876	Waldenbooks
+PQ525787101	Federal Bureau of Investigation
+PQ55304974	CNN
+PQ123533511	Jim Collins / HarperBusiness
+PQ74927188	Ford
+PQ339520251	Jim Collins / HarperBusiness
+PQ1035572761	ATT
+PQ1099014401	University of Chicago
+PQ1233148001	Alliance for Excellent Education
+PQ579550811	Motorola
+PQ104631510	Sony
+PQ703638651	American Civil Liberties Union
+PQ1360095891	Oracle
+PQ90647443	Treasury Department
+PQ908049711	Waldenbooks
+PQ1117921251	Waldenbooks
+PQ629827461	Jim Collins / HarperBusiness
+PQ96747552	BMW
+PQ876667751	Microsoft
+PQ75183857	NCR
+PQ125874951	White House
+PQ520938461	Charles Schwab
+PQ104019938	ATT
+PQ96747552	Massachusetts Institute of Technology
+PQ346648301	Waldenbooks
+PQ1915967471	White House
+PQ1789152671	Securities and Exchange Commission
+PQ1381823541	Ford
+PQ1506180191	Department of Homeland Security
+PQ625635411	Waldenbooks
+PQ350024921	Electronic Privacy Information Center
+PQ441469531	White House
+PQ81903631	Oracle
+PQ81901120	Wal-Mart Stores
+PQ1397083231	Norton
+PQ121973206	International Business Machines
+PQ60781075	Oracle
+PQ748453091	Dell
+PQ885094371	General Services Administration
+PQ1324121601	ATT
+PQ903362691	Pentagon
+PQ812400311	Sun Microsystems
+PQ80054167	Norton
+PQ84163200	Pentagon
+PQ1426591391	Commerce Department
+PQ306221121	Motorola
+PQ1234335381	Waldenbooks
+PQ1060567981	American Civil Liberties Union
+PQ379515751	National Aeronautics and Space Administration
+PQ432355151	eBay
+PQ1242529241	Transportation Security Administration
+PQ66256981	CNN
+PQ148128871	Federal Bureau of Investigation
+PQ912202811	Transportation Security Administration
+PQ1285889131	Environmental Protection Agency
+PQ1477380931	National Science Foundation
+PQ1882320611	New York Stock Exchange
+PQ1208959391	Microsoft
+PQ444803851	White House
+PQ953243661	Defense Department
+PQ321672681	General Dynamics
+PQ1147973221	AOL Time Warner
+PQ1161119801	Defense Department
+PQ78844140	Janssen Healthcare Innovation
+PQ1442818651	Babson College
+PQ318981171	Defense Department
+PQ65923343	Securities and Exchange Commission
+PQ635413351	National Aeronautics and Space Administration
+PQ694896171	Transportation Security Administration
+PQ629827461	Waldenbooks
+PQ1036094571	White House
+PQ54706921	Norton
+PQ67152573	Janssen Healthcare Innovation
+PQ96747552	CVS
+PQ52534107	Federal Reserve
+PQ520360821	National Institutes of Health
+PQ1510553451	Coca-Cola
+PQ820533351	Procter  Gamble
+PQ140276771	Norton
+PQ661386131	White House
+PQ635413331	Norton
+PQ1313492921	Federal Bureau of Investigation
+PQ47749731	Norton
+PQ1646219171	PeopleSoft
+PQ62517937	Lipper Analytical Services
+PQ1222629711	Defense Department
+PQ87188533	CVS
+PQ950558381	Pentagon
+PQ1398955111	Babson College
+PQ1823524571	Federal Trade Commission
+PQ83454249	Lipper Analytical Services
+PQ1939542231	University of Maryland
+PQ96747552	University of Maryland
+PQ1381834981	International Business Machines
+PQ51327242	Nasdaq
+PQ1748572261	National Security Agency
+PQ74169466	Janssen Healthcare Innovation
+PQ98001376	Jim Collins / HarperBusiness
+PQ1783750621	Morgan Stanley
+PQ1062122731	CNN
+PQ1214594381	White House
+PQ865407851	University of Maryland
+PQ1058244511	National Security Agency
+PQ1035659101	Sun Microsystems
+PQ725634841	Jim Collins / HarperBusiness
+PQ55625891	IGI Global
+PQ1189700611	Waldenbooks
+PQ51430567	Securities and Exchange Commission
+PQ73930461	Janssen Healthcare Innovation
+PQ1465371731	Dell
+PQ48597532	Harvard
+PQ716346901	Texas Instruments
+PQ1561824221	CNBC
+PQ499845581	International Business Machines
+PQ1037266261	America Online
+PQ53193315	Norton
+PQ56726910	NCR
+PQ241849111	University of California
+PQ91247005	Jim Collins / HarperBusiness
+PQ1487846791	Pentagon
+PQ1056367901	CNN
+PQ1483307061	Morgan Stanley
+PQ95461188	Sun Microsystems
+PQ1636044211	Citigroup
+PQ96747552	George Washington University
+PQ63289967	Dell
+PQ480571891	New Pittsburgh Courier
+PQ1206520731	Central Intelligence Agency
+PQ1824605441	Oracle
+PQ1661997201	BMW
+PQ357189601	Waldenbooks
+PQ53537765	White House
+PQ435257611	Microsoft
+PQ391232901	Citigroup
+PQ1302473131	Senate Judiciary Committee
+PQ412996951	Norton
+PQ879822631	Defense Department
+PQ283708181	ATT
+PQ1843007791	University of Pittsburgh
+PQ74648390	Goldman Sachs
+PQ1036752991	National Security Agency
+PQ56466350	Lipper Analytical Services
+PQ547103811	Apple
+PQ803666631	Equifax
+PQ1321885771	Department of Homeland Security
+PQ658484471	Federal Bureau of Investigation
+PQ1247865651	White House
+PQ1905808231	SAS Institute
+PQ96747552	Stanford University
+PQ1858085521	Columbia University
+PQ52503181	CNN
+PQ460034261	Vatican
+PQ988592811	Air Force
+PQ1258695261	Northern Virginia Technology Council
+PQ355152071	Cisco
+PQ1161068011	Central Intelligence Agency
+PQ588601941	Yahoo
+PQ47687211	Yahoo
+PQ155612491	Federal Trade Commission
+PQ923727881	Naval Postgraduate School
+PQ93230400	Vatican
+PQ1285889131	National Institutes of Health
+PQ52104472	MicroStrategy
+PQ1807767881	Securities and Exchange Commission
+PQ54772100	Lipper Analytical Services
+PQ431214211	National Cancer Institute
+PQ1905807801	SAS Institute
+PQ491091591	National Cancer Institute
+PQ382642551	Vatican
+PQ807208171	Vatican
+PQ74169568	AOL Time Warner
+PQ848779301	Jim Collins / HarperBusiness
+PQ75817449	CNN
+PQ1210238361	Federal Bureau of Investigation
+PQ1336167341	University of Arizona
+PQ697691611	Securities and Exchange Commission
+PQ51241206	CNN
+PQ330309481	AOL Time Warner
+PQ68661106	White House
+PQ813261021	Hyatt Regency Chicago
+PQ676177521	Federal Bureau of Investigation
+PQ520951421	Federal Bureau of Investigation
+PQ846382351	CVS
+PQ1007394711	Columbia University
+PQ1191280011	Harvard University
+PQ932668091	Harvard
+PQ177758161	Federal Bureau of Investigation
+PQ377081931	Forbes
+PQ1049148481	National Security Agency
+PQ1340168181	Pentagon
+PQ1036079691	Department of Homeland Security
+PQ1381835931	International Business Machines
+PQ74108907	Waldenbooks
+PQ94907528	Waldenbooks
+PQ290922941	ATT
+PQ59752941	Norton
+PQ239448831	SAS Institute
+PQ1082021021	Defense Department
+PQ1037266261	AOL Time Warner
+PQ1046436651	Jim Collins / HarperBusiness
+PQ838690391	Waldenbooks
+PQ278452981	Department of Homeland Security
+PQ318619921	Central Intelligence Agency
+PQ98438834	Oracle
+PQ94201128	Microsoft
+PQ355271361	Goldman Sachs
+PQ1353510921	University of Pennsylvania
+PQ1930418631	Department of Homeland Security
+PQ1275841311	Department of Homeland Security
+PQ1759734801	International Business Machines
+PQ573988181	National Aeronautics and Space Administration
+PQ80941225	Citigroup
+PQ1662627341	Microsoft
+PQ64282250	Janssen Healthcare Innovation
+PQ1204439471	ATT
+PQ807720541	International Business Machines
+PQ247789031	Harvard
+PQ440038521	eBay
+PQ142078621	Environmental Protection Agency
+PQ876679461	Harvard
+PQ1381835331	Apple
+PQ703638651	Federal Bureau of Investigation
+PQ1311697451	White House
+PQ48304061	Microsoft
+PQ120913675	Federal Bureau of Investigation
+PQ661555601	Microsoft
+PQ1381847391	International Business Machines
+PQ623406661	eBay
+PQ59713033	Waldenbooks
+PQ619813301	Vatican
+PQ1893671431	Publicis Groupe
+PQ56767747	Microsoft
+PQ748453091	Vatican
+PQ1160771001	Federal Trade Commission
+PQ59418058	Nasdaq
+PQ1332817331	White House
+PQ1284523081	Waldenbooks
+PQ1456607581	Airbus
+PQ491004051	White House
+PQ1217862441	Procter  Gamble
+PQ1015729161	Massachusetts Institute of Technology
+PQ1029506401	Securities and Exchange Commission
+PQ1029503681	Treasury Department
+PQ349346101	Waldenbooks
+PQ208616171	Waldenbooks
+PQ1199870041	White House
+PQ1311678171	Senate Judiciary Committee
+PQ708620851	eBay
+PQ1225637651	Oracle
+PQ868529171	British Columbia Institute of Technology
+PQ230240481	Defense Department
+PQ1381834971	Securities and Exchange Commission
+PQ1403194051	Securities and Exchange Commission
+PQ1311979011	Federal Bureau of Investigation
+PQ433640711	Microsoft
+PQ1706587421	Healthcare Information and Management Systems Society
+PQ106022291	Jim Collins / HarperBusiness
+PQ64669337	Lipper Analytical Services
+PQ798944431	Senate Judiciary Committee
+PQ143956401	Securities and Exchange Commission
+PQ822303301	Defense Department
+PQ72457119	General Motors
+PQ57054607	Waldenbooks
+PQ1364823791	Environmental Protection Agency
+PQ884800231	Vatican
+PQ56994004	Securities and Exchange Commission
+PQ1317808111	Transportation Security Administration
+PQ441469531	Vatican
+PQ389821141	Jim Collins / HarperBusiness
+PQ384376071	Waldenbooks
+PQ570239971	Harvard
+PQ1065158031	Federal Reserve
+PQ541250031	Vatican
+PQ62263021	Hyperion Solutions
+PQ1456607581	Transportation Security Administration
+PQ791108291	Dell Foundation
+PQ64184023	Electronic Frontier Foundation
+PQ47603681	MicroStrategy
+PQ684996091	Vatican
+PQ374996441	Jim Collins / HarperBusiness
+PQ1106749461	Waldenbooks
+PQ1448705231	Yahoo
+PQ1425625711	Harvard
+PQ1121180831	Vatican
+PQ1369542831	International Business Machines
+PQ1187404091	New York Stock Exchange
+PQ1538530341	Oracle
+PQ49231207	Janssen Healthcare Innovation
+PQ60608547	Lipper Analytical Services
+PQ338790551	Department of Homeland Security
+PQ66256981	Lipper Analytical Services
+PQ678750121	Department of Homeland Security
+PQ1309103141	Ford
+PQ93661629	National Aeronautics and Space Administration
+PQ1010145351	Dell
+PQ923727881	Delta Sigma Theta Sorority
+PQ110574047	Federal Bureau of Investigation
+PQ422768601	Electronic Privacy Information Center
+PQ1923485031	Cisco
+PQ1381836061	Airbus
+PQ62291522	International Business Machines
+PQ321672681	White House
+PQ279983051	White House
+PQ1021812101	Harvard
+PQ1495839651	SAS Institute
+PQ1027781411	National Security Agency
+PQ52210926	New York Stock Exchange
+PQ1182329771	Central Intelligence Agency
+PQ520943401	Federal Bureau of Investigation
+PQ592006431	Pentagon
+PQ843300321	SRI Consulting Business Intelligence
+PQ234706271	Electronic Privacy Information Center
+PQ107735458	Jim Collins / HarperBusiness
+PQ1060563871	White House
+PQ635141821	CNN
+PQ687157871	General Motors
+PQ52812460	Norton
+PQ1537583651	Central Intelligence Agency
+PQ1491105811	White House
+PQ732411031	University of California
+PQ68099348	Citigroup
+PQ1677333311	Massachusetts Institute of Technology
+PQ1301902731	Oracle
+PQ1777816751	Stanford University
+PQ898223031	Defense Department
+PQ54882087	Sun Microsystems
+PQ1636043621	Coca-Cola
+PQ1172859051	Department of Homeland Security
+PQ1569400121	National Science Foundation
+PQ50292967	Waldenbooks
+PQ1360072871	Google
+PQ1035658681	National Security Agency
+PQ1274935111	Yahoo
+PQ1325974841	Air Force
+PQ54016055	New York Stock Exchange
+PQ1187688741	White House
+PQ1015696811	Microsoft
+PQ504545001	Federal Bureau of Investigation
+PQ1416280521	European Union
+PQ593605941	Federal Bureau of Investigation
+PQ65361315	Visa
+PQ1608082271	Norton
+PQ1369542831	Federal Bureau of Investigation
+PQ204842491	White House
+PQ71665284	MicroStrategy
+PQ1464260421	Federal Bureau of Investigation
+PQ69007282	University of California
+PQ1273398041	Oracle
+PQ918463551	Microsoft
+PQ53547944	Lipper Analytical Services
+PQ74652829	National Aeronautics and Space Administration
+PQ731800541	Norton
+PQ350171601	General Motors
+PQ62517937	CNN
+PQ279960051	Jim Collins / HarperBusiness
+PQ52829334	Air Force
+PQ684994091	General Services Administration
+PQ1353510921	Wharton School
+PQ121203549	Waldenbooks
+PQ1061332361	National Security Agency
+PQ1093292921	National Aeronautics and Space Administration
+PQ55694940	Waldenbooks
+PQ1233147221	National Assessment of Educational Progress
+PQ878561291	Department of Homeland Security
+PQ1222373391	Microsoft
+PQ1930447651	Yahoo
+PQ52829346	America Online
+PQ47687211	Microsoft
+PQ52131104	Lipper Analytical Services
+PQ1092030721	Microsoft
+PQ1381834981	Airbus
+PQ1123447271	Federal Bureau of Investigation
+PQ60354507	Waldenbooks
+PQ1480875121	Senate Judiciary Committee
+PQ1522606261	Forbes
+PQ315920261	Ameritech
+PQ1035518961	Pentagon
+PQ1517998351	Goldman Sachs
+PQ1259282721	NCR
+PQ1256980981	International Business Machines
+PQ1712675111	White House
+PQ59755196	Federal Reserve
+PQ1628519831	Norton
+PQ1288621131	Waldenbooks
+PQ1286513881	American Civil Liberties Union
+PQ814318801	New York Stock Exchange
+PQ93230403	Federal Bureau of Investigation
+PQ898223031	Social Security Administration
+PQ1937440681	CNBC
+PQ657459021	Oracle
+PQ644412691	Defense Department
+PQ700934341	National Aeronautics and Space Administration
+PQ1498281071	Norton
+PQ1012066411	White House
+PQ548860381	Dell
+PQ594388221	Dell
+PQ141180911	Financial Times
+PQ896267411	University of California
+PQ1301868711	Harvard
+PQ248793781	Syracuse University
+PQ62990222	Federal Bureau of Investigation
+PQ76615838	New York Stock Exchange
+PQ1041851831	National Security Agency
+PQ1846940631	George Washington University
+PQ90255212	National Security Agency
+PQ58662104	Waldenbooks
+PQ948035881	Visa
+PQ1784401791	Stanford University
+PQ1807767881	SPSS Inc
+PQ72485471	MicroStrategy
+PQ56278441	Microsoft
+PQ697691611	University of California
+PQ1225643971	Microsoft
+PQ269279631	Air Force
+PQ284981711	Defense Department
+PQ1807687471	Nasdaq
+PQ1348334101	Naval Sea Systems Command
+PQ73383276	CNN
+PQ1015729161	National Aeronautics and Space Administration
+PQ1274049141	Microsoft
+PQ1403194051	Environmental Protection Agency
+PQ70909994	Dell
+PQ1424911741	University of Pennsylvania
+PQ96238340	Jim Collins / HarperBusiness
+PQ1161119801	Naval Facilities Engineering Command
+PQ1575328721	Goldman Sachs
+PQ1056367901	Norton
+PQ1332405701	American Civil Liberties Union
+PQ1041146101	Sun Microsystems
+PQ1744480961	Stanford University
+PQ987611731	Apple
+PQ1079647061	Federal Bureau of Investigation
+PQ81273325	White House
+PQ929176961	Federal Bureau of Investigation
+PQ1402613341	CNBC
+PQ1319570581	Electronic Frontier Foundation
+PQ894496021	Federal Bureau of Investigation
+PQ468225951	International Business Machines
+PQ62765868	MicroStrategy
+PQ1522606261	CNN
+PQ62507105	Federal Bureau of Investigation
+PQ114729270	Waldenbooks
+PQ47749800	Janssen Healthcare Innovation
+PQ1491434771	Norton
+PQ91646662	National Cancer Institute
+PQ1458865521	Oracle
+PQ1789152671	Bank of America
+PQ128409331	Hyperion Solutions
+PQ345578791	Small Business Association
+PQ983509181	National Security Agency
+PQ738464291	Jim Collins / HarperBusiness
+PQ52829346	Defense Department
+PQ868529171	Department of Homeland Security
+PQ784675781	United Way
+PQ59752941	Dell
+PQ495451001	Pentagon
+PQ581210801	Louisiana State University
+PQ1325338781	Harvard Business School
+PQ1073003351	Waldenbooks
+PQ846587991	Apple
+PQ1569400121	National Security Agency
+PQ1035540271	ATT
+PQ70568825	Waldenbooks
+PQ54016055	Airbus
+PQ1206447841	Syracuse University
+PQ98438834	MicroStrategy
+PQ1577465961	World Bank
+PQ52396115	Norton
+PQ896267411	International Business Machines
+PQ1468249801	CNBC
+PQ682330771	Dell
+PQ1225642981	Oracle
+PQ522617961	Waldenbooks
+PQ533327341	Department of Transportation
+PQ1181743481	Morgan Stanley
+PQ1043384291	Yahoo
+PQ50637104	Nasdaq
+PQ947832901	White House
+PQ676177521	Norton
+PQ47996330	Massachusetts Institute of Technology
+PQ64717591	eBay
+PQ372745391	Nasdaq
+PQ219924771	Microsoft
+PQ925837441	Anne Arundel Community College
+PQ529432491	George Washington University
+PQ815728591	Jim Collins / HarperBusiness
+PQ957363911	Apple
+PQ779503471	Pentagon
+PQ1159799141	CNBC
+PQ340346351	Nasdaq
+PQ118280370	Electronic Privacy Information Center
+PQ1509388031	Norton
+PQ56278441	Federal Reserve
+PQ868529171	Columbia University
+PQ54096349	Securities and Exchange Commission
+PQ988592811	Pentagon
+PQ1092653461	Columbia University
+PQ896240041	Defense Department
+PQ830250851	Apple
+PQ1905807801	Massachusetts Institute of Technology
+PQ1476885571	Microsoft
+PQ148011771	Federal Bureau of Investigation
+PQ51327133	Securities and Exchange Commission
+PQ54016055	Cisco
+PQ1707752021	Microsoft
+PQ141735161	Waldenbooks
+PQ239502291	Pentagon
+PQ69790692	Visa
+PQ67739221	ATT
+PQ1038329821	White House
+PQ1480875121	Federal Bureau of Investigation
+PQ334878031	University of Chicago
+PQ662424561	NCR
+PQ656195401	National Aeronautics and Space Administration
+PQ48385269	MicroStrategy
+PQ111265812	General Services Administration
+PQ548036641	National Aeronautics and Space Administration
+PQ1227006471	Goldman Sachs
+PQ1443509481	Microsoft
+PQ1065972041	National Security Agency
+PQ1412815861	New York Stock Exchange
+PQ548703021	Microsoft
+PQ998546651	Nasdaq
+PQ616341661	National Security Agency
+PQ70909994	Compaq
+PQ623864531	Vatican
+PQ1580263781	Visa
+PQ687157871	Securities and Exchange Commission
+PQ1939542231	CACI International
+PQ1036497251	ATT
+PQ1035538061	White House
+PQ1065118181	National Security Agency
+PQ48304061	Visa
+PQ1382382971	Pentagon
+PQ1807727381	SPSS Inc
+PQ871423171	Federal Bureau of Investigation
+PQ440038521	International Business Machines
+PQ494593451	Federal Bureau of Investigation
+PQ707054731	Sun Microsystems
+PQ1242529241	Federal Bureau of Investigation
+PQ1485579321	Apple
+PQ1225642751	International Business Machines
+PQ970849091	New York Stock Exchange
+PQ1270859411	Federal Bureau of Investigation
+PQ49609396	Janssen Healthcare Innovation
+PQ53044231	MicroStrategy
+PQ1163873391	Waldenbooks
+PQ1603843901	Electronic Privacy Information Center
+PQ121976142	Federal Bureau of Investigation
+PQ922356401	American Civil Liberties Union
+PQ86524799	Norton
+PQ865780201	National Institutes of Health
+PQ727051631	Air Force
+PQ579183131	Vatican
+PQ923729151	University of Pittsburgh
+PQ61541260	University of Chicago
+PQ99491957	Air Force
+PQ70796987	Dell
+PQ88068840	Lipper Analytical Services
+PQ1563160161	Environmental Protection Agency
+PQ64882145	Dell
+PQ680840231	Waldenbooks
+PQ775077541	Waldenbooks
+PQ1928735381	Federal Bureau of Investigation
+PQ78187620	CNN
+PQ573988181	Dell
+PQ1000608471	New Pittsburgh Courier
+PQ69739167	Cisco
+PQ1509112031	White House
+PQ1750631421	ComEd
+PQ1294088131	Department of Homeland Security
+PQ74169466	Lipper Analytical Services
+PQ687157871	Oracle
+PQ1083413501	Sun Microsystems
+PQ104019880	National Science Foundation
+PQ1325974841	Defense Department
+PQ846382351	Texas Instruments
+PQ77031829	Lipper Analytical Services
+PQ1076534811	Senate Judiciary Committee
+PQ1036094571	American Civil Liberties Union
+PQ110708456	Jim Collins / HarperBusiness
+PQ970928801	Goldman Sachs
+PQ269278521	Pentagon
+PQ585186571	National Aeronautics and Space Administration
+PQ1189984321	Electronic Frontier Foundation
+PQ1121824041	Pentagon
+PQ1381834971	Hyperion Solutions
+PQ1809145651	White House
+PQ89284761	Lipper Analytical Services
+PQ1036094571	National Security Agency
+PQ1440743601	Department of Homeland Security
+PQ1381790611	Fortune Brands
+PQ1332810091	Federal Bureau of Investigation
+PQ116090980	Jim Collins / HarperBusiness
+PQ652648951	Unilever
+PQ1035538061	National Security Agency
+PQ696007761	Department of Homeland Security
+PQ58067234	Nasdaq
+PQ1085685831	Vatican
+PQ96747552	Securities and Exchange Commission
+PQ1319570581	National Security Agency
+PQ872379841	Texas Instruments
+PQ51995749	International Business Machines
+PQ1389024291	Sun Microsystems
+PQ422768601	Federal Bureau of Investigation
+PQ1315497511	White House
+PQ125213881	George Mason University
+PQ54016055	Bank of America
+PQ1313698561	White House
+PQ1142809871	University of California
+PQ94023749	CNN
+PQ1035572761	Electronic Frontier Foundation
+PQ1015729161	Columbia University
+PQ845580011	National Institutes of Health
+PQ235948551	Defense Department
+PQ110272754	Jim Collins / HarperBusiness
+PQ73751988	Waldenbooks
+PQ1225637651	Securities and Exchange Commission
+PQ948028971	American Civil Liberties Union
+PQ54171086	ATT
+PQ912205561	SPSS Inc
+PQ1438193591	Senate Judiciary Committee
+PQ1381790611	Citigroup
+PQ63630074	Procter  Gamble
+PQ1037266261	ATT
+PQ69550609	In-Q-Tel
+PQ866318551	NCR
+PQ334878031	Massachusetts Institute of Technology
+PQ51892515	Lipper Analytical Services
+PQ1109914511	Federal Bureau of Investigation
+PQ974906881	Air Force
+PQ865780201	Columbia University
+PQ687157871	Citigroup
+PQ710635701	Federal Bureau of Investigation
+PQ1080831611	Jim Collins / HarperBusiness
+PQ94027528	Microsoft
+PQ1744495271	Stanford University
+PQ402126151	Jim Collins / HarperBusiness
+PQ53270544	Lipper Analytical Services
+PQ52288052	Federal Trade Commission
+PQ748214651	Hyperion Solutions
+PQ1578637271	CNBC
+PQ93226844	Pentagon
+PQ1013833191	Forbes
+PQ520943401	Vatican
+PQ648952791	Waldenbooks
+PQ1440972851	Federal Government
+PQ1029503681	National Institutes of Health
+PQ48339648	Bank of America
+PQ529432491	Johns Hopkins University
+PQ49345308	ATT Labs
+PQ797528991	Mason Enterprise Center
+PQ1733000731	National Institutes of Health
+PQ291798751	Jim Collins / HarperBusiness
+PQ1315165961	ATT
+PQ544647211	General Accounting Office
+PQ757209721	Delta Sigma Theta Sorority
+PQ535582861	Federal Bureau of Investigation
+PQ47749800	Lipper Analytical Services
+PQ1456607071	Citigroup
+PQ242626011	Pentagon
+PQ88202786	Federal Reserve
+PQ1313492921	Electronic Frontier Foundation
+PQ1464501891	Harvard University
+PQ71665284	Federal Reserve
+PQ50752943	Forbes
+PQ1381790611	Apple
+PQ643932111	NCR
+PQ878561291	Securities and Exchange Commission
+PQ67393575	Federal Government
+PQ120913675	International Business Machines
+PQ235948551	National Science Foundation
+PQ1496172861	Federal Trade Commission
+PQ923727881	Young Women's Christian Association
+PQ1930496871	Federal Bureau of Investigation
+PQ773449351	National Aeronautics and Space Administration
+PQ50346396	Ford
+PQ70796987	Microsoft
+PQ871423171	Norton
+PQ928333331	Waldenbooks
+PQ293341171	Securities and Exchange Commission
+PQ652776281	National Aeronautics and Space Administration
+PQ1737913671	Sun Microsystems
+PQ1939542231	George Mason University
+PQ425496671	Jim Collins / HarperBusiness
+PQ1222629711	Pentagon
+PQ948159991	University of Pittsburgh
+PQ1138322651	Goldman Sachs
+PQ65256640	Janssen Healthcare Innovation
+PQ1161068011	Google
+PQ981439581	CNN
+PQ91646662	Defense Supply Center
+PQ57573572	CNN
+PQ1444690541	Cisco
+PQ901438571	Jim Collins / HarperBusiness
+PQ1020385701	ATT
+PQ764531251	MicroStrategy
+PQ1171206871	ATT
+PQ1301868711	National Science Foundation
+PQ963031151	National Security Agency
+PQ347281321	American Civil Liberties Union
+PQ525786061	National Aeronautics and Space Administration
+PQ1579358971	National Aeronautics and Space Administration
+PQ51850564	White House
+PQ1177596061	Massachusetts Institute of Technology
+PQ56078230	Securities and Exchange Commission
+PQ1131267261	Coca-Cola
+PQ108631948	University of Maryland
+PQ1295308051	Siebel Systems
+PQ1863441131	Federal Bureau of Investigation
+PQ932065291	Federal Bureau of Investigation
+PQ1217169621	Waldenbooks
+PQ242626621	Jim Collins / HarperBusiness
+PQ57207044	Sun Microsystems
+PQ1225642751	Pentagon
+PQ47603681	Federal Bureau of Investigation
+PQ790778321	Vatican
+PQ725613761	Social Security Administration
+PQ796854911	Department of Homeland Security
+PQ1438197851	George Mason University
+PQ96747552	NCR
+PQ1180711051	Waldenbooks
+PQ1494994841	Dell
+PQ1039485121	National Security Agency
+PQ1311684461	National Security Agency
+PQ110272876	Transportation Security Administration
+PQ1601897801	Cisco
+PQ96747552	America Online
+PQ69007296	Federal Reserve
+PQ72440629	Waldenbooks
+PQ589682381	Jim Collins / HarperBusiness
+PQ222136041	Yahoo
+PQ635712461	Apple
+PQ139329191	Waldenbooks
+PQ1599741161	Oracle
+PQ653246931	Vatican
+PQ1093279031	National Security Agency
+PQ51961039	Federal Trade Commission
+PQ898250861	ATT
+PQ72007216	MicroStrategy
+PQ817514421	Dell
+PQ71796336	Waldenbooks
+PQ1299546111	Harvard Business School
+PQ110482607	Waldenbooks
+PQ526792541	Transportation Security Administration
+PQ1638538981	Yahoo
+PQ337140311	Jim Collins / HarperBusiness
+PQ1255093501	Dell
+PQ657449781	Oracle
+PQ96238340	Waldenbooks
+PQ970848451	Goldman Sachs
+PQ54016055	Goldman Sachs
+PQ654416291	Vatican
+PQ1660168991	National Aeronautics and Space Administration
+PQ691172111	Federal Bureau of Investigation
+PQ112942952	Waldenbooks
+PQ723908181	NCR
+PQ1038668211	Central Intelligence Agency
+PQ69014889	Lipper Analytical Services
+PQ1020385701	Electronic Frontier Foundation
+PQ132349251	Jim Collins / HarperBusiness
+PQ1745739491	General Motors
+PQ894496021	Norton
+PQ421127261	Waldenbooks
+PQ1121824041	ATT
+PQ111265812	Air Force
+PQ1553909621	Pentagon
+PQ1618863501	Oracle
+PQ98438834	White House
+PQ1123447271	Pentagon
+PQ269278251	Pentagon
+PQ433640711	Hyperion Solutions
+PQ64899859	Norton
+PQ229153771	Stanford University
+PQ67159711	Bain
+PQ1584489261	Treasury Department
+PQ111940310	Microsoft
+PQ162965071	Commerce Department
+PQ118280370	NCR
+PQ259536391	Transportation Security Administration
+PQ1224756051	Hyperion Solutions
+PQ65613672	Lipper Analytical Services
+PQ970848451	International Business Machines
+PQ1174679831	American Civil Liberties Union
+PQ1458865521	Microsoft
+PQ80041362	Janssen Healthcare Innovation
+PQ923729151	Young Women's Christian Association
+PQ110342427	Federal Bureau of Investigation
+PQ1349766791	Federal Bureau of Investigation
+PQ643120311	General Accounting Office
+PQ1159799141	White House
+PQ1799576531	Stanford University
+PQ1311678171	White House
+PQ49867447	Norton
+PQ1206501741	General Services Administration
+PQ1069557611	Treasury Department
+PQ1014855281	SRI Consulting Business Intelligence
+PQ677435211	International Business Machines
+PQ1580263781	Ford
+PQ57559339	Dell
+PQ944279331	Federal Bureau of Investigation
+PQ82392469	National Cancer Institute
+PQ842908381	Johns Hopkins University
+PQ1319570581	ATT
+PQ1321885771	Air Force
+PQ1038668211	National Press Club
+PQ80851235	Norton
+PQ1783750621	Defense Department
+PQ1093279031	Google
+PQ431214211	Federal Bureau of Investigation
+PQ1381836061	International Business Machines
+PQ1481964681	Microsoft
+PQ1928475221	Federal Bureau of Investigation
+PQ1147973221	Federal Bureau of Investigation
+PQ1636598961	Securities and Exchange Commission
+PQ344327941	Waldenbooks
+PQ1124138551	Norton
+PQ1311979011	White House
+PQ61148170	Harvard
+PQ750588801	Oracle
+PQ1149366891	American Civil Liberties Union
+PQ69997871	CNN
+PQ71956381	Janssen Healthcare Innovation
+PQ902396951	Hyperion Solutions
+PQ143956401	MicroStrategy
+PQ1480644951	ATT Labs
+PQ49341547	Citigroup
+PQ1088819931	Waldenbooks
+PQ1021559551	National Security Agency
+PQ241940151	Pentagon
+PQ83454249	Janssen Healthcare Innovation
+PQ155301691	CNBC
+PQ69329123	MicroStrategy
+PQ405175431	Babson College
+PQ71956381	CNN
+PQ1440848731	American Banking Association
+PQ50743097	Massachusetts Institute of Technology
+PQ248793781	Pentagon
+PQ441471571	Pentagon
+PQ952188721	Jim Collins / HarperBusiness
+PQ1677295941	White House
+PQ348059821	CNN
+PQ47996330	Columbia University
+PQ1218190371	White House
+PQ981439581	National Security Agency
+PQ405881271	Jim Collins / HarperBusiness
+PQ68569872	National Institutes of Health
+PQ75183857	Nasdaq
+PQ1621989031	Publicis Groupe
+PQ91646662	General Services Administration
+PQ1274049141	Wal-Mart Stores
+PQ1456607581	Securities and Exchange Commission
+PQ118616627	MicroStrategy
+PQ1304924591	Morgan Stanley
+PQ1294088131	National Counterterrorism Center
+PQ277144821	NCR
+PQ100941971	Federal Bureau of Investigation
+PQ1332405701	Federal Bureau of Investigation
+PQ710635701	Dell
+PQ885094401	MicroStrategy
+PQ1208959391	Visa
+PQ96747552	Sony
+PQ942441411	Department of Homeland Security
+PQ54171088	Sun Microsystems
+PQ548860381	National Aeronautics and Space Administration
+PQ694423721	Waldenbooks
+PQ50951469	Janssen Healthcare Innovation
+PQ980752141	Sun Microsystems
+PQ98308262	Securities and Exchange Commission
+PQ65661984	Securities and Exchange Commission
+PQ128409331	New York Stock Exchange
+PQ1151576681	New Pittsburgh Courier
+PQ50752943	MicroStrategy
+PQ1336167341	International Business Machines
+PQ981695551	National Security Agency
+PQ1037266261	ATT Labs
+PQ78187620	Lipper Analytical Services
+PQ1301026441	Loyola University
+PQ575196411	American Civil Liberties Union
+PQ710635701	World Bank
+PQ896240041	Catholic Relief Services
+PQ1516332441	Columbia University
+PQ125217061	Federal Bureau of Investigation
+PQ1093279031	ATT
+PQ289690521	National Institutes of Health
+PQ62841697	Federal Bureau of Investigation
+PQ307922591	Harvard Business School
+PQ83482577	Stanford University
+PQ1413906631	Oracle
+PQ1456607581	Pentagon
+PQ525786061	Defense Department
+PQ405173011	AOL Time Warner
+PQ307922591	Hyperion Solutions
+PQ740618221	Morgan Stanley
+PQ158053401	Norton
+PQ886653241	White House
+PQ833546191	Waldenbooks
+PQ759802201	Jim Collins / HarperBusiness
+PQ332357961	Air Force
+PQ355152071	CNN
+PQ91646662	Federal Highway Administration
+PQ1603843901	University of California
+PQ53036712	Waldenbooks
+PQ47749862	Columbia University
+PQ289137961	Jim Collins / HarperBusiness
+PQ1781380921	Syracuse University
+PQ52288052	Federal Bureau of Investigation
+PQ912202811	General Services Administration
+PQ810158761	Air Force
+PQ99353752	Central Intelligence Agency
+PQ1706456871	University of California
+PQ52656064	White House
+PQ1381836061	BHP Billiton
+PQ491002071	Yahoo
+PQ1381836041	BHP Billiton
+PQ898223031	Federal Bureau of Investigation
+PQ1135258001	American Civil Liberties Union
+PQ52491296	White House
+PQ1015821081	Sun Microsystems
+PQ96747552	Charles Schwab
+PQ797528991	KM Institute
+PQ72699890	Securities and Exchange Commission
+PQ1222373391	Google
+PQ49231207	CNN
+PQ287541001	American Civil Liberties Union
+PQ405173011	National Press Club
+PQ1348334101	Defense Department
+PQ1225637651	Hyperion Solutions
+PQ49822053	Waldenbooks
+PQ687157871	PeopleSoft
+PQ1484328671	Norton
+PQ1364338501	National Security Agency
+PQ883016821	Defense Department
+PQ69986857	Charles Schwab
+PQ1069642931	Pentagon
+PQ350020021	Norton
+PQ806400951	Federal Trade Commission
+PQ378963991	Wal-Mart Stores
+PQ654753251	Data Warehouse
+PQ1073867291	Federal Bureau of Investigation
+PQ661555601	International Business Machines
+PQ1065118181	Federal Reserve
+PQ763269481	Google
+PQ687157871	SAS Institute
+PQ790641591	Pentagon
+PQ49609396	Lipper Analytical Services
+PQ520360821	University of California
+PQ1401208721	Microsoft
+PQ54882087	University of Pennsylvania
+PQ379980871	Hyperion Solutions
+PQ1384863121	eBay
+PQ482746011	Harvard Business School
+PQ1929754191	White House
+PQ803930791	eBay
+PQ687157871	Coca-Cola
+PQ336921331	Sun Microsystems
+PQ1046436651	Waldenbooks
+PQ814375501	International Business Machines
+PQ493922851	University of Pittsburgh
+PQ817514421	Vatican
+PQ1099021731	Harvard
+PQ70909994	International Business Machines
+PQ491017111	Norton
+PQ1125375971	International Business Machines
+PQ1375336611	Microsoft
+PQ1375336611	WPP Group
+PQ1426969211	Organization of the Petroleum Exporting Countries
+PQ678750121	Transportation Security Administration
+PQ1335661141	Harvard University
+PQ274200761	University of Maryland
+PQ1035540271	Senate Judiciary Committee
+PQ676177521	Vatican
+PQ52491296	Norton
+PQ100935365	Dell
+PQ1085689051	Apple
+PQ997606291	ATT
+PQ285034431	University of Maryland
+PQ74252369	Yahoo
+PQ96747552	Coca-Cola
+PQ370851401	Jim Collins / HarperBusiness
+PQ810140631	Bank of America
+PQ399150131	Vatican
+PQ69007296	Federal Bureau of Investigation
+PQ1381847391	Massachusetts Institute of Technology
+PQ1060567981	Pentagon
+PQ523124521	Federal Bureau of Investigation
+PQ55625891	National Taxpayers Union
+PQ52666080	Federal Trade Commission
+PQ981511611	Senate Judiciary Committee
+PQ1026622851	Social Security Administration
+PQ1408041901	CNBC
+PQ947832901	Department of Homeland Security
+PQ296310351	Transportation Security Administration
+PQ1476601301	Dell
+PQ1545111671	Dell
+PQ764531251	Nasdaq
+PQ710392421	Sony
+PQ91518351	University of Chicago
+PQ56024529	Lipper Analytical Services
+PQ1209467431	National Security Agency
+PQ548036641	Federal Trade Commission
+PQ65256640	CNN
+PQ619768491	Google
+PQ923727881	University of Maryland
+PQ1915144861	Securities and Exchange Commission
+PQ694896171	Department of Homeland Security
+PQ80054167	Stanford University
+PQ49864876	Dell
+PQ1130232371	Columbia University
+PQ125874871	Norton
+PQ345175451	Columbia University
+PQ623887081	Yahoo
+PQ1506180191	George Washington University
+PQ677117901	Dell
+PQ972279171	National Security Agency
+PQ526134961	Dell
+PQ1135275531	American Civil Liberties Union
+PQ75777473	University of Pennsylvania
+PQ1494682951	Norton
+PQ1439794251	Securities and Exchange Commission
+PQ1360808031	New York Stock Exchange
+PQ56767747	Securities and Exchange Commission
+PQ819758581	Harvard
+PQ795289571	Pentagon
+PQ1591735751	Goldman Sachs
+PQ279960491	AOL Time Warner
+PQ333158491	Pentagon
+PQ110683837	Lord Fairfax Community College Small Business Development Center
+PQ70499140	MicroStrategy
+PQ1074124851	Air Force
+PQ122194421	Federal Bureau of Investigation
+PQ657459021	PeopleSoft
+PQ1456607581	Air Force
+PQ861592341	Jim Collins / HarperBusiness
+PQ672767171	Vatican
+PQ70909889	CNN
+PQ355752641	BMW
+PQ114467976	University of Maryland
+PQ162965071	General Motors
+PQ422760531	National Aeronautics and Space Administration
+PQ716346901	Motorola
+PQ1853651171	Harvard
+PQ199315881	Sun Microsystems
+PQ727181751	Vatican
+PQ1174138011	Federal Bureau of Investigation
+PQ1041769041	Stanford University
+PQ62795544	MicroStrategy
+PQ91514917	CNN
+PQ753402631	Norton
+PQ64669337	Janssen Healthcare Innovation
+PQ51327288	eBay
+PQ285034431	White House
+PQ805567541	Federal Bureau of Investigation
+PQ576278301	Jim Collins / HarperBusiness
+PQ700074871	Securities and Exchange Commission
+PQ1502224581	Dell
+PQ573718031	Massachusetts Institute of Technology
+PQ1182329771	White House
+PQ682305271	Bain
+PQ57245763	Federal Trade Commission
+PQ59752944	Harvard
+PQ1093279031	Electronic Frontier Foundation
+PQ48604590	CNN
+PQ745381601	Waldenbooks
+PQ1222377511	Dell
+PQ768062971	Ford
+PQ814318801	NCR
+PQ63412070	Northern Virginia Technology Council
+PQ93616529	Defense Department
+PQ1569400121	Pentagon
+PQ535952031	Dell
+PQ52620658	MicroStrategy
+PQ694898601	Vatican
+PQ56993853	CNN
+PQ1156745871	CNN
+PQ986350171	Dell
+PQ68955019	Waldenbooks
+PQ177758161	University of Chicago
+PQ256953881	Johns Hopkins University
+PQ1819276181	Stanford University
+PQ862384831	Institute of Medicine
+PQ1214594381	Citigroup
+PQ1313085181	Federal Bureau of Investigation
+PQ65023214	White House
+PQ87188533	Sun Microsystems
+PQ109645890	Norton
+PQ1313698561	National Security Agency
+PQ96747552	Cisco
+PQ1516575801	Dell Foundation
+PQ896242381	University of Delaware
+PQ52699068	International Business Machines
+PQ1143086451	Google
+PQ1353510921	Federal Reserve
+PQ104914803	National Science Foundation
+PQ667204471	Federal Bureau of Investigation
+PQ48597532	Stanford University
+PQ383991671	National Aeronautics and Space Administration
+PQ672767171	Federal Bureau of Investigation
+PQ75817449	Lipper Analytical Services
+PQ884800231	Dell
+PQ1213979871	Dell
+PQ1537583651	Transportation Security Administration
+PQ75420056	Microsoft
+PQ56278441	Yahoo
+PQ127906021	Norton
+PQ247789031	Vatican
+PQ804041101	Sun Microsystems
+PQ903362691	Senate Judiciary Committee
+PQ495884211	Citigroup
+PQ1036752901	Central Intelligence Agency
+PQ981511611	Federal Bureau of Investigation
+PQ670995381	Sun Microsystems
+PQ67736140	CNN
+PQ771378271	Dell
+PQ343997711	Northern Virginia Technology Council
+PQ1745189181	Harvard
+PQ1125076071	Harvard
+PQ1625756081	Johns Hopkins University
+PQ1160771001	Electronic Privacy Information Center
+PQ616341661	Vatican
+PQ1561788411	Apple
+PQ55296503	Norton
+PQ52594883	Northern Virginia Technology Council
+PQ50941276	Dell
+PQ1928735381	White House
+PQ52829346	Nasdaq
+PQ1096620091	Harvard
+PQ1554594691	Google
+PQ50346391	Lipper Analytical Services
+PQ882514191	Federal Bureau of Investigation
+PQ654284091	Social Security Administration
+PQ923729151	University of Maryland
+PQ626284511	Vatican
+PQ839711711	White House
+PQ59417444	Lipper Analytical Services
+PQ688113921	University of Chicago
+PQ896242381	Frostburg State University
+PQ923729151	Weems Creek Conservancy
+PQ710635701	Norton
+PQ1487846721	Dell
+PQ1456702801	Healthcare Information and Management Systems Society
+PQ1029503681	Federal Trade Commission
+PQ66677102	NCR
+PQ370851401	Waldenbooks
+PQ70499140	Gartner
+PQ623624241	MicroStrategy
+PQ882010611	Hyatt Regency Chicago
+PQ658699311	Environmental Protection Agency
+PQ545254811	Stanford University
+PQ1206501741	National Science Foundation
+PQ1129479921	National Security Agency
+PQ350171601	National Aeronautics and Space Administration
+PQ53763432	Columbia University
+PQ422760531	Norton
+PQ645259861	National Aeronautics and Space Administration
+PQ788680591	Waldenbooks
+PQ125213881	ATT
+PQ71161770	Waldenbooks
+PQ279983051	Defense Department
+PQ868529171	Citibank
+PQ1173164431	Microsoft
+PQ778034631	Community Business Partnership
+PQ1432955701	University of Pennsylvania
+PQ52104472	Forbes
+PQ125213881	University of Maryland
+PQ808823961	Jim Collins / HarperBusiness
+PQ625636031	NCR
+PQ1513273941	White House
+PQ903362691	Federal Bureau of Investigation
+PQ1069557611	Central Intelligence Agency
+PQ1382382971	Sun Microsystems
+PQ62765868	Securities and Exchange Commission
+PQ717443351	Norton
+PQ1399331001	Dell
+PQ901463361	Sony
+PQ923727881	University of Delaware
+PQ896272911	International Business Machines
+PQ677435211	National Aeronautics and Space Administration
+PQ254313561	Jim Collins / HarperBusiness
+PQ852006731	Jim Collins / HarperBusiness
+PQ68611666	George Washington University Hospital
+PQ623406661	Sun Microsystems
+PQ1472432061	Sun Microsystems
+PQ1225642771	Constellation Brands
+PQ132751941	Pentagon
+PQ1381835771	Citigroup
+PQ974906881	National Press Club
+PQ238376961	Pentagon
+PQ914605621	Jim Collins / HarperBusiness
+PQ384376071	Jim Collins / HarperBusiness
+PQ621890091	Mason Enterprise Center
+PQ1225643491	Hyperion Solutions
+PQ923729151	Naval Postgraduate School
+PQ65613672	Janssen Healthcare Innovation
+PQ385458161	Federal Bureau of Investigation
+PQ871423171	Vatican
+PQ1930418631	National Security Agency
+PQ885116881	Commerce Department
+PQ670995381	Microsoft
+PQ185939631	International Business Machines
+PQ1020901631	Sun Microsystems
+PQ1369592501	National Security Agency
+PQ52829334	Securities and Exchange Commission
+PQ235948551	Pentagon
+PQ845612151	Jim Collins / HarperBusiness
+PQ63385846	America Online
+PQ737894141	Institute of Medicine
+PQ53270544	Janssen Healthcare Innovation
+PQ1191258301	NCR
+PQ1187688741	Federal Bureau of Investigation
+PQ1664623451	Ford
+PQ56078181	Federal Reserve
+PQ1147973221	Electronic Frontier Foundation
+PQ62191589	Dell
+PQ236488201	Apple
+PQ340002191	Johns Hopkins University
+PQ54322097	CNN
+PQ865407851	Federal Bureau of Investigation
+PQ1381834971	Airbus
+PQ1036752901	Senate Judiciary Committee
+PQ804555871	Norton
+PQ491125501	International Business Machines
+PQ54016055	Yahoo
+PQ993306061	Federal Bureau of Investigation
+PQ1225638791	Hyperion Solutions
+PQ1405039741	Environmental Protection Agency
+PQ1622501051	Google
+PQ1315497511	American Civil Liberties Union
+PQ1073003571	Citigroup
+PQ1087322821	Dell
+PQ1246141401	MicroStrategy
+PQ1242529241	Electronic Privacy Information Center
+PQ1660168991	National Science Foundation
+PQ1179043961	Norton
+PQ1407449521	Waldenbooks
+PQ1036557821	National Security Agency
+PQ74597892	Janssen Healthcare Innovation
+PQ1811951701	Harvard
+PQ1456607071	Securities and Exchange Commission
+PQ73933257	MicroStrategy
+PQ753366411	Dell
+PQ54016055	General Motors
+PQ142117941	Norton
+PQ1047998151	Pentagon
+PQ53954293	CNN
+PQ1381834981	BHP Billiton
+PQ1308317291	George Mason University
+PQ73930461	Lipper Analytical Services
+PQ981511611	National Press Club
+PQ69219926	CNN
+PQ234706271	Defense Department
+PQ52616590	Columbia University
+PQ1471783521	Waldenbooks
+PQ700074871	Nasdaq
+PQ1046662861	George Washington University
+PQ1311678171	National Security Agency
+PQ716346901	Alcoa
+PQ1329589861	Coca-Cola
+PQ55477818	CNN
+PQ47603681	Nasdaq
+PQ1402037501	Waldenbooks
+PQ1638538981	Google
+PQ119887235	University of Maryland
+PQ54300634	Norton
+PQ669345201	White House
+PQ1145535411	Federal Bureau of Investigation
+PQ71340863	CNN
+PQ63639499	CNN
+PQ89549462	International Business Machines
+PQ90647443	General Services Administration
+PQ1472749301	Dell
+PQ795278591	Microsoft
+PQ495551271	Citigroup
+PQ862176791	Vatican
+PQ1033343231	General Dynamics
+PQ955586681	National Security Agency
+PQ1598340861	Dell
+PQ883036471	Defense Department
+PQ125749021	Citibank
+PQ840970201	Johns Hopkins University
+PQ868529171	eBay
+PQ1142848121	Treasury Department
+PQ1174679831	White House
+PQ71343856	Federal Bureau of Investigation
+PQ1150698801	National Press Club
+PQ67989871	Harvard
+PQ1648311901	Motorola
+PQ742990061	Harvard University
+PQ703638651	Transportation Security Administration
+PQ91247005	Waldenbooks
+PQ1208959391	Electronic Frontier Foundation
+PQ53266538	International Business Machines
+PQ230240481	Central Intelligence Agency
+PQ487247651	Norton
+PQ567199371	Columbia University
+PQ52131104	CNN
+PQ581209731	Sun Microsystems
+PQ355108491	Bank of America
+PQ93226844	Norton
+PQ1779074621	Google
+PQ1456607581	Financial Times
+PQ1507798021	Harvard University
+PQ1381835931	New York Stock Exchange
+PQ548703021	Pentagon
+PQ1880912171	Securities and Exchange Commission
+PQ444055961	Goldman Sachs
+PQ1476885571	Pentagon
+PQ48604590	Janssen Healthcare Innovation
+PQ1332817331	Norton
+PQ68820426	CNN
+PQ1083413501	Yahoo
+PQ327942421	Waldenbooks
+PQ230240481	National Science Foundation
+PQ59838963	Janssen Healthcare Innovation
+PQ387833391	Norton
+PQ1383689821	George Washington University
+PQ1336886861	National Security Agency
+PQ49114395	eBay
+PQ74648390	Compaq
+PQ1060563871	Google
+PQ1298036311	Environmental Protection Agency
+PQ899332701	Defense Department
+PQ482746011	Harvard University
+PQ1846940631	Johns Hopkins University
+PQ1332817331	Federal Bureau of Investigation
+PQ340008701	Norton
+PQ96747552	International Business Machines
+PQ1325338781	Sun Microsystems
+PQ738464291	Waldenbooks
+PQ1369592501	ATT
+PQ229425161	Waldenbooks
+PQ879822631	Pentagon
+PQ47603727	CNN
+PQ103051636	Air Force
+PQ734992931	Jim Collins / HarperBusiness
+PQ1937440691	Syracuse University
+PQ806399891	Jim Collins / HarperBusiness
+PQ676177521	National Aeronautics and Space Administration
+PQ925861601	Google
+PQ1239304571	Federal Reserve
+PQ63412215	Compaq
+PQ93460976	Citigroup
+PQ65613691	Federal Reserve
+PQ1370298691	International Business Machines
+PQ83454249	CNN
+PQ1201807801	Yahoo
+PQ284015431	Jim Collins / HarperBusiness
+PQ341839891	Waldenbooks
+PQ57561814	International Business Machines
+PQ896242381	Naval Postgraduate School
+PQ64189069	Federal Bureau of Investigation
+PQ68425860	CNN
+PQ482384951	Stanford University
+PQ279983051	American Civil Liberties Union
+PQ1702623091	White House
+PQ1440972851	American Banking Association
+PQ120913675	Oracle
+PQ1483570501	Department of Homeland Security
+PQ1450201711	University of Maryland
+PQ881795291	Dell
+PQ495228531	University of California
+PQ504686181	Stanford University
+PQ582218661	American Civil Liberties Union
+PQ66677033	Waldenbooks
+PQ289685601	Norton
+PQ50437178	General Motors
+PQ687157871	Eastern Loudoun Regional Library
+PQ374450351	Motorola
+PQ795289571	Federal Bureau of Investigation
+PQ125213881	Northern Virginia Technology Council
+PQ639670131	Department of Homeland Security
+PQ275422251	Norton
+PQ634175701	Sony
+PQ252547381	Sony
+PQ795289571	Air Force
+PQ1032745871	CNN
+PQ1065962681	Federal Bureau of Investigation
+PQ1848618221	Sun Microsystems
+PQ658699311	Treasury Department
+PQ67307773	Waldenbooks
+PQ80041362	Lipper Analytical Services
+PQ1777816751	Microsoft
+PQ69007296	Pentagon
+PQ1718884031	Environmental Protection Agency
+PQ1438193591	ATT
+PQ1201807801	Google
+PQ63000005	Janssen Healthcare Innovation
+PQ1036497251	University of Pittsburgh
+PQ49412363	Waldenbooks
+PQ54300634	Sun Microsystems
+PQ295908251	Jim Collins / HarperBusiness
+PQ678203381	Waldenbooks
+PQ491104091	Federal Bureau of Investigation
+PQ990180211	Sony
+PQ82178941	Northern Virginia Community College
+PQ126036831	Johns Hopkins University
+PQ491090431	Citibank
+PQ773178191	New Pittsburgh Courier
+PQ84587571	Citibank
+PQ881144331	Jim Collins / HarperBusiness
+PQ1911683371	Pentagon
+PQ1225642751	Siebel Systems
+PQ1513656341	Dell
+PQ51893133	MicroStrategy
+PQ241633431	NCR
+PQ1332810091	University of Pennsylvania
+PQ846382351	Microsoft
+PQ110616997	Ford
+PQ73482238	Waldenbooks
+PQ1581081471	American Civil Liberties Union
+PQ64657333	George Mason University
+PQ67377157	CNN
+PQ1381834971	Citigroup
+PQ270968951	Federal Bureau of Investigation
+PQ73933257	Securities and Exchange Commission
+PQ768062971	American Civil Liberties Union
+PQ948028971	National Security Agency
+PQ983815851	Defense Department
+PQ1274357791	White House
+PQ1823524311	Procter  Gamble
+PQ664269811	General Motors
+PQ1381834971	Constellation Brands
+PQ1460233841	Waldenbooks
+PQ163518701	Zenith Optimedia Group
+PQ635413351	White House
+PQ264312401	New York Stock Exchange
+PQ1929754191	American Civil Liberties Union
+PQ1312508391	White House
+PQ149413921	Jim Collins / HarperBusiness
+PQ1404608771	Waldenbooks
+PQ434883191	Waldenbooks
+PQ52492669	BMW
+PQ1381835331	Securities and Exchange Commission
+PQ1225643541	Waldenbooks
+PQ72699890	Nasdaq
+PQ1687458921	NCR
+PQ652776281	Vatican
+PQ1524684141	Dell
+PQ667191601	Federal Bureau of Investigation
+PQ1176973031	Electronic Frontier Foundation
+PQ1381836041	International Business Machines
+PQ289683341	Norton
+PQ759726871	Air Force
+PQ329642271	Microsoft
+PQ224294651	Securities and Exchange Commission
+PQ1320612161	ATT
+PQ826468291	Microsoft
+PQ1819276181	Massachusetts Institute of Technology
+PQ1928735381	CNN
+PQ1035659101	Federal Bureau of Investigation
+PQ1182103151	General Services Administration
+PQ1505551131	Norton
+PQ242626621	Waldenbooks
+PQ117604278	Jim Collins / HarperBusiness
+PQ55304974	Lipper Analytical Services
+PQ1074124851	Social Security Administration
+PQ1151899881	MicroStrategy
+PQ1193354891	Sun Microsystems
+PQ669345201	Vatican
+PQ429740791	ATT
+PQ1884661791	Federal Bureau of Investigation
+PQ1369542831	Massachusetts Institute of Technology
+PQ854313511	Defense Department
+PQ73157441	CNN
+PQ1486829251	Wharton School
+PQ1295308051	Hyperion Solutions
+PQ1073003571	CNBC
+PQ52396115	Waldenbooks
+PQ57887202	eBay
+PQ990142581	International Business Machines
+PQ1029503681	General Services Administration
+PQ1389024291	Johns Hopkins University
+PQ643193761	White House
+PQ381189491	Jim Collins / HarperBusiness
+PQ1381834981	Citigroup
+PQ1686036081	Office of Personnel Management
+PQ679199671	Norton
+PQ74999524	MicroStrategy
+PQ55464801	Dell
+PQ879291861	Federal Bureau of Investigation
+PQ96747549	SRI Consulting Business Intelligence
+PQ1295308051	Pentagon
+PQ174505271	Waldenbooks
+PQ923729151	Delta Sigma Theta Sorority
+PQ1129479921	White House
+PQ526790931	National Aeronautics and Space Administration
+PQ1160771001	Visa
+PQ1295309051	Oracle
+PQ1084804781	Waldenbooks
+PQ235948551	National Security Agency
+PQ57245763	European Union
+PQ862385511	MicroStrategy
+PQ639670131	White House
+PQ125217061	National Science Foundation
+PQ909970031	Ford
+PQ883036471	Pentagon
+PQ94612213	National Cancer Institute
+PQ667191601	National Security Agency
+PQ1036079691	Central Intelligence Agency
+PQ495902541	Citigroup
+PQ570239971	Pentagon
+PQ1582626641	Small Business Association
+PQ771236321	Yahoo
+PQ923727881	College of Notre Dame of Maryland
+PQ1576279891	Dell
+PQ1079647061	Pentagon
+PQ1905807801	Goldman Sachs
+PQ52829346	International Business Machines
+PQ1440668631	Small Business Association
+PQ1109914511	White House
+PQ63639499	Janssen Healthcare Innovation
+PQ852672061	SRI Consulting Business Intelligence
+PQ1741289171	Vatican
+PQ56274021	Janssen Healthcare Innovation
+PQ1255093541	Oracle
+PQ1084804781	Jim Collins / HarperBusiness
+PQ655578921	New York Stock Exchange
+PQ1173155431	Federal Bureau of Investigation
+PQ1339212151	Hyperion Solutions
+PQ1522606261	University of Chicago
+PQ381189181	National Aeronautics and Space Administration
+PQ892077781	Harvard
+PQ1494942041	University of Arizona
+PQ810317521	Federal Bureau of Investigation
+PQ625635411	Jim Collins / HarperBusiness
+PQ662423091	National Aeronautics and Space Administration
+PQ1239299331	Federal Bureau of Investigation
+PQ1336167341	Massachusetts Institute of Technology
+PQ64634540	National Aeronautics and Space Administration
+PQ1777255681	National Taxpayers Union
+PQ1130232371	Massachusetts Institute of Technology
+PQ156545441	Jim Collins / HarperBusiness
+PQ582218661	Sun Microsystems
+PQ1503231461	Nasdaq
+PQ924437491	CNN
+PQ675883771	Norton
+PQ1325974841	MicroStrategy
+PQ1094656421	Wharton School
+PQ1807727381	SAS Institute
+PQ1207640181	MicroStrategy
+PQ269271251	Electronic Privacy Information Center
+PQ97855803	World Bank
+PQ1348334101	Defense Logistics Agency
+PQ923727881	Morgan State University
+PQ1301902731	Microsoft
+PQ61668149	Lipper Analytical Services
+PQ476230031	European Union
+PQ1256980981	Morgan Stanley
+PQ495886231	Stanford University
+PQ1675229721	Alcoa
+PQ615924941	CNN
+PQ68569872	Harvard University
+PQ82392469	Space and Missile Systems Center
+PQ66677102	Sun Microsystems
+PQ111948118	America Online
+PQ65613691	Goldman Sachs
+PQ812399791	Waldenbooks
+PQ1239304571	Goldman Sachs
+PQ830250851	Microsoft
+PQ880302751	Federal Bureau of Investigation
+PQ1622501051	Microsoft
+PQ1386780651	University of Chicago
+PQ1412202701	Johns Hopkins University
+PQ1928709401	Federal Bureau of Investigation
+PQ810317521	Vatican
+PQ1311684461	Federal Bureau of Investigation
+PQ50751652	CNN
+PQ645584211	Defense Department
+PQ609350121	Vatican
+PQ1578641381	Dell
+PQ1787293301	Bank of America
+PQ1168559371	General Dynamics
+PQ79349629	Procter  Gamble
+PQ109962230	Waldenbooks
+PQ67515988	Waldenbooks
+PQ643120311	Pentagon
+PQ87496480	Northern Virginia Technology Council
+PQ491028251	Defense Department
+PQ1744495271	University of California
+PQ730556301	Jim Collins / HarperBusiness
+PQ52104472	NCR
+PQ51327133	MicroStrategy
+PQ1348334101	General Services Administration
+PQ65028421	WPP Group
+PQ1052794871	Waldenbooks
+PQ125217061	Siebel Systems
+PQ126036831	Air Force
+PQ1518674701	General Services Administration
+PQ1929754181	National Counterterrorism Center
+PQ1884661791	Department of Homeland Security
+PQ1018376761	ATT
+PQ906255821	Sun Microsystems
+PQ72503880	Janssen Healthcare Innovation
+PQ70568712	Commerce Department
+PQ817514421	Federal Bureau of Investigation
+PQ62263007	CNN
+PQ1412202641	eBay
+PQ1188558551	Hyperion Solutions
+PQ74653779	NCR
+PQ1096595721	ATT
+PQ87881170	Norton
+PQ296129881	Pentagon
+PQ204842491	Air Force
+PQ1285889131	Air Force Space Command
+PQ901463271	Jim Collins / HarperBusiness
+PQ1056367901	Federal Bureau of Investigation
+PQ1335649991	Yahoo
+PQ1080789001	Microsoft
+PQ829194451	Jim Collins / HarperBusiness
+PQ896242381	Weems Creek Conservancy
+PQ57887202	Procter  Gamble
+PQ1777816731	Stanford University
+PQ1313492921	National Security Agency
+PQ968769291	National Security Agency
+PQ1195073841	Senate Judiciary Committee
+PQ68300091	White House
+PQ48604523	Coca-Cola
+PQ276352411	Microsoft
+PQ69007296	Microsoft
+PQ93311594	Microsoft
+PQ125217061	Senate Judiciary Committee
+PQ848034861	Syracuse University
+PQ1298036311	World Bank
+PQ1281612111	Columbia University
+PQ52210924	Defense Logistics Agency
+PQ886075161	Department of Transportation
+PQ1477380931	Microsoft
+PQ858342181	Waldenbooks
+PQ1036752991	ATT
+PQ345175451	Defense Department
+PQ1331110401	American Civil Liberties Union
+PQ525774621	Transportation Security Administration
+PQ903953041	United Way
+PQ491018701	Forbes
+PQ1014856351	Microsoft
+PQ1472432061	Microsoft
+PQ1456607581	International Business Machines
+PQ69870292	Citigroup
+PQ1076534811	National Security Agency
+PQ993306061	Naval Postgraduate School
+PQ74891855	MicroStrategy
+PQ1143086451	Yahoo
+PQ865407851	Department of Homeland Security
+PQ69014889	Janssen Healthcare Innovation
+PQ336655571	International Business Machines
+PQ91646662	Treasury Department
+PQ617893031	Mason Enterprise Center
+PQ529432491	National Press Club
+PQ52980501	New York Stock Exchange
+PQ1036597571	National Security Agency
+PQ67377157	Janssen Healthcare Innovation
+PQ275422291	ATT
+PQ843835571	Norton
+PQ1035518961	ATT
+PQ69997871	Lipper Analytical Services
+PQ90642653	CNN
+PQ345175451	National Aeronautics and Space Administration
+PQ897979461	Bank of America
+PQ1369542581	General Services Administration
+PQ1636383731	White House
+PQ96747552	Oracle
+PQ1867039191	International Business Machines
+PQ59391246	Dell
+PQ85612048	NCR
+PQ1035572421	Jim Collins / HarperBusiness
+PQ672767171	Dell
+PQ93226854	Harvard
+PQ1034465291	Central Intelligence Agency
+PQ70499140	Securities and Exchange Commission
+PQ1070427261	Federal Bureau of Investigation
+PQ1608082271	Pentagon
+PQ540341841	Federal Bureau of Investigation
+PQ1177596061	Microsoft
+PQ922356401	Federal Bureau of Investigation
+PQ1661997201	Oracle
+PQ1037266261	eBay
+PQ1242529241	National Counterterrorism Center
+PQ1007394711	National Security Agency
+PQ269279631	Pentagon
+PQ1381823541	Fortune Brands
+PQ1191280011	CNBC
+PQ715421671	Federal Bureau of Investigation
+PQ271377321	Jim Collins / HarperBusiness
+PQ100935365	Norton
+PQ1204439471	Federal Trade Commission
+PQ329642271	Motorola
+PQ1268977861	Waldenbooks
+PQ270968951	International Business Machines
+PQ53044231	Microsoft
+PQ551989081	Waldenbooks
+PQ1395693821	International Business Machines
+PQ111669652	Lord Fairfax Community College Small Business Development Center
+PQ326005791	Securities and Exchange Commission
+PQ349346101	Jim Collins / HarperBusiness
+PQ75183857	ATT
+PQ901463361	CVS
+PQ972279171	Federal Bureau of Investigation
+PQ52563004	NCR
+PQ1524402131	Federal Bureau of Investigation
+PQ648984601	Vatican
+PQ371875161	Forbes
+PQ988592811	White House
+PQ97336824	Central Intelligence Agency
+PQ1173150931	BMW
+PQ74927188	Harvard
+PQ430869041	Vatican
+PQ482688651	Forbes
+PQ153629821	Environmental Protection Agency
+PQ72457140	Bank of America
+PQ1313698561	Senate Judiciary Committee
+PQ616341661	National Aeronautics and Space Administration
+PQ790626541	Waldenbooks
+PQ1192469891	National Security Agency
+PQ1332830621	Federal Bureau of Investigation
+PQ115327037	Stanford University
+PQ55630886	National Taxpayers Union
+PQ57887202	Forbes
+PQ1239285341	Hyperion Solutions
+PQ352877661	Norton
+PQ541042901	SRI Consulting Business Intelligence
+PQ1007394711	Department of Homeland Security
+PQ640331281	White House
+PQ241940151	Electronic Privacy Information Center
+PQ944279331	Pentagon
+PQ88877258	Waldenbooks
+PQ1381835331	Heritage Capital LLC
+PQ126036831	White House
+PQ950558051	National Security Agency
+PQ1469240291	Microsoft
+PQ73157441	Janssen Healthcare Innovation
+PQ357189521	Bank of America
+PQ1403194051	Social Security Administration
+PQ781909621	Jim Collins / HarperBusiness
+PQ1146060111	National Security Agency
+PQ778032441	University of Maryland
+PQ78846570	BMW
+PQ647386531	George Mason University
+PQ55464801	Norton
+PQ1777816731	University of California
+PQ1264240461	Federal Trade Commission
+PQ923727881	University of Iowa
+PQ53547944	CNN
+PQ48339648	International Business Machines
+PQ902130381	Norton
+PQ302361521	Waldenbooks
+PQ95461188	Dell
+PQ108881079	University of Maryland
+PQ1561824221	Bank of America
+PQ1381822901	Constellation Brands
+PQ911289301	Jim Collins / HarperBusiness
+PQ284981711	Pentagon
+PQ1151939011	Yahoo
+PQ581205171	Dell
+PQ55694931	New York Stock Exchange
+PQ810158761	Naval Sea Systems Command
+PQ1254000081	Infosys
+PQ122200731	National Security Agency
+PQ70975544	MicroStrategy
+PQ1928709331	Federal Bureau of Investigation
+PQ753366461	Microsoft
+PQ950558381	Federal Bureau of Investigation
+PQ271209381	Air Force
+PQ574026621	Federal Bureau of Investigation
+PQ1783804171	Federal Bureau of Investigation
+PQ715421671	Pentagon
+PQ1114936221	Treasury Department
+PQ405881271	Waldenbooks
+PQ779587211	Dell
+PQ703638651	Harvard University
+PQ1318963231	Stanford University
+PQ73357192	Ford
+PQ1348334101	Pentagon
+PQ1036753501	Commerce Department
+PQ1648311901	Johns Hopkins University
+PQ75422606	Sun Microsystems
+PQ281996321	Jim Collins / HarperBusiness
+PQ48383764	MicroStrategy
+PQ110321536	Federal Bureau of Investigation
+PQ491140101	Indian Institute of Management
+PQ70990059	Defense Department
+PQ393930621	National Oceanic and Atmospheric Administration
+PQ235948551	Federal Bureau of Investigation
+PQ73933257	George Washington University
+PQ334177151	Waldenbooks
+PQ814375501	Compaq
+PQ1073003351	Jim Collins / HarperBusiness
+PQ1867039191	University of Chicago
+PQ694896171	Electronic Privacy Information Center
+PQ671829561	Federal Bureau of Investigation
+PQ344327941	Jim Collins / HarperBusiness
+PQ1087322821	Sun Microsystems
+PQ78539780	Waldenbooks
+PQ1513656301	Pentagon
+PQ981511611	ATT
+PQ986350171	Apple
+PQ345175451	Pentagon
+PQ1549567151	Dell
+PQ1222629371	Yahoo
+PQ1036752991	Electronic Frontier Foundation
+PQ113672162	International Business Machines
+PQ1027781411	Defense Department
+PQ73537794	CNN
+PQ1516604731	Microsoft
+PQ126036831	Stanford University
+PQ86731608	Janssen Healthcare Innovation
+PQ623406661	America Online
+PQ995762521	Yahoo
+PQ93661629	Defense Department
+PQ529432491	University of Maryland
+PQ214336801	Norton
+PQ1313100671	National Security Agency
+PQ64282250	Lipper Analytical Services
+PQ643935271	Vatican
+PQ1759734801	Sun Microsystems
+PQ627500531	White House
+PQ104019938	Air Force
+PQ68061885	White House
+PQ1013857151	Financial Times
+PQ68760437	White House
+PQ55429212	Sun Microsystems
+PQ74902608	Harvard
+PQ1066672421	White House
+PQ378963991	Babson College
+PQ72786874	ATT
+PQ399150071	Pentagon
+PQ1239299331	Senate Judiciary Committee
+PQ97470941	Electronic Privacy Information Center
+PQ1034465291	George Washington University
+PQ827013261	Equifax
+PQ667191601	White House
+PQ986045951	Gannett
+PQ751250161	Waldenbooks
+PQ54882087	Microsoft
+PQ1937440691	Unilever
+PQ639823221	White House
+PQ81901012	Citigroup
+PQ67379659	BMW
+PQ710635701	Vatican
+PQ1397022361	Norton
+PQ813261021	Harvard University
+PQ852887361	George Mason University
+PQ753366461	BMW
+PQ1325338781	Indian Institute of Management
+PQ1294088131	National Security Agency
+PQ1525213361	Indian Institute of Management
+PQ727858921	Dell
+PQ1249826321	University of Arizona
+PQ1382382971	Apple
+PQ1383689821	Electronic Privacy Information Center
+PQ355762411	Securities and Exchange Commission
+PQ1848618221	General Motors
+PQ1132645611	Pentagon
+PQ1382382971	International Business Machines
+PQ947188641	Waldenbooks
+PQ81273325	Pentagon
+PQ233864641	Federal Bureau of Investigation
+PQ619768491	Microsoft
+PQ679199671	Vatican
+PQ224163411	White House
+PQ269280301	Air Force
+PQ480588921	Microsoft
+PQ64894651	Janssen Healthcare Innovation
+PQ940550221	European Union
+PQ1412202701	Oracle
+PQ727051631	Pentagon
+PQ72503880	Lipper Analytical Services
+PQ107287444	Pentagon
+PQ84453694	Lipper Analytical Services
+PQ78844140	CNN
+PQ525792981	National Aeronautics and Space Administration
+PQ305600621	Waldenbooks
+PQ282617781	Norton
+PQ233864641	University of Arizona
+PQ777334191	Norton
+PQ68432212	Federal Bureau of Investigation
+PQ1491105801	Norton
+PQ862176791	Norton
+PQ68898365	Nasdaq
+PQ52534107	White House
+PQ50906113	Waldenbooks
+PQ410656281	Department of Homeland Security
+PQ214297981	Waldenbooks
+PQ62808123	Lipper Analytical Services
+PQ96747552	ATT
+PQ77186067	Microsoft
+PQ70796987	Goldman Sachs
+PQ58945398	General Services Administration
+PQ909969191	New York Stock Exchange
+PQ881144331	Waldenbooks
+PQ1206520731	Pentagon
+PQ81903631	Microsoft
+PQ58832585	Dell
+PQ919081871	National Security Agency
+PQ676177521	Dell
+PQ812856291	White House
+PQ525786061	American Civil Liberties Union
+PQ1528359001	National Press Club
+PQ1092672451	University of Pennsylvania
+PQ288431361	General Motors
+PQ1483414131	Waldenbooks
+PQ208294331	ATT
+PQ1569400121	White House
+PQ804041101	White House
+PQ279983921	Pentagon
+PQ708620851	Yahoo
+PQ67379659	Charles Schwab
+PQ1091973761	Citigroup
+PQ1833316051	Central Intelligence Agency
+PQ1706587421	Johns Hopkins University
+PQ707054731	PeopleSoft
+PQ1217862441	Healthcare Information and Management Systems Society
+PQ115327037	University of Iowa
+PQ327942421	Jim Collins / HarperBusiness
+PQ229153771	Apple
+PQ1295309051	Nasdaq
+PQ1689081421	World Bank
+PQ657544851	Yahoo
+PQ47707267	Norton
+PQ65613691	Nasdaq
+PQ1618862591	General Motors
+PQ653470011	Nasdaq
+PQ307968851	Transportation Security Administration
+PQ1331120021	Nasdaq
+PQ912202811	Air Force Space Command
+PQ344811351	White House
+PQ1444290531	BlackSand Research
+PQ59752944	Air Force
+PQ222136041	Sun Microsystems
+PQ1450201711	Decision Support Systems
+PQ350024921	Federal Trade Commission
+PQ98308262	White House
+PQ805567541	Senate Judiciary Committee
+PQ1475591761	Waldenbooks
+PQ1712675111	Healthcare Information and Management Systems Society
+PQ77020056	Federal Bureau of Investigation
+PQ995762521	Microsoft
+PQ87188533	Pentagon
+PQ235948551	Transportation Security Administration
+PQ655557941	CNN
+PQ1518005211	Federal Bureau of Investigation
+PQ275422291	AOL Time Warner
+PQ96747552	Nasdaq
+PQ1707752031	New York Stock Exchange
+PQ1398955111	International Business Machines
+PQ820533351	Ford
+PQ1636505051	American Civil Liberties Union
+PQ527181431	University of Maryland
+PQ355152071	Harvard
+PQ66677102	Goldman Sachs
+PQ1510553451	New York Stock Exchange
+PQ804555871	Dell
+PQ1397022701	Senate Judiciary Committee
+PQ1823524571	University of California
+PQ1061332361	Harvard
+PQ859263071	Yahoo
+PQ141728691	NCR
+PQ1225643971	Oracle
+PQ107287444	University of California
+PQ1863441131	Central Intelligence Agency
+PQ1189984321	American Civil Liberties Union
+PQ624961521	Defense Department
+PQ1595540401	Oracle
+PQ1096619741	Waldenbooks
+PQ818356441	Pentagon
+PQ659514021	New York Stock Exchange
+PQ52503158	Microsoft
+PQ525786061	Transportation Security Administration
+PQ1037799431	Apple
+PQ431214211	University of Maryland
+PQ1513273941	Federal Bureau of Investigation
+PQ117883186	Securities and Exchange Commission
+PQ68922629	Yahoo
+PQ1905808231	Harvard
+PQ96747552	Federal Government
+PQ1646219171	Oracle
+PQ1403194051	General Services Administration
+PQ1320612161	National Security Agency
+PQ990154951	Apple
+PQ548036641	Electronic Privacy Information Center
+PQ779587211	Vatican
+PQ652776281	Norton
+PQ491002071	Microsoft
+PQ99491957	Massachusetts Institute of Technology
+PQ72457140	Microsoft
+PQ69734215	International Business Machines
+PQ219956261	Central Intelligence Agency
+PQ923729151	Goucher College
+PQ1518674701	National Oceanic and Atmospheric Administration
+PQ1090872201	National Institutes of Health
+PQ65661984	Northern Virginia Technology Council
+PQ740618221	Securities and Exchange Commission
+PQ69739167	Oracle
+PQ55630886	Microsoft
+PQ551989081	Jim Collins / HarperBusiness
+PQ62841697	Dell
+PQ1582383961	Federal Bureau of Investigation
+PQ1618863501	Wal-Mart Stores
+PQ1035659101	Electronic Privacy Information Center
+PQ1174679831	Electronic Privacy Information Center
+PQ102550832	Federal Bureau of Investigation
+PQ71471773	NCR
+PQ1655436451	CNN
+PQ74161811	National Aeronautics and Space Administration
+PQ1476885571	General Dynamics
+PQ596633041	Electronic Privacy Information Center
+PQ1128645191	Vatican
+PQ115613530	Harvard
+PQ1222629711	Electronic Privacy Information Center
+PQ711971501	Publicis Groupe
+PQ64282250	CNN
+PQ69551043	Ameritech
+PQ898223031	Commerce Department
+PQ974906881	Federal Bureau of Investigation
+PQ789186741	ATT
+PQ377621211	Pentagon
+PQ70425995	Janssen Healthcare Innovation
+PQ1206501741	Department of Homeland Security
+PQ59351503	Waldenbooks
+PQ72962191	America Online
+PQ1301869541	University of California
+PQ71661091	Janssen Healthcare Innovation
+PQ704470211	Federal Bureau of Investigation
+PQ1046662861	Federal Bureau of Investigation
+PQ855724131	Norton
+PQ963031151	Senate Judiciary Committee
+PQ408433931	Institute of Medicine
+PQ1370298691	Madras University
+PQ525774621	Electronic Privacy Information Center
+PQ1603843901	Massachusetts Institute of Technology
+PQ90647443	Air Force
+PQ82392469	National Institutes of Health
+PQ69550609	Johns Hopkins University
+PQ1311697451	National Security Agency
+PQ1149832951	NCR
+PQ1015729161	University of California
+PQ1545094331	National Counterterrorism Center
+PQ1096570051	White House
+PQ199315881	White House
+PQ185939631	George Washington University
+PQ640331291	Vatican
+PQ1335649991	International Business Machines
+PQ331520121	Waldenbooks
+PQ56466350	Janssen Healthcare Innovation
+PQ690920361	White House
+PQ70796987	Oracle
+PQ94059682	Sun Microsystems
+PQ1707752031	eBay
+PQ55296570	University of Chicago
+PQ652648581	Oracle
+PQ1582401871	Oracle
+PQ214297981	Jim Collins / HarperBusiness
+PQ73104443	Waldenbooks
+PQ1867320041	Harvard University
+PQ65896722	Lipper Analytical Services
+PQ625636031	New York Stock Exchange
+PQ689815791	Dell
+PQ73924045	George Washington University
+PQ431214211	Pentagon
+PQ1598340861	Texas Instruments
+PQ1213979871	White House
+PQ1066672421	National Security Agency
+PQ1004837111	Microsoft
+PQ525082791	Sony
+PQ1096570051	American Civil Liberties Union
+PQ229424751	Federal Reserve
+PQ928758331	Federal Bureau of Investigation
+PQ1481964681	Pentagon
+PQ623624241	International Business Machines
+PQ820009771	Norton
+PQ56456999	Norton
+PQ129522761	Jim Collins / HarperBusiness
+PQ1611252881	White House
+PQ1273398041	Morgan Stanley
+PQ1627822951	National Institutes of Health
+PQ53539799	Yahoo
+PQ1011517621	White House
+PQ490834411	University of Pittsburgh
+PQ768226821	White House
+PQ1161068011	National Security Agency
+PQ773181721	International Business Machines
+PQ482746011	European Union
+PQ110482607	Jim Collins / HarperBusiness
+PQ1433690141	Microsoft
+PQ1706456871	Microsoft
+PQ1929754181	Transportation Security Administration
+PQ316300351	Defense Department
+PQ1174467301	Transportation Security Administration
+PQ669332871	Department of Homeland Security
+PQ897975781	Federal Bureau of Investigation
+PQ48339648	NCR
+PQ84453694	Janssen Healthcare Innovation
+PQ1434835441	Dell
+PQ123101091	American Civil Liberties Union
+PQ52829346	MicroStrategy
+PQ51961039	eBay
+PQ1476885571	Gannett
+PQ1509388031	Federal Bureau of Investigation
+PQ790778321	Dell
+PQ1146410901	White House
+PQ632267001	Norton
+PQ988592811	University of California
+PQ1617151631	Sony
+PQ622911401	Jim Collins / HarperBusiness
+PQ132751941	Central Intelligence Agency
+PQ530443681	Federal Bureau of Investigation
+PQ1080831611	Waldenbooks
+PQ1848618221	International Business Machines
+PQ833546401	Financial Times
+PQ98741581	Microsoft
+PQ1037266261	Citibank
+PQ822303171	Jim Collins / HarperBusiness
+PQ85313567	Social Security Administration
+PQ1212457321	Air Force
+PQ293343061	Electronic Frontier Foundation
+PQ1047994511	Dell
+PQ405287591	Publicis Groupe
+PQ1048003051	Pentagon
+PQ331096201	Sun Microsystems
+PQ51231858	Norton
+PQ1339243501	Federal Bureau of Investigation
+PQ1512676811	Harvard University
+PQ1035658681	Sun Microsystems
+PQ1381823541	Morgan Stanley
+PQ52210924	Pentagon
+PQ1124181561	Jim Collins / HarperBusiness
+PQ288431361	Securities and Exchange Commission
+PQ505440731	Harvard
+PQ115613530	AOL Time Warner
+PQ1339212151	Oracle
+PQ1746493961	Sun Microsystems
+PQ1348334101	National Oceanic and Atmospheric Administration
+PQ1522606261	ComEd
+PQ80054167	White House
+PQ1381839241	International Business Machines
+PQ1561824221	Oracle
+PQ130653571	In-Q-Tel
+PQ948024171	White House
+PQ48385269	Nasdaq
+PQ1016326951	University of Chicago
+PQ1920218531	Forest Service
+PQ52829346	University of Maryland
+PQ72457140	CACI International
+PQ865407851	Defense Department
+PQ923729151	College of Notre Dame of Maryland
+PQ93226854	Norton
+PQ130378891	Norton
+PQ121973254	Jim Collins / HarperBusiness
+PQ238909721	Jim Collins / HarperBusiness
+PQ204142971	Jim Collins / HarperBusiness
+PQ1194210511	Securities and Exchange Commission
+PQ69225755	America Online
+PQ289690521	Central Intelligence Agency
+PQ1781380921	International Business Machines
+PQ482746011	Harvard
+PQ1618863501	NCR
+PQ73446186	America Online
+PQ70990059	Massachusetts Institute of Technology
+PQ123916261	Columbia University
+PQ1487846721	Norton
+PQ127030731	Yahoo
+PQ666768651	Federal Bureau of Investigation
+PQ1655436451	National Press Club
+PQ52828059	Janssen Healthcare Innovation
+PQ617893031	National Aeronautics and Space Administration
+PQ1130232371	Louisiana State University
+PQ345770441	Air Force
+PQ944279331	Defense Department
+PQ1824653161	Microsoft
+PQ270968951	Electronic Privacy Information Center
+PQ807208171	Norton
+PQ1065684581	Treasury Department
+PQ1518586741	Stanford University
+PQ687157871	International Business Machines
+PQ777334191	Vatican
+PQ1185580911	Stanford University
+PQ52534107	CNN
+PQ440038521	Microsoft
+PQ1146060111	Federal Bureau of Investigation
+PQ59418058	MicroStrategy
+PQ645259861	Vatican
+PQ65600927	Norton
+PQ1385528661	Hyperion Solutions
+PQ448310341	Norton
+PQ81901019	CNN
+PQ1109914511	Apple
+PQ64632076	Waldenbooks
+PQ290922941	NCR
+PQ1195687351	Federal Bureau of Investigation
+PQ1049148481	White House
+PQ338791101	Central Intelligence Agency
+PQ1160771001	University of California
+PQ1368240671	Oracle
+PQ706607111	Vatican
+PQ791108291	Infosys
+PQ1636383731	Dell
+PQ59838963	Lipper Analytical Services
+PQ644412691	Pentagon
+PQ1213979871	Federal Bureau of Investigation
+PQ67736140	Lipper Analytical Services
+PQ741616051	National Press Club
+PQ1252683211	Federal Bureau of Investigation
+PQ1169254941	Yahoo
+PQ51995749	Sun Microsystems
+PQ943915061	Sun Microsystems
+PQ1257488971	American Association of Advertising Agencies
+PQ990142581	Bain
+PQ75142113	Janssen Healthcare Innovation
+PQ740859401	Federal Bureau of Investigation
+PQ73157441	Lipper Analytical Services
+PQ51231949	Federal Bureau of Investigation
+PQ61292942	Waldenbooks
+PQ386802161	MicroStrategy
+PQ58150476	Waldenbooks
+PQ1155852451	Electronic Frontier Foundation
+PQ54096349	MicroStrategy
+PQ62262978	Nasdaq
+PQ75777473	Procter  Gamble
+PQ782942931	International Business Machines
+PQ896249981	eBay
+PQ1285889131	Space and Missile Systems Center
+PQ771378271	Vatican
+PQ288684011	Pentagon
+PQ1886995401	Stanford University
+PQ318981171	Pentagon
+PQ1060567981	Federal Bureau of Investigation
+PQ520943401	Norton
+PQ768619461	Department of Homeland Security
+PQ1035572761	Central Intelligence Agency
+PQ1174467301	Electronic Frontier Foundation
+PQ1313085181	National Security Agency
+PQ74653779	MicroStrategy
+PQ1461349551	Yahoo
+PQ691172111	White House
+PQ1096031951	American Heart Association
+PQ321195781	ATT
+PQ271208891	Pentagon
+PQ279325811	Pentagon
+PQ85313567	Commerce Department
+PQ1434835441	Microsoft
+PQ1050086501	Nasdaq
+PQ797531541	Norton
+PQ526134961	National Aeronautics and Space Administration
+PQ646056131	Waldenbooks
+PQ1795475811	Yahoo
+PQ530941841	Vatican
+PQ66677102	International Business Machines
+PQ273616871	Jim Collins / HarperBusiness
+PQ1580263781	Federal Trade Commission
+PQ74090044	Publicis Groupe
+PQ63528770	White House
+PQ323399171	Waldenbooks
+PQ1122091261	Federal Bureau of Investigation
+PQ431214211	National Security Agency
+PQ520360651	Waldenbooks
+PQ110002748	Norton
+PQ936664561	Norton
+PQ1092695411	Jim Collins / HarperBusiness
+PQ1076834171	Jim Collins / HarperBusiness
+PQ57573572	Lipper Analytical Services
+PQ658484471	Vatican
+PQ1274049141	Stanford University
+PQ270968951	Transportation Security Administration
+PQ47996330	Harvard
+PQ62804694	Harvard University
+PQ429740651	Waldenbooks
+PQ73063483	Financial Times
+PQ1456607581	Citigroup
+PQ323918711	University of California
+PQ53699581	Waldenbooks
+PQ69003799	SAS Institute
+PQ882010611	Oracle
+PQ1533340461	CACI International
+PQ117630280	White House
+PQ993306061	Electronic Frontier Foundation
+PQ403518861	White House
+PQ857434451	Yahoo
+PQ1661389451	Northern Virginia Technology Council
+PQ653470011	New York Stock Exchange
+PQ1660168991	Social Security Administration
+PQ725635691	NCR
+PQ58832585	Norton
+PQ1563160161	Department of Homeland Security
+PQ759726871	Transportation Security Administration
+PQ410215851	Department of Homeland Security
+PQ1204439471	WPP Group
+PQ111669652	Federal Bureau of Investigation
+PQ755599701	Norton
+PQ47707252	International Business Machines
+PQ63301250	Janssen Healthcare Innovation
+PQ52704590	BMW
+PQ1561788411	eBay
+PQ52829334	University of Maryland
+PQ1846940631	University of Maryland
+PQ621890091	Small Business Association
+PQ65073384	ATT
+PQ72457140	General Services Administration
+PQ79875677	Procter  Gamble
+PQ1063739811	American Civil Liberties Union
+PQ1522173281	Yahoo
+PQ868529171	University of California
+PQ1930496871	American Civil Liberties Union
+PQ1000608471	University of Pittsburgh
+PQ652561391	Sun Microsystems
+PQ88068840	CNN
+PQ635764411	Ford
+PQ1335649991	National Aeronautics and Space Administration
+PQ703638651	General Accounting Office
+PQ405175431	Unilever
+PQ390224201	Norton
+PQ57244989	Lipper Analytical Services
+PQ923727881	Goucher College
+PQ98438834	NCR
+PQ524715951	New York Stock Exchange
+PQ321671161	Microsoft
+PQ1381790611	Constellation Brands
+PQ820533351	Microsoft
+PQ802751461	Waldenbooks
+PQ1290574571	Google
+PQ1313492921	Senate Judiciary Committee
+PQ53193315	Dell
+PQ50951473	NCR
+PQ1928720771	White House
+PQ1161119801	Air Force
+PQ47766586	Citibank
+PQ87490989	Jim Collins / HarperBusiness
+PQ321672681	Pentagon
+PQ491140101	Infosys
+PQ1239305081	CNBC
+PQ1536287321	University of Maryland
+PQ1937440681	International Business Machines
+PQ280362491	Electronic Privacy Information Center
+PQ1178623211	Harvard
+PQ638634711	Harvard University
+PQ576278301	Waldenbooks
+PQ467913481	Columbia University
+PQ1175269721	Federal Bureau of Investigation
+PQ662423091	University of Arizona
+PQ842296371	Jim Collins / HarperBusiness
+PQ89288242	General Motors
+PQ108692801	White House
+PQ1923485031	International Business Machines
+PQ52829334	General Services Administration
+PQ232241191	Central Intelligence Agency
+PQ1461163151	White House
+PQ703637731	Waldenbooks
+PQ1210597351	Securities and Exchange Commission
+PQ69007296	National Aeronautics and Space Administration
+PQ1175269911	Environmental Protection Agency
+PQ1502476431	University of California
+PQ928758331	Department of Homeland Security
+PQ771378271	National Aeronautics and Space Administration
+PQ1312508391	National Security Agency
+PQ651090811	National Aeronautics and Space Administration
+PQ357873641	Microsoft
+PQ386388321	Oracle
+PQ1193079101	Waldenbooks
+PQ783683221	Vatican
+PQ1615533021	Dell
+PQ1037799431	Morgan Stanley
+PQ1736101931	Federal Trade Commission
+PQ259544031	University of Pittsburgh
+PQ1204439471	Ford
+PQ494152661	Ford
+PQ1082021021	Pentagon
+PQ350016951	White House
+PQ1369542581	National Security Agency
+PQ1301789271	Securities and Exchange Commission
+PQ60608547	Janssen Healthcare Innovation
+PQ495451001	American Civil Liberties Union
+PQ908592941	European Union
+PQ1037266261	General Accounting Office
+PQ1243194381	Morgan Stanley
+PQ804555871	Federal Bureau of Investigation
+PQ1472432061	White House
+PQ635413331	National Aeronautics and Space Administration
+PQ1087345371	Data Warehouse
+PQ795278591	Cisco
+PQ887710371	Waldenbooks
+PQ1233147231	National Assessment of Educational Progress
+PQ64882145	Federal Bureau of Investigation
+PQ850675461	Coca-Cola
+PQ580630321	Federal Reserve
+PQ429740791	New York Stock Exchange
+PQ1047148091	Harvard
+PQ96747552	SRI Consulting Business Intelligence
+PQ47760540	General Motors
+PQ1224756711	Siebel Systems
+PQ74888934	Coca-Cola
+PQ480556201	Syracuse University
+PQ1477380931	Sun Microsystems
+PQ74891855	NCR
+PQ80054166	Norton
+PQ1033343231	Air Force Space Command
+PQ578178461	Pentagon
+PQ679199671	Dell
+PQ1325968631	Apple
+PQ1381836051	Fortune Brands
+PQ1015857641	Madras University
+PQ538356711	General Dynamics
+PQ77907405	Waldenbooks
+PQ710392421	Decision Support Systems
+PQ272562211	Microsoft
+PQ915604111	Microsoft
+PQ480556201	Federal Bureau of Investigation
+PQ810158761	General Dynamics
+PQ342584501	Apple
+PQ357190541	Wharton School
+PQ727858921	Norton
+PQ898223031	Air Force
+PQ49602273	Norton
+PQ1468249801	Securities and Exchange Commission
+PQ99358755	Federal Bureau of Investigation
+PQ111940310	Pentagon
+PQ55106853	Norton
+PQ127404581	Jim Collins / HarperBusiness
+PQ72457119	General Dynamics
+PQ1058244511	CNN
+PQ751223691	Yahoo
+PQ69986857	Securities and Exchange Commission
+PQ1326258361	Electronic Frontier Foundation
+PQ1127745011	Waldenbooks
+PQ62795544	Visa
+PQ661386131	Vatican
+PQ1229584281	Waldenbooks
+PQ1657947781	Defense Department
+PQ1035659101	American Civil Liberties Union
+PQ1324800551	Waldenbooks
+PQ56024583	Motorola
+PQ1043417991	BHP Billiton
+PQ71340863	Janssen Healthcare Innovation
+PQ52503181	Lipper Analytical Services
+PQ1549567151	Norton
+PQ868529171	McAfee
+PQ54706921	White House
+PQ950558381	White House
+PQ85313567	Federal Highway Administration
+PQ1206520731	Defense Department
+PQ875481301	Vatican
+PQ1069557611	Columbia University
+PQ350971471	University of California
+PQ810158761	General Services Administration
+PQ990142581	Harvard Business School
+PQ1596885351	Cisco
+PQ1061249121	Jim Collins / HarperBusiness
+PQ740596241	National Institutes of Health
+PQ1081720321	Federal Bureau of Investigation
+PQ645584211	Stanford University
+PQ468608251	Norton
+PQ71310656	Sony
+PQ491286241	ATT
+PQ64899859	Air Force
+PQ1037799431	General Motors
+PQ224163411	Transportation Security Administration
+PQ1359108341	Dell
+PQ54016055	Sun Microsystems
+PQ1037529251	National Security Agency
+PQ1524691291	Yahoo
+PQ65073384	Forbes
+PQ1267024181	Apple
+PQ796200231	Microsoft
+PQ843835571	Vatican
+PQ868282511	Vatican
+PQ73537794	Lipper Analytical Services
+PQ723476471	Norton
+PQ1015729161	Ford
+PQ54944925	Waldenbooks
+PQ1937440691	University of Chicago
+PQ79764260	Apple
+PQ58945398	Commerce Department
+PQ270119421	Waldenbooks
+PQ1893671431	eBay
+PQ1777816751	Yahoo
+PQ802751461	Jim Collins / HarperBusiness
+PQ68300091	Federal Reserve
+PQ47749800	CNN
+PQ1131267261	Google
+PQ334878031	Citigroup
+PQ104019880	American Civil Liberties Union
+PQ861592341	Waldenbooks
+PQ78187620	Janssen Healthcare Innovation
+PQ687157871	Motorola
+PQ108383639	Norton
+PQ140023001	Hyperion Solutions
+PQ820533351	NCR
+PQ879291861	Pentagon
+PQ903362691	National Security Agency
+PQ75420086	Lipper Analytical Services
+PQ74888934	Securities and Exchange Commission
+PQ1109914511	Sun Microsystems
+PQ948880941	National Security Agency
+PQ1929273371	Harvard University
+PQ491094421	Federal Bureau of Investigation
+PQ74379677	Waldenbooks
+PQ61541332	Dominican University
+PQ1654240761	Dell
+PQ676059631	Oracle
+PQ864525741	Harvard
+PQ62990222	Norton
+PQ74252369	Nasdaq
+PQ1398978831	CNBC
+PQ1744480961	University of California
+PQ63639499	Lipper Analytical Services
+PQ763244801	General Dynamics
+PQ1436106311	Citigroup
+PQ372744911	Microsoft
+PQ69739167	Compaq
+PQ269278521	Air Force
+PQ1464501891	Johns Hopkins University
+PQ1106749461	Jim Collins / HarperBusiness
+PQ54322097	Lipper Analytical Services
+PQ890897151	Waldenbooks
+PQ1603843901	Google
+PQ68922629	Oracle
+PQ723476471	Dell
+PQ1225642751	Hyperion Solutions
+PQ1313085181	CNN
+PQ113472784	Nasdaq
+PQ51961039	Securities and Exchange Commission
+PQ1020901631	Morgan Stanley
+PQ68425860	Janssen Healthcare Innovation
+PQ1085687301	George Mason University
+PQ75489368	NCR
+PQ408769641	International Business Machines
+PQ1137273231	Waldenbooks
+PQ52829346	Forbes
+PQ219956261	National Security Agency
+PQ898251301	Oracle
+PQ546044631	Dell
+PQ1512676811	Healthcare Information and Management Systems Society
+PQ1045930921	National Security Agency
+PQ936664561	Harvard
+PQ897237831	Air Force
+PQ1171206871	National Security Agency
+PQ939165671	Harvard University
+PQ71956381	Lipper Analytical Services
+PQ1360072941	Oracle
+PQ62766252	Microsoft
+PQ1910224971	CNN
+PQ341839891	Jim Collins / HarperBusiness
+PQ104914803	Ameritech
+PQ745381601	Jim Collins / HarperBusiness
+PQ92205808	International Business Machines
+PQ890836161	Pentagon
+PQ141180911	Federal Bureau of Investigation
+PQ1094035191	Treasury Department
+PQ117215853	White House
+PQ49602273	CNN
+PQ704513571	Procter  Gamble
+PQ1611778691	Dell
+PQ96747552	National Institutes of Health
+PQ1311971591	Senate Judiciary Committee
+PQ1944585311	Infosys
+PQ70909994	Sun Microsystems
+PQ1929301581	Ford
+PQ97855803	Federal Trade Commission
+PQ491094421	White House
+PQ55304974	Janssen Healthcare Innovation
+PQ82392469	Air Force
+PQ69734313	Waldenbooks
+PQ77283385	Lipper Analytical Services
+PQ53505605	Waldenbooks
+PQ75422606	AOL Time Warner
+PQ1079647061	National Security Agency
+PQ535952031	National Aeronautics and Space Administration
+PQ1461349611	Dell
+PQ1177301251	Ford
+PQ1060563871	National Security Agency
+PQ1558855091	Defense Logistics Agency
+PQ338791101	Pentagon
+PQ811536761	Federal Trade Commission
+PQ68432212	White House
+PQ79764260	Microsoft
+PQ68820426	Janssen Healthcare Innovation
+PQ1470607701	International Business Machines
+PQ1518586741	Yahoo
+PQ77020056	Central Intelligence Agency
+PQ654753251	America Online
+PQ809928391	World Bank
+PQ689815791	Vatican
+PQ820009771	Federal Bureau of Investigation
+PQ1094035191	National Security Agency
+PQ1502560911	International Business Machines
+PQ1783750621	Ford
+PQ1036094571	Air Force
+PQ688113921	Federal Bureau of Investigation
+PQ1093278501	Department of Homeland Security
+PQ1440192101	BlackSand Research
+PQ1313100671	Federal Bureau of Investigation
+PQ970849051	NCR
+PQ50743097	Harvard
+PQ275629001	Waldenbooks
+PQ919081871	Federal Bureau of Investigation
+PQ389821141	Waldenbooks
+PQ1581081471	Transportation Security Administration
+PQ62739756	ATT Labs
+PQ1339243501	Citigroup
+PQ1509388031	Dell
+PQ57885487	Dell
+PQ898251301	Hyperion Solutions
+PQ491025631	New York Stock Exchange
+PQ495880891	International Business Machines
+PQ69739167	European Union
+PQ1285339241	CNN
+PQ132783621	Electronic Privacy Information Center
+PQ736742011	Dell
+PQ504545001	Vatican
+PQ822246471	American Heart Association
+PQ530941841	National Aeronautics and Space Administration
+PQ90771261	Ford
+PQ82388849	CNN
+PQ1285889131	General Services Administration
+PQ678760141	White House
+PQ482240311	University of California
+PQ1096595721	White House
+PQ52829346	Department of Transportation
+PQ1315966761	National Security Agency
+PQ1175269721	Senate Judiciary Committee
+PQ1174138011	Sun Microsystems
+PQ740859401	Norton
+PQ1332810091	ATT
+PQ55922914	Sun Microsystems
+PQ125291661	Federal Bureau of Investigation
+PQ57885487	Norton
+PQ1038978471	Waldenbooks
+PQ98438834	Securities and Exchange Commission
+PQ1195593761	Central Intelligence Agency
+PQ57501136	Waldenbooks
+PQ53763432	Norton
+PQ49609396	CNN
+PQ117808935	Sun Microsystems
+PQ480511221	Federal Bureau of Investigation
+PQ810213731	Norton
+PQ53942914	Dell
+PQ1736101931	Yahoo
+PQ1661389451	Microsoft
+PQ570239971	Google
+PQ1222629371	Google
+PQ914605621	Federal Bureau of Investigation
+PQ810158761	National Security Agency
+PQ239408081	Coca-Cola
+PQ148010391	Norton
+PQ1037266261	University of California
+PQ495198281	World Bank
+PQ662446371	NCR
+PQ905365311	Vatican
+PQ316300351	Pentagon
+PQ383589191	George Washington University Hospital
+PQ1209467431	National Science Foundation
+PQ262825171	Pentagon
+PQ338797851	American Civil Liberties Union
+PQ55625891	Microsoft
+PQ1819276181	Harvard University
+PQ323918711	Columbia University
+PQ922356401	Oracle
+PQ1315497511	National Security Agency
+PQ125454081	Waldenbooks
+PQ1625756081	Microsoft
+PQ84587571	Pentagon
+PQ70975033	Federal Reserve
+PQ110683837	Federal Bureau of Investigation
+PQ527180691	National Aeronautics and Space Administration
+PQ284981711	White House
+PQ575196411	Pentagon
+PQ204842491	University of Maryland
+PQ1224756051	Commerce Department
+PQ779587211	Norton
+PQ1405028711	ATT
+PQ480556201	University of Pittsburgh
+PQ84163200	Defense Department
+PQ1221275641	Waldenbooks
+PQ1191280011	Apple
+PQ72007203	National Institutes of Health
+PQ495451001	Federal Bureau of Investigation
+PQ468611661	Federal Bureau of Investigation
+PQ751223691	Nasdaq
+PQ80041362	CNN
+PQ1286513881	National Security Agency
+PQ520951411	Norton
+PQ75528449	eBay
+PQ72007203	George Mason University
+PQ63289967	Federal Bureau of Investigation
+PQ74999524	Nasdaq
+PQ1382382971	Wal-Mart Stores
+PQ54016055	eBay
+PQ923727881	Anne Arundel County Department of Aging
+PQ87496480	Pentagon
+PQ72962126	CNN
+PQ57895803	CNN
+PQ656195401	Federal Bureau of Investigation
+PQ1039483371	Harvard Business School
+PQ135213591	Jim Collins / HarperBusiness
+PQ89859338	Norton
+PQ90647443	Environmental Protection Agency
+PQ1018375181	University of Maryland
+PQ843300321	Harvard University
+PQ77236855	Norton
+PQ786628271	Vatican
+PQ79764260	Compaq
+PQ104019880	International Business Machines
+PQ616341661	White House
+PQ70796987	Sun Microsystems
+PQ94907528	Jim Collins / HarperBusiness
+PQ55626099	Sun Microsystems
+PQ672060851	White House
+PQ71440891	National Aeronautics and Space Administration
+PQ52594883	National Institutes of Health
+PQ1173150931	Wal-Mart Stores
+PQ247485931	Jim Collins / HarperBusiness
+PQ1381835771	International Business Machines
+PQ1360808031	Federal Reserve
+PQ909468221	Air Force
+PQ1096595721	American Civil Liberties Union
+PQ295908251	Waldenbooks
+PQ928333331	Jim Collins / HarperBusiness
+PQ1029506401	Federal Trade Commission
+PQ154700631	Waldenbooks
+PQ109765606	Sun Microsystems
+PQ748453091	National Aeronautics and Space Administration
+PQ144840901	Jim Collins / HarperBusiness
+PQ625613821	NCR
+PQ329642271	Oracle
+PQ1127745011	Jim Collins / HarperBusiness
+PQ230240481	University of Arizona
+PQ1502476431	Columbia University
+PQ681833941	Hyatt Regency Chicago
+PQ323918711	Stanford University
+PQ59418058	America Online
+PQ296129881	American Civil Liberties Union
+PQ920758091	Naval Postgraduate School
+PQ769039291	Norton
+PQ678760141	Vatican
+PQ224157361	Stanford University
+PQ1401208721	Oracle
+PQ56274021	CNN
+PQ621161601	National Aeronautics and Space Administration
+PQ124820591	Federal Bureau of Investigation
+PQ494359961	Sun Microsystems
+PQ1584489261	National Security Agency
+PQ898223031	General Services Administration
+PQ47749731	Microsoft
+PQ1558855091	Air Force
+PQ196504651	Jim Collins / HarperBusiness
+PQ915579041	Microsoft
+PQ230470971	NCR
+PQ1706587421	Harvard University
+PQ1233147231	Alliance for Excellent Education
+PQ56024529	CNN
+PQ1007394711	National Institutes of Health
+PQ1254000081	International Business Machines
+PQ230345441	Goldman Sachs
+PQ1481964681	Environmental Protection Agency
+PQ57207044	Dell
+PQ480597411	Yahoo
+PQ65210214	NCR
+PQ234187581	Pentagon
+PQ1263658171	Securities and Exchange Commission
+PQ1562464161	White House
+PQ731800541	Dell
+PQ715421671	White House
+PQ83191659	Waldenbooks
+PQ121196956	Harvard
+PQ865407851	White House
+PQ922580621	Microsoft
+PQ64894651	Lipper Analytical Services
+PQ321797521	Harvard
+PQ98308262	MicroStrategy
+PQ795289571	Defense Department
+PQ726588941	Federal Bureau of Investigation
+PQ85313567	General Services Administration
+PQ1366742211	United Way
+PQ700074871	Charles Schwab
+PQ290922941	New York Stock Exchange
+PQ911288781	Ford
+PQ1146060111	New York Stock Exchange
+PQ1218343671	Dell
+PQ1295308051	Bank of America
+PQ751223691	Pentagon
+PQ923727881	Weems Creek Conservancy
+PQ881574881	Federal Bureau of Investigation
+PQ520360821	Institute of Medicine
+PQ118616627	Social Security Administration
+PQ1241281921	Waldenbooks
+PQ803666631	Bank of America
+PQ665228891	Jim Collins / HarperBusiness
+PQ469790731	Massachusetts Institute of Technology
+PQ1174467301	Department of Homeland Security
+PQ48385062	Ford
+PQ690217241	Microsoft
+PQ708620851	Google
+PQ1169254941	Federal Trade Commission
+PQ768559671	Morgan Stanley
+PQ66759933	CNN
+PQ735687211	Wal-Mart Stores
+PQ52829346	Securities and Exchange Commission
+PQ85612048	New York Stock Exchange
+PQ876667751	Defense Department
+PQ416597701	Sun Microsystems
+PQ241849111	Harvard University
+PQ623864531	White House
+PQ245699661	Wal-Mart Stores
+PQ480588921	International Business Machines
+PQ757117161	Norton
+PQ1433144911	Waldenbooks
+PQ408769641	University of Pennsylvania
+PQ1295310801	Oracle
+PQ702547751	New York Stock Exchange
+PQ155195001	Federal Bureau of Investigation
+PQ797531571	Vatican
+PQ69739167	Sun Microsystems
+PQ803930791	NCR
+PQ71343856	Securities and Exchange Commission
+PQ61668149	Janssen Healthcare Innovation
+PQ1412202701	University of Maryland
+PQ143956401	Nasdaq
+PQ72457140	International Business Machines
+PQ1027781411	Air Force
+PQ217181891	General Services Administration
+PQ1776213221	European Union
+PQ334878031	New York Stock Exchange
+PQ897975781	Norton
+PQ71661091	Lipper Analytical Services
+PQ905685841	Pentagon
+PQ1036597571	Electronic Frontier Foundation
+PQ235948551	White House
+PQ616678501	Social Security Administration
+PQ1797801491	National Security Agency
+PQ635413351	Vatican
+PQ1438193591	American Civil Liberties Union
+PQ54166286	Waldenbooks
+PQ440038521	Yahoo
+PQ73383276	Janssen Healthcare Innovation
+PQ1632256131	Dell
+PQ1783750621	Google
+PQ405173011	International Business Machines
+PQ855724131	Vatican
+PQ144840901	Waldenbooks
+PQ609350121	Dell
+PQ953243661	Federal Bureau of Investigation
+PQ594388221	Vatican
+PQ65743941	Waldenbooks
+PQ307968851	Electronic Privacy Information Center
+PQ326002971	ATT
+PQ113672162	Yahoo
+PQ1381847391	Oracle
+PQ814308531	Compaq
+PQ1149367951	Apple
+PQ1385528661	PeopleSoft
+PQ525792981	Pentagon
+PQ703638651	White House
+PQ1029506401	University of Chicago
+PQ878564851	Norton
+PQ864455591	Jim Collins / HarperBusiness
+PQ75489368	New York Stock Exchange
+PQ62507105	Norton
+PQ710850211	Federal Bureau of Investigation
+PQ1191280011	European Union
+PQ1561824221	General Motors
+PQ1131267261	Microsoft
+PQ1225642981	Nasdaq
+PQ986350171	Yahoo
+PQ608048991	Oracle
+PQ403518861	Transportation Security Administration
+PQ68922629	NCR
+PQ1867320041	University of Pennsylvania
+PQ1190468181	Federal Bureau of Investigation
+PQ1325974841	Securities and Exchange Commission
+PQ1331120021	Hyperion Solutions
+PQ239448831	Stanford University
+PQ1011517621	Data Warehouse
+PQ491286241	Sony
+PQ58945969	Lipper Analytical Services
+PQ621164491	Oracle
+PQ247789031	ATT
+PQ1339243501	Treasury Department
+PQ80406842	Unilever
+PQ431214211	National Aeronautics and Space Administration
+PQ98741055	Oracle
+PQ417484721	Waldenbooks
+PQ444190651	Ford
+PQ862384831	Pentagon
+PQ1082021021	Air Force
+PQ886649941	Pentagon
+PQ69003799	Alcoa
+PQ923727881	Air Force
+PQ91646662	Defense Department
+PQ585186571	Dell
+PQ1038329821	National Security Agency
+PQ405173011	CNN
+PQ50943361	Federal Reserve
+PQ378800931	Norton
+PQ108692801	ATT Labs
+PQ53387887	Microsoft
+PQ53539799	BMW
+PQ594388221	National Aeronautics and Space Administration
+PQ1036094571	Senate Judiciary Committee
+PQ163055411	Federal Bureau of Investigation
+PQ1930147061	White House
+PQ82178941	Northern Virginia Technology Council
+PQ1582383961	Department of Homeland Security
+PQ124031791	Institute of Medicine
+PQ410223541	Electronic Privacy Information Center
+PQ132783621	Federal Bureau of Investigation
+PQ110332307	Federal Bureau of Investigation
+PQ65361315	Charles Schwab
+PQ336655571	National Security Agency
+PQ468608251	National Aeronautics and Space Administration
+PQ700934341	Vatican
+PQ156112691	Nasdaq
+PQ1444804811	Capitol College
+PQ1036094551	Google
+PQ480588921	Yahoo
+PQ748453091	Federal Bureau of Investigation
+PQ55477818	Janssen Healthcare Innovation
+PQ1763584261	National Aeronautics and Space Administration
+PQ880302751	Pentagon
+PQ845580011	New Pittsburgh Courier
+PQ63289983	University of California
+PQ1239304571	International Business Machines
+PQ65613691	International Business Machines
+PQ700934341	Norton
+PQ1923814521	Microsoft
+PQ1046410501	National Security Agency
+PQ77780440	AOL Time Warner
+PQ1144651011	Waldenbooks
+PQ85313567	National Cancer Institute
+PQ72457140	Defense Department
+PQ1187688741	Department of Homeland Security
+PQ1315169941	National Security Agency
+PQ1178219091	New York Stock Exchange
+PQ1535630331	Department of Homeland Security
+PQ902130381	Federal Bureau of Investigation
+PQ399150071	Harvard
+PQ85284049	Lipper Analytical Services
+PQ85178606	Hyperion Solutions
+PQ1882320611	Securities and Exchange Commission
+PQ1381836051	Organization of the Petroleum Exporting Countries
+PQ798154391	Waldenbooks
+PQ993306061	National Security Agency
+PQ1204439531	Northern Virginia Technology Council
+PQ798944431	Electronic Privacy Information Center
+PQ896272911	Yahoo
+PQ424832571	Waldenbooks
+PQ548036641	Defense Department
+PQ66269877	New York Stock Exchange
+PQ256953881	University of Chicago
+PQ853347411	White House
+PQ62739770	Motorola
+PQ75374973	Waldenbooks
+PQ786628271	Norton
+PQ75420086	CNN
+PQ1065684581	National Security Agency
+PQ1239299331	Department of Homeland Security
+PQ125291661	American Civil Liberties Union
+PQ52620700	Waldenbooks
+PQ73924045	Dell
+PQ431214211	Harvard University
+PQ1887012891	White House
+PQ55041418	Wharton School
+PQ1870279431	Microsoft
+PQ480556201	University of Arizona
+PQ666112361	George Washington University
+PQ777334191	Dell
+PQ1483969281	Norton
+PQ1283659611	Texas Instruments
+PQ819758581	Coca-Cola
+PQ1477481221	PeopleSoft
+PQ242626011	Environmental Protection Agency
+PQ1405039741	Hyperion Solutions
+PQ343997711	George Mason University
+PQ1037776561	National Security Agency
+PQ1065972041	Treasury Department
+PQ48601802	Microsoft
+PQ281109721	Pentagon
+PQ1045930921	Goldman Sachs
+PQ71247259	Stanford University
+PQ1348334101	National Aeronautics and Space Administration
+PQ1871603221	KM Institute
+PQ1645860721	Data Warehouse
+PQ1707752021	Yahoo
+PQ425925091	Transportation Security Administration
+PQ1458286531	University of Pittsburgh
+PQ1146410901	Federal Bureau of Investigation
+PQ1037266261	Federal Trade Commission
+PQ1224772491	Johns Hopkins University
+PQ1174679831	Federal Bureau of Investigation
+PQ224163411	American Civil Liberties Union
+PQ55046814	Lipper Analytical Services
+PQ118616627	University of Maryland
+PQ57244989	Janssen Healthcare Innovation
+PQ135213591	Waldenbooks
+PQ70425995	CNN
+PQ616678501	CACI International
+PQ716346901	Coca-Cola
+PQ480556201	White House
+PQ96550676	PeopleSoft
+PQ571245031	Waldenbooks
+PQ113472702	Waldenbooks
+PQ657544851	Google
+PQ440038521	Stanford University
+PQ1809145651	International Business Machines
+PQ123101091	CNN
+PQ1292813901	Waldenbooks
+PQ1506180191	Central Intelligence Agency
+PQ1017988281	Vatican
+PQ809928391	George Washington University
+PQ1169253641	Hyperion Solutions
+PQ222135261	Waldenbooks
+PQ1225642751	Dell
+PQ998546651	ATT
+PQ1149075881	Federal Reserve
+PQ279983921	White House
+PQ55121098	Microsoft
+PQ93616529	White House
+PQ425925091	American Civil Liberties Union
+PQ1062129621	Federal Bureau of Investigation
+PQ1335649991	Motorola
+PQ807208171	Federal Bureau of Investigation
+PQ69550609	Central Intelligence Agency
+PQ65613691	Wal-Mart Stores
+PQ1036094551	National Security Agency
+PQ338797851	Securities and Exchange Commission
+PQ1172859051	Electronic Frontier Foundation
+PQ948024171	Electronic Privacy Information Center
+PQ121973254	Waldenbooks
+PQ49792639	White House
+PQ1065118181	Treasury Department
+PQ1480875121	Electronic Frontier Foundation
+PQ1036713991	National Security Agency
+PQ121696804	Sun Microsystems
+PQ50346396	eBay
+PQ1027781411	Federal Bureau of Investigation
+PQ106022291	Waldenbooks
+PQ1381836051	International Business Machines
+PQ1206501741	Social Security Administration
+PQ338790551	Defense Department
+PQ1578637271	Microsoft
+PQ912202811	General Dynamics
+PQ536719851	Motorola
+PQ682305271	International Business Machines
+PQ65613691	Alcoa
+PQ1636044211	Bank of America
+PQ807720541	Oracle
+PQ999705691	National Security Agency
+PQ371876331	Norton
+PQ69451780	Waldenbooks
+PQ687157871	Cisco
+PQ55306322	Sun Microsystems
+PQ1398977951	White House
+PQ731800541	Vatican
+PQ1469843991	eBay
+PQ81369181	Federal Bureau of Investigation
+PQ52702436	George Washington University
+PQ1638538981	Apple
+PQ1469207361	Google
+PQ78922515	Electronic Privacy Information Center
+PQ1094656421	Securities and Exchange Commission
+PQ60946821	Motorola
+PQ1124182511	ATT
+PQ55630886	IGI Global
+PQ285958361	Defense Department
+PQ52493558	Sony
+PQ224163411	Pentagon
+PQ997606291	National Security Agency
+PQ59418058	Securities and Exchange Commission
+PQ1381790611	International Business Machines
+PQ525774621	National Aeronautics and Space Administration
+PQ1443231361	Louisiana State University
+PQ581209731	University of California
+PQ53907058	Waldenbooks
+PQ109962230	Jim Collins / HarperBusiness
+PQ291798751	Waldenbooks
+PQ1196839221	Waldenbooks
+PQ1554315621	Dell
+PQ643120311	Department of Homeland Security
+PQ929176961	White House
+PQ1513273941	Norton
+PQ59138017	Ford
+PQ1434833141	Harvard
+PQ1313077581	National Security Agency
+PQ1517998351	Harvard
+PQ1939542231	Apple
+PQ947159611	Apple
+PQ547628791	Waldenbooks
+PQ939193701	Jim Collins / HarperBusiness
+PQ54171086	Motorola
+PQ118918568	Waldenbooks
+PQ1563160161	Department of Transportation
+PQ667204471	White House
+PQ63301268	Cisco
+PQ515886111	Federal Bureau of Investigation
+PQ1298584731	University of California
+PQ797528991	Community Business Partnership
+PQ1456607581	White House
+PQ289690521	Columbia University
+PQ81901019	Janssen Healthcare Innovation
+PQ323399171	Jim Collins / HarperBusiness
+PQ935535811	Waldenbooks
+PQ73446186	Securities and Exchange Commission
+PQ1845443731	National Press Club
+PQ246089701	Electronic Frontier Foundation
+PQ1174085171	International Business Machines
+PQ1886606091	Stanford University
+PQ645259861	Norton
+PQ79542340	Lipper Analytical Services
+PQ1141389661	Waldenbooks
+PQ340346351	Securities and Exchange Commission
+PQ1206447841	National Science Foundation
+PQ1582782721	Harvard
+PQ833546191	Jim Collins / HarperBusiness
+PQ90127407	Jim Collins / HarperBusiness
+PQ806400951	Electronic Privacy Information Center
+PQ113472702	Jim Collins / HarperBusiness
+PQ71737998	Oracle
+PQ1178196591	Federal Trade Commission
+PQ1582383961	Electronic Frontier Foundation
+PQ1191280041	NCR
+PQ997606291	Electronic Frontier Foundation
+PQ345578791	Young Women's Christian Association
+PQ803666631	Electronic Privacy Information Center
+PQ1381836051	Airbus
+PQ480648971	Procter  Gamble
+PQ352296631	Jim Collins / HarperBusiness
+PQ1201807801	Heritage Capital LLC
+PQ743244211	Norton
+PQ1687458921	Oracle
+PQ156112691	New York Stock Exchange
+PQ1336172211	Federal Bureau of Investigation
+PQ1381823551	Stanford University
+PQ815728591	Waldenbooks
+PQ1254379021	Indian Institute of Management
+PQ477345091	Waldenbooks
+PQ1483570501	National Security Agency
+PQ897237831	University of Maryland
+PQ94310306	WPP Group
+PQ493583231	New York Stock Exchange
+PQ875481301	Norton
+PQ1188143941	Wharton School
+PQ59138017	International Business Machines
+PQ99358736	Federal Bureau of Investigation
+PQ1929835791	eBay
+PQ682305271	PeopleSoft
+PQ1048003051	National Security Agency
+PQ546044631	Vatican
+PQ54584827	European Union
+PQ334878031	George Washington University
+PQ1624695431	Dell
+PQ1036753501	National Aeronautics and Space Administration
+PQ1321308041	National Security Agency
+PQ47996330	University of Pennsylvania
+PQ83482577	Harvard Business School
+PQ88068840	Janssen Healthcare Innovation
+PQ403807081	Pentagon
+PQ62086200	Waldenbooks
+PQ71452932	NCR
+PQ1018376761	KM Institute
+PQ865086301	Dell
+PQ1046657151	National Aeronautics and Space Administration

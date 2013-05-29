@@ -1,0 +1,10 @@
+Azure Capital Partners::Azure Capital
+Suns::Sun
+New York Times Company::New York Times
+The Wall Street Journal::Wall Street Journal
+TechCrunch Party::TechCrunch
+Yahoo!::Yahoo
+FCC::Federal Communications Commission
+AWS::REMOVE
+GE::General Electric
+RIM::Research In Motion

@@ -1,0 +1,5565 @@
+PQ519325681	hyperion
+PQ519323291	hyperion
+PQ517731991	hyperion
+PQ516092151	hyperion
+PQ515886111	hyperion
+PQ515400481	hyperion
+PQ514715311	hyperion
+PQ512322001	hyperion
+PQ508147401	hyperion
+PQ504543381	hyperion
+PQ504544991	hyperion
+PQ504545001	hyperion
+PQ502264421	hyperion
+PQ499820561	hyperion
+PQ499845581	hyperion
+PQ609588651	hyperion
+PQ491104091	hyperion
+PQ491016981	hyperion
+PQ491016921	hyperion
+PQ491017111	hyperion
+PQ490133751	hyperion
+PQ489824501	hyperion
+PQ489342791	hyperion
+PQ487247651	hyperion
+PQ622480821	hyperion
+PQ486452171	hyperion
+PQ480511001	hyperion
+PQ484574211	hyperion
+PQ480511221	hyperion
+PQ480505941	hyperion
+PQ610960411	hyperion
+PQ610960461	hyperion
+PQ477345091	hyperion
+PQ469834371	hyperion
+PQ468611661	hyperion
+PQ468611691	hyperion
+PQ468608251	hyperion
+PQ466600501	hyperion
+PQ462875211	hyperion
+PQ460083711	hyperion
+PQ460034261	hyperion
+PQ463794891	hyperion
+PQ456736511	hyperion
+PQ453502751	hyperion
+PQ448314361	hyperion
+PQ448314471	hyperion
+PQ448310331	hyperion
+PQ448310341	hyperion
+PQ446110101	hyperion
+PQ446063211	hyperion
+PQ445370821	hyperion
+PQ444055961	hyperion
+PQ444190651	hyperion
+PQ441473001	hyperion
+PQ441469531	hyperion
+PQ440494061	hyperion
+PQ440508301	hyperion
+PQ440507011	hyperion
+PQ440038871	hyperion
+PQ438053121	hyperion
+PQ437586991	hyperion
+PQ436363431	hyperion
+PQ435412261	hyperion
+PQ435412291	hyperion
+PQ435412301	hyperion
+PQ435403891	hyperion
+PQ435408291	hyperion
+PQ434860691	hyperion
+PQ704513421	hyperion
+PQ610962431	hyperion
+PQ434883191	hyperion
+PQ433640711	hyperion
+PQ611227581	hyperion
+PQ432353761	hyperion
+PQ431758351	hyperion
+PQ430873261	hyperion
+PQ430868551	hyperion
+PQ430869041	hyperion
+PQ610876391	hyperion
+PQ429740651	hyperion
+PQ425232131	hyperion
+PQ425228541	hyperion
+PQ424832571	hyperion
+PQ424266781	hyperion
+PQ423840591	hyperion
+PQ422764411	hyperion
+PQ422760301	hyperion
+PQ422760531	hyperion
+PQ610961911	hyperion
+PQ421127261	hyperion
+PQ420628101	hyperion
+PQ418549321	hyperion
+PQ418545651	hyperion
+PQ417472261	hyperion
+PQ417484721	hyperion
+PQ505440731	hyperion
+PQ412996951	hyperion
+PQ412999691	hyperion
+PQ425496671	hyperion
+PQ411020921	hyperion
+PQ408589231	hyperion
+PQ408433271	hyperion
+PQ425496281	hyperion
+PQ406563561	hyperion
+PQ469613161	hyperion
+PQ404997911	hyperion
+PQ404802681	hyperion
+PQ404801281	hyperion
+PQ404990461	hyperion
+PQ405881271	hyperion
+PQ406344821	hyperion
+PQ408283781	hyperion
+PQ399158431	hyperion
+PQ399136991	hyperion
+PQ399150071	hyperion
+PQ399150131	hyperion
+PQ402126151	hyperion
+PQ392733221	hyperion
+PQ392733301	hyperion
+PQ482384951	hyperion
+PQ390227061	hyperion
+PQ390236041	hyperion
+PQ390224201	hyperion
+PQ389821141	hyperion
+PQ387839091	hyperion
+PQ387833391	hyperion
+PQ387833441	hyperion
+PQ387192961	hyperion
+PQ386388321	hyperion
+PQ385994521	hyperion
+PQ385994471	hyperion
+PQ385989751	hyperion
+PQ491804931	hyperion
+PQ385458161	hyperion
+PQ385453791	hyperion
+PQ385453231	hyperion
+PQ384376071	hyperion
+PQ383991671	hyperion
+PQ384111231	hyperion
+PQ383152041	hyperion
+PQ382964681	hyperion
+PQ382645621	hyperion
+PQ382642551	hyperion
+PQ381189491	hyperion
+PQ381189181	hyperion
+PQ380141561	hyperion
+PQ379980871	hyperion
+PQ379984361	hyperion
+PQ379379781	hyperion
+PQ378963911	hyperion
+PQ378805241	hyperion
+PQ378796791	hyperion
+PQ378797461	hyperion
+PQ379515751	hyperion
+PQ378800931	hyperion
+PQ378144041	hyperion
+PQ378144591	hyperion
+PQ377672511	hyperion
+PQ377898891	hyperion
+PQ377501501	hyperion
+PQ377502871	hyperion
+PQ377515131	hyperion
+PQ377081931	hyperion
+PQ403807081	hyperion
+PQ376538491	hyperion
+PQ376357581	hyperion
+PQ376354421	hyperion
+PQ495498251	hyperion
+PQ376329461	hyperion
+PQ376329461	hyperion
+PQ374996441	hyperion
+PQ374460351	hyperion
+PQ374442611	hyperion
+PQ374442611	hyperion
+PQ374450351	hyperion
+PQ374450351	hyperion
+PQ372745151	hyperion
+PQ371901061	hyperion
+PQ371562921	hyperion
+PQ371565271	hyperion
+PQ372629471	hyperion
+PQ371877371	hyperion
+PQ371876331	hyperion
+PQ371875161	hyperion
+PQ371875361	hyperion
+PQ370851401	hyperion
+PQ369954841	hyperion
+PQ370227371	hyperion
+PQ357871011	hyperion
+PQ358210271	hyperion
+PQ357189601	hyperion
+PQ357189521	hyperion
+PQ355752641	hyperion
+PQ355781501	hyperion
+PQ355271361	hyperion
+PQ355106921	hyperion
+PQ355100801	hyperion
+PQ355100301	hyperion
+PQ354958741	hyperion
+PQ581365771	hyperion
+PQ354181551	hyperion
+PQ353048681	hyperion
+PQ352880711	hyperion
+PQ352885991	hyperion
+PQ352877661	hyperion
+PQ352296631	hyperion
+PQ351193401	hyperion
+PQ350971471	hyperion
+PQ350934301	hyperion
+PQ350160461	hyperion
+PQ350019981	hyperion
+PQ350020021	hyperion
+PQ350011651	hyperion
+PQ350016951	hyperion
+PQ349346101	hyperion
+PQ348955341	hyperion
+PQ348942791	hyperion
+PQ348553491	hyperion
+PQ348059821	hyperion
+PQ347525641	hyperion
+PQ347282101	hyperion
+PQ347282111	hyperion
+PQ347282171	hyperion
+PQ347280771	hyperion
+PQ346648301	hyperion
+PQ346106721	hyperion
+PQ344849951	hyperion
+PQ344853501	hyperion
+PQ344849981	hyperion
+PQ344850641	hyperion
+PQ344811351	hyperion
+PQ344811321	hyperion
+PQ344811071	hyperion
+PQ344327941	hyperion
+PQ344006471	hyperion
+PQ343607781	hyperion
+PQ342584501	hyperion
+PQ342386721	hyperion
+PQ342380941	hyperion
+PQ342381241	hyperion
+PQ341839891	hyperion
+PQ341269471	hyperion
+PQ341013091	hyperion
+PQ340012421	hyperion
+PQ340427301	hyperion
+PQ340002191	hyperion
+PQ340002281	hyperion
+PQ340001491	hyperion
+PQ340008701	hyperion
+PQ339520251	hyperion
+PQ338922521	hyperion
+PQ337842141	hyperion
+PQ337833561	hyperion
+PQ337837841	hyperion
+PQ337140311	hyperion
+PQ336921331	hyperion
+PQ336602041	hyperion
+PQ335412871	hyperion
+PQ334878031	hyperion
+PQ336261141	hyperion
+PQ336259691	hyperion
+PQ334791271	hyperion
+PQ334177151	hyperion
+PQ333789211	hyperion
+PQ333168891	hyperion
+PQ332753261	hyperion
+PQ332206631	hyperion
+PQ332198401	hyperion
+PQ331520121	hyperion
+PQ331096201	hyperion
+PQ468423661	hyperion
+PQ330309481	hyperion
+PQ328869321	hyperion
+PQ329687001	hyperion
+PQ329687021	hyperion
+PQ327942421	hyperion
+PQ326006471	hyperion
+PQ325507681	hyperion
+PQ324817191	hyperion
+PQ324088831	hyperion
+PQ323916801	hyperion
+PQ323918761	hyperion
+PQ323918711	hyperion
+PQ323918441	hyperion
+PQ323399171	hyperion
+PQ322985451	hyperion
+PQ322956781	hyperion
+PQ322721581	hyperion
+PQ321797521	hyperion
+PQ321671161	hyperion
+PQ321195281	hyperion
+PQ319557981	hyperion
+PQ319558061	hyperion
+PQ318951271	hyperion
+PQ315917081	hyperion
+PQ313452261	hyperion
+PQ311744311	hyperion
+PQ507922911	hyperion
+PQ309363341	hyperion
+PQ309363821	hyperion
+PQ307922591	hyperion
+PQ305600621	hyperion
+PQ305021211	hyperion
+PQ304734411	hyperion
+PQ304127611	hyperion
+PQ303977521	hyperion
+PQ303709991	hyperion
+PQ303545311	hyperion
+PQ303554021	hyperion
+PQ303937431	hyperion
+PQ302448981	hyperion
+PQ302361521	hyperion
+PQ295908251	hyperion
+PQ293341171	hyperion
+PQ291798751	hyperion
+PQ290547251	hyperion
+PQ290663851	hyperion
+PQ289690521	hyperion
+PQ289688041	hyperion
+PQ289683341	hyperion
+PQ289685601	hyperion
+PQ292133671	hyperion
+PQ289137961	hyperion
+PQ289144681	hyperion
+PQ287928991	hyperion
+PQ288157031	hyperion
+PQ287888971	hyperion
+PQ287539311	hyperion
+PQ284015431	hyperion
+PQ282617781	hyperion
+PQ281996321	hyperion
+PQ281322821	hyperion
+PQ281091021	hyperion
+PQ280826721	hyperion
+PQ279960491	hyperion
+PQ279960051	hyperion
+PQ469516771	hyperion
+PQ279001591	hyperion
+PQ278345671	hyperion
+PQ277830091	hyperion
+PQ277830731	hyperion
+PQ276934491	hyperion
+PQ276504531	hyperion
+PQ276636931	hyperion
+PQ275629001	hyperion
+PQ582218661	hyperion
+PQ275281171	hyperion
+PQ274327071	hyperion
+PQ274447961	hyperion
+PQ274200761	hyperion
+PQ273616871	hyperion
+PQ273617401	hyperion
+PQ92205820	electronic data interchange OR eData interchange OR edata interchange OR e data interchange
+PQ85283988	electronic data interchange OR eData interchange OR edata interchange OR e data interchange
+PQ83482577	electronic data interchange OR eData interchange OR edata interchange OR e data interchange
+PQ74252369	electronic data interchange OR eData interchange OR edata interchange OR e data interchange
+PQ73157438	electronic data interchange OR eData interchange OR edata interchange OR e data interchange
+PQ73157432	electronic data interchange OR eData interchange OR edata interchange OR e data interchange
+PQ73157407	electronic data interchange OR eData interchange OR edata interchange OR e data interchange
+PQ73157406	electronic data interchange OR eData interchange OR edata interchange OR e data interchange
+PQ72964360	electronic data interchange OR eData interchange OR edata interchange OR e data interchange
+PQ481127751	electronic data interchange OR eData interchange OR edata interchange OR e data interchange
+PQ69734215	electronic data interchange OR eData interchange OR edata interchange OR e data interchange
+PQ69547487	electronic data interchange OR eData interchange OR edata interchange OR e data interchange
+PQ67157558	electronic data interchange OR eData interchange OR edata interchange OR e data interchange
+PQ491045341	electronic data interchange OR eData interchange OR edata interchange OR e data interchange
+PQ66545521	electronic data interchange OR eData interchange OR edata interchange OR e data interchange
+PQ912205561	predictive analytics
+PQ871424391	predictive analytics
+PQ272562211	data mining OR datamining
+PQ270968951	data mining OR datamining
+PQ270650631	data mining OR datamining
+PQ270650631	data mining OR datamining
+PQ269271591	data mining OR datamining
+PQ269271251	data mining OR datamining
+PQ262825171	data mining OR datamining
+PQ259536391	data mining OR datamining
+PQ257941671	data mining OR datamining
+PQ491028251	data mining OR datamining
+PQ252547381	data mining OR datamining
+PQ495451001	data mining OR datamining
+PQ248793781	data mining OR datamining
+PQ246089701	data mining OR datamining
+PQ242626011	data mining OR datamining
+PQ241940151	data mining OR datamining
+PQ239869861	data mining OR datamining
+PQ239502291	data mining OR datamining
+PQ239409121	data mining OR datamining
+PQ238376961	data mining OR datamining
+PQ235948551	data mining OR datamining
+PQ234706271	data mining OR datamining
+PQ233864641	data mining OR datamining
+PQ230346241	data mining OR datamining
+PQ224163411	data mining OR datamining
+PQ219956261	data mining OR datamining
+PQ217181891	data mining OR datamining
+PQ209037511	data mining OR datamining
+PQ190919111	data mining OR datamining
+PQ178880671	data mining OR datamining
+PQ177758161	data mining OR datamining
+PQ162960561	data mining OR datamining
+PQ478838181	data mining OR datamining
+PQ148128871	data mining OR datamining
+PQ139767441	data mining OR datamining
+PQ138633601	data mining OR datamining
+PQ468225951	data mining OR datamining
+PQ132783621	data mining OR datamining
+PQ132751941	data mining OR datamining
+PQ129547141	data mining OR datamining
+PQ129074431	data mining OR datamining
+PQ127030731	data mining OR datamining
+PQ125291661	data mining OR datamining
+PQ125213851	data mining OR datamining
+PQ125217061	data mining OR datamining
+PQ123921381	data mining OR datamining
+PQ123821491	data mining OR datamining
+PQ123101091	data mining OR datamining
+PQ122911411	data mining OR datamining
+PQ122194421	data mining OR datamining
+PQ122200731	data mining OR datamining
+PQ121976142	data mining OR datamining
+PQ121943569	data mining OR datamining
+PQ121696772	data mining OR datamining
+PQ120913675	data mining OR datamining
+PQ118280370	data mining OR datamining
+PQ116534915	data mining OR datamining
+PQ115133616	data mining OR datamining
+PQ468180691	data mining OR datamining
+PQ112536935	data mining OR datamining
+PQ111940310	data mining OR datamining
+PQ111948118	data mining OR datamining
+PQ110653326	data mining OR datamining
+PQ110342427	data mining OR datamining
+PQ110272876	data mining OR datamining
+PQ109665042	data mining OR datamining
+PQ468215551	data mining OR datamining
+PQ107772096	data mining OR datamining
+PQ107287444	data mining OR datamining
+PQ104914803	data mining OR datamining
+PQ104019880	data mining OR datamining
+PQ491047841	data mining OR datamining
+PQ99491957	data mining OR datamining
+PQ99473149	data mining OR datamining
+PQ98741055	data mining OR datamining
+PQ98308262	data mining OR datamining
+PQ922356401	data warehouse OR datawarehouse OR data warehouses OR datawarehouses
+PQ919081871	data warehouse OR datawarehouse OR data warehouses OR datawarehouses
+PQ898223031	data warehouse OR datawarehouse OR data warehouses OR datawarehouses
+PQ883037471	data warehouse OR datawarehouse OR data warehouses OR datawarehouses
+PQ896251141	data warehouse OR datawarehouse OR data warehouses OR datawarehouses
+PQ874745871	data warehouse OR datawarehouse OR data warehouses OR datawarehouses
+PQ847948191	data warehouse OR datawarehouse OR data warehouses OR datawarehouses
+PQ835404271	data warehouse OR datawarehouse OR data warehouses OR datawarehouses
+PQ850675461	data warehouse OR datawarehouse OR data warehouses OR datawarehouses
+PQ827013261	data warehouse OR datawarehouse OR data warehouses OR datawarehouses
+PQ824783511	data warehouse OR datawarehouse OR data warehouses OR datawarehouses
+PQ1149832951	data warehouse OR datawarehouse OR data warehouses OR datawarehouses
+PQ820533241	data warehouse OR datawarehouse OR data warehouses OR datawarehouses
+PQ820533241	data warehouse OR datawarehouse OR data warehouses OR datawarehouses
+PQ814318801	data warehouse OR datawarehouse OR data warehouses OR datawarehouses
+PQ814375501	data warehouse OR datawarehouse OR data warehouses OR datawarehouses
+PQ848766991	data warehouse OR datawarehouse OR data warehouses OR datawarehouses
+PQ836921341	data warehouse OR datawarehouse OR data warehouses OR datawarehouses
+PQ806400951	data warehouse OR datawarehouse OR data warehouses OR datawarehouses
+PQ805567541	data warehouse OR datawarehouse OR data warehouses OR datawarehouses
+PQ803930791	data warehouse OR datawarehouse OR data warehouses OR datawarehouses
+PQ803666631	data warehouse OR datawarehouse OR data warehouses OR datawarehouses
+PQ798944431	data warehouse OR datawarehouse OR data warehouses OR datawarehouses
+PQ798944431	data warehouse OR datawarehouse OR data warehouses OR datawarehouses
+PQ796016141	data warehouse OR datawarehouse OR data warehouses OR datawarehouses
+PQ796200231	data warehouse OR datawarehouse OR data warehouses OR datawarehouses
+PQ786480361	data warehouse OR datawarehouse OR data warehouses OR datawarehouses
+PQ778677331	data warehouse OR datawarehouse OR data warehouses OR datawarehouses
+PQ796866601	data warehouse OR datawarehouse OR data warehouses OR datawarehouses
+PQ994340691	business intelligence OR business intelligences OR business intelligent
+PQ1015729801	business intelligence OR business intelligences OR business intelligent
+PQ977992221	business intelligence OR business intelligences OR business intelligent
+PQ1001163311	business intelligence OR business intelligences OR business intelligent
+PQ1182103151	business intelligence OR business intelligences OR business intelligent
+PQ1179035321	business intelligence OR business intelligences OR business intelligent
+PQ1177596061	business intelligence OR business intelligences OR business intelligent
+PQ1173168521	business intelligence OR business intelligences OR business intelligent
+PQ1156742701	business intelligence OR business intelligences OR business intelligent
+PQ1161793071	business intelligence OR business intelligences OR business intelligent
+PQ1143086451	business intelligence OR business intelligences OR business intelligent
+PQ1161102481	business intelligence OR business intelligences OR business intelligent
+PQ1134063231	business intelligence OR business intelligences OR business intelligent
+PQ1110228621	business intelligence OR business intelligences OR business intelligent
+PQ1094006731	business intelligence OR business intelligences OR business intelligent
+PQ1090104521	business intelligence OR business intelligences OR business intelligent
+PQ1089827421	business intelligence OR business intelligences OR business intelligent
+PQ1085355511	business intelligence OR business intelligences OR business intelligent
+PQ1080789001	business intelligence OR business intelligences OR business intelligent
+PQ1081222931	business intelligence OR business intelligences OR business intelligent
+PQ1068091041	business intelligence OR business intelligences OR business intelligent
+PQ1066269611	business intelligence OR business intelligences OR business intelligent
+PQ1062116541	business intelligence OR business intelligences OR business intelligent
+PQ1048448891	business intelligence OR business intelligences OR business intelligent
+PQ1046657761	business intelligence OR business intelligences OR business intelligent
+PQ1037268571	business intelligence OR business intelligences OR business intelligent
+PQ1029503781	business intelligence OR business intelligences OR business intelligent
+PQ1090872201	business intelligence OR business intelligences OR business intelligent
+PQ1021812641	business intelligence OR business intelligences OR business intelligent
+PQ1077491921	business intelligence OR business intelligences OR business intelligent
+PQ1014856351	business intelligence OR business intelligences OR business intelligent
+PQ1014251431	business intelligence OR business intelligences OR business intelligent
+PQ1014855281	business intelligence OR business intelligences OR business intelligent
+PQ1004837111	business intelligence OR business intelligences OR business intelligent
+PQ892691821	business process reengineering OR business processes reengineering OR BPR
+PQ846548141	business process reengineering OR business processes reengineering OR BPR
+PQ817287231	business process reengineering OR business processes reengineering OR BPR
+PQ779503471	business process reengineering OR business processes reengineering OR BPR
+PQ1399340151	cognos
+PQ1386780651	cognos
+PQ1385528661	cognos
+PQ1381839241	cognos
+PQ1381790611	cognos
+PQ1381791231	cognos
+PQ1381791401	cognos
+PQ1381822901	cognos
+PQ1381823541	cognos
+PQ1381847391	cognos
+PQ1381836041	cognos
+PQ1381835331	cognos
+PQ1381835931	cognos
+PQ1381835771	cognos
+PQ1381836061	cognos
+PQ1381836051	cognos
+PQ1382382971	cognos
+PQ1381834971	cognos
+PQ1381834981	cognos
+PQ1363066561	cognos
+PQ1360808031	cognos
+PQ1360072941	cognos
+PQ1340475551	cognos
+PQ1340177481	cognos
+PQ1331096031	cognos
+PQ1331120021	cognos
+PQ1331120181	cognos
+PQ1335661141	cognos
+PQ1325338781	cognos
+PQ1313094191	cognos
+PQ1290904361	cognos
+PQ1274049141	cognos
+PQ1254539431	cognos
+PQ1242533071	cognos
+PQ1225623341	cognos
+PQ1225623341	cognos
+PQ1191281041	cognos
+PQ1474860071	business intelligence OR business intelligences OR business intelligent
+PQ1472432061	business intelligence OR business intelligences OR business intelligent
+PQ1469240291	business intelligence OR business intelligences OR business intelligent
+PQ1460795011	business intelligence OR business intelligences OR business intelligent
+PQ1458865521	business intelligence OR business intelligences OR business intelligent
+PQ1456702801	business intelligence OR business intelligences OR business intelligent
+PQ1456607581	business intelligence OR business intelligences OR business intelligent
+PQ1461349601	business intelligence OR business intelligences OR business intelligent
+PQ1442818591	business intelligence OR business intelligences OR business intelligent
+PQ1434835441	business intelligence OR business intelligences OR business intelligent
+PQ1430377731	business intelligence OR business intelligences OR business intelligent
+PQ1444690541	business intelligence OR business intelligences OR business intelligent
+PQ1439461491	business intelligence OR business intelligences OR business intelligent
+PQ1422063631	business intelligence OR business intelligences OR business intelligent
+PQ1419438211	business intelligence OR business intelligences OR business intelligent
+PQ1412202711	business intelligence OR business intelligences OR business intelligent
+PQ1412202701	business intelligence OR business intelligences OR business intelligent
+PQ1408519631	business intelligence OR business intelligences OR business intelligent
+PQ1618863501	business intelligence OR business intelligences OR business intelligent
+PQ1626680611	business intelligence OR business intelligences OR business intelligent
+PQ1611617481	business intelligence OR business intelligences OR business intelligent
+PQ1600621621	business intelligence OR business intelligences OR business intelligent
+PQ1591376821	business intelligence OR business intelligences OR business intelligent
+PQ1601878751	business intelligence OR business intelligences OR business intelligent
+PQ1582781181	business intelligence OR business intelligences OR business intelligent
+PQ1585133201	business intelligence OR business intelligences OR business intelligent
+PQ1563160161	business intelligence OR business intelligences OR business intelligent
+PQ1562460601	business intelligence OR business intelligences OR business intelligent
+PQ1558855091	business intelligence OR business intelligences OR business intelligent
+PQ1538530341	business intelligence OR business intelligences OR business intelligent
+PQ1528359001	business intelligence OR business intelligences OR business intelligent
+PQ1536287321	business intelligence OR business intelligences OR business intelligent
+PQ1542948171	business intelligence OR business intelligences OR business intelligent
+PQ1521069651	business intelligence OR business intelligences OR business intelligent
+PQ1513922681	business intelligence OR business intelligences OR business intelligent
+PQ1503988031	business intelligence OR business intelligences OR business intelligent
+PQ1502560911	business intelligence OR business intelligences OR business intelligent
+PQ1502560901	business intelligence OR business intelligences OR business intelligent
+PQ1512676811	business intelligence OR business intelligences OR business intelligent
+PQ1495839651	business intelligence OR business intelligences OR business intelligent
+PQ1491730981	business intelligence OR business intelligences OR business intelligent
+PQ1489452151	business intelligence OR business intelligences OR business intelligent
+PQ1498415651	business intelligence OR business intelligences OR business intelligent
+PQ1485579321	business intelligence OR business intelligences OR business intelligent
+PQ1484636821	business intelligence OR business intelligences OR business intelligent
+PQ1481964681	business intelligence OR business intelligences OR business intelligent
+PQ1477481221	business intelligence OR business intelligences OR business intelligent
+PQ1475591981	business intelligence OR business intelligences OR business intelligent
+PQ230470971	data mart OR data marts OR datamart OR datamarts
+PQ976048211	knowledge management
+PQ932290881	knowledge management
+PQ923649511	knowledge management
+PQ923729151	knowledge management
+PQ923727881	knowledge management
+PQ920759001	knowledge management
+PQ920758091	knowledge management
+PQ939165671	knowledge management
+PQ897237831	knowledge management
+PQ896240041	knowledge management
+PQ896242381	knowledge management
+PQ894751321	knowledge management
+PQ886673751	knowledge management
+PQ903975011	knowledge management
+PQ903953041	knowledge management
+PQ863692541	knowledge management
+PQ826447481	knowledge management
+PQ810158761	knowledge management
+PQ809928391	knowledge management
+PQ799020511	knowledge management
+PQ797528991	knowledge management
+PQ806395971	knowledge management
+PQ786483901	knowledge management
+PQ778034631	knowledge management
+PQ1390829221	hyperion
+PQ1388861341	hyperion
+PQ1388214741	hyperion
+PQ1385518141	hyperion
+PQ1385528661	hyperion
+PQ1384881911	hyperion
+PQ1387317771	hyperion
+PQ1384307531	hyperion
+PQ1382373321	hyperion
+PQ1381839241	hyperion
+PQ1381791231	hyperion
+PQ1381835931	hyperion
+PQ1381834971	hyperion
+PQ1381834981	hyperion
+PQ1380923181	hyperion
+PQ1381243261	hyperion
+PQ1387004781	hyperion
+PQ1374801731	hyperion
+PQ1373425731	hyperion
+PQ1373046251	hyperion
+PQ1382155221	hyperion
+PQ1370246601	hyperion
+PQ1369257311	hyperion
+PQ1369592411	hyperion
+PQ1366665371	hyperion
+PQ1364410461	hyperion
+PQ1363968851	hyperion
+PQ1363158761	hyperion
+PQ1360072941	hyperion
+PQ1360072941	hyperion
+PQ1359108341	hyperion
+PQ1355451411	hyperion
+PQ1353510921	hyperion
+PQ1346859041	hyperion
+PQ1345210771	hyperion
+PQ1342295711	hyperion
+PQ1341661511	hyperion
+PQ1341628601	hyperion
+PQ1341142671	hyperion
+PQ1340168181	hyperion
+PQ1339807961	hyperion
+PQ1339808021	hyperion
+PQ1339803851	hyperion
+PQ1339212151	hyperion
+PQ1336172211	hyperion
+PQ1335614581	hyperion
+PQ1332817331	hyperion
+PQ1332401441	hyperion
+PQ1332393781	hyperion
+PQ1332405371	hyperion
+PQ1331495261	hyperion
+PQ1331120021	hyperion
+PQ1329962321	hyperion
+PQ1329580871	hyperion
+PQ1329295261	hyperion
+PQ1329299991	hyperion
+PQ1329011381	hyperion
+PQ1328396691	hyperion
+PQ1328390091	hyperion
+PQ1326509081	hyperion
+PQ1325968631	hyperion
+PQ1330644861	hyperion
+PQ1325718681	hyperion
+PQ1325400581	hyperion
+PQ1335649991	hyperion
+PQ1324800551	hyperion
+PQ1322949931	hyperion
+PQ1336942871	hyperion
+PQ1331108441	hyperion
+PQ1334269361	hyperion
+PQ1321083511	hyperion
+PQ1321502681	hyperion
+PQ1318688561	hyperion
+PQ1345368431	hyperion
+PQ1311965771	hyperion
+PQ1311686741	hyperion
+PQ1312056781	hyperion
+PQ1319152611	hyperion
+PQ1304645111	hyperion
+PQ1304633781	hyperion
+PQ1301869541	hyperion
+PQ1300732841	hyperion
+PQ1300732921	hyperion
+PQ1411723241	hyperion
+PQ1298572121	hyperion
+PQ1298035151	hyperion
+PQ1297286891	hyperion
+PQ1297289851	hyperion
+PQ1296629451	hyperion
+PQ1295310801	hyperion
+PQ1295309051	hyperion
+PQ1295308051	hyperion
+PQ1293766761	hyperion
+PQ1293390351	hyperion
+PQ1293395391	hyperion
+PQ1302683351	hyperion
+PQ1292813901	hyperion
+PQ1290334881	hyperion
+PQ1290583651	hyperion
+PQ1289616501	hyperion
+PQ1289615081	hyperion
+PQ1289630921	hyperion
+PQ1290254461	hyperion
+PQ1290258081	hyperion
+PQ1288613661	hyperion
+PQ1288621131	hyperion
+PQ1287953401	hyperion
+PQ1287971221	hyperion
+PQ1287971441	hyperion
+PQ1301789271	hyperion
+PQ1285883661	hyperion
+PQ1285327341	hyperion
+PQ1285339241	hyperion
+PQ1285126511	hyperion
+PQ1284523081	hyperion
+PQ1281300311	hyperion
+PQ1281306371	hyperion
+PQ1375114731	hyperion
+PQ1281721961	hyperion
+PQ1295911271	hyperion
+PQ1295911521	hyperion
+PQ1276897541	hyperion
+PQ1274703031	hyperion
+PQ1274048881	hyperion
+PQ1274049141	hyperion
+PQ1274054011	hyperion
+PQ1273054231	hyperion
+PQ1269965881	hyperion
+PQ1286406431	hyperion
+PQ1278173841	hyperion
+PQ1268691051	hyperion
+PQ1278306551	hyperion
+PQ1268977861	hyperion
+PQ1273389381	hyperion
+PQ1264711801	hyperion
+PQ1264263561	hyperion
+PQ1263634141	hyperion
+PQ1260531991	hyperion
+PQ1259885901	hyperion
+PQ1258404721	hyperion
+PQ1257495651	hyperion
+PQ1255093541	hyperion
+PQ1255162641	hyperion
+PQ1251628261	hyperion
+PQ1251342911	hyperion
+PQ1251331421	hyperion
+PQ1249428901	hyperion
+PQ1248240381	hyperion
+PQ1247870411	hyperion
+PQ1247860471	hyperion
+PQ1247865651	hyperion
+PQ1246922631	hyperion
+PQ1242531461	hyperion
+PQ1259315931	hyperion
+PQ1241281921	hyperion
+PQ1239306611	hyperion
+PQ1239285341	hyperion
+PQ1239305311	hyperion
+PQ1239304571	hyperion
+PQ1236252561	hyperion
+PQ1236230251	hyperion
+PQ1236230131	hyperion
+PQ1235345831	hyperion
+PQ1234335381	hyperion
+PQ1246893171	hyperion
+PQ1246892871	hyperion
+PQ1230467341	hyperion
+PQ1230463391	hyperion
+PQ1230112671	hyperion
+PQ1229584281	hyperion
+PQ1226688441	hyperion
+PQ1226688471	hyperion
+PQ1226682271	hyperion
+PQ1225623341	hyperion
+PQ1225638791	hyperion
+PQ1225637651	hyperion
+PQ1225643491	hyperion
+PQ1225643971	hyperion
+PQ1225642981	hyperion
+PQ1225642981	hyperion
+PQ1225643541	hyperion
+PQ1224756711	hyperion
+PQ1224756051	hyperion
+PQ1225642771	hyperion
+PQ1225642751	hyperion
+PQ1222646131	hyperion
+PQ1222383031	hyperion
+PQ1222380481	hyperion
+PQ1222377511	hyperion
+PQ1221275641	hyperion
+PQ1218348681	hyperion
+PQ1218343671	hyperion
+PQ1218344701	hyperion
+PQ1217169621	hyperion
+PQ1237151321	hyperion
+PQ1215573941	hyperion
+PQ1213984431	hyperion
+PQ1214594381	hyperion
+PQ1213979871	hyperion
+PQ1214692851	hyperion
+PQ1213187701	hyperion
+PQ1212457321	hyperion
+PQ1211779511	hyperion
+PQ1211766481	hyperion
+PQ1212606871	hyperion
+PQ1211177081	hyperion
+PQ1210244311	hyperion
+PQ1210244331	hyperion
+PQ1210238361	hyperion
+PQ1208970751	hyperion
+PQ1204123561	hyperion
+PQ1204123471	hyperion
+PQ1204116751	hyperion
+PQ1203072421	hyperion
+PQ1201807801	hyperion
+PQ1200808161	hyperion
+PQ1199862681	hyperion
+PQ1199870041	hyperion
+PQ1198288021	hyperion
+PQ1198280181	hyperion
+PQ1218190371	hyperion
+PQ1196821181	hyperion
+PQ1196829371	hyperion
+PQ1196839221	hyperion
+PQ1193944211	hyperion
+PQ1193938171	hyperion
+PQ1217181821	hyperion
+PQ1193079331	hyperion
+PQ1193079101	hyperion
+PQ1215878741	hyperion
+PQ1190475081	hyperion
+PQ1190468181	hyperion
+PQ1189700611	hyperion
+PQ1188558551	hyperion
+PQ1405039741	hyperion
+PQ1405712301	hyperion
+PQ1404608771	hyperion
+PQ1403801611	hyperion
+PQ1402950161	hyperion
+PQ1402613341	hyperion
+PQ1402613011	hyperion
+PQ1402037501	hyperion
+PQ1401208721	hyperion
+PQ1399331001	hyperion
+PQ1398977951	hyperion
+PQ1398978831	hyperion
+PQ1398972581	hyperion
+PQ1398302781	hyperion
+PQ1398392021	hyperion
+PQ1397667711	hyperion
+PQ1397083231	hyperion
+PQ1397022361	hyperion
+PQ1397073501	hyperion
+PQ1395415271	hyperion
+PQ1395746201	hyperion
+PQ1395069001	hyperion
+PQ1405223721	hyperion
+PQ1393262831	hyperion
+PQ1393881521	hyperion
+PQ1393255381	hyperion
+PQ1392639541	hyperion
+PQ1392401321	hyperion
+PQ1391824041	hyperion
+PQ1399160901	hyperion
+PQ203503031	electronic data interchange OR eData interchange OR edata interchange OR e data interchange
+PQ132782061	electronic data interchange OR eData interchange OR edata interchange OR e data interchange
+PQ124031791	electronic data interchange OR eData interchange OR edata interchange OR e data interchange
+PQ113063092	electronic data interchange OR eData interchange OR edata interchange OR e data interchange
+PQ751223691	data warehouse OR datawarehouse OR data warehouses OR datawarehouses
+PQ748161561	data warehouse OR datawarehouse OR data warehouses OR datawarehouses
+PQ723908181	data warehouse OR datawarehouse OR data warehouses OR datawarehouses
+PQ711478701	data warehouse OR datawarehouse OR data warehouses OR datawarehouses
+PQ710850211	data warehouse OR datawarehouse OR data warehouses OR datawarehouses
+PQ702547751	data warehouse OR datawarehouse OR data warehouses OR datawarehouses
+PQ694897361	data warehouse OR datawarehouse OR data warehouses OR datawarehouses
+PQ667829751	data warehouse OR datawarehouse OR data warehouses OR datawarehouses
+PQ657457791	data warehouse OR datawarehouse OR data warehouses OR datawarehouses
+PQ654753251	data warehouse OR datawarehouse OR data warehouses OR datawarehouses
+PQ625613821	data warehouse OR datawarehouse OR data warehouses OR datawarehouses
+PQ524715951	data warehouse OR datawarehouse OR data warehouses OR datawarehouses
+PQ616678501	text mining OR textmining
+PQ602545251	text mining OR textmining
+PQ1410793791	business intelligence OR business intelligences OR business intelligent
+PQ1403194051	business intelligence OR business intelligences OR business intelligent
+PQ1400871361	business intelligence OR business intelligences OR business intelligent
+PQ1395715311	business intelligence OR business intelligences OR business intelligent
+PQ1398955111	business intelligence OR business intelligences OR business intelligent
+PQ1388912521	business intelligence OR business intelligences OR business intelligent
+PQ1381839241	business intelligence OR business intelligences OR business intelligent
+PQ1381791231	business intelligence OR business intelligences OR business intelligent
+PQ1381847391	business intelligence OR business intelligences OR business intelligent
+PQ1381835331	business intelligence OR business intelligences OR business intelligent
+PQ1381835931	business intelligence OR business intelligences OR business intelligent
+PQ1382382971	business intelligence OR business intelligences OR business intelligent
+PQ1381834971	business intelligence OR business intelligences OR business intelligent
+PQ1381834981	business intelligence OR business intelligences OR business intelligent
+PQ1376656051	business intelligence OR business intelligences OR business intelligent
+PQ1386673891	business intelligence OR business intelligences OR business intelligent
+PQ1384863121	business intelligence OR business intelligences OR business intelligent
+PQ1380780911	business intelligence OR business intelligences OR business intelligent
+PQ1370246601	business intelligence OR business intelligences OR business intelligent
+PQ1369542581	business intelligence OR business intelligences OR business intelligent
+PQ1368240671	business intelligence OR business intelligences OR business intelligent
+PQ1360814001	business intelligence OR business intelligences OR business intelligent
+PQ1360808081	business intelligence OR business intelligences OR business intelligent
+PQ1360808031	business intelligence OR business intelligences OR business intelligent
+PQ1360072941	business intelligence OR business intelligences OR business intelligent
+PQ1360072871	business intelligence OR business intelligences OR business intelligent
+PQ1360095891	business intelligence OR business intelligences OR business intelligent
+PQ1360095891	business intelligence OR business intelligences OR business intelligent
+PQ1353526361	business intelligence OR business intelligences OR business intelligent
+PQ1340475611	business intelligence OR business intelligences OR business intelligent
+PQ1340475561	business intelligence OR business intelligences OR business intelligent
+PQ1340475551	business intelligence OR business intelligences OR business intelligent
+PQ1336153711	business intelligence OR business intelligences OR business intelligent
+PQ1338128121	business intelligence OR business intelligences OR business intelligent
+PQ1333114851	business intelligence OR business intelligences OR business intelligent
+PQ1329971921	business intelligence OR business intelligences OR business intelligent
+PQ1329589861	business intelligence OR business intelligences OR business intelligent
+PQ1315165961	business intelligence OR business intelligences OR business intelligent
+PQ1313094191	business intelligence OR business intelligences OR business intelligent
+PQ1311335171	business intelligence OR business intelligences OR business intelligent
+PQ1308317291	business intelligence OR business intelligences OR business intelligent
+PQ1301902731	business intelligence OR business intelligences OR business intelligent
+PQ1308841491	business intelligence OR business intelligences OR business intelligent
+PQ1298584421	business intelligence OR business intelligences OR business intelligent
+PQ1298036311	business intelligence OR business intelligences OR business intelligent
+PQ1295309051	business intelligence OR business intelligences OR business intelligent
+PQ1295308051	business intelligence OR business intelligences OR business intelligent
+PQ1301796121	business intelligence OR business intelligences OR business intelligent
+PQ1298924831	business intelligence OR business intelligences OR business intelligent
+PQ1274049141	business intelligence OR business intelligences OR business intelligent
+PQ1270849561	business intelligence OR business intelligences OR business intelligent
+PQ1283659611	business intelligence OR business intelligences OR business intelligent
+PQ1285088471	business intelligence OR business intelligences OR business intelligent
+PQ1396485441	business intelligence OR business intelligences OR business intelligent
+PQ1273398041	business intelligence OR business intelligences OR business intelligent
+PQ1261787511	business intelligence OR business intelligences OR business intelligent
+PQ1259282721	business intelligence OR business intelligences OR business intelligent
+PQ1258695261	business intelligence OR business intelligences OR business intelligent
+PQ1249438401	business intelligence OR business intelligences OR business intelligent
+PQ1243180051	business intelligence OR business intelligences OR business intelligent
+PQ1239305311	business intelligence OR business intelligences OR business intelligent
+PQ1239304571	business intelligence OR business intelligences OR business intelligent
+PQ1235345831	business intelligence OR business intelligences OR business intelligent
+PQ1225623341	business intelligence OR business intelligences OR business intelligent
+PQ1225643971	business intelligence OR business intelligences OR business intelligent
+PQ1225642981	business intelligence OR business intelligences OR business intelligent
+PQ1225642981	business intelligence OR business intelligences OR business intelligent
+PQ1222629371	business intelligence OR business intelligences OR business intelligent
+PQ1214203451	business intelligence OR business intelligences OR business intelligent
+PQ1220652301	business intelligence OR business intelligences OR business intelligent
+PQ1207640181	business intelligence OR business intelligences OR business intelligent
+PQ1204439531	business intelligence OR business intelligences OR business intelligent
+PQ1201803351	business intelligence OR business intelligences OR business intelligent
+PQ1194210511	business intelligence OR business intelligences OR business intelligent
+PQ1188143941	business intelligence OR business intelligences OR business intelligent
+PQ726588941	business analytics
+PQ65073384	competitive intelligence
+PQ64717643	competitive intelligence
+PQ64717591	competitive intelligence
+PQ63412215	competitive intelligence
+PQ63385846	competitive intelligence
+PQ62301446	competitive intelligence
+PQ60784977	competitive intelligence
+PQ58067234	competitive intelligence
+PQ56993853	competitive intelligence
+PQ56024583	competitive intelligence
+PQ55630886	competitive intelligence
+PQ55625891	competitive intelligence
+PQ52702436	competitive intelligence
+PQ52699068	competitive intelligence
+PQ47826699	competitive intelligence
+PQ983509181	knowledge discovery in database OR KDID
+PQ915579041	cognos
+PQ915604111	cognos
+PQ901463361	cognos
+PQ872379841	cognos
+PQ859263071	cognos
+PQ846382351	cognos
+PQ833546401	cognos
+PQ813261011	cognos
+PQ813075931	cognos
+PQ813417341	cognos
+PQ812400311	cognos
+PQ97611150	knowledge management
+PQ97336824	knowledge management
+PQ491025631	knowledge management
+PQ96049005	knowledge management
+PQ91159117	knowledge management
+PQ89549462	knowledge management
+PQ87496480	knowledge management
+PQ495885211	knowledge management
+PQ468253061	knowledge management
+PQ84163200	knowledge management
+PQ81903631	knowledge management
+PQ81901012	knowledge management
+PQ79413765	knowledge management
+PQ78178195	knowledge management
+PQ75780797	knowledge management
+PQ75420079	knowledge management
+PQ75142032	knowledge management
+PQ74890752	knowledge management
+PQ74648376	knowledge management
+PQ74812119	knowledge management
+PQ74289240	knowledge management
+PQ74169568	knowledge management
+PQ74108981	knowledge management
+PQ74090044	knowledge management
+PQ73370552	knowledge management
+PQ73157457	knowledge management
+PQ73157410	knowledge management
+PQ73157407	knowledge management
+PQ72503991	knowledge management
+PQ71934530	knowledge management
+PQ70990059	knowledge management
+PQ69551043	knowledge management
+PQ69550609	knowledge management
+PQ69003799	knowledge management
+PQ495882651	knowledge management
+PQ67823636	knowledge management
+PQ481810471	knowledge management
+PQ67205723	knowledge management
+PQ67159711	knowledge management
+PQ66545359	knowledge management
+PQ67393575	knowledge management
+PQ66006813	knowledge management
+PQ1930496871	data mart OR data marts OR datamart OR datamarts
+PQ1930418631	data mart OR data marts OR datamart OR datamarts
+PQ1930147061	data mart OR data marts OR datamart OR datamarts
+PQ1930495561	data mart OR data marts OR datamart OR datamarts
+PQ1929754181	data mart OR data marts OR datamart OR datamarts
+PQ1929754191	data mart OR data marts OR datamart OR datamarts
+PQ1929953201	data mart OR data marts OR datamart OR datamarts
+PQ1929330841	data mart OR data marts OR datamart OR datamarts
+PQ1928720771	data mart OR data marts OR datamart OR datamarts
+PQ1928735381	data mart OR data marts OR datamart OR datamarts
+PQ1928709331	data mart OR data marts OR datamart OR datamarts
+PQ1928709401	data mart OR data marts OR datamart OR datamarts
+PQ1928467361	data mart OR data marts OR datamart OR datamarts
+PQ1928475221	data mart OR data marts OR datamart OR datamarts
+PQ1807665391	data mart OR data marts OR datamart OR datamarts
+PQ740596241	ad hoc query OR adhoc query OR ad hoc queries OR adhoc queries
+PQ468673801	decision support system OR decision support systems
+PQ120590445	decision support system OR decision support systems
+PQ98923656	decision support system OR decision support systems
+PQ98741581	decision support system OR decision support systems
+PQ140146481	business analytics
+PQ120522488	business analytics
+PQ952771161	data mining OR datamining
+PQ950558381	data mining OR datamining
+PQ950558051	data mining OR datamining
+PQ948870131	data mining OR datamining
+PQ948880941	data mining OR datamining
+PQ948035881	data mining OR datamining
+PQ948028971	data mining OR datamining
+PQ948024101	data mining OR datamining
+PQ948024171	data mining OR datamining
+PQ948023341	data mining OR datamining
+PQ947841401	data mining OR datamining
+PQ947832901	data mining OR datamining
+PQ976048151	data mining OR datamining
+PQ944279331	data mining OR datamining
+PQ943915061	data mining OR datamining
+PQ942441411	data mining OR datamining
+PQ929176961	data mining OR datamining
+PQ928758331	data mining OR datamining
+PQ924149411	data mining OR datamining
+PQ922580621	data mining OR datamining
+PQ922356401	data mining OR datamining
+PQ915604581	data mining OR datamining
+PQ912205561	data mining OR datamining
+PQ912202811	data mining OR datamining
+PQ908592941	data mining OR datamining
+PQ905685841	data mining OR datamining
+PQ903362691	data mining OR datamining
+PQ899789241	data mining OR datamining
+PQ899332701	data mining OR datamining
+PQ897979461	data mining OR datamining
+PQ894502421	data mining OR datamining
+PQ890836161	data mining OR datamining
+PQ885512571	data mining OR datamining
+PQ885552091	data mining OR datamining
+PQ885094371	data mining OR datamining
+PQ885094401	data mining OR datamining
+PQ883433671	data mining OR datamining
+PQ883036471	data mining OR datamining
+PQ883016821	data mining OR datamining
+PQ882010501	data mining OR datamining
+PQ882010611	data mining OR datamining
+PQ881574881	data mining OR datamining
+PQ880302751	data mining OR datamining
+PQ879822631	data mining OR datamining
+PQ879291861	data mining OR datamining
+PQ878561291	data mining OR datamining
+PQ896249981	data mining OR datamining
+PQ876667751	data mining OR datamining
+PQ871424391	data mining OR datamining
+PQ871415611	data mining OR datamining
+PQ871415861	data mining OR datamining
+PQ896251141	data mining OR datamining
+PQ1037266231	data mining OR datamining
+PQ867603341	data mining OR datamining
+PQ865407851	data mining OR datamining
+PQ864525741	data mining OR datamining
+PQ862384831	data mining OR datamining
+PQ857434451	data mining OR datamining
+PQ854313511	data mining OR datamining
+PQ853347411	data mining OR datamining
+PQ849389401	data mining OR datamining
+PQ846592101	data mining OR datamining
+PQ842908381	data mining OR datamining
+PQ840970201	data mining OR datamining
+PQ839711711	data mining OR datamining
+PQ822871631	data mining OR datamining
+PQ822303301	data mining OR datamining
+PQ816550781	data mining OR datamining
+PQ836100861	data mining OR datamining
+PQ810140631	data mining OR datamining
+PQ798944431	data mining OR datamining
+PQ798944431	data mining OR datamining
+PQ797495991	data mining OR datamining
+PQ795278591	data mining OR datamining
+PQ795289571	data mining OR datamining
+PQ790641591	data mining OR datamining
+PQ789186741	data mining OR datamining
+PQ783504671	data mining OR datamining
+PQ779285861	data mining OR datamining
+PQ796854911	data mining OR datamining
+PQ773113421	data mining OR datamining
+PQ270650631	data warehouse OR datawarehouse OR data warehouses OR datawarehouses
+PQ241633431	data warehouse OR datawarehouse OR data warehouses OR datawarehouses
+PQ235948551	data warehouse OR datawarehouse OR data warehouses OR datawarehouses
+PQ219924771	data warehouse OR datawarehouse OR data warehouses OR datawarehouses
+PQ181576971	data warehouse OR datawarehouse OR data warehouses OR datawarehouses
+PQ156273201	data warehouse OR datawarehouse OR data warehouses OR datawarehouses
+PQ155612491	data warehouse OR datawarehouse OR data warehouses OR datawarehouses
+PQ141728691	data warehouse OR datawarehouse OR data warehouses OR datawarehouses
+PQ122200731	data warehouse OR datawarehouse OR data warehouses OR datawarehouses
+PQ120672040	data warehouse OR datawarehouse OR data warehouses OR datawarehouses
+PQ120635537	data warehouse OR datawarehouse OR data warehouses OR datawarehouses
+PQ117215853	data warehouse OR datawarehouse OR data warehouses OR datawarehouses
+PQ99347831	data warehouse OR datawarehouse OR data warehouses OR datawarehouses
+PQ765427161	meta data OR metadata
+PQ661555601	meta data OR metadata
+PQ657544851	meta data OR metadata
+PQ579550811	meta data OR metadata
+PQ547103811	meta data OR metadata
+PQ545254811	meta data OR metadata
+PQ78178195	online analytical processing OR online analytical processing OR OLAP
+PQ70499253	online analytical processing OR online analytical processing OR OLAP
+PQ1187692961	hyperion
+PQ1187693101	hyperion
+PQ1186999721	hyperion
+PQ1185285791	hyperion
+PQ1185281221	hyperion
+PQ1184496281	hyperion
+PQ1184496281	hyperion
+PQ1183926161	hyperion
+PQ1183252981	hyperion
+PQ1183253101	hyperion
+PQ1181743121	hyperion
+PQ1181768021	hyperion
+PQ1200380631	hyperion
+PQ1180711051	hyperion
+PQ1179043941	hyperion
+PQ1179043961	hyperion
+PQ1178219091	hyperion
+PQ1177301251	hyperion
+PQ1177301231	hyperion
+PQ1177301261	hyperion
+PQ1177292191	hyperion
+PQ1177292011	hyperion
+PQ1200376831	hyperion
+PQ1176444271	hyperion
+PQ1176455481	hyperion
+PQ1175290401	hyperion
+PQ1175290101	hyperion
+PQ1174085171	hyperion
+PQ1173163951	hyperion
+PQ1173150931	hyperion
+PQ1173155431	hyperion
+PQ1173155451	hyperion
+PQ1172861471	hyperion
+PQ1200370511	hyperion
+PQ1320096771	hyperion
+PQ1184838131	hyperion
+PQ1171967751	hyperion
+PQ1171967621	hyperion
+PQ1197229091	hyperion
+PQ1170675291	hyperion
+PQ1170104501	hyperion
+PQ1169885201	hyperion
+PQ1187257451	hyperion
+PQ1169253641	hyperion
+PQ1168286651	hyperion
+PQ1168281011	hyperion
+PQ1167484851	hyperion
+PQ1164811781	hyperion
+PQ1164798601	hyperion
+PQ1164798381	hyperion
+PQ1164798271	hyperion
+PQ1164798171	hyperion
+PQ1164803591	hyperion
+PQ1163873391	hyperion
+PQ1160780771	hyperion
+PQ1160780761	hyperion
+PQ1161109641	hyperion
+PQ1175572701	hyperion
+PQ1159719291	hyperion
+PQ1186008911	hyperion
+PQ1158985291	hyperion
+PQ1157063601	hyperion
+PQ1156747691	hyperion
+PQ1156747661	hyperion
+PQ1156742331	hyperion
+PQ1156459311	hyperion
+PQ1155874491	hyperion
+PQ1155873601	hyperion
+PQ1178635431	hyperion
+PQ1152727941	hyperion
+PQ1152726711	hyperion
+PQ1173537731	hyperion
+PQ1151939471	hyperion
+PQ1159799141	hyperion
+PQ1167478291	hyperion
+PQ1150698801	hyperion
+PQ1149664181	hyperion
+PQ1149378561	hyperion
+PQ1149367951	hyperion
+PQ1149373711	hyperion
+PQ1149075881	hyperion
+PQ1148574361	hyperion
+PQ1147984521	hyperion
+PQ1145535431	hyperion
+PQ1145873931	hyperion
+PQ1145535411	hyperion
+PQ1146073991	hyperion
+PQ1144651011	hyperion
+PQ1159749621	hyperion
+PQ1170099771	hyperion
+PQ1144135161	hyperion
+PQ1142152641	hyperion
+PQ1142348971	hyperion
+PQ1142152621	hyperion
+PQ1142152611	hyperion
+PQ1142176031	hyperion
+PQ1166869141	hyperion
+PQ1141389661	hyperion
+PQ1166851081	hyperion
+PQ1138298681	hyperion
+PQ1138299731	hyperion
+PQ1138184521	hyperion
+PQ1138332001	hyperion
+PQ1137876871	hyperion
+PQ1138322141	hyperion
+PQ1137273231	hyperion
+PQ1136560211	hyperion
+PQ1195499991	hyperion
+PQ1135946921	hyperion
+PQ1135302791	hyperion
+PQ1134397281	hyperion
+PQ1134397281	hyperion
+PQ1134382411	hyperion
+PQ1134383071	hyperion
+PQ1134399571	hyperion
+PQ1146256941	hyperion
+PQ1146578021	hyperion
+PQ1166475521	hyperion
+PQ1132692121	hyperion
+PQ1132692611	hyperion
+PQ1130231711	hyperion
+PQ1130232371	hyperion
+PQ1129503981	hyperion
+PQ1129531131	hyperion
+PQ1128645221	hyperion
+PQ1128645191	hyperion
+PQ1128641331	hyperion
+PQ1128641531	hyperion
+PQ1127745011	hyperion
+PQ1125912281	hyperion
+PQ1125320491	hyperion
+PQ1125076071	hyperion
+PQ1125076101	hyperion
+PQ1125075891	hyperion
+PQ1124138551	hyperion
+PQ1124141551	hyperion
+PQ1161110601	hyperion
+PQ1124181561	hyperion
+PQ1123446961	hyperion
+PQ1122919651	hyperion
+PQ1121756601	hyperion
+PQ1121181101	hyperion
+PQ1121180831	hyperion
+PQ1136378001	hyperion
+PQ1117921251	hyperion
+PQ1112871551	hyperion
+PQ1112871631	hyperion
+PQ1109914511	hyperion
+PQ1127916561	hyperion
+PQ1106682441	hyperion
+PQ1106749461	hyperion
+PQ1105412091	hyperion
+PQ1105431001	hyperion
+PQ1099014401	hyperion
+PQ1099021731	hyperion
+PQ1096619741	hyperion
+PQ1094823251	hyperion
+PQ1093738891	hyperion
+PQ1092653461	hyperion
+PQ1092695411	hyperion
+PQ1091932571	hyperion
+PQ1091973761	hyperion
+PQ1151576681	hyperion
+PQ1090769601	hyperion
+PQ1090814011	hyperion
+PQ1089824101	hyperion
+PQ1090306381	hyperion
+PQ1088819931	hyperion
+PQ1139269161	hyperion
+PQ1085689051	hyperion
+PQ1085685831	hyperion
+PQ1093947391	hyperion
+PQ1084804781	hyperion
+PQ1083413501	hyperion
+PQ1081720321	hyperion
+PQ1081720381	hyperion
+PQ1080831611	hyperion
+PQ1080161931	hyperion
+PQ1148172881	hyperion
+PQ1077606921	hyperion
+PQ1077617331	hyperion
+PQ1110488861	hyperion
+PQ1076834171	hyperion
+PQ1076078021	hyperion
+PQ1076100361	hyperion
+PQ1076121891	hyperion
+PQ1106907801	hyperion
+PQ1075008411	hyperion
+PQ1073867241	hyperion
+PQ1073867291	hyperion
+PQ1073867251	hyperion
+PQ1073586641	hyperion
+PQ1073586741	hyperion
+PQ1073003351	hyperion
+PQ1070427261	hyperion
+PQ1070427091	hyperion
+PQ1070427281	hyperion
+PQ1069473481	hyperion
+PQ1065962921	hyperion
+PQ1065962811	hyperion
+PQ1065962681	hyperion
+PQ1065157061	hyperion
+PQ1062129621	hyperion
+PQ1062129611	hyperion
+PQ1062122731	hyperion
+PQ1061228701	hyperion
+PQ1061249391	hyperion
+PQ1061249121	hyperion
+PQ1056368131	hyperion
+PQ1056367901	hyperion
+PQ1052723531	hyperion
+PQ1052794871	hyperion
+PQ1174314301	hyperion
+PQ1050798171	hyperion
+PQ1050797461	hyperion
+PQ1047994841	hyperion
+PQ1047995061	hyperion
+PQ1047979771	hyperion
+PQ1047994511	hyperion
+PQ1047148091	hyperion
+PQ1046436651	hyperion
+PQ1043081761	hyperion
+PQ1046654671	hyperion
+PQ1046654771	hyperion
+PQ1046653891	hyperion
+PQ1042831451	hyperion
+PQ1042335121	hyperion
+PQ1041188101	hyperion
+PQ1154195701	hyperion
+PQ1040076231	hyperion
+PQ1039804551	hyperion
+PQ1039804371	hyperion
+PQ1038978471	hyperion
+PQ1037245741	hyperion
+PQ1036491161	hyperion
+PQ1036096541	hyperion
+PQ1035572421	hyperion
+PQ1051520471	hyperion
+PQ1035034941	hyperion
+PQ1031754361	hyperion
+PQ1220126071	hyperion
+PQ1025604991	hyperion
+PQ1022400141	hyperion
+PQ1021566221	hyperion
+PQ1021005111	hyperion
+PQ1020561861	hyperion
+PQ1018387011	hyperion
+PQ1017988281	hyperion
+PQ1020946981	hyperion
+PQ1016351701	hyperion
+PQ1014260981	hyperion
+PQ1013857151	hyperion
+PQ1015784111	hyperion
+PQ1010145501	hyperion
+PQ1010145351	hyperion
+PQ1009801241	hyperion
+PQ1005692991	hyperion
+PQ1005693361	hyperion
+PQ1002625791	hyperion
+PQ1001497151	hyperion
+PQ999732291	hyperion
+PQ998546651	hyperion
+PQ997796951	hyperion
+PQ993633581	hyperion
+PQ990154951	hyperion
+PQ1015821081	hyperion
+PQ990180211	hyperion
+PQ988600711	hyperion
+PQ985560651	hyperion
+PQ983841731	hyperion
+PQ983840661	hyperion
+PQ983215131	hyperion
+PQ982540511	hyperion
+PQ981436741	hyperion
+PQ1015857641	hyperion
+PQ983319941	hyperion
+PQ978092281	hyperion
+PQ1000627051	hyperion
+PQ1007380421	hyperion
+PQ974784571	hyperion
+PQ975692561	hyperion
+PQ973360811	hyperion
+PQ972277981	hyperion
+PQ970928801	hyperion
+PQ967354731	hyperion
+PQ991893781	hyperion
+PQ959409631	hyperion
+PQ1106843051	hyperion
+PQ957363911	hyperion
+PQ1413892161	data warehouse OR datawarehouse OR data warehouses OR datawarehouses
+PQ1381847391	data warehouse OR datawarehouse OR data warehouses OR datawarehouses
+PQ1364823791	data warehouse OR datawarehouse OR data warehouses OR datawarehouses
+PQ1349766791	data warehouse OR datawarehouse OR data warehouses OR datawarehouses
+PQ1340475611	data warehouse OR datawarehouse OR data warehouses OR datawarehouses
+PQ1340475481	data warehouse OR datawarehouse OR data warehouses OR datawarehouses
+PQ1337735751	data warehouse OR datawarehouse OR data warehouses OR datawarehouses
+PQ1337255671	data warehouse OR datawarehouse OR data warehouses OR datawarehouses
+PQ1311978611	data warehouse OR datawarehouse OR data warehouses OR datawarehouses
+PQ1310837221	data warehouse OR datawarehouse OR data warehouses OR datawarehouses
+PQ1309103141	data warehouse OR datawarehouse OR data warehouses OR datawarehouses
+PQ1308485491	data warehouse OR datawarehouse OR data warehouses OR datawarehouses
+PQ1307379441	data warehouse OR datawarehouse OR data warehouses OR datawarehouses
+PQ1304924591	data warehouse OR datawarehouse OR data warehouses OR datawarehouses
+PQ1303105631	data warehouse OR datawarehouse OR data warehouses OR datawarehouses
+PQ1295309081	data warehouse OR datawarehouse OR data warehouses OR datawarehouses
+PQ1295308101	data warehouse OR datawarehouse OR data warehouses OR datawarehouses
+PQ1294103551	data warehouse OR datawarehouse OR data warehouses OR datawarehouses
+PQ1263658171	data warehouse OR datawarehouse OR data warehouses OR datawarehouses
+PQ1259282721	data warehouse OR datawarehouse OR data warehouses OR datawarehouses
+PQ1255093501	data warehouse OR datawarehouse OR data warehouses OR datawarehouses
+PQ1252683211	data warehouse OR datawarehouse OR data warehouses OR datawarehouses
+PQ1259554061	data warehouse OR datawarehouse OR data warehouses OR datawarehouses
+PQ1256980981	data warehouse OR datawarehouse OR data warehouses OR datawarehouses
+PQ1243180051	data warehouse OR datawarehouse OR data warehouses OR datawarehouses
+PQ1236233221	data warehouse OR datawarehouse OR data warehouses OR datawarehouses
+PQ1236233201	data warehouse OR datawarehouse OR data warehouses OR datawarehouses
+PQ1233148001	data warehouse OR datawarehouse OR data warehouses OR datawarehouses
+PQ1233147231	data warehouse OR datawarehouse OR data warehouses OR datawarehouses
+PQ1233147221	data warehouse OR datawarehouse OR data warehouses OR datawarehouses
+PQ1232205301	data warehouse OR datawarehouse OR data warehouses OR datawarehouses
+PQ1195584301	data warehouse OR datawarehouse OR data warehouses OR datawarehouses
+PQ1195073841	data warehouse OR datawarehouse OR data warehouses OR datawarehouses
+PQ1191281041	data warehouse OR datawarehouse OR data warehouses OR datawarehouses
+PQ272562131	cognos
+PQ146069111	cognos
+PQ494156511	cognos
+PQ136072921	cognos
+PQ136060521	cognos
+PQ121839209	cognos
+PQ113884142	cognos
+PQ113672162	cognos
+PQ113472784	cognos
+PQ53954264	business process reengineering OR business processes reengineering OR BPR
+PQ490993631	business process reengineering OR business processes reengineering OR BPR
+PQ480571891	decision support system OR decision support systems
+PQ58945399	decision support system OR decision support systems
+PQ54099048	decision support system OR decision support systems
+PQ62766252	meta data OR metadata
+PQ55922914	meta data OR metadata
+PQ52050250	meta data OR metadata
+PQ49609285	meta data OR metadata
+PQ48275331	meta data OR metadata
+PQ86899734	predictive analytics
+PQ1168559371	business process reengineering OR business processes reengineering OR BPR
+PQ1163281521	business process reengineering OR business processes reengineering OR BPR
+PQ1192785101	business process reengineering OR business processes reengineering OR BPR
+PQ1148812151	business process reengineering OR business processes reengineering OR BPR
+PQ1066293001	business process reengineering OR business processes reengineering OR BPR
+PQ1026622851	business process reengineering OR business processes reengineering OR BPR
+PQ982639561	business process reengineering OR business processes reengineering OR BPR
+PQ710392421	decision support system OR decision support systems
+PQ617513001	decision support system OR decision support systems
+PQ1147081321	business analytics
+PQ1092672451	business analytics
+PQ99473108	business intelligence OR business intelligences OR business intelligent
+PQ99347831	business intelligence OR business intelligences OR business intelligent
+PQ98438834	business intelligence OR business intelligences OR business intelligent
+PQ272616391	business intelligence OR business intelligences OR business intelligent
+PQ270650631	business intelligence OR business intelligences OR business intelligent
+PQ468251671	business intelligence OR business intelligences OR business intelligent
+PQ239448831	business intelligence OR business intelligences OR business intelligent
+PQ232241191	business intelligence OR business intelligences OR business intelligent
+PQ233949121	business intelligence OR business intelligences OR business intelligent
+PQ230345441	business intelligence OR business intelligences OR business intelligent
+PQ224294651	business intelligence OR business intelligences OR business intelligent
+PQ204842491	business intelligence OR business intelligences OR business intelligent
+PQ199151021	business intelligence OR business intelligences OR business intelligent
+PQ143956401	business intelligence OR business intelligences OR business intelligent
+PQ468225951	business intelligence OR business intelligences OR business intelligent
+PQ134292841	business intelligence OR business intelligences OR business intelligent
+PQ127066971	business intelligence OR business intelligences OR business intelligent
+PQ125874951	business intelligence OR business intelligences OR business intelligent
+PQ125213881	business intelligence OR business intelligences OR business intelligent
+PQ124031791	business intelligence OR business intelligences OR business intelligent
+PQ119887235	business intelligence OR business intelligences OR business intelligent
+PQ118616627	business intelligence OR business intelligences OR business intelligent
+PQ114469512	business intelligence OR business intelligences OR business intelligent
+PQ113672162	business intelligence OR business intelligences OR business intelligent
+PQ113472784	business intelligence OR business intelligences OR business intelligent
+PQ113060044	business intelligence OR business intelligences OR business intelligent
+PQ111266298	business intelligence OR business intelligences OR business intelligent
+PQ110709622	business intelligence OR business intelligences OR business intelligent
+PQ110653326	business intelligence OR business intelligences OR business intelligent
+PQ110321536	business intelligence OR business intelligences OR business intelligent
+PQ109632939	business intelligence OR business intelligences OR business intelligent
+PQ108692801	business intelligence OR business intelligences OR business intelligent
+PQ104019938	business intelligence OR business intelligences OR business intelligent
+PQ1889950821	decision support system OR decision support systems
+PQ1644576451	decision support system OR decision support systems
+PQ1201807801	business performance management OR business performances management
+PQ239900161	business process reengineering OR business processes reengineering OR BPR
+PQ180329481	business process reengineering OR business processes reengineering OR BPR
+PQ128049831	business process reengineering OR business processes reengineering OR BPR
+PQ115613530	business process reengineering OR business processes reengineering OR BPR
+PQ111265812	business process reengineering OR business processes reengineering OR BPR
+PQ74653779	business intelligence OR business intelligences OR business intelligent
+PQ74648390	business intelligence OR business intelligences OR business intelligent
+PQ74405791	business intelligence OR business intelligences OR business intelligent
+PQ74042634	business intelligence OR business intelligences OR business intelligent
+PQ73933257	business intelligence OR business intelligences OR business intelligent
+PQ491077651	business intelligence OR business intelligences OR business intelligent
+PQ73446145	business intelligence OR business intelligences OR business intelligent
+PQ72786874	business intelligence OR business intelligences OR business intelligent
+PQ72699890	business intelligence OR business intelligences OR business intelligent
+PQ72001659	business intelligence OR business intelligences OR business intelligent
+PQ72457140	business intelligence OR business intelligences OR business intelligent
+PQ71737998	business intelligence OR business intelligences OR business intelligent
+PQ71523713	business intelligence OR business intelligences OR business intelligent
+PQ70975544	business intelligence OR business intelligences OR business intelligent
+PQ70492408	business intelligence OR business intelligences OR business intelligent
+PQ71247259	business intelligence OR business intelligences OR business intelligent
+PQ495880891	business intelligence OR business intelligences OR business intelligent
+PQ69944118	business intelligence OR business intelligences OR business intelligent
+PQ69258405	business intelligence OR business intelligences OR business intelligent
+PQ67727264	business intelligence OR business intelligences OR business intelligent
+PQ67379659	business intelligence OR business intelligences OR business intelligent
+PQ66269881	business intelligence OR business intelligences OR business intelligent
+PQ67393575	business intelligence OR business intelligences OR business intelligent
+PQ96747552	business intelligence OR business intelligences OR business intelligent
+PQ96747549	business intelligence OR business intelligences OR business intelligent
+PQ96550677	business intelligence OR business intelligences OR business intelligent
+PQ96548751	business intelligence OR business intelligences OR business intelligent
+PQ94201128	business intelligence OR business intelligences OR business intelligent
+PQ93661629	business intelligence OR business intelligences OR business intelligent
+PQ93460976	business intelligence OR business intelligences OR business intelligent
+PQ93230447	business intelligence OR business intelligences OR business intelligent
+PQ91922896	business intelligence OR business intelligences OR business intelligent
+PQ90647409	business intelligence OR business intelligences OR business intelligent
+PQ89724957	business intelligence OR business intelligences OR business intelligent
+PQ89288242	business intelligence OR business intelligences OR business intelligent
+PQ468250711	business intelligence OR business intelligences OR business intelligent
+PQ87188533	business intelligence OR business intelligences OR business intelligent
+PQ87065340	business intelligence OR business intelligences OR business intelligent
+PQ86731421	business intelligence OR business intelligences OR business intelligent
+PQ85178708	business intelligence OR business intelligences OR business intelligent
+PQ84587571	business intelligence OR business intelligences OR business intelligent
+PQ84456649	business intelligence OR business intelligences OR business intelligent
+PQ81901049	business intelligence OR business intelligences OR business intelligent
+PQ81369181	business intelligence OR business intelligences OR business intelligent
+PQ79411011	business intelligence OR business intelligences OR business intelligent
+PQ79097506	business intelligence OR business intelligences OR business intelligent
+PQ77286392	business intelligence OR business intelligences OR business intelligent
+PQ76798397	business intelligence OR business intelligences OR business intelligent
+PQ75528449	business intelligence OR business intelligences OR business intelligent
+PQ75187430	business intelligence OR business intelligences OR business intelligent
+PQ74999524	business intelligence OR business intelligences OR business intelligent
+PQ74927188	business intelligence OR business intelligences OR business intelligent
+PQ74891855	business intelligence OR business intelligences OR business intelligent
+PQ747262761	competitive intelligence
+PQ677435211	competitive intelligence
+PQ677435211	competitive intelligence
+PQ620492231	competitive intelligence
+PQ616728401	competitive intelligence
+PQ610492581	competitive intelligence
+PQ573718031	competitive intelligence
+PQ1665704691	business intelligence OR business intelligences OR business intelligent
+PQ1659168711	business intelligence OR business intelligences OR business intelligent
+PQ1662139371	business intelligence OR business intelligences OR business intelligent
+PQ1655436451	business intelligence OR business intelligences OR business intelligent
+PQ1648311901	business intelligence OR business intelligences OR business intelligent
+PQ1625756081	business intelligence OR business intelligences OR business intelligent
+PQ1937440681	business intelligence OR business intelligences OR business intelligent
+PQ1929273371	business intelligence OR business intelligences OR business intelligent
+PQ1925297021	business intelligence OR business intelligences OR business intelligent
+PQ1905807801	business intelligence OR business intelligences OR business intelligent
+PQ1905808231	business intelligence OR business intelligences OR business intelligent
+PQ1890682891	business intelligence OR business intelligences OR business intelligent
+PQ1880912171	business intelligence OR business intelligences OR business intelligent
+PQ1877031381	business intelligence OR business intelligences OR business intelligent
+PQ1867039191	business intelligence OR business intelligences OR business intelligent
+PQ1824653161	business intelligence OR business intelligences OR business intelligent
+PQ1823524311	business intelligence OR business intelligences OR business intelligent
+PQ1849100461	business intelligence OR business intelligences OR business intelligent
+PQ1807727381	business intelligence OR business intelligences OR business intelligent
+PQ1795475811	business intelligence OR business intelligences OR business intelligent
+PQ1824605441	business intelligence OR business intelligences OR business intelligent
+PQ1787406771	business intelligence OR business intelligences OR business intelligent
+PQ1805007401	business intelligence OR business intelligences OR business intelligent
+PQ1759773071	business intelligence OR business intelligences OR business intelligent
+PQ1748655991	business intelligence OR business intelligences OR business intelligent
+PQ1749516641	business intelligence OR business intelligences OR business intelligent
+PQ1750631421	business intelligence OR business intelligences OR business intelligent
+PQ1707752031	business intelligence OR business intelligences OR business intelligent
+PQ1701919961	business intelligence OR business intelligences OR business intelligent
+PQ1702623091	business intelligence OR business intelligences OR business intelligent
+PQ1706587421	business intelligence OR business intelligences OR business intelligent
+PQ1682572031	business intelligence OR business intelligences OR business intelligent
+PQ1680177701	business intelligence OR business intelligences OR business intelligent
+PQ1677333311	business intelligence OR business intelligences OR business intelligent
+PQ1661997201	business intelligence OR business intelligences OR business intelligent
+PQ1661389451	business intelligence OR business intelligences OR business intelligent
+PQ1169885941	decision support system OR decision support systems
+PQ1308841491	predictive analytics
+PQ1257488971	predictive analytics
+PQ909969191	data warehousing OR datawarehousing
+PQ898250861	data warehousing OR datawarehousing
+PQ894502301	data warehousing OR datawarehousing
+PQ885094331	data warehousing OR datawarehousing
+PQ878561291	data warehousing OR datawarehousing
+PQ866318551	data warehousing OR datawarehousing
+PQ867556041	data warehousing OR datawarehousing
+PQ828325951	data warehousing OR datawarehousing
+PQ823830011	data warehousing OR datawarehousing
+PQ820458811	data warehousing OR datawarehousing
+PQ814308531	data warehousing OR datawarehousing
+PQ811536761	data warehousing OR datawarehousing
+PQ783524401	data warehousing OR datawarehousing
+PQ1326258361	data mining OR datamining
+PQ1324121601	data mining OR datamining
+PQ1323531091	data mining OR datamining
+PQ1321885771	data mining OR datamining
+PQ1321308041	data mining OR datamining
+PQ1320612161	data mining OR datamining
+PQ1336886861	data mining OR datamining
+PQ1319869021	data mining OR datamining
+PQ1320103931	data mining OR datamining
+PQ1319570581	data mining OR datamining
+PQ1318963231	data mining OR datamining
+PQ1317812631	data mining OR datamining
+PQ1317797301	data mining OR datamining
+PQ1317808111	data mining OR datamining
+PQ1315966761	data mining OR datamining
+PQ1315497511	data mining OR datamining
+PQ1315169941	data mining OR datamining
+PQ1314326561	data mining OR datamining
+PQ1313698561	data mining OR datamining
+PQ1313492921	data mining OR datamining
+PQ1313100671	data mining OR datamining
+PQ1313077581	data mining OR datamining
+PQ1313085181	data mining OR datamining
+PQ1312508391	data mining OR datamining
+PQ1311971591	data mining OR datamining
+PQ1311979011	data mining OR datamining
+PQ1311697451	data mining OR datamining
+PQ1311678171	data mining OR datamining
+PQ1311684461	data mining OR datamining
+PQ1302473131	data mining OR datamining
+PQ1299546111	data mining OR datamining
+PQ1298584731	data mining OR datamining
+PQ1295969761	data mining OR datamining
+PQ1294088131	data mining OR datamining
+PQ1293769371	data mining OR datamining
+PQ1290574571	data mining OR datamining
+PQ1286513881	data mining OR datamining
+PQ1281611471	data mining OR datamining
+PQ1281612111	data mining OR datamining
+PQ1295675891	data mining OR datamining
+PQ1278121951	data mining OR datamining
+PQ1278112271	data mining OR datamining
+PQ1276168191	data mining OR datamining
+PQ1274961701	data mining OR datamining
+PQ1274961701	data mining OR datamining
+PQ1274957651	data mining OR datamining
+PQ1274357791	data mining OR datamining
+PQ1274049141	data mining OR datamining
+PQ1273696001	data mining OR datamining
+PQ1270849031	data mining OR datamining
+PQ1270859411	data mining OR datamining
+PQ1270264171	data mining OR datamining
+PQ1270275301	data mining OR datamining
+PQ1269966871	data mining OR datamining
+PQ1269620121	data mining OR datamining
+PQ1264240461	data mining OR datamining
+PQ1256231391	data mining OR datamining
+PQ1255087941	data mining OR datamining
+PQ1254814451	data mining OR datamining
+PQ1254819871	data mining OR datamining
+PQ1254000081	data mining OR datamining
+PQ1251566391	data mining OR datamining
+PQ1246120651	data mining OR datamining
+PQ1246141401	data mining OR datamining
+PQ1246145571	data mining OR datamining
+PQ1243180051	data mining OR datamining
+PQ1243194351	data mining OR datamining
+PQ1242509531	data mining OR datamining
+PQ1239299331	data mining OR datamining
+PQ1236252611	data mining OR datamining
+PQ1227670201	data mining OR datamining
+PQ1227672421	data mining OR datamining
+PQ1227001291	data mining OR datamining
+PQ1227006471	data mining OR datamining
+PQ1249826321	data mining OR datamining
+PQ1224772491	data mining OR datamining
+PQ1223958701	data mining OR datamining
+PQ1222629711	data mining OR datamining
+PQ1217862441	data mining OR datamining
+PQ1227803971	data mining OR datamining
+PQ1220652301	data mining OR datamining
+PQ1210597351	data mining OR datamining
+PQ1210239471	data mining OR datamining
+PQ1210239141	data mining OR datamining
+PQ1208959391	data mining OR datamining
+PQ1207640181	data mining OR datamining
+PQ1206520731	data mining OR datamining
+PQ1201884561	data mining OR datamining
+PQ1201803351	data mining OR datamining
+PQ1198283491	data mining OR datamining
+PQ1195593761	data mining OR datamining
+PQ1195687351	data mining OR datamining
+PQ1193944781	data mining OR datamining
+PQ1259086441	data mining OR datamining
+PQ1192469891	data mining OR datamining
+PQ1192470151	data mining OR datamining
+PQ1189736661	data mining OR datamining
+PQ1405028711	data mining OR datamining
+PQ1403202131	data mining OR datamining
+PQ1403202131	data mining OR datamining
+PQ1397022701	data mining OR datamining
+PQ1397073311	data mining OR datamining
+PQ1397073271	data mining OR datamining
+PQ1395408401	data mining OR datamining
+PQ1395407951	data mining OR datamining
+PQ1405142851	data mining OR datamining
+PQ1393255751	data mining OR datamining
+PQ1390925921	data mining OR datamining
+PQ1398955071	data mining OR datamining
+PQ1389024291	data mining OR datamining
+PQ1383689821	data mining OR datamining
+PQ1378493731	data mining OR datamining
+PQ1375336611	data mining OR datamining
+PQ1369592501	data mining OR datamining
+PQ1369542831	data mining OR datamining
+PQ1366687761	data mining OR datamining
+PQ1364338501	data mining OR datamining
+PQ1360807131	data mining OR datamining
+PQ1340475551	data mining OR datamining
+PQ1339243501	data mining OR datamining
+PQ1332830621	data mining OR datamining
+PQ1332810091	data mining OR datamining
+PQ1332393451	data mining OR datamining
+PQ1332405701	data mining OR datamining
+PQ1331110401	data mining OR datamining
+PQ1326510421	data mining OR datamining
+PQ497007501	data mining OR datamining
+PQ609157671	data mining OR datamining
+PQ476230031	data mining OR datamining
+PQ444807841	data mining OR datamining
+PQ441471571	data mining OR datamining
+PQ440038521	data mining OR datamining
+PQ431214211	data mining OR datamining
+PQ425925091	data mining OR datamining
+PQ425077011	data mining OR datamining
+PQ424669051	data mining OR datamining
+PQ424669051	data mining OR datamining
+PQ422768601	data mining OR datamining
+PQ410656281	data mining OR datamining
+PQ410223541	data mining OR datamining
+PQ410215851	data mining OR datamining
+PQ408769641	data mining OR datamining
+PQ405173011	data mining OR datamining
+PQ403518861	data mining OR datamining
+PQ393930621	data mining OR datamining
+PQ390224631	data mining OR datamining
+PQ491002071	data mining OR datamining
+PQ379974291	data mining OR datamining
+PQ377621211	data mining OR datamining
+PQ377507511	data mining OR datamining
+PQ377619471	data mining OR datamining
+PQ357723831	data mining OR datamining
+PQ357190541	data mining OR datamining
+PQ355152071	data mining OR datamining
+PQ355152071	data mining OR datamining
+PQ350171601	data mining OR datamining
+PQ350024921	data mining OR datamining
+PQ347281321	data mining OR datamining
+PQ343956431	data mining OR datamining
+PQ491094421	data mining OR datamining
+PQ339168401	data mining OR datamining
+PQ338791101	data mining OR datamining
+PQ338790551	data mining OR datamining
+PQ338797851	data mining OR datamining
+PQ491090431	data mining OR datamining
+PQ333826381	data mining OR datamining
+PQ333158491	data mining OR datamining
+PQ332036751	data mining OR datamining
+PQ326002971	data mining OR datamining
+PQ326005791	data mining OR datamining
+PQ325885131	data mining OR datamining
+PQ321672681	data mining OR datamining
+PQ321659481	data mining OR datamining
+PQ481564511	data mining OR datamining
+PQ318981171	data mining OR datamining
+PQ318619921	data mining OR datamining
+PQ318619921	data mining OR datamining
+PQ318619921	data mining OR datamining
+PQ316300351	data mining OR datamining
+PQ316307011	data mining OR datamining
+PQ315920261	data mining OR datamining
+PQ314883561	data mining OR datamining
+PQ495550901	data mining OR datamining
+PQ495535771	data mining OR datamining
+PQ296129881	data mining OR datamining
+PQ293343061	data mining OR datamining
+PQ289685321	data mining OR datamining
+PQ288684011	data mining OR datamining
+PQ285958361	data mining OR datamining
+PQ284981711	data mining OR datamining
+PQ285034431	data mining OR datamining
+PQ283708181	data mining OR datamining
+PQ282496351	data mining OR datamining
+PQ282025961	data mining OR datamining
+PQ281109721	data mining OR datamining
+PQ280362491	data mining OR datamining
+PQ279983051	data mining OR datamining
+PQ278452981	data mining OR datamining
+PQ276938941	data mining OR datamining
+PQ276352411	data mining OR datamining
+PQ275422291	data mining OR datamining
+PQ275422251	data mining OR datamining
+PQ763244801	knowledge management
+PQ791108291	knowledge management
+PQ773178191	knowledge management
+PQ732488071	knowledge management
+PQ755614711	knowledge management
+PQ718355701	knowledge management
+PQ716347951	knowledge management
+PQ711971501	knowledge management
+PQ711499251	knowledge management
+PQ696929691	knowledge management
+PQ696007761	knowledge management
+PQ684994091	knowledge management
+PQ661555601	knowledge management
+PQ658699311	knowledge management
+PQ638634711	knowledge management
+PQ619768491	knowledge management
+PQ592006411	knowledge management
+PQ592006431	knowledge management
+PQ527181301	knowledge management
+PQ523120371	knowledge management
+PQ522617601	knowledge management
+PQ520360821	knowledge management
+PQ65743941	hyperion
+PQ65613672	hyperion
+PQ65613627	hyperion
+PQ65649033	hyperion
+PQ65600927	hyperion
+PQ491184171	hyperion
+PQ65472262	hyperion
+PQ65472343	hyperion
+PQ65361315	hyperion
+PQ65256640	hyperion
+PQ65256592	hyperion
+PQ65243461	hyperion
+PQ65209930	hyperion
+PQ65210088	hyperion
+PQ65209958	hyperion
+PQ65182427	hyperion
+PQ65182463	hyperion
+PQ65157849	hyperion
+PQ65090608	hyperion
+PQ65087399	hyperion
+PQ65073808	hyperion
+PQ65073384	hyperion
+PQ65070210	hyperion
+PQ65070232	hyperion
+PQ65070222	hyperion
+PQ65023214	hyperion
+PQ65023153	hyperion
+PQ64990503	hyperion
+PQ64966272	hyperion
+PQ64966149	hyperion
+PQ64894651	hyperion
+PQ64884136	hyperion
+PQ64883994	hyperion
+PQ64901335	hyperion
+PQ64882145	hyperion
+PQ64899859	hyperion
+PQ64850689	hyperion
+PQ64842626	hyperion
+PQ64674624	hyperion
+PQ64669337	hyperion
+PQ64674565	hyperion
+PQ64657333	hyperion
+PQ64634540	hyperion
+PQ64632076	hyperion
+PQ64717520	hyperion
+PQ64552717	hyperion
+PQ64552800	hyperion
+PQ64282250	hyperion
+PQ64189107	hyperion
+PQ64189069	hyperion
+PQ63963775	hyperion
+PQ63958828	hyperion
+PQ63916347	hyperion
+PQ63894118	hyperion
+PQ63639499	hyperion
+PQ63707104	hyperion
+PQ63630074	hyperion
+PQ63630005	hyperion
+PQ63528770	hyperion
+PQ63503428	hyperion
+PQ63418143	hyperion
+PQ63301250	hyperion
+PQ63375866	hyperion
+PQ63289967	hyperion
+PQ63289983	hyperion
+PQ63129680	hyperion
+PQ63102466	hyperion
+PQ482071361	hyperion
+PQ63003699	hyperion
+PQ63003688	hyperion
+PQ63000005	hyperion
+PQ63000061	hyperion
+PQ62999986	hyperion
+PQ62993430	hyperion
+PQ62990222	hyperion
+PQ62949876	hyperion
+PQ69528744	hyperion
+PQ62854100	hyperion
+PQ62808123	hyperion
+PQ62840660	hyperion
+PQ62804694	hyperion
+PQ62841697	hyperion
+PQ62769343	hyperion
+PQ62766060	hyperion
+PQ62766105	hyperion
+PQ62699009	hyperion
+PQ62611609	hyperion
+PQ62517937	hyperion
+PQ62509665	hyperion
+PQ62509667	hyperion
+PQ62507105	hyperion
+PQ62507091	hyperion
+PQ62507141	hyperion
+PQ62470474	hyperion
+PQ62438224	hyperion
+PQ62291522	hyperion
+PQ62263007	hyperion
+PQ62262978	hyperion
+PQ62263021	hyperion
+PQ62194090	hyperion
+PQ62193469	hyperion
+PQ62191589	hyperion
+PQ62183020	hyperion
+PQ62086200	hyperion
+PQ62086201	hyperion
+PQ61668149	hyperion
+PQ61541260	hyperion
+PQ62633703	hyperion
+PQ61523375	hyperion
+PQ61292942	hyperion
+PQ61148170	hyperion
+PQ61105759	hyperion
+PQ60914401	hyperion
+PQ60913719	hyperion
+PQ60909521	hyperion
+PQ60901794	hyperion
+PQ60901785	hyperion
+PQ495115811	hyperion
+PQ60608547	hyperion
+PQ60562987	hyperion
+PQ60554379	hyperion
+PQ60354507	hyperion
+PQ60200338	hyperion
+PQ59838963	hyperion
+PQ59754445	hyperion
+PQ59755196	hyperion
+PQ61413425	hyperion
+PQ59752941	hyperion
+PQ59752944	hyperion
+PQ59713033	hyperion
+PQ494359961	hyperion
+PQ59417444	hyperion
+PQ59392876	hyperion
+PQ59392872	hyperion
+PQ59391246	hyperion
+PQ59351503	hyperion
+PQ59269648	hyperion
+PQ59034415	hyperion
+PQ58945969	hyperion
+PQ58945899	hyperion
+PQ58858185	hyperion
+PQ58832585	hyperion
+PQ58728541	hyperion
+PQ58662104	hyperion
+PQ58662168	hyperion
+PQ58381437	hyperion
+PQ58394123	hyperion
+PQ58325142	hyperion
+PQ58322151	hyperion
+PQ58311407	hyperion
+PQ58150476	hyperion
+PQ58150590	hyperion
+PQ58150170	hyperion
+PQ58000900	hyperion
+PQ57982614	hyperion
+PQ57938530	hyperion
+PQ57895803	hyperion
+PQ57887483	hyperion
+PQ57887202	hyperion
+PQ57885487	hyperion
+PQ57885486	hyperion
+PQ57818833	hyperion
+PQ57818699	hyperion
+PQ57754779	hyperion
+PQ57577060	hyperion
+PQ57573572	hyperion
+PQ57561057	hyperion
+PQ57560696	hyperion
+PQ57561759	hyperion
+PQ57561814	hyperion
+PQ57561755	hyperion
+PQ57559339	hyperion
+PQ57501136	hyperion
+PQ57423570	hyperion
+PQ57423590	hyperion
+PQ468423041	hyperion
+PQ57244989	hyperion
+PQ57214276	hyperion
+PQ57199890	hyperion
+PQ57207044	hyperion
+PQ57054607	hyperion
+PQ56767801	hyperion
+PQ56757961	hyperion
+PQ56726972	hyperion
+PQ56511527	hyperion
+PQ56466350	hyperion
+PQ56456999	hyperion
+PQ56407931	hyperion
+PQ56378874	hyperion
+PQ56352008	hyperion
+PQ56380666	hyperion
+PQ56274021	hyperion
+PQ56266713	hyperion
+PQ56266884	hyperion
+PQ56266912	hyperion
+PQ56265637	hyperion
+PQ56178151	hyperion
+PQ56082346	hyperion
+PQ56083855	hyperion
+PQ56078181	hyperion
+PQ56024529	hyperion
+PQ55942552	hyperion
+PQ55923026	hyperion
+PQ55922916	hyperion
+PQ55694940	hyperion
+PQ55694931	hyperion
+PQ55561667	hyperion
+PQ55477818	hyperion
+PQ55464801	hyperion
+PQ55375744	hyperion
+PQ55401030	hyperion
+PQ482374131	hyperion
+PQ55304974	hyperion
+PQ55298712	hyperion
+PQ55296503	hyperion
+PQ55626099	hyperion
+PQ55215765	hyperion
+PQ55157744	hyperion
+PQ55046814	hyperion
+PQ55106853	hyperion
+PQ55041418	hyperion
+PQ55697055	hyperion
+PQ54944925	hyperion
+PQ54845291	hyperion
+PQ54772100	hyperion
+PQ54721445	hyperion
+PQ54721597	hyperion
+PQ54706921	hyperion
+PQ54706928	hyperion
+PQ54581657	hyperion
+PQ54322097	hyperion
+PQ54302474	hyperion
+PQ54302471	hyperion
+PQ54302458	hyperion
+PQ54300634	hyperion
+PQ54300651	hyperion
+PQ54166286	hyperion
+PQ54039754	hyperion
+PQ53954293	hyperion
+PQ53945450	hyperion
+PQ53945449	hyperion
+PQ55306322	hyperion
+PQ53942914	hyperion
+PQ53942931	hyperion
+PQ53945868	hyperion
+PQ53907058	hyperion
+PQ53880197	hyperion
+PQ53874800	hyperion
+PQ53843965	hyperion
+PQ53809676	hyperion
+PQ53771586	hyperion
+PQ53763159	hyperion
+PQ53763432	hyperion
+PQ53760750	hyperion
+PQ53699581	hyperion
+PQ53644988	hyperion
+PQ53547944	hyperion
+PQ53540377	hyperion
+PQ53539833	hyperion
+PQ53537765	hyperion
+PQ53510032	hyperion
+PQ53505605	hyperion
+PQ53472316	hyperion
+PQ53270544	hyperion
+PQ53209674	hyperion
+PQ53193315	hyperion
+PQ53036712	hyperion
+PQ52980589	hyperion
+PQ52866593	hyperion
+PQ52828059	hyperion
+PQ52815116	hyperion
+PQ52814556	hyperion
+PQ52812446	hyperion
+PQ52812460	hyperion
+PQ52812479	hyperion
+PQ493867401	hyperion
+PQ52788213	hyperion
+PQ52760542	hyperion
+PQ52730188	hyperion
+PQ52666149	hyperion
+PQ52658674	hyperion
+PQ52656064	hyperion
+PQ52616590	hyperion
+PQ52620700	hyperion
+PQ52592964	hyperion
+PQ52534107	hyperion
+PQ52503181	hyperion
+PQ52492669	hyperion
+PQ52492492	hyperion
+PQ52492578	hyperion
+PQ52492670	hyperion
+PQ52492666	hyperion
+PQ52493558	hyperion
+PQ52491296	hyperion
+PQ52491283	hyperion
+PQ52396115	hyperion
+PQ52131104	hyperion
+PQ52120391	hyperion
+PQ52119385	hyperion
+PQ52075067	hyperion
+PQ52067117	hyperion
+PQ52002162	hyperion
+PQ51892515	hyperion
+PQ51871854	hyperion
+PQ51867892	hyperion
+PQ51850564	hyperion
+PQ51650759	hyperion
+PQ51647113	hyperion
+PQ51241206	hyperion
+PQ51234198	hyperion
+PQ51233509	hyperion
+PQ51231858	hyperion
+PQ51231949	hyperion
+PQ51086932	hyperion
+PQ51085701	hyperion
+PQ50951469	hyperion
+PQ50943018	hyperion
+PQ50943361	hyperion
+PQ50943262	hyperion
+PQ50941276	hyperion
+PQ50941269	hyperion
+PQ50906113	hyperion
+PQ468301001	hyperion
+PQ50846828	hyperion
+PQ50751652	hyperion
+PQ50743727	hyperion
+PQ50743723	hyperion
+PQ50743719	hyperion
+PQ50743721	hyperion
+PQ50743097	hyperion
+PQ50741314	hyperion
+PQ50706973	hyperion
+PQ50511376	hyperion
+PQ50541656	hyperion
+PQ50346391	hyperion
+PQ50339491	hyperion
+PQ50337676	hyperion
+PQ50337492	hyperion
+PQ50292967	hyperion
+PQ490552591	hyperion
+PQ50066244	hyperion
+PQ50066243	hyperion
+PQ49934009	hyperion
+PQ49867447	hyperion
+PQ49864876	hyperion
+PQ49822053	hyperion
+PQ49792639	hyperion
+PQ49759075	hyperion
+PQ490764791	hyperion
+PQ49612800	hyperion
+PQ49609396	hyperion
+PQ49602689	hyperion
+PQ49602273	hyperion
+PQ49601022	hyperion
+PQ49412363	hyperion
+PQ49341547	hyperion
+PQ49311391	hyperion
+PQ49309955	hyperion
+PQ49231207	hyperion
+PQ49058634	hyperion
+PQ48682682	hyperion
+PQ48656057	hyperion
+PQ48601802	hyperion
+PQ48604590	hyperion
+PQ48604523	hyperion
+PQ48309074	hyperion
+PQ48275303	hyperion
+PQ48240882	hyperion
+PQ48240882	hyperion
+PQ48113825	hyperion
+PQ493772401	hyperion
+PQ47849464	hyperion
+PQ482482721	hyperion
+PQ47749800	hyperion
+PQ47749353	hyperion
+PQ47749862	hyperion
+PQ47749731	hyperion
+PQ47707267	hyperion
+PQ47687211	hyperion
+PQ47657165	hyperion
+PQ47603727	hyperion
+PQ97451559	hyperion
+PQ97343616	hyperion
+PQ97038798	hyperion
+PQ96764433	hyperion
+PQ96747531	hyperion
+PQ96538473	hyperion
+PQ97100729	hyperion
+PQ96537986	hyperion
+PQ96238340	hyperion
+PQ95285965	hyperion
+PQ95461188	hyperion
+PQ95285452	hyperion
+PQ95285473	hyperion
+PQ95285444	hyperion
+PQ94907528	hyperion
+PQ94907615	hyperion
+PQ94532287	hyperion
+PQ94609700	hyperion
+PQ94612213	hyperion
+PQ94154079	hyperion
+PQ94027528	hyperion
+PQ94027527	hyperion
+PQ94027318	hyperion
+PQ94027190	hyperion
+PQ94059682	hyperion
+PQ94023749	hyperion
+PQ94023755	hyperion
+PQ94023760	hyperion
+PQ93744013	hyperion
+PQ93615563	hyperion
+PQ93616529	hyperion
+PQ93316932	hyperion
+PQ93311594	hyperion
+PQ93230403	hyperion
+PQ93230400	hyperion
+PQ93274904	hyperion
+PQ93226844	hyperion
+PQ93226834	hyperion
+PQ93226854	hyperion
+PQ92737835	hyperion
+PQ92668012	hyperion
+PQ92439180	hyperion
+PQ92296629	hyperion
+PQ91621489	hyperion
+PQ91517862	hyperion
+PQ91517861	hyperion
+PQ91518349	hyperion
+PQ91518351	hyperion
+PQ91512587	hyperion
+PQ92319733	hyperion
+PQ91514917	hyperion
+PQ91247005	hyperion
+PQ90771261	hyperion
+PQ90642653	hyperion
+PQ90513787	hyperion
+PQ90511211	hyperion
+PQ90511222	hyperion
+PQ90127407	hyperion
+PQ89859338	hyperion
+PQ89936652	hyperion
+PQ89732655	hyperion
+PQ89732584	hyperion
+PQ89284761	hyperion
+PQ89270786	hyperion
+PQ89270041	hyperion
+PQ89269965	hyperion
+PQ89270670	hyperion
+PQ88904396	hyperion
+PQ88877258	hyperion
+PQ88877202	hyperion
+PQ88539527	hyperion
+PQ88439796	hyperion
+PQ88202714	hyperion
+PQ88068840	hyperion
+PQ87873993	hyperion
+PQ88143587	hyperion
+PQ87881170	hyperion
+PQ493408301	hyperion
+PQ87490989	hyperion
+PQ495967911	hyperion
+PQ87188580	hyperion
+PQ494595401	hyperion
+PQ86731608	hyperion
+PQ86533300	hyperion
+PQ86524799	hyperion
+PQ85949640	hyperion
+PQ85636447	hyperion
+PQ85833507	hyperion
+PQ85284049	hyperion
+PQ85283936	hyperion
+PQ85183582	hyperion
+PQ85178606	hyperion
+PQ85180595	hyperion
+PQ84891876	hyperion
+PQ84762103	hyperion
+PQ84498393	hyperion
+PQ84453694	hyperion
+PQ84371990	hyperion
+PQ84370080	hyperion
+PQ84370076	hyperion
+PQ84164699	hyperion
+PQ84142761	hyperion
+PQ83906442	hyperion
+PQ83454249	hyperion
+PQ83352121	hyperion
+PQ83352525	hyperion
+PQ83191659	hyperion
+PQ83138441	hyperion
+PQ83138460	hyperion
+PQ82774153	hyperion
+PQ82391904	hyperion
+PQ82388849	hyperion
+PQ82381573	hyperion
+PQ82426769	hyperion
+PQ82236801	hyperion
+PQ81901019	hyperion
+PQ81901120	hyperion
+PQ81857130	hyperion
+PQ81920895	hyperion
+PQ81857129	hyperion
+PQ81855941	hyperion
+PQ81745831	hyperion
+PQ81273325	hyperion
+PQ80965679	hyperion
+PQ80941225	hyperion
+PQ80851271	hyperion
+PQ80851235	hyperion
+PQ80819702	hyperion
+PQ80614961	hyperion
+PQ80520902	hyperion
+PQ80041362	hyperion
+PQ80067474	hyperion
+PQ80067479	hyperion
+PQ80040478	hyperion
+PQ80054166	hyperion
+PQ80054167	hyperion
+PQ79875776	hyperion
+PQ79542340	hyperion
+PQ79619872	hyperion
+PQ79413469	hyperion
+PQ79201096	hyperion
+PQ78928130	hyperion
+PQ78846570	hyperion
+PQ78844140	hyperion
+PQ78869365	hyperion
+PQ78785921	hyperion
+PQ78539780	hyperion
+PQ78381476	hyperion
+PQ78187620	hyperion
+PQ78179235	hyperion
+PQ78205369	hyperion
+PQ78177999	hyperion
+PQ77945828	hyperion
+PQ491004051	hyperion
+PQ77907405	hyperion
+PQ77731239	hyperion
+PQ77584462	hyperion
+PQ490524151	hyperion
+PQ77394869	hyperion
+PQ77283385	hyperion
+PQ77283320	hyperion
+PQ77236855	hyperion
+PQ77236861	hyperion
+PQ77163946	hyperion
+PQ77163965	hyperion
+PQ77031829	hyperion
+PQ77025376	hyperion
+PQ77020056	hyperion
+PQ77022920	hyperion
+PQ77022898	hyperion
+PQ76984706	hyperion
+PQ76643219	hyperion
+PQ76533784	hyperion
+PQ76533690	hyperion
+PQ76537579	hyperion
+PQ76511554	hyperion
+PQ76397946	hyperion
+PQ76133589	hyperion
+PQ76135632	hyperion
+PQ75968993	hyperion
+PQ75817449	hyperion
+PQ75817377	hyperion
+PQ75777472	hyperion
+PQ75777473	hyperion
+PQ75609714	hyperion
+PQ75609592	hyperion
+PQ581363971	hyperion
+PQ75496518	hyperion
+PQ75489456	hyperion
+PQ75422606	hyperion
+PQ75420086	hyperion
+PQ75419994	hyperion
+PQ75434101	hyperion
+PQ75412050	hyperion
+PQ75412046	hyperion
+PQ75374973	hyperion
+PQ75374901	hyperion
+PQ75331080	hyperion
+PQ75331065	hyperion
+PQ75142113	hyperion
+PQ75142030	hyperion
+PQ75153889	hyperion
+PQ75161765	hyperion
+PQ480550831	hyperion
+PQ74994723	hyperion
+PQ74889049	hyperion
+PQ74902608	hyperion
+PQ74902605	hyperion
+PQ74879108	hyperion
+PQ74833102	hyperion
+PQ74804503	hyperion
+PQ74785145	hyperion
+PQ74799996	hyperion
+PQ74758233	hyperion
+PQ74729993	hyperion
+PQ74652829	hyperion
+PQ74648434	hyperion
+PQ74597892	hyperion
+PQ74597914	hyperion
+PQ74611315	hyperion
+PQ74379677	hyperion
+PQ74379730	hyperion
+PQ74205267	hyperion
+PQ74169466	hyperion
+PQ74169420	hyperion
+PQ74161811	hyperion
+PQ74182286	hyperion
+PQ74161353	hyperion
+PQ74113047	hyperion
+PQ74108907	hyperion
+PQ74083065	hyperion
+PQ74090181	hyperion
+PQ74090194	hyperion
+PQ74049257	hyperion
+PQ74079878	hyperion
+PQ74079876	hyperion
+PQ74019870	hyperion
+PQ73971414	hyperion
+PQ73930461	hyperion
+PQ73943214	hyperion
+PQ73751988	hyperion
+PQ73723057	hyperion
+PQ73537794	hyperion
+PQ73552717	hyperion
+PQ73482238	hyperion
+PQ73414852	hyperion
+PQ73387751	hyperion
+PQ73383276	hyperion
+PQ73383303	hyperion
+PQ73400758	hyperion
+PQ73357192	hyperion
+PQ73362172	hyperion
+PQ73305131	hyperion
+PQ73305203	hyperion
+PQ73241032	hyperion
+PQ73157441	hyperion
+PQ73185613	hyperion
+PQ73148583	hyperion
+PQ73104443	hyperion
+PQ73077095	hyperion
+PQ73063483	hyperion
+PQ73072509	hyperion
+PQ73072567	hyperion
+PQ72962126	hyperion
+PQ72990633	hyperion
+PQ72953214	hyperion
+PQ72953325	hyperion
+PQ72954930	hyperion
+PQ72955110	hyperion
+PQ72786791	hyperion
+PQ72786819	hyperion
+PQ492155001	hyperion
+PQ72714660	hyperion
+PQ494599991	hyperion
+PQ72539232	hyperion
+PQ72503880	hyperion
+PQ72515425	hyperion
+PQ72440629	hyperion
+PQ491389491	hyperion
+PQ71956381	hyperion
+PQ71987173	hyperion
+PQ71934287	hyperion
+PQ495228531	hyperion
+PQ71796336	hyperion
+PQ71664362	hyperion
+PQ71661091	hyperion
+PQ71661067	hyperion
+PQ71661086	hyperion
+PQ71748183	hyperion
+PQ71529526	hyperion
+PQ71523685	hyperion
+PQ71523784	hyperion
+PQ71453007	hyperion
+PQ71373807	hyperion
+PQ71340863	hyperion
+PQ71352861	hyperion
+PQ71310656	hyperion
+PQ71161770	hyperion
+PQ71077444	hyperion
+PQ492307231	hyperion
+PQ71027687	hyperion
+PQ71003667	hyperion
+PQ70998209	hyperion
+PQ70956833	hyperion
+PQ70796987	hyperion
+PQ70909889	hyperion
+PQ71009428	hyperion
+PQ70636882	hyperion
+PQ70568825	hyperion
+PQ70527494	hyperion
+PQ70466948	hyperion
+PQ70425995	hyperion
+PQ70443804	hyperion
+PQ70415735	hyperion
+PQ70547378	hyperion
+PQ70301306	hyperion
+PQ70301283	hyperion
+PQ70158344	hyperion
+PQ70130453	hyperion
+PQ70090640	hyperion
+PQ70057663	hyperion
+PQ69997871	hyperion
+PQ69997970	hyperion
+PQ69986294	hyperion
+PQ69939210	hyperion
+PQ69939082	hyperion
+PQ69870292	hyperion
+PQ469552771	hyperion
+PQ69790669	hyperion
+PQ69782173	hyperion
+PQ69739186	hyperion
+PQ69728340	hyperion
+PQ69734313	hyperion
+PQ69709508	hyperion
+PQ69704598	hyperion
+PQ69704613	hyperion
+PQ69547398	hyperion
+PQ69451780	hyperion
+PQ69219926	hyperion
+PQ69160795	hyperion
+PQ69014889	hyperion
+PQ69007296	hyperion
+PQ69007282	hyperion
+PQ68955019	hyperion
+PQ68898365	hyperion
+PQ68820426	hyperion
+PQ68760437	hyperion
+PQ68661148	hyperion
+PQ68661106	hyperion
+PQ68609642	hyperion
+PQ68595667	hyperion
+PQ68425860	hyperion
+PQ68432212	hyperion
+PQ68417610	hyperion
+PQ68416510	hyperion
+PQ68236785	hyperion
+PQ68061885	hyperion
+PQ68099348	hyperion
+PQ67980053	hyperion
+PQ67736140	hyperion
+PQ68300091	hyperion
+PQ67725752	hyperion
+PQ67726161	hyperion
+PQ67515988	hyperion
+PQ507917681	hyperion
+PQ67440664	hyperion
+PQ67377157	hyperion
+PQ67307773	hyperion
+PQ67197467	hyperion
+PQ67155545	hyperion
+PQ67152573	hyperion
+PQ66947981	hyperion
+PQ66815757	hyperion
+PQ66759933	hyperion
+PQ66745132	hyperion
+PQ66689499	hyperion
+PQ66677033	hyperion
+PQ69133991	hyperion
+PQ66545450	hyperion
+PQ66411993	hyperion
+PQ66269826	hyperion
+PQ66256981	hyperion
+PQ66256975	hyperion
+PQ65967508	hyperion
+PQ65948179	hyperion
+PQ65896722	hyperion
+PQ676059631	business process reengineering OR business processes reengineering OR BPR
+PQ661555601	business process reengineering OR business processes reengineering OR BPR
+PQ654703091	business process reengineering OR business processes reengineering OR BPR
+PQ120652574	competitive intelligence
+PQ111669652	competitive intelligence
+PQ110683837	competitive intelligence
+PQ110321536	competitive intelligence
+PQ99473108	competitive intelligence
+PQ99347831	competitive intelligence
+PQ97855803	competitive intelligence
+PQ940550221	competitive intelligence
+PQ906256351	competitive intelligence
+PQ899276541	competitive intelligence
+PQ1037266261	competitive intelligence
+PQ868529171	competitive intelligence
+PQ840504351	competitive intelligence
+PQ831111501	competitive intelligence
+PQ823233701	competitive intelligence
+PQ816552091	competitive intelligence
+PQ816312631	competitive intelligence
+PQ813261021	competitive intelligence
+PQ779505351	competitive intelligence
+PQ776680401	competitive intelligence
+PQ75780797	text mining OR textmining
+PQ91646662	decision support system OR decision support systems
+PQ90647443	decision support system OR decision support systems
+PQ74598019	decision support system OR decision support systems
+PQ72457119	decision support system OR decision support systems
+PQ491286241	decision support system OR decision support systems
+PQ68611666	decision support system OR decision support systems
+PQ66269877	decision support system OR decision support systems
+PQ1142809871	electronic data interchange OR eData interchange OR edata interchange OR e data interchange
+PQ1181743481	cognos
+PQ1134063231	cognos
+PQ1073003571	cognos
+PQ1050086501	cognos
+PQ1046657731	cognos
+PQ1037799431	cognos
+PQ1037268571	cognos
+PQ1012066411	cognos
+PQ1010150711	cognos
+PQ1015729801	cognos
+PQ1645860721	data warehouse OR datawarehouse OR data warehouses OR datawarehouses
+PQ1618863501	data warehouse OR datawarehouse OR data warehouses OR datawarehouses
+PQ1596885351	data warehouse OR datawarehouse OR data warehouses OR datawarehouses
+PQ1601622731	data warehouse OR datawarehouse OR data warehouses OR datawarehouses
+PQ1598340851	data warehouse OR datawarehouse OR data warehouses OR datawarehouses
+PQ1580263781	data warehouse OR datawarehouse OR data warehouses OR datawarehouses
+PQ1575328641	data warehouse OR datawarehouse OR data warehouses OR datawarehouses
+PQ1572218621	data warehouse OR datawarehouse OR data warehouses OR datawarehouses
+PQ1561056871	data warehouse OR datawarehouse OR data warehouses OR datawarehouses
+PQ1533676531	data warehouse OR datawarehouse OR data warehouses OR datawarehouses
+PQ1516604731	data warehouse OR datawarehouse OR data warehouses OR datawarehouses
+PQ1510915631	data warehouse OR datawarehouse OR data warehouses OR datawarehouses
+PQ1494942041	data warehouse OR datawarehouse OR data warehouses OR datawarehouses
+PQ1491734081	data warehouse OR datawarehouse OR data warehouses OR datawarehouses
+PQ1458865491	data warehouse OR datawarehouse OR data warehouses OR datawarehouses
+PQ1440743601	data warehouse OR datawarehouse OR data warehouses OR datawarehouses
+PQ1169258861	competitive intelligence
+PQ1159720421	competitive intelligence
+PQ1151589971	competitive intelligence
+PQ1151589961	competitive intelligence
+PQ1151589981	competitive intelligence
+PQ1186718771	competitive intelligence
+PQ1184687211	competitive intelligence
+PQ1137834651	competitive intelligence
+PQ497007501	data warehousing OR datawarehousing
+PQ704513571	data warehousing OR datawarehousing
+PQ372631711	data warehousing OR datawarehousing
+PQ357873641	data warehousing OR datawarehousing
+PQ356358481	data warehousing OR datawarehousing
+PQ353053941	data warehousing OR datawarehousing
+PQ493471691	data warehousing OR datawarehousing
+PQ329642271	data warehousing OR datawarehousing
+PQ324420731	data warehousing OR datawarehousing
+PQ279325811	data warehousing OR datawarehousing
+PQ1905807801	cognos
+PQ1862746281	cognos
+PQ1807727381	cognos
+PQ1738307911	cognos
+PQ1738284911	cognos
+PQ1662642301	cognos
+PQ1784401791	data mining OR datamining
+PQ1783750621	data mining OR datamining
+PQ1782698701	data mining OR datamining
+PQ1777255681	data mining OR datamining
+PQ1777816751	data mining OR datamining
+PQ1777816731	data mining OR datamining
+PQ1799576531	data mining OR datamining
+PQ1768644011	data mining OR datamining
+PQ1744480961	data mining OR datamining
+PQ1744495271	data mining OR datamining
+PQ1736101931	data mining OR datamining
+PQ1712675111	data mining OR datamining
+PQ1687458921	data mining OR datamining
+PQ1682572031	data mining OR datamining
+PQ1678781811	data mining OR datamining
+PQ1673177781	data mining OR datamining
+PQ1658958161	data mining OR datamining
+PQ1657947781	data mining OR datamining
+PQ1656350281	data mining OR datamining
+PQ1647604271	data mining OR datamining
+PQ1636505051	data mining OR datamining
+PQ1636044211	data mining OR datamining
+PQ1636043621	data mining OR datamining
+PQ1635409671	data mining OR datamining
+PQ1637606471	data mining OR datamining
+PQ1622501051	data mining OR datamining
+PQ1622502381	data mining OR datamining
+PQ1621142051	data mining OR datamining
+PQ1930447651	data mining OR datamining
+PQ1929835791	data mining OR datamining
+PQ1937440691	data mining OR datamining
+PQ1915967471	data mining OR datamining
+PQ1911683371	data mining OR datamining
+PQ1910258171	data mining OR datamining
+PQ1919560621	data mining OR datamining
+PQ1893671431	data mining OR datamining
+PQ1895690201	data mining OR datamining
+PQ1887012891	data mining OR datamining
+PQ1886943191	data mining OR datamining
+PQ1885318061	data mining OR datamining
+PQ1884661791	data mining OR datamining
+PQ1882320611	data mining OR datamining
+PQ1881320531	data mining OR datamining
+PQ1886606091	data mining OR datamining
+PQ1886995401	data mining OR datamining
+PQ1863441131	data mining OR datamining
+PQ1859623861	data mining OR datamining
+PQ1850413911	data mining OR datamining
+PQ1877357621	data mining OR datamining
+PQ1843007791	data mining OR datamining
+PQ1839218251	data mining OR datamining
+PQ1833316051	data mining OR datamining
+PQ1829564251	data mining OR datamining
+PQ1823524571	data mining OR datamining
+PQ1822295031	data mining OR datamining
+PQ1848618221	data mining OR datamining
+PQ1809145651	data mining OR datamining
+PQ1797801491	data mining OR datamining
+PQ247789051	hyperion
+PQ247485931	hyperion
+PQ245699661	hyperion
+PQ492551821	hyperion
+PQ243866401	hyperion
+PQ246506791	hyperion
+PQ243870701	hyperion
+PQ243870801	hyperion
+PQ243870781	hyperion
+PQ243263421	hyperion
+PQ242626621	hyperion
+PQ241849111	hyperion
+PQ241653571	hyperion
+PQ239894291	hyperion
+PQ239487911	hyperion
+PQ239408081	hyperion
+PQ239404511	hyperion
+PQ239400471	hyperion
+PQ239401281	hyperion
+PQ238909721	hyperion
+PQ238191881	hyperion
+PQ236488201	hyperion
+PQ234815271	hyperion
+PQ234817221	hyperion
+PQ234168041	hyperion
+PQ234187581	hyperion
+PQ229425161	hyperion
+PQ229424751	hyperion
+PQ492053251	hyperion
+PQ224263101	hyperion
+PQ224621631	hyperion
+PQ493921471	hyperion
+PQ222135261	hyperion
+PQ222136041	hyperion
+PQ219954381	hyperion
+PQ219681331	hyperion
+PQ219677061	hyperion
+PQ219675421	hyperion
+PQ219628741	hyperion
+PQ218464711	hyperion
+PQ217159051	hyperion
+PQ217060631	hyperion
+PQ219781151	hyperion
+PQ214297981	hyperion
+PQ214297421	hyperion
+PQ212616861	hyperion
+PQ208616171	hyperion
+PQ208616331	hyperion
+PQ208294331	hyperion
+PQ207998171	hyperion
+PQ214336801	hyperion
+PQ204142971	hyperion
+PQ201817201	hyperion
+PQ198467611	hyperion
+PQ199315881	hyperion
+PQ196504651	hyperion
+PQ196503811	hyperion
+PQ195594351	hyperion
+PQ194031691	hyperion
+PQ190918971	hyperion
+PQ190129101	hyperion
+PQ492110961	hyperion
+PQ190125611	hyperion
+PQ493922851	hyperion
+PQ187432251	hyperion
+PQ187435381	hyperion
+PQ179202731	hyperion
+PQ184402761	hyperion
+PQ491133751	hyperion
+PQ174505271	hyperion
+PQ170040811	hyperion
+PQ172596701	hyperion
+PQ164402061	hyperion
+PQ163055411	hyperion
+PQ162965071	hyperion
+PQ494536561	hyperion
+PQ161900191	hyperion
+PQ161899611	hyperion
+PQ159274431	hyperion
+PQ482385731	hyperion
+PQ158063821	hyperion
+PQ158053401	hyperion
+PQ468685381	hyperion
+PQ156541361	hyperion
+PQ156545441	hyperion
+PQ156112691	hyperion
+PQ156112691	hyperion
+PQ155944321	hyperion
+PQ155301691	hyperion
+PQ155196341	hyperion
+PQ155195001	hyperion
+PQ504686181	hyperion
+PQ155193751	hyperion
+PQ495891081	hyperion
+PQ154700631	hyperion
+PQ154450261	hyperion
+PQ153629821	hyperion
+PQ152058601	hyperion
+PQ151962161	hyperion
+PQ151960121	hyperion
+PQ149413921	hyperion
+PQ149146141	hyperion
+PQ149108151	hyperion
+PQ148126151	hyperion
+PQ148011771	hyperion
+PQ148004311	hyperion
+PQ148258871	hyperion
+PQ148010391	hyperion
+PQ493822361	hyperion
+PQ493822361	hyperion
+PQ147620221	hyperion
+PQ145893711	hyperion
+PQ145891291	hyperion
+PQ145889431	hyperion
+PQ146071671	hyperion
+PQ144841831	hyperion
+PQ144840901	hyperion
+PQ144091071	hyperion
+PQ143877221	hyperion
+PQ143336141	hyperion
+PQ142173581	hyperion
+PQ142078161	hyperion
+PQ142078621	hyperion
+PQ142117941	hyperion
+PQ141735161	hyperion
+PQ141180911	hyperion
+PQ469530251	hyperion
+PQ140030691	hyperion
+PQ140023001	hyperion
+PQ140276771	hyperion
+PQ139329191	hyperion
+PQ136059741	hyperion
+PQ135954501	hyperion
+PQ135954421	hyperion
+PQ135958221	hyperion
+PQ481379071	hyperion
+PQ135213591	hyperion
+PQ135213391	hyperion
+PQ134594651	hyperion
+PQ133758911	hyperion
+PQ133740121	hyperion
+PQ132663831	hyperion
+PQ132660541	hyperion
+PQ132660661	hyperion
+PQ132349251	hyperion
+PQ131004511	hyperion
+PQ130378971	hyperion
+PQ130378681	hyperion
+PQ130378891	hyperion
+PQ129522761	hyperion
+PQ128959061	hyperion
+PQ128773761	hyperion
+PQ128773611	hyperion
+PQ128409331	hyperion
+PQ128032601	hyperion
+PQ127909731	hyperion
+PQ127906021	hyperion
+PQ127404581	hyperion
+PQ127398501	hyperion
+PQ126034531	hyperion
+PQ126036831	hyperion
+PQ125925061	hyperion
+PQ125874871	hyperion
+PQ125454081	hyperion
+PQ125035661	hyperion
+PQ125124221	hyperion
+PQ124822141	hyperion
+PQ124820591	hyperion
+PQ123918731	hyperion
+PQ123533511	hyperion
+PQ122933071	hyperion
+PQ122582901	hyperion
+PQ122583521	hyperion
+PQ122554631	hyperion
+PQ122068031	hyperion
+PQ122068041	hyperion
+PQ122059541	hyperion
+PQ122062311	hyperion
+PQ122062391	hyperion
+PQ491097891	hyperion
+PQ121973254	hyperion
+PQ121973206	hyperion
+PQ121696804	hyperion
+PQ121670552	hyperion
+PQ121670532	hyperion
+PQ121687494	hyperion
+PQ121669812	hyperion
+PQ121670515	hyperion
+PQ121203549	hyperion
+PQ121196956	hyperion
+PQ120951991	hyperion
+PQ120661219	hyperion
+PQ494593451	hyperion
+PQ120530841	hyperion
+PQ120521853	hyperion
+PQ120063593	hyperion
+PQ119881428	hyperion
+PQ119847549	hyperion
+PQ119623503	hyperion
+PQ119620062	hyperion
+PQ469562131	hyperion
+PQ119542789	hyperion
+PQ119217741	hyperion
+PQ118918568	hyperion
+PQ118606918	hyperion
+PQ118280359	hyperion
+PQ117883186	hyperion
+PQ117809923	hyperion
+PQ117809748	hyperion
+PQ117808554	hyperion
+PQ117808916	hyperion
+PQ117808935	hyperion
+PQ117630280	hyperion
+PQ117604278	hyperion
+PQ116963532	hyperion
+PQ116963539	hyperion
+PQ482019461	hyperion
+PQ482330641	hyperion
+PQ116536358	hyperion
+PQ116532987	hyperion
+PQ116532991	hyperion
+PQ116096133	hyperion
+PQ116090980	hyperion
+PQ116090941	hyperion
+PQ115621873	hyperion
+PQ115327037	hyperion
+PQ115296984	hyperion
+PQ115123372	hyperion
+PQ115123139	hyperion
+PQ115123127	hyperion
+PQ114774074	hyperion
+PQ114729270	hyperion
+PQ114217892	hyperion
+PQ113688533	hyperion
+PQ113688505	hyperion
+PQ113793848	hyperion
+PQ113596335	hyperion
+PQ113475724	hyperion
+PQ113477293	hyperion
+PQ113472702	hyperion
+PQ113268975	hyperion
+PQ113017562	hyperion
+PQ113015628	hyperion
+PQ113013190	hyperion
+PQ112942952	hyperion
+PQ112940824	hyperion
+PQ112929965	hyperion
+PQ112537354	hyperion
+PQ112524837	hyperion
+PQ112524755	hyperion
+PQ112207371	hyperion
+PQ112207371	hyperion
+PQ111212588	hyperion
+PQ111202912	hyperion
+PQ111208753	hyperion
+PQ110708456	hyperion
+PQ110653767	hyperion
+PQ495924961	hyperion
+PQ110616997	hyperion
+PQ110574047	hyperion
+PQ495558001	hyperion
+PQ110482607	hyperion
+PQ110450547	hyperion
+PQ110447714	hyperion
+PQ110332307	hyperion
+PQ110272754	hyperion
+PQ110211320	hyperion
+PQ110003437	hyperion
+PQ110009957	hyperion
+PQ110002748	hyperion
+PQ109965970	hyperion
+PQ109964500	hyperion
+PQ109962230	hyperion
+PQ109925402	hyperion
+PQ480606661	hyperion
+PQ109751197	hyperion
+PQ109682107	hyperion
+PQ109633190	hyperion
+PQ109765606	hyperion
+PQ109645890	hyperion
+PQ109575781	hyperion
+PQ108881079	hyperion
+PQ108384497	hyperion
+PQ108384495	hyperion
+PQ108383639	hyperion
+PQ107735458	hyperion
+PQ107294153	hyperion
+PQ107290995	hyperion
+PQ107290997	hyperion
+PQ107243781	hyperion
+PQ106661382	hyperion
+PQ107363952	hyperion
+PQ106022291	hyperion
+PQ104631510	hyperion
+PQ104629369	hyperion
+PQ103960326	hyperion
+PQ469520981	hyperion
+PQ102550832	hyperion
+PQ102835917	hyperion
+PQ102550601	hyperion
+PQ102552183	hyperion
+PQ102552161	hyperion
+PQ102117702	hyperion
+PQ101867143	hyperion
+PQ101863921	hyperion
+PQ101327056	hyperion
+PQ480615061	hyperion
+PQ101674195	hyperion
+PQ100941971	hyperion
+PQ100935365	hyperion
+PQ100935363	hyperion
+PQ100423193	hyperion
+PQ480613331	hyperion
+PQ100242438	hyperion
+PQ99856257	hyperion
+PQ99358755	hyperion
+PQ99358736	hyperion
+PQ99353714	hyperion
+PQ99353752	hyperion
+PQ99067217	hyperion
+PQ99049830	hyperion
+PQ98738594	hyperion
+PQ98313512	hyperion
+PQ98312382	hyperion
+PQ98312377	hyperion
+PQ98308112	hyperion
+PQ98001376	hyperion
+PQ97703230	hyperion
+PQ581207161	hyperion
+PQ271304021	hyperion
+PQ271377321	hyperion
+PQ271207551	hyperion
+PQ271209381	hyperion
+PQ271208891	hyperion
+PQ271191581	hyperion
+PQ270516151	hyperion
+PQ270119421	hyperion
+PQ269280301	hyperion
+PQ269279631	hyperion
+PQ269278521	hyperion
+PQ269278251	hyperion
+PQ266698941	hyperion
+PQ266059811	hyperion
+PQ266051371	hyperion
+PQ494555281	hyperion
+PQ264251441	hyperion
+PQ264312401	hyperion
+PQ264312761	hyperion
+PQ507882931	hyperion
+PQ260479701	hyperion
+PQ259544031	hyperion
+PQ256956801	hyperion
+PQ256953881	hyperion
+PQ256957601	hyperion
+PQ254313561	hyperion
+PQ583610761	hyperion
+PQ247795851	hyperion
+PQ247789031	hyperion
+PQ339168401	data mart OR data marts OR datamart OR datamarts
+PQ86764215	meta data OR metadata
+PQ73446186	meta data OR metadata
+PQ47850251	data warehouse OR datawarehouse OR data warehouses OR datawarehouses
+PQ495884211	data warehouse OR datawarehouse OR data warehouses OR datawarehouses
+PQ64898362	data warehouse OR datawarehouse OR data warehouses OR datawarehouses
+PQ64717670	data warehouse OR datawarehouse OR data warehouses OR datawarehouses
+PQ63292333	data warehouse OR datawarehouse OR data warehouses OR datawarehouses
+PQ480648971	data warehouse OR datawarehouse OR data warehouses OR datawarehouses
+PQ60911041	data warehouse OR datawarehouse OR data warehouses OR datawarehouses
+PQ56726910	data warehouse OR datawarehouse OR data warehouses OR datawarehouses
+PQ56078230	data warehouse OR datawarehouse OR data warehouses OR datawarehouses
+PQ55429212	data warehouse OR datawarehouse OR data warehouses OR datawarehouses
+PQ53131377	data warehouse OR datawarehouse OR data warehouses OR datawarehouses
+PQ52980501	data warehouse OR datawarehouse OR data warehouses OR datawarehouses
+PQ52666208	data warehouse OR datawarehouse OR data warehouses OR datawarehouses
+PQ52503158	data warehouse OR datawarehouse OR data warehouses OR datawarehouses
+PQ52288052	data warehouse OR datawarehouse OR data warehouses OR datawarehouses
+PQ52047670	data warehouse OR datawarehouse OR data warehouses OR datawarehouses
+PQ51995749	data warehouse OR datawarehouse OR data warehouses OR datawarehouses
+PQ50951473	data warehouse OR datawarehouse OR data warehouses OR datawarehouses
+PQ50162815	data warehouse OR datawarehouse OR data warehouses OR datawarehouses
+PQ49826337	data warehouse OR datawarehouse OR data warehouses OR datawarehouses
+PQ49114395	data warehouse OR datawarehouse OR data warehouses OR datawarehouses
+PQ48339648	data warehouse OR datawarehouse OR data warehouses OR datawarehouses
+PQ1308841491	text mining OR textmining
+PQ1204439471	text mining OR textmining
+PQ1185580911	data warehouse OR datawarehouse OR data warehouses OR datawarehouses
+PQ1222200701	data warehouse OR datawarehouse OR data warehouses OR datawarehouses
+PQ1183515851	data warehouse OR datawarehouse OR data warehouses OR datawarehouses
+PQ1181743391	data warehouse OR datawarehouse OR data warehouses OR datawarehouses
+PQ1178196591	data warehouse OR datawarehouse OR data warehouses OR datawarehouses
+PQ1174138011	data warehouse OR datawarehouse OR data warehouses OR datawarehouses
+PQ1169885601	data warehouse OR datawarehouse OR data warehouses OR datawarehouses
+PQ1182128201	data warehouse OR datawarehouse OR data warehouses OR datawarehouses
+PQ1160771001	data warehouse OR datawarehouse OR data warehouses OR datawarehouses
+PQ1147973221	data warehouse OR datawarehouse OR data warehouses OR datawarehouses
+PQ1127061151	data warehouse OR datawarehouse OR data warehouses OR datawarehouses
+PQ1122091261	data warehouse OR datawarehouse OR data warehouses OR datawarehouses
+PQ1114936221	data warehouse OR datawarehouse OR data warehouses OR datawarehouses
+PQ1092384521	data warehouse OR datawarehouse OR data warehouses OR datawarehouses
+PQ1087322821	data warehouse OR datawarehouse OR data warehouses OR datawarehouses
+PQ1087345371	data warehouse OR datawarehouse OR data warehouses OR datawarehouses
+PQ1074124851	data warehouse OR datawarehouse OR data warehouses OR datawarehouses
+PQ1066269611	data warehouse OR datawarehouse OR data warehouses OR datawarehouses
+PQ1047998151	data warehouse OR datawarehouse OR data warehouses OR datawarehouses
+PQ1046657151	data warehouse OR datawarehouse OR data warehouses OR datawarehouses
+PQ1041166541	data warehouse OR datawarehouse OR data warehouses OR datawarehouses
+PQ1036713991	data warehouse OR datawarehouse OR data warehouses OR datawarehouses
+PQ1036715341	data warehouse OR datawarehouse OR data warehouses OR datawarehouses
+PQ1029503681	data warehouse OR datawarehouse OR data warehouses OR datawarehouses
+PQ1095678741	data warehouse OR datawarehouse OR data warehouses OR datawarehouses
+PQ1096031951	data warehouse OR datawarehouse OR data warehouses OR datawarehouses
+PQ1021812101	data warehouse OR datawarehouse OR data warehouses OR datawarehouses
+PQ1011517621	data warehouse OR datawarehouse OR data warehouses OR datawarehouses
+PQ999090211	data warehouse OR datawarehouse OR data warehouses OR datawarehouses
+PQ983509181	data warehouse OR datawarehouse OR data warehouses OR datawarehouses
+PQ983841201	data warehouse OR datawarehouse OR data warehouses OR datawarehouses
+PQ977992221	data warehouse OR datawarehouse OR data warehouses OR datawarehouses
+PQ970849091	data warehouse OR datawarehouse OR data warehouses OR datawarehouses
+PQ970849051	data warehouse OR datawarehouse OR data warehouses OR datawarehouses
+PQ90255212	business process reengineering OR business processes reengineering OR BPR
+PQ87495752	business process reengineering OR business processes reengineering OR BPR
+PQ85313567	business process reengineering OR business processes reengineering OR BPR
+PQ82644770	business process reengineering OR business processes reengineering OR BPR
+PQ82392469	business process reengineering OR business processes reengineering OR BPR
+PQ1161068011	predictive analytics
+PQ1121769631	predictive analytics
+PQ1070675551	predictive analytics
+PQ905366271	decision support system OR decision support systems
+PQ850680101	decision support system OR decision support systems
+PQ845580011	decision support system OR decision support systems
+PQ805011111	decision support system OR decision support systems
+PQ822246471	decision support system OR decision support systems
+PQ790656841	decision support system OR decision support systems
+PQ784188231	decision support system OR decision support systems
+PQ60675972	electronic data interchange OR eData interchange OR edata interchange OR e data interchange
+PQ60363875	electronic data interchange OR eData interchange OR edata interchange OR e data interchange
+PQ59244322	electronic data interchange OR eData interchange OR edata interchange OR e data interchange
+PQ56507339	electronic data interchange OR eData interchange OR edata interchange OR e data interchange
+PQ54309545	electronic data interchange OR eData interchange OR edata interchange OR e data interchange
+PQ54016055	electronic data interchange OR eData interchange OR edata interchange OR e data interchange
+PQ52829346	electronic data interchange OR eData interchange OR edata interchange OR e data interchange
+PQ52210926	electronic data interchange OR eData interchange OR edata interchange OR e data interchange
+PQ52210924	electronic data interchange OR eData interchange OR edata interchange OR e data interchange
+PQ52210928	electronic data interchange OR eData interchange OR edata interchange OR e data interchange
+PQ52131065	electronic data interchange OR eData interchange OR edata interchange OR e data interchange
+PQ50743905	electronic data interchange OR eData interchange OR edata interchange OR e data interchange
+PQ50437178	electronic data interchange OR eData interchange OR edata interchange OR e data interchange
+PQ50418669	electronic data interchange OR eData interchange OR edata interchange OR e data interchange
+PQ50414515	electronic data interchange OR eData interchange OR edata interchange OR e data interchange
+PQ50346396	electronic data interchange OR eData interchange OR edata interchange OR e data interchange
+PQ48604529	electronic data interchange OR eData interchange OR edata interchange OR e data interchange
+PQ48304061	electronic data interchange OR eData interchange OR edata interchange OR e data interchange
+PQ47975161	electronic data interchange OR eData interchange OR edata interchange OR e data interchange
+PQ491042761	electronic data interchange OR eData interchange OR edata interchange OR e data interchange
+PQ1518674701	decision support system OR decision support systems
+PQ1516332441	decision support system OR decision support systems
+PQ1498919421	decision support system OR decision support systems
+PQ1450201711	decision support system OR decision support systems
+PQ1434732261	decision support system OR decision support systems
+PQ882010611	text mining OR textmining
+PQ896267411	text mining OR textmining
+PQ896272911	text mining OR textmining
+PQ1326859181	meta data OR metadata
+PQ1311678171	meta data OR metadata
+PQ1311684461	meta data OR metadata
+PQ1301868711	meta data OR metadata
+PQ1274935111	meta data OR metadata
+PQ1266892821	meta data OR metadata
+PQ1267024181	meta data OR metadata
+PQ1222373391	meta data OR metadata
+PQ1219149661	meta data OR metadata
+PQ64926484	data warehousing OR datawarehousing
+PQ62841746	data warehousing OR datawarehousing
+PQ60946821	data warehousing OR datawarehousing
+PQ60911041	data warehousing OR datawarehousing
+PQ59244265	data warehousing OR datawarehousing
+PQ59138017	data warehousing OR datawarehousing
+PQ58945398	data warehousing OR datawarehousing
+PQ58381572	data warehousing OR datawarehousing
+PQ468238381	data warehousing OR datawarehousing
+PQ52980501	data warehousing OR datawarehousing
+PQ52829346	data warehousing OR datawarehousing
+PQ54171006	data warehousing OR datawarehousing
+PQ52666208	data warehousing OR datawarehousing
+PQ52563004	data warehousing OR datawarehousing
+PQ52503215	data warehousing OR datawarehousing
+PQ54170982	data warehousing OR datawarehousing
+PQ54171086	data warehousing OR datawarehousing
+PQ48597532	data warehousing OR datawarehousing
+PQ48385062	data warehousing OR datawarehousing
+PQ48339648	data warehousing OR datawarehousing
+PQ483148211	data warehousing OR datawarehousing
+PQ47602449	data warehousing OR datawarehousing
+PQ482240311	data warehousing OR datawarehousing
+PQ714761311	predictive analytics
+PQ515389031	business process reengineering OR business processes reengineering OR BPR
+PQ500782071	business process reengineering OR business processes reengineering OR BPR
+PQ611045411	business process reengineering OR business processes reengineering OR BPR
+PQ621164491	business process reengineering OR business processes reengineering OR BPR
+PQ391232901	business process reengineering OR business processes reengineering OR BPR
+PQ378963991	business process reengineering OR business processes reengineering OR BPR
+PQ378963991	business process reengineering OR business processes reengineering OR BPR
+PQ1939542231	knowledge management
+PQ1921904291	knowledge management
+PQ1923814521	knowledge management
+PQ1944589401	knowledge management
+PQ1886259261	knowledge management
+PQ1871603221	knowledge management
+PQ1867320041	knowledge management
+PQ1846940631	knowledge management
+PQ1807707791	knowledge management
+PQ1686036081	knowledge management
+PQ1682544751	knowledge management
+PQ1660168951	knowledge management
+PQ1660168991	knowledge management
+PQ1660168991	knowledge management
+PQ894502421	data mart OR data marts OR datamart OR datamarts
+PQ844280441	business performance management OR business performances management
+PQ1322949801	electronic data interchange OR eData interchange OR edata interchange OR e data interchange
+PQ1538567561	text mining OR textmining
+PQ1487797881	text mining OR textmining
+PQ1434833141	text mining OR textmining
+PQ1419438281	text mining OR textmining
+PQ516154611	knowledge management
+PQ493194541	knowledge management
+PQ487610241	knowledge management
+PQ405287591	knowledge management
+PQ383585491	knowledge management
+PQ372631711	knowledge management
+PQ480556201	knowledge management
+PQ345578791	knowledge management
+PQ297643101	knowledge management
+PQ274730191	knowledge management
+PQ75423559	business analytics
+PQ1395696821	competitive intelligence
+PQ1404059991	competitive intelligence
+PQ1380780911	competitive intelligence
+PQ1370246601	competitive intelligence
+PQ1374816411	competitive intelligence
+PQ1360084701	competitive intelligence
+PQ1325974841	competitive intelligence
+PQ1373232971	competitive intelligence
+PQ1239305081	competitive intelligence
+PQ1597530571	meta data OR metadata
+PQ1585165581	meta data OR metadata
+PQ1578637271	meta data OR metadata
+PQ1579358971	meta data OR metadata
+PQ1480875121	meta data OR metadata
+PQ1468249801	meta data OR metadata
+PQ1454065361	meta data OR metadata
+PQ1454142171	meta data OR metadata
+PQ1438193591	meta data OR metadata
+PQ1426591391	meta data OR metadata
+PQ1409197731	meta data OR metadata
+PQ771236321	cognos
+PQ768559671	cognos
+PQ768619461	cognos
+PQ759726871	cognos
+PQ752328631	cognos
+PQ682810011	cognos
+PQ588601941	cognos
+PQ586176291	cognos
+PQ570259111	cognos
+PQ548387591	cognos
+PQ65613691	cognos
+PQ62992939	cognos
+PQ58067234	cognos
+PQ47707252	cognos
+PQ983178931	hyperion
+PQ952188721	hyperion
+PQ985276021	hyperion
+PQ948028891	hyperion
+PQ948028861	hyperion
+PQ1016326951	hyperion
+PQ947188641	hyperion
+PQ945048491	hyperion
+PQ943018041	hyperion
+PQ942421971	hyperion
+PQ976054181	hyperion
+PQ941750611	hyperion
+PQ939849111	hyperion
+PQ939849311	hyperion
+PQ940075771	hyperion
+PQ939843381	hyperion
+PQ1109982751	hyperion
+PQ939193701	hyperion
+PQ936861291	hyperion
+PQ936658801	hyperion
+PQ936670781	hyperion
+PQ936643401	hyperion
+PQ937582581	hyperion
+PQ936664561	hyperion
+PQ935535811	hyperion
+PQ932668091	hyperion
+PQ932310241	hyperion
+PQ932069491	hyperion
+PQ932069451	hyperion
+PQ932065291	hyperion
+PQ932065321	hyperion
+PQ931475931	hyperion
+PQ929030591	hyperion
+PQ967266451	hyperion
+PQ928333331	hyperion
+PQ926919671	hyperion
+PQ925861601	hyperion
+PQ925638761	hyperion
+PQ925852591	hyperion
+PQ925637861	hyperion
+PQ924143461	hyperion
+PQ923664301	hyperion
+PQ923158061	hyperion
+PQ952164661	hyperion
+PQ939152251	hyperion
+PQ939152231	hyperion
+PQ939133401	hyperion
+PQ947159611	hyperion
+PQ921681461	hyperion
+PQ920747721	hyperion
+PQ918674461	hyperion
+PQ918673891	hyperion
+PQ915579041	hyperion
+PQ915622551	hyperion
+PQ915289731	hyperion
+PQ915322381	hyperion
+PQ915328761	hyperion
+PQ915322421	hyperion
+PQ914605621	hyperion
+PQ913305381	hyperion
+PQ913133081	hyperion
+PQ912742911	hyperion
+PQ911972981	hyperion
+PQ911967741	hyperion
+PQ911972571	hyperion
+PQ912270531	hyperion
+PQ928320241	hyperion
+PQ911288781	hyperion
+PQ911289301	hyperion
+PQ910501931	hyperion
+PQ910501601	hyperion
+PQ910566901	hyperion
+PQ909970031	hyperion
+PQ909263411	hyperion
+PQ909467641	hyperion
+PQ909468221	hyperion
+PQ908839161	hyperion
+PQ908597511	hyperion
+PQ908049711	hyperion
+PQ907247451	hyperion
+PQ907252751	hyperion
+PQ905362911	hyperion
+PQ906255821	hyperion
+PQ905365311	hyperion
+PQ905117551	hyperion
+PQ924437491	hyperion
+PQ904731201	hyperion
+PQ967217911	hyperion
+PQ903970501	hyperion
+PQ903379241	hyperion
+PQ902396951	hyperion
+PQ902136861	hyperion
+PQ902127361	hyperion
+PQ902699351	hyperion
+PQ902130541	hyperion
+PQ902130381	hyperion
+PQ901873951	hyperion
+PQ901463271	hyperion
+PQ899256711	hyperion
+PQ899255911	hyperion
+PQ898214641	hyperion
+PQ898251301	hyperion
+PQ897974721	hyperion
+PQ897975781	hyperion
+PQ901438571	hyperion
+PQ928440761	hyperion
+PQ896288681	hyperion
+PQ895751411	hyperion
+PQ895253021	hyperion
+PQ894742661	hyperion
+PQ894503991	hyperion
+PQ894496021	hyperion
+PQ892077781	hyperion
+PQ892101241	hyperion
+PQ892789591	hyperion
+PQ903975881	hyperion
+PQ890897151	hyperion
+PQ890038131	hyperion
+PQ890071081	hyperion
+PQ889585021	hyperion
+PQ887630921	hyperion
+PQ887640971	hyperion
+PQ887710441	hyperion
+PQ887710371	hyperion
+PQ886638681	hyperion
+PQ886653241	hyperion
+PQ886078511	hyperion
+PQ886060481	hyperion
+PQ911260361	hyperion
+PQ884791931	hyperion
+PQ884800231	hyperion
+PQ884210721	hyperion
+PQ883499511	hyperion
+PQ883016381	hyperion
+PQ881795291	hyperion
+PQ881069161	hyperion
+PQ881144331	hyperion
+PQ880309451	hyperion
+PQ911256271	hyperion
+PQ880332891	hyperion
+PQ879819911	hyperion
+PQ879834371	hyperion
+PQ878564851	hyperion
+PQ877944161	hyperion
+PQ876679461	hyperion
+PQ876685211	hyperion
+PQ876677851	hyperion
+PQ876030581	hyperion
+PQ875485161	hyperion
+PQ875768951	hyperion
+PQ875481301	hyperion
+PQ874871691	hyperion
+PQ873964861	hyperion
+PQ873946941	hyperion
+PQ872380491	hyperion
+PQ871423191	hyperion
+PQ871429131	hyperion
+PQ871416581	hyperion
+PQ871423171	hyperion
+PQ872379841	hyperion
+PQ870683041	hyperion
+PQ869943561	hyperion
+PQ869497371	hyperion
+PQ868978971	hyperion
+PQ1037266851	hyperion
+PQ868529241	hyperion
+PQ868282511	hyperion
+PQ867601751	hyperion
+PQ867761351	hyperion
+PQ866875271	hyperion
+PQ866875221	hyperion
+PQ865780201	hyperion
+PQ865302111	hyperion
+PQ865407721	hyperion
+PQ865086301	hyperion
+PQ864422331	hyperion
+PQ864455591	hyperion
+PQ862665901	hyperion
+PQ862710371	hyperion
+PQ862375281	hyperion
+PQ862176791	hyperion
+PQ861592341	hyperion
+PQ896255151	hyperion
+PQ859243851	hyperion
+PQ859263131	hyperion
+PQ859021911	hyperion
+PQ858342951	hyperion
+PQ858342181	hyperion
+PQ855732921	hyperion
+PQ855724131	hyperion
+PQ855022681	hyperion
+PQ855070451	hyperion
+PQ854145231	hyperion
+PQ852887361	hyperion
+PQ852664061	hyperion
+PQ852663791	hyperion
+PQ851895511	hyperion
+PQ852006731	hyperion
+PQ851436881	hyperion
+PQ850133121	hyperion
+PQ850116821	hyperion
+PQ849623041	hyperion
+PQ849395901	hyperion
+PQ849395801	hyperion
+PQ848780591	hyperion
+PQ848779301	hyperion
+PQ848034861	hyperion
+PQ847488681	hyperion
+PQ846569101	hyperion
+PQ846404731	hyperion
+PQ846587991	hyperion
+PQ845612151	hyperion
+PQ874768991	hyperion
+PQ843788441	hyperion
+PQ843788501	hyperion
+PQ842910731	hyperion
+PQ843835571	hyperion
+PQ842296371	hyperion
+PQ839719381	hyperion
+PQ840037331	hyperion
+PQ838691141	hyperion
+PQ838690391	hyperion
+PQ836939951	hyperion
+PQ867553911	hyperion
+PQ836053441	hyperion
+PQ834610111	hyperion
+PQ834610171	hyperion
+PQ834602121	hyperion
+PQ834610431	hyperion
+PQ833312031	hyperion
+PQ833546191	hyperion
+PQ831624291	hyperion
+PQ831848161	hyperion
+PQ831114551	hyperion
+PQ830246711	hyperion
+PQ830253121	hyperion
+PQ829194501	hyperion
+PQ829194451	hyperion
+PQ826247241	hyperion
+PQ859723801	hyperion
+PQ851176031	hyperion
+PQ825542781	hyperion
+PQ823794721	hyperion
+PQ823125511	hyperion
+PQ845562121	hyperion
+PQ822303171	hyperion
+PQ821506341	hyperion
+PQ821505241	hyperion
+PQ820533351	hyperion
+PQ820533561	hyperion
+PQ819758671	hyperion
+PQ819758581	hyperion
+PQ820009771	hyperion
+PQ818908131	hyperion
+PQ851171271	hyperion
+PQ818296161	hyperion
+PQ818283161	hyperion
+PQ818356441	hyperion
+PQ817633211	hyperion
+PQ816307891	hyperion
+PQ816300301	hyperion
+PQ817514421	hyperion
+PQ815728591	hyperion
+PQ813081591	hyperion
+PQ813759951	hyperion
+PQ812399791	hyperion
+PQ836119131	hyperion
+PQ809926581	hyperion
+PQ810213731	hyperion
+PQ808823961	hyperion
+PQ808608461	hyperion
+PQ806926311	hyperion
+PQ806925601	hyperion
+PQ806925281	hyperion
+PQ807208171	hyperion
+PQ806399891	hyperion
+PQ805508521	hyperion
+PQ805016531	hyperion
+PQ805049421	hyperion
+PQ803677111	hyperion
+PQ803664251	hyperion
+PQ804555871	hyperion
+PQ802751461	hyperion
+PQ804041101	hyperion
+PQ822241771	hyperion
+PQ799868671	hyperion
+PQ799014601	hyperion
+PQ799008031	hyperion
+PQ810317521	hyperion
+PQ798154391	hyperion
+PQ795812961	hyperion
+PQ795445391	hyperion
+PQ797531571	hyperion
+PQ794930641	hyperion
+PQ794252351	hyperion
+PQ792824381	hyperion
+PQ792410371	hyperion
+PQ792202951	hyperion
+PQ797531541	hyperion
+PQ791890651	hyperion
+PQ791142171	hyperion
+PQ790626541	hyperion
+PQ790635951	hyperion
+PQ790656221	hyperion
+PQ790125011	hyperion
+PQ789756161	hyperion
+PQ789424771	hyperion
+PQ789435001	hyperion
+PQ790778321	hyperion
+PQ788426781	hyperion
+PQ788680591	hyperion
+PQ786499831	hyperion
+PQ786244581	hyperion
+PQ786628271	hyperion
+PQ785153631	hyperion
+PQ784132611	hyperion
+PQ784187991	hyperion
+PQ782723801	hyperion
+PQ782723791	hyperion
+PQ803314991	hyperion
+PQ783683221	hyperion
+PQ781909621	hyperion
+PQ780082011	hyperion
+PQ779295051	hyperion
+PQ779295071	hyperion
+PQ779300941	hyperion
+PQ779291291	hyperion
+PQ779587211	hyperion
+PQ778705731	hyperion
+PQ777615761	hyperion
+PQ776490471	hyperion
+PQ777334191	hyperion
+PQ775077541	hyperion
+PQ774086011	hyperion
+PQ773449351	hyperion
+PQ772952351	hyperion
+PQ772955081	hyperion
+PQ774146221	hyperion
+PQ65875362	knowledge management
+PQ65259178	knowledge management
+PQ65028421	knowledge management
+PQ64286979	knowledge management
+PQ64184023	knowledge management
+PQ491105101	knowledge management
+PQ63897185	knowledge management
+PQ62924611	knowledge management
+PQ62840820	knowledge management
+PQ62841905	knowledge management
+PQ62439811	knowledge management
+PQ61541332	knowledge management
+PQ60781103	knowledge management
+PQ58945398	knowledge management
+PQ56767965	knowledge management
+PQ55296571	knowledge management
+PQ55121098	knowledge management
+PQ468238381	knowledge management
+PQ540616351	knowledge management
+PQ53192497	knowledge management
+PQ54171006	knowledge management
+PQ52594883	knowledge management
+PQ482746011	knowledge management
+PQ467913481	knowledge management
+PQ51647183	knowledge management
+PQ51625615	knowledge management
+PQ51524118	knowledge management
+PQ51241980	knowledge management
+PQ581210801	knowledge management
+PQ54171088	knowledge management
+PQ49345308	knowledge management
+PQ49341472	knowledge management
+PQ50935510	knowledge management
+PQ97470941	data warehouse OR datawarehouse OR data warehouses OR datawarehouses
+PQ96550676	data warehouse OR datawarehouse OR data warehouses OR datawarehouses
+PQ94201128	data warehouse OR datawarehouse OR data warehouses OR datawarehouses
+PQ89169463	data warehouse OR datawarehouse OR data warehouses OR datawarehouses
+PQ83274246	data warehouse OR datawarehouse OR data warehouses OR datawarehouses
+PQ78922515	data warehouse OR datawarehouse OR data warehouses OR datawarehouses
+PQ77186067	data warehouse OR datawarehouse OR data warehouses OR datawarehouses
+PQ74588463	data warehouse OR datawarehouse OR data warehouses OR datawarehouses
+PQ74289240	data warehouse OR datawarehouse OR data warehouses OR datawarehouses
+PQ73924045	data warehouse OR datawarehouse OR data warehouses OR datawarehouses
+PQ71959517	data warehouse OR datawarehouse OR data warehouses OR datawarehouses
+PQ71934530	data warehouse OR datawarehouse OR data warehouses OR datawarehouses
+PQ71650261	data warehouse OR datawarehouse OR data warehouses OR datawarehouses
+PQ68922629	data warehouse OR datawarehouse OR data warehouses OR datawarehouses
+PQ65923343	data warehouse OR datawarehouse OR data warehouses OR datawarehouses
+PQ1944585311	data warehousing OR datawarehousing
+PQ1929335861	data warehousing OR datawarehousing
+PQ1777255641	data warehousing OR datawarehousing
+PQ1781380921	data warehousing OR datawarehousing
+PQ1707752021	data warehousing OR datawarehousing
+PQ1682572031	data warehousing OR datawarehousing
+PQ1681636251	data warehousing OR datawarehousing
+PQ1311410731	business process reengineering OR business processes reengineering OR BPR
+PQ1015729161	online analytical processing OR online analytical processing OR OLAP
+PQ65613691	business intelligence OR business intelligences OR business intelligent
+PQ467975281	business intelligence OR business intelligences OR business intelligent
+PQ65073384	business intelligence OR business intelligences OR business intelligent
+PQ491018701	business intelligence OR business intelligences OR business intelligent
+PQ64669223	business intelligence OR business intelligences OR business intelligent
+PQ482652901	business intelligence OR business intelligences OR business intelligent
+PQ63412070	business intelligence OR business intelligences OR business intelligent
+PQ482688651	business intelligence OR business intelligences OR business intelligent
+PQ480648971	business intelligence OR business intelligences OR business intelligent
+PQ62795544	business intelligence OR business intelligences OR business intelligent
+PQ62739756	business intelligence OR business intelligences OR business intelligent
+PQ62739770	business intelligence OR business intelligences OR business intelligent
+PQ62734436	business intelligence OR business intelligences OR business intelligent
+PQ62733587	business intelligence OR business intelligences OR business intelligent
+PQ62615975	business intelligence OR business intelligences OR business intelligent
+PQ62518403	business intelligence OR business intelligences OR business intelligent
+PQ62508877	business intelligence OR business intelligences OR business intelligent
+PQ493583231	business intelligence OR business intelligences OR business intelligent
+PQ59138017	business intelligence OR business intelligences OR business intelligent
+PQ58545632	business intelligence OR business intelligences OR business intelligent
+PQ468874561	business intelligence OR business intelligences OR business intelligent
+PQ58067234	business intelligence OR business intelligences OR business intelligent
+PQ481822031	business intelligence OR business intelligences OR business intelligent
+PQ56278441	business intelligence OR business intelligences OR business intelligent
+PQ56278422	business intelligence OR business intelligences OR business intelligent
+PQ56024583	business intelligence OR business intelligences OR business intelligent
+PQ495194041	business intelligence OR business intelligences OR business intelligent
+PQ55477804	business intelligence OR business intelligences OR business intelligent
+PQ55296570	business intelligence OR business intelligences OR business intelligent
+PQ54718109	business intelligence OR business intelligences OR business intelligent
+PQ54584827	business intelligence OR business intelligences OR business intelligent
+PQ491762981	business intelligence OR business intelligences OR business intelligent
+PQ480588921	business intelligence OR business intelligences OR business intelligent
+PQ52563004	business intelligence OR business intelligences OR business intelligent
+PQ52104472	business intelligence OR business intelligences OR business intelligent
+PQ51961039	business intelligence OR business intelligences OR business intelligent
+PQ581210701	business intelligence OR business intelligences OR business intelligent
+PQ51086585	business intelligence OR business intelligences OR business intelligent
+PQ49333325	business intelligence OR business intelligences OR business intelligent
+PQ493545711	business intelligence OR business intelligences OR business intelligent
+PQ65661984	data mining OR datamining
+PQ65210214	data mining OR datamining
+PQ64926484	data mining OR datamining
+PQ64669276	data mining OR datamining
+PQ63301268	data mining OR datamining
+PQ62808645	data mining OR datamining
+PQ62846750	data mining OR datamining
+PQ62841746	data mining OR datamining
+PQ62795544	data mining OR datamining
+PQ62765868	data mining OR datamining
+PQ62766157	data mining OR datamining
+PQ62518403	data mining OR datamining
+PQ62517991	data mining OR datamining
+PQ61543220	data mining OR datamining
+PQ495886231	data mining OR datamining
+PQ60911045	data mining OR datamining
+PQ60781075	data mining OR datamining
+PQ60680175	data mining OR datamining
+PQ60675972	data mining OR datamining
+PQ60675981	data mining OR datamining
+PQ60608492	data mining OR datamining
+PQ59762355	data mining OR datamining
+PQ59411614	data mining OR datamining
+PQ59418058	data mining OR datamining
+PQ59391307	data mining OR datamining
+PQ480597411	data mining OR datamining
+PQ59138017	data mining OR datamining
+PQ58381535	data mining OR datamining
+PQ58381533	data mining OR datamining
+PQ57245763	data mining OR datamining
+PQ56994004	data mining OR datamining
+PQ56767747	data mining OR datamining
+PQ56767810	data mining OR datamining
+PQ56758946	data mining OR datamining
+PQ56024583	data mining OR datamining
+PQ55046744	data mining OR datamining
+PQ468238381	data mining OR datamining
+PQ54882087	data mining OR datamining
+PQ54096349	data mining OR datamining
+PQ53539799	data mining OR datamining
+PQ53464602	data mining OR datamining
+PQ53387887	data mining OR datamining
+PQ53266538	data mining OR datamining
+PQ53044231	data mining OR datamining
+PQ52829334	data mining OR datamining
+PQ581209731	data mining OR datamining
+PQ52764375	data mining OR datamining
+PQ52666080	data mining OR datamining
+PQ52704590	data mining OR datamining
+PQ52620658	data mining OR datamining
+PQ52503158	data mining OR datamining
+PQ52482088	data mining OR datamining
+PQ52288052	data mining OR datamining
+PQ52210926	data mining OR datamining
+PQ52104472	data mining OR datamining
+PQ51893133	data mining OR datamining
+PQ51530054	data mining OR datamining
+PQ51524188	data mining OR datamining
+PQ54171086	data mining OR datamining
+PQ51430567	data mining OR datamining
+PQ51327242	data mining OR datamining
+PQ51327288	data mining OR datamining
+PQ51327133	data mining OR datamining
+PQ50752943	data mining OR datamining
+PQ50751490	data mining OR datamining
+PQ50731381	data mining OR datamining
+PQ50709993	data mining OR datamining
+PQ50637104	data mining OR datamining
+PQ50290004	data mining OR datamining
+PQ49792663	data mining OR datamining
+PQ49791262	data mining OR datamining
+PQ49666762	data mining OR datamining
+PQ491029791	data mining OR datamining
+PQ49221692	data mining OR datamining
+PQ48661076	data mining OR datamining
+PQ48383764	data mining OR datamining
+PQ48385269	data mining OR datamining
+PQ48385089	data mining OR datamining
+PQ50935521	data mining OR datamining
+PQ48240617	data mining OR datamining
+PQ47996330	data mining OR datamining
+PQ51090512	data mining OR datamining
+PQ47766586	data mining OR datamining
+PQ47760245	data mining OR datamining
+PQ47760540	data mining OR datamining
+PQ47687217	data mining OR datamining
+PQ47602449	data mining OR datamining
+PQ47603681	data mining OR datamining
+PQ1889375771	meta data OR metadata
+PQ1748572261	meta data OR metadata
+PQ1704394561	meta data OR metadata
+PQ1638538981	meta data OR metadata
+PQ1627822951	decision support system OR decision support systems
+PQ1327589391	decision support system OR decision support systems
+PQ1301026441	decision support system OR decision support systems
+PQ1269729061	decision support system OR decision support systems
+PQ750588801	business performance management OR business performances management
+PQ468225951	online analytical processing OR online analytical processing OR OLAP
+PQ538374551	business intelligence OR business intelligences OR business intelligent
+PQ536719851	business intelligence OR business intelligences OR business intelligent
+PQ536230031	business intelligence OR business intelligences OR business intelligent
+PQ524948951	business intelligence OR business intelligences OR business intelligent
+PQ520938461	business intelligence OR business intelligences OR business intelligent
+PQ765505511	business intelligence OR business intelligences OR business intelligent
+PQ764531251	business intelligence OR business intelligences OR business intelligent
+PQ753366461	business intelligence OR business intelligences OR business intelligent
+PQ753366671	business intelligence OR business intelligences OR business intelligent
+PQ740596241	business intelligence OR business intelligences OR business intelligent
+PQ731175951	business intelligence OR business intelligences OR business intelligent
+PQ731235411	business intelligence OR business intelligences OR business intelligent
+PQ716346901	business intelligence OR business intelligences OR business intelligent
+PQ710850211	business intelligence OR business intelligences OR business intelligent
+PQ690217241	business intelligence OR business intelligences OR business intelligent
+PQ682810011	business intelligence OR business intelligences OR business intelligent
+PQ682305271	business intelligence OR business intelligences OR business intelligent
+PQ681833941	business intelligence OR business intelligences OR business intelligent
+PQ672061331	business intelligence OR business intelligences OR business intelligent
+PQ670995381	business intelligence OR business intelligences OR business intelligent
+PQ664261721	business intelligence OR business intelligences OR business intelligent
+PQ657449781	business intelligence OR business intelligences OR business intelligent
+PQ657459021	business intelligence OR business intelligences OR business intelligent
+PQ654284091	business intelligence OR business intelligences OR business intelligent
+PQ653439091	business intelligence OR business intelligences OR business intelligent
+PQ645557651	business intelligence OR business intelligences OR business intelligent
+PQ637834411	business intelligence OR business intelligences OR business intelligent
+PQ623624241	business intelligence OR business intelligences OR business intelligent
+PQ621890091	business intelligence OR business intelligences OR business intelligent
+PQ591083641	business intelligence OR business intelligences OR business intelligent
+PQ652648951	business intelligence OR business intelligences OR business intelligent
+PQ652648581	business intelligence OR business intelligences OR business intelligent
+PQ545900351	business intelligence OR business intelligences OR business intelligent
+PQ542022611	business intelligence OR business intelligences OR business intelligent
+PQ541042901	business intelligence OR business intelligences OR business intelligent
+PQ1491730931	predictive analytics
+PQ1476885571	predictive analytics
+PQ1467032301	predictive analytics
+PQ1461349611	predictive analytics
+PQ130378681	business performance management OR business performances management
+PQ1187404091	meta data OR metadata
+PQ1173164431	meta data OR metadata
+PQ1132678321	meta data OR metadata
+PQ1131267261	meta data OR metadata
+PQ1093756761	meta data OR metadata
+PQ1063763221	meta data OR metadata
+PQ1061249821	meta data OR metadata
+PQ1058215791	meta data OR metadata
+PQ1150990111	meta data OR metadata
+PQ1037776961	meta data OR metadata
+PQ1076535201	meta data OR metadata
+PQ1015696811	meta data OR metadata
+PQ995762521	meta data OR metadata
+PQ987611731	meta data OR metadata
+PQ986350171	meta data OR metadata
+PQ981439581	meta data OR metadata
+PQ1000608471	meta data OR metadata
+PQ968769291	meta data OR metadata
+PQ257941181	data warehousing OR datawarehousing
+PQ235948551	data warehousing OR datawarehousing
+PQ234948711	data warehousing OR datawarehousing
+PQ230470971	data warehousing OR datawarehousing
+PQ222214111	data warehousing OR datawarehousing
+PQ204842491	data warehousing OR datawarehousing
+PQ167165551	data warehousing OR datawarehousing
+PQ142229391	data warehousing OR datawarehousing
+PQ114729331	data warehousing OR datawarehousing
+PQ110133203	data warehousing OR datawarehousing
+PQ99347831	data warehousing OR datawarehousing
+PQ98438834	data warehousing OR datawarehousing
+PQ1919794911	competitive intelligence
+PQ1846940631	competitive intelligence
+PQ1656237561	competitive intelligence
+PQ1631286371	competitive intelligence
+PQ1598340861	competitive intelligence
+PQ1538763531	competitive intelligence
+PQ1510172131	competitive intelligence
+PQ1470880251	competitive intelligence
+PQ1522606261	competitive intelligence
+PQ1444804811	competitive intelligence
+PQ1444290531	competitive intelligence
+PQ1440192101	competitive intelligence
+PQ1445231471	competitive intelligence
+PQ1425695761	competitive intelligence
+PQ1443231361	competitive intelligence
+PQ339209011	business intelligence OR business intelligences OR business intelligent
+PQ492584041	business intelligence OR business intelligences OR business intelligent
+PQ332284511	business intelligence OR business intelligences OR business intelligent
+PQ495902541	business intelligence OR business intelligences OR business intelligent
+PQ314876081	business intelligence OR business intelligences OR business intelligent
+PQ306221121	business intelligence OR business intelligences OR business intelligent
+PQ495551271	business intelligence OR business intelligences OR business intelligent
+PQ298010691	business intelligence OR business intelligences OR business intelligent
+PQ288431361	business intelligence OR business intelligences OR business intelligent
+PQ282996621	business intelligence OR business intelligences OR business intelligent
+PQ282621681	business intelligence OR business intelligences OR business intelligent
+PQ277528201	business intelligence OR business intelligences OR business intelligent
+PQ274335471	business intelligence OR business intelligences OR business intelligent
+PQ687157871	business intelligence OR business intelligences OR business intelligent
+PQ497007501	business intelligence OR business intelligences OR business intelligent
+PQ612119371	business intelligence OR business intelligences OR business intelligent
+PQ469790731	business intelligence OR business intelligences OR business intelligent
+PQ471691551	business intelligence OR business intelligences OR business intelligent
+PQ450198251	business intelligence OR business intelligences OR business intelligent
+PQ444803851	business intelligence OR business intelligences OR business intelligent
+PQ439062021	business intelligence OR business intelligences OR business intelligent
+PQ435257611	business intelligence OR business intelligences OR business intelligent
+PQ422978471	business intelligence OR business intelligences OR business intelligent
+PQ416597701	business intelligence OR business intelligences OR business intelligent
+PQ612661441	business intelligence OR business intelligences OR business intelligent
+PQ405175431	business intelligence OR business intelligences OR business intelligent
+PQ405173011	business intelligence OR business intelligences OR business intelligent
+PQ399578051	business intelligence OR business intelligences OR business intelligent
+PQ386802161	business intelligence OR business intelligences OR business intelligent
+PQ386388321	business intelligence OR business intelligences OR business intelligent
+PQ383589191	business intelligence OR business intelligences OR business intelligent
+PQ372745391	business intelligence OR business intelligences OR business intelligent
+PQ372744911	business intelligence OR business intelligences OR business intelligent
+PQ370891581	business intelligence OR business intelligences OR business intelligent
+PQ356358481	business intelligence OR business intelligences OR business intelligent
+PQ356358491	business intelligence OR business intelligences OR business intelligent
+PQ355108491	business intelligence OR business intelligences OR business intelligent
+PQ345386661	business intelligence OR business intelligences OR business intelligent
+PQ344961051	business intelligence OR business intelligences OR business intelligent
+PQ343997711	business intelligence OR business intelligences OR business intelligent
+PQ341209101	business intelligence OR business intelligences OR business intelligent
+PQ340346351	business intelligence OR business intelligences OR business intelligent
+PQ340346571	business intelligence OR business intelligences OR business intelligent
+PQ464788131	electronic data interchange OR eData interchange OR edata interchange OR e data interchange
+PQ456736681	electronic data interchange OR eData interchange OR edata interchange OR e data interchange
+PQ453383751	electronic data interchange OR eData interchange OR edata interchange OR e data interchange
+PQ358874861	electronic data interchange OR eData interchange OR edata interchange OR e data interchange
+PQ306759571	electronic data interchange OR eData interchange OR edata interchange OR e data interchange
+PQ468222831	electronic data interchange OR eData interchange OR edata interchange OR e data interchange
+PQ481141461	electronic data interchange OR eData interchange OR edata interchange OR e data interchange
+PQ888379041	business analytics
+PQ1349709631	data warehousing OR datawarehousing
+PQ1346911351	data warehousing OR datawarehousing
+PQ1342276461	data warehousing OR datawarehousing
+PQ1342275391	data warehousing OR datawarehousing
+PQ1341073821	data warehousing OR datawarehousing
+PQ1340475561	data warehousing OR datawarehousing
+PQ1301796121	data warehousing OR datawarehousing
+PQ1272322241	data warehousing OR datawarehousing
+PQ1259282721	data warehousing OR datawarehousing
+PQ1220652301	data warehousing OR datawarehousing
+PQ1204439531	data warehousing OR datawarehousing
+PQ1191258301	data warehousing OR datawarehousing
+PQ1191280041	data warehousing OR datawarehousing
+PQ1191280011	data warehousing OR datawarehousing
+PQ96548751	cognos
+PQ81901049	cognos
+PQ78178195	cognos
+PQ75420056	cognos
+PQ73446145	cognos
+PQ70998165	cognos
+PQ70426077	cognos
+PQ69258405	cognos
+PQ69219891	cognos
+PQ97336824	data mining OR datamining
+PQ96642871	data mining OR datamining
+PQ96550669	data mining OR datamining
+PQ94126946	data mining OR datamining
+PQ94126945	data mining OR datamining
+PQ93458285	data mining OR datamining
+PQ93430210	data mining OR datamining
+PQ92205808	data mining OR datamining
+PQ91621381	data mining OR datamining
+PQ90685839	data mining OR datamining
+PQ481803841	data mining OR datamining
+PQ89679703	data mining OR datamining
+PQ88386682	data mining OR datamining
+PQ88202786	data mining OR datamining
+PQ86914212	data mining OR datamining
+PQ86899734	data mining OR datamining
+PQ86518931	data mining OR datamining
+PQ82381182	data mining OR datamining
+PQ82311572	data mining OR datamining
+PQ81903631	data mining OR datamining
+PQ81901012	data mining OR datamining
+PQ81900988	data mining OR datamining
+PQ80830331	data mining OR datamining
+PQ80188844	data mining OR datamining
+PQ78927676	data mining OR datamining
+PQ78405667	data mining OR datamining
+PQ77780440	data mining OR datamining
+PQ77186067	data mining OR datamining
+PQ77150612	data mining OR datamining
+PQ76615838	data mining OR datamining
+PQ481099131	data mining OR datamining
+PQ76397771	data mining OR datamining
+PQ494151011	data mining OR datamining
+PQ581205171	data mining OR datamining
+PQ75423559	data mining OR datamining
+PQ75082960	data mining OR datamining
+PQ74888934	data mining OR datamining
+PQ74252378	data mining OR datamining
+PQ73933255	data mining OR datamining
+PQ73400809	data mining OR datamining
+PQ491091591	data mining OR datamining
+PQ72962191	data mining OR datamining
+PQ491088321	data mining OR datamining
+PQ72485471	data mining OR datamining
+PQ72007216	data mining OR datamining
+PQ72007203	data mining OR datamining
+PQ72457140	data mining OR datamining
+PQ71665284	data mining OR datamining
+PQ71661048	data mining OR datamining
+PQ71440891	data mining OR datamining
+PQ71343856	data mining OR datamining
+PQ70975544	data mining OR datamining
+PQ70975033	data mining OR datamining
+PQ70568712	data mining OR datamining
+PQ70527430	data mining OR datamining
+PQ70499253	data mining OR datamining
+PQ70499140	data mining OR datamining
+PQ70436526	data mining OR datamining
+PQ495205001	data mining OR datamining
+PQ70005265	data mining OR datamining
+PQ69986857	data mining OR datamining
+PQ69893886	data mining OR datamining
+PQ69846611	data mining OR datamining
+PQ69802956	data mining OR datamining
+PQ69790692	data mining OR datamining
+PQ69739167	data mining OR datamining
+PQ69550613	data mining OR datamining
+PQ69329123	data mining OR datamining
+PQ69225755	data mining OR datamining
+PQ69090545	data mining OR datamining
+PQ494152661	data mining OR datamining
+PQ68898366	data mining OR datamining
+PQ68569872	data mining OR datamining
+PQ68429342	data mining OR datamining
+PQ67989871	data mining OR datamining
+PQ67777286	data mining OR datamining
+PQ67739221	data mining OR datamining
+PQ66260039	data mining OR datamining
+PQ1206447841	text mining OR textmining
+PQ1092030721	text mining OR textmining
+PQ1015729801	text mining OR textmining
+PQ1948042891	hyperion
+PQ1928476291	hyperion
+PQ1938576451	hyperion
+PQ1924930111	hyperion
+PQ1921893121	hyperion
+PQ1921241581	hyperion
+PQ1920224871	hyperion
+PQ1920210771	hyperion
+PQ1920218561	hyperion
+PQ1920221951	hyperion
+PQ1920218531	hyperion
+PQ1929301581	hyperion
+PQ1928302071	hyperion
+PQ1917452311	hyperion
+PQ1929272881	hyperion
+PQ1934599701	hyperion
+PQ1934352051	hyperion
+PQ1929281541	hyperion
+PQ1910224971	hyperion
+PQ1908846921	hyperion
+PQ1905807801	hyperion
+PQ1901037171	hyperion
+PQ1890671791	hyperion
+PQ1890684181	hyperion
+PQ1897930741	hyperion
+PQ1881328911	hyperion
+PQ1877985501	hyperion
+PQ1877367981	hyperion
+PQ1874425641	hyperion
+PQ1881104321	hyperion
+PQ1866609391	hyperion
+PQ1862943321	hyperion
+PQ1876371431	hyperion
+PQ1860589431	hyperion
+PQ1859947451	hyperion
+PQ1859824721	hyperion
+PQ1858774961	hyperion
+PQ1858085521	hyperion
+PQ1857642661	hyperion
+PQ1856956131	hyperion
+PQ1853650861	hyperion
+PQ1853651171	hyperion
+PQ1870279431	hyperion
+PQ1849033731	hyperion
+PQ1848974171	hyperion
+PQ1848974121	hyperion
+PQ1845443731	hyperion
+PQ1840711241	hyperion
+PQ1840608811	hyperion
+PQ1964704391	hyperion
+PQ1877354401	hyperion
+PQ1831034451	hyperion
+PQ1822297771	hyperion
+PQ1811951701	hyperion
+PQ1825627381	hyperion
+PQ1803746921	hyperion
+PQ1803747541	hyperion
+PQ1802311801	hyperion
+PQ1792777181	hyperion
+PQ1789107701	hyperion
+PQ1783804171	hyperion
+PQ1782771041	hyperion
+PQ1782613241	hyperion
+PQ1781365741	hyperion
+PQ1782665821	hyperion
+PQ1779074621	hyperion
+PQ1777442341	hyperion
+PQ1776765611	hyperion
+PQ1776244431	hyperion
+PQ1765651661	hyperion
+PQ1763584361	hyperion
+PQ1763584261	hyperion
+PQ1759733371	hyperion
+PQ1759734001	hyperion
+PQ1758736411	hyperion
+PQ1754278961	hyperion
+PQ1752954331	hyperion
+PQ1789150941	hyperion
+PQ1748590051	hyperion
+PQ1748589921	hyperion
+PQ1746227871	hyperion
+PQ1745787221	hyperion
+PQ1745189181	hyperion
+PQ1762488541	hyperion
+PQ1741289171	hyperion
+PQ1740956301	hyperion
+PQ1740092941	hyperion
+PQ1738275951	hyperion
+PQ1736986101	hyperion
+PQ1737913671	hyperion
+PQ1736113791	hyperion
+PQ1734623991	hyperion
+PQ1733000731	hyperion
+PQ1725200741	hyperion
+PQ1723743391	hyperion
+PQ1723739821	hyperion
+PQ1718911301	hyperion
+PQ1718884031	hyperion
+PQ1714177651	hyperion
+PQ1714188421	hyperion
+PQ1712678291	hyperion
+PQ1712675351	hyperion
+PQ1704492881	hyperion
+PQ1704453471	hyperion
+PQ1696421691	hyperion
+PQ1695367101	hyperion
+PQ1693890441	hyperion
+PQ1689466291	hyperion
+PQ1687119711	hyperion
+PQ1681232901	hyperion
+PQ1680980851	hyperion
+PQ1680980861	hyperion
+PQ1682534791	hyperion
+PQ1677131521	hyperion
+PQ1677295941	hyperion
+PQ1677089751	hyperion
+PQ1675229721	hyperion
+PQ1673978621	hyperion
+PQ1673703721	hyperion
+PQ1673698931	hyperion
+PQ1673312881	hyperion
+PQ1673312811	hyperion
+PQ1672285361	hyperion
+PQ1671470191	hyperion
+PQ1670734081	hyperion
+PQ1670085311	hyperion
+PQ1669356071	hyperion
+PQ1669065321	hyperion
+PQ1668658591	hyperion
+PQ1668658151	hyperion
+PQ1668025541	hyperion
+PQ1667275101	hyperion
+PQ1666619981	hyperion
+PQ1666528241	hyperion
+PQ1665902311	hyperion
+PQ1664944031	hyperion
+PQ1664623451	hyperion
+PQ1664051851	hyperion
+PQ1662627341	hyperion
+PQ1660794251	hyperion
+PQ1659462071	hyperion
+PQ1657236701	hyperion
+PQ1656940301	hyperion
+PQ1654240761	hyperion
+PQ1652956641	hyperion
+PQ1652956531	hyperion
+PQ1652951541	hyperion
+PQ1649328121	hyperion
+PQ1649076671	hyperion
+PQ1646219171	hyperion
+PQ1645552971	hyperion
+PQ1645223361	hyperion
+PQ1645224311	hyperion
+PQ1640632421	hyperion
+PQ1640155981	hyperion
+PQ1636390061	hyperion
+PQ1636390601	hyperion
+PQ1637457401	hyperion
+PQ1636383731	hyperion
+PQ1636064881	hyperion
+PQ1633667501	hyperion
+PQ1632256041	hyperion
+PQ1632256131	hyperion
+PQ1631910191	hyperion
+PQ1631910071	hyperion
+PQ1629997391	hyperion
+PQ1628519831	hyperion
+PQ1628186301	hyperion
+PQ1628161241	hyperion
+PQ1626145131	hyperion
+PQ1624686521	hyperion
+PQ1624695431	hyperion
+PQ1624403861	hyperion
+PQ1624403431	hyperion
+PQ1621441891	hyperion
+PQ1621151941	hyperion
+PQ1620923621	hyperion
+PQ1637885481	hyperion
+PQ1629729841	hyperion
+PQ478781051	decision support system OR decision support systems
+PQ408433931	decision support system OR decision support systems
+PQ345175451	decision support system OR decision support systems
+PQ332357961	decision support system OR decision support systems
+PQ1179035321	data warehousing OR datawarehousing
+PQ1161119801	data warehousing OR datawarehousing
+PQ1161793071	data warehousing OR datawarehousing
+PQ1169504861	data warehousing OR datawarehousing
+PQ1169504861	data warehousing OR datawarehousing
+PQ1090104521	data warehousing OR datawarehousing
+PQ1066269611	data warehousing OR datawarehousing
+PQ1036735101	data warehousing OR datawarehousing
+PQ1033342391	data warehousing OR datawarehousing
+PQ1029506401	data warehousing OR datawarehousing
+PQ1077491921	data warehousing OR datawarehousing
+PQ994340691	data warehousing OR datawarehousing
+PQ988592811	data warehousing OR datawarehousing
+PQ977992241	data warehousing OR datawarehousing
+PQ970848451	data warehousing OR datawarehousing
+PQ970849091	data warehousing OR datawarehousing
+PQ1618863501	data warehousing OR datawarehousing
+PQ1618862591	data warehousing OR datawarehousing
+PQ1496530131	data warehousing OR datawarehousing
+PQ1490064531	data warehousing OR datawarehousing
+PQ1483307061	data warehousing OR datawarehousing
+PQ1461349601	data warehousing OR datawarehousing
+PQ1414716671	data warehousing OR datawarehousing
+PQ1424911741	data warehousing OR datawarehousing
+PQ1619341801	data mining OR datamining
+PQ1604148421	data mining OR datamining
+PQ1603843901	data mining OR datamining
+PQ1611252881	data mining OR datamining
+PQ1611252891	data mining OR datamining
+PQ1597507401	data mining OR datamining
+PQ1597531431	data mining OR datamining
+PQ1589469531	data mining OR datamining
+PQ1584489261	data mining OR datamining
+PQ1583856351	data mining OR datamining
+PQ1582782721	data mining OR datamining
+PQ1581081471	data mining OR datamining
+PQ1573949151	data mining OR datamining
+PQ1569400121	data mining OR datamining
+PQ1584359071	data mining OR datamining
+PQ1561824221	data mining OR datamining
+PQ1561056871	data mining OR datamining
+PQ1555297881	data mining OR datamining
+PQ1554594691	data mining OR datamining
+PQ1553909621	data mining OR datamining
+PQ1553909621	data mining OR datamining
+PQ1564088491	data mining OR datamining
+PQ1536828531	data mining OR datamining
+PQ1535630331	data mining OR datamining
+PQ1524691291	data mining OR datamining
+PQ1522173281	data mining OR datamining
+PQ1518586741	data mining OR datamining
+PQ1517998351	data mining OR datamining
+PQ1508563771	data mining OR datamining
+PQ1507798021	data mining OR datamining
+PQ1506180191	data mining OR datamining
+PQ1503231461	data mining OR datamining
+PQ1502476431	data mining OR datamining
+PQ1495940871	data mining OR datamining
+PQ1488778451	data mining OR datamining
+PQ1487846791	data mining OR datamining
+PQ1486829251	data mining OR datamining
+PQ1484951981	data mining OR datamining
+PQ1483570501	data mining OR datamining
+PQ1480644511	data mining OR datamining
+PQ1480644951	data mining OR datamining
+PQ1477380931	data mining OR datamining
+PQ1476885611	data mining OR datamining
+PQ1469207361	data mining OR datamining
+PQ1467032301	data mining OR datamining
+PQ1465819421	data mining OR datamining
+PQ1464260421	data mining OR datamining
+PQ1448705231	data mining OR datamining
+PQ1446656881	data mining OR datamining
+PQ1461349551	data mining OR datamining
+PQ1443509481	data mining OR datamining
+PQ1440743601	data mining OR datamining
+PQ1434835441	data mining OR datamining
+PQ1433690141	data mining OR datamining
+PQ1448306961	data mining OR datamining
+PQ1427537641	data mining OR datamining
+PQ1425626041	data mining OR datamining
+PQ1423834191	data mining OR datamining
+PQ1432955701	data mining OR datamining
+PQ1416904681	data mining OR datamining
+PQ1416370681	data mining OR datamining
+PQ1411894921	data mining OR datamining
+PQ1409846151	data mining OR datamining
+PQ495900681	meta data OR metadata
+PQ331308671	meta data OR metadata
+PQ281764871	meta data OR metadata
+PQ1618902171	business analytics
+PQ1477475511	business analytics
+PQ94201128	data warehousing OR datawarehousing
+PQ85612048	data warehousing OR datawarehousing
+PQ495198281	data warehousing OR datawarehousing
+PQ82178941	data warehousing OR datawarehousing
+PQ79764260	data warehousing OR datawarehousing
+PQ79097423	data warehousing OR datawarehousing
+PQ75489368	data warehousing OR datawarehousing
+PQ75187284	data warehousing OR datawarehousing
+PQ75183792	data warehousing OR datawarehousing
+PQ75183857	data warehousing OR datawarehousing
+PQ72965880	data warehousing OR datawarehousing
+PQ71737998	data warehousing OR datawarehousing
+PQ71471773	data warehousing OR datawarehousing
+PQ71452932	data warehousing OR datawarehousing
+PQ70909994	data warehousing OR datawarehousing
+PQ70425986	data warehousing OR datawarehousing
+PQ490834411	data warehousing OR datawarehousing
+PQ66677102	data warehousing OR datawarehousing
+PQ65923343	data warehousing OR datawarehousing
+PQ276352841	predictive analytics
+PQ1617993581	hyperion
+PQ1616659821	hyperion
+PQ1615543971	hyperion
+PQ1615521311	hyperion
+PQ1615520351	hyperion
+PQ1615533021	hyperion
+PQ1615250891	hyperion
+PQ1615250791	hyperion
+PQ1611786711	hyperion
+PQ1611770001	hyperion
+PQ1611778521	hyperion
+PQ1611778691	hyperion
+PQ1611447351	hyperion
+PQ1609610311	hyperion
+PQ1608972111	hyperion
+PQ1609002631	hyperion
+PQ1608082271	hyperion
+PQ1608082321	hyperion
+PQ1607754521	hyperion
+PQ1617151631	hyperion
+PQ1603851461	hyperion
+PQ1603538081	hyperion
+PQ1613303591	hyperion
+PQ1601897801	hyperion
+PQ1601897581	hyperion
+PQ1600127561	hyperion
+PQ1599741161	hyperion
+PQ1596950001	hyperion
+PQ1595893661	hyperion
+PQ1595540401	hyperion
+PQ1594049661	hyperion
+PQ1591372801	hyperion
+PQ1590999331	hyperion
+PQ1589066801	hyperion
+PQ1587509861	hyperion
+PQ1587166121	hyperion
+PQ1587153161	hyperion
+PQ1587153491	hyperion
+PQ1586461191	hyperion
+PQ1582787281	hyperion
+PQ1582401871	hyperion
+PQ1578641381	hyperion
+PQ1579243021	hyperion
+PQ1575328721	hyperion
+PQ1571961151	hyperion
+PQ1571687531	hyperion
+PQ1592312611	hyperion
+PQ1576279891	hyperion
+PQ1567301771	hyperion
+PQ1562847801	hyperion
+PQ1562464161	hyperion
+PQ1561788411	hyperion
+PQ1558012311	hyperion
+PQ1558545121	hyperion
+PQ1558077641	hyperion
+PQ1556648861	hyperion
+PQ1555345661	hyperion
+PQ1554315621	hyperion
+PQ1553940901	hyperion
+PQ1553940841	hyperion
+PQ1553940911	hyperion
+PQ1553937621	hyperion
+PQ1575344791	hyperion
+PQ1549577561	hyperion
+PQ1549567151	hyperion
+PQ1549167671	hyperion
+PQ1549167611	hyperion
+PQ1545750261	hyperion
+PQ1545111671	hyperion
+PQ1544700901	hyperion
+PQ1544700781	hyperion
+PQ1567305801	hyperion
+PQ1542557611	hyperion
+PQ1538269841	hyperion
+PQ1538023921	hyperion
+PQ1538022161	hyperion
+PQ1533891061	hyperion
+PQ1533675361	hyperion
+PQ1533342581	hyperion
+PQ1528636901	hyperion
+PQ1528356341	hyperion
+PQ1528030761	hyperion
+PQ1524684141	hyperion
+PQ1524402131	hyperion
+PQ1524399941	hyperion
+PQ1518015511	hyperion
+PQ1518305621	hyperion
+PQ1518005211	hyperion
+PQ1518005801	hyperion
+PQ1518778411	hyperion
+PQ1518006811	hyperion
+PQ1517997511	hyperion
+PQ1515315891	hyperion
+PQ1513656301	hyperion
+PQ1513656341	hyperion
+PQ1513273941	hyperion
+PQ1513985041	hyperion
+PQ1513273931	hyperion
+PQ1509398741	hyperion
+PQ1509292121	hyperion
+PQ1509290351	hyperion
+PQ1509289171	hyperion
+PQ1509289061	hyperion
+PQ1510531601	hyperion
+PQ1509388031	hyperion
+PQ1509112031	hyperion
+PQ1509816261	hyperion
+PQ1505811791	hyperion
+PQ1505551131	hyperion
+PQ1504489641	hyperion
+PQ1540268641	hyperion
+PQ1503227481	hyperion
+PQ1502224581	hyperion
+PQ1501859981	hyperion
+PQ1501859961	hyperion
+PQ1499387831	hyperion
+PQ1498626631	hyperion
+PQ1498281071	hyperion
+PQ1498284931	hyperion
+PQ1517976801	hyperion
+PQ1508659891	hyperion
+PQ1510553451	hyperion
+PQ1496427491	hyperion
+PQ1495288761	hyperion
+PQ1494994841	hyperion
+PQ1494682951	hyperion
+PQ1495429761	hyperion
+PQ1494682941	hyperion
+PQ1494226971	hyperion
+PQ1491434771	hyperion
+PQ1491105801	hyperion
+PQ1491105811	hyperion
+PQ1490493721	hyperion
+PQ1500937981	hyperion
+PQ1487849731	hyperion
+PQ1487846721	hyperion
+PQ1487482031	hyperion
+PQ1487481981	hyperion
+PQ1498415651	hyperion
+PQ1484641631	hyperion
+PQ1484334711	hyperion
+PQ1496206961	hyperion
+PQ1484328671	hyperion
+PQ1483969281	hyperion
+PQ1485076881	hyperion
+PQ1485076871	hyperion
+PQ1483414131	hyperion
+PQ1496869891	hyperion
+PQ1481970921	hyperion
+PQ1481970931	hyperion
+PQ1480440081	hyperion
+PQ1480078591	hyperion
+PQ1480078561	hyperion
+PQ1480078631	hyperion
+PQ1498414021	hyperion
+PQ1479480691	hyperion
+PQ1522762311	hyperion
+PQ1499946061	hyperion
+PQ1477990721	hyperion
+PQ1482341521	hyperion
+PQ1476611251	hyperion
+PQ1476601191	hyperion
+PQ1476601301	hyperion
+PQ1476189701	hyperion
+PQ1477034321	hyperion
+PQ1476189641	hyperion
+PQ1476189711	hyperion
+PQ1475591761	hyperion
+PQ1473783851	hyperion
+PQ1472749301	hyperion
+PQ1472749241	hyperion
+PQ1472434231	hyperion
+PQ1472434241	hyperion
+PQ1473159711	hyperion
+PQ1472434301	hyperion
+PQ1471783521	hyperion
+PQ1480724741	hyperion
+PQ1480720981	hyperion
+PQ1469843991	hyperion
+PQ1468962941	hyperion
+PQ1468714601	hyperion
+PQ1469330741	hyperion
+PQ1467038071	hyperion
+PQ1484538281	hyperion
+PQ1466380181	hyperion
+PQ1466461031	hyperion
+PQ1481785431	hyperion
+PQ1465371731	hyperion
+PQ1465096181	hyperion
+PQ1465096031	hyperion
+PQ1465096021	hyperion
+PQ1464782431	hyperion
+PQ1478277041	hyperion
+PQ1461163151	hyperion
+PQ1460233841	hyperion
+PQ1458286531	hyperion
+PQ1457724921	hyperion
+PQ1456578751	hyperion
+PQ1456607421	hyperion
+PQ1456607071	hyperion
+PQ1454773891	hyperion
+PQ1453753991	hyperion
+PQ1453465381	hyperion
+PQ1452764681	hyperion
+PQ2019201951	hyperion
+PQ1450873831	hyperion
+PQ1449959141	hyperion
+PQ1446599621	hyperion
+PQ1442298611	hyperion
+PQ1439794251	hyperion
+PQ1437309571	hyperion
+PQ1433694761	hyperion
+PQ1433692561	hyperion
+PQ1454406231	hyperion
+PQ1433144911	hyperion
+PQ1426969211	hyperion
+PQ1426651291	hyperion
+PQ1427027881	hyperion
+PQ1425625711	hyperion
+PQ1425625641	hyperion
+PQ1424416841	hyperion
+PQ1432748581	hyperion
+PQ1420666531	hyperion
+PQ1416892541	hyperion
+PQ1415565561	hyperion
+PQ1417638491	hyperion
+PQ1413906631	hyperion
+PQ1413327581	hyperion
+PQ1411832231	hyperion
+PQ1411559101	hyperion
+PQ1408303081	hyperion
+PQ1408041901	hyperion
+PQ1407449521	hyperion
+PQ1577465961	electronic data interchange OR eData interchange OR edata interchange OR e data interchange
+PQ1440972851	electronic data interchange OR eData interchange OR edata interchange OR e data interchange
+PQ1440668631	electronic data interchange OR eData interchange OR edata interchange OR e data interchange
+PQ1440848731	electronic data interchange OR eData interchange OR edata interchange OR e data interchange
+PQ408769641	text mining OR textmining
+PQ339168401	text mining OR textmining
+PQ336655571	text mining OR textmining
+PQ1915144861	data warehouse OR datawarehouse OR data warehouses OR datawarehouses
+PQ1887707481	data warehouse OR datawarehouse OR data warehouses OR datawarehouses
+PQ1883875931	data warehouse OR datawarehouse OR data warehouses OR datawarehouses
+PQ1877031381	data warehouse OR datawarehouse OR data warehouses OR datawarehouses
+PQ1874502441	data warehouse OR datawarehouse OR data warehouses OR datawarehouses
+PQ1868045671	data warehouse OR datawarehouse OR data warehouses OR datawarehouses
+PQ1833332081	data warehouse OR datawarehouse OR data warehouses OR datawarehouses
+PQ1800863431	data warehouse OR datawarehouse OR data warehouses OR datawarehouses
+PQ1789152671	data warehouse OR datawarehouse OR data warehouses OR datawarehouses
+PQ1787293301	data warehouse OR datawarehouse OR data warehouses OR datawarehouses
+PQ1806345931	data warehouse OR datawarehouse OR data warehouses OR datawarehouses
+PQ1776213221	data warehouse OR datawarehouse OR data warehouses OR datawarehouses
+PQ1745739491	data warehouse OR datawarehouse OR data warehouses OR datawarehouses
+PQ1689081421	data warehouse OR datawarehouse OR data warehouses OR datawarehouses
+PQ1670085021	data warehouse OR datawarehouse OR data warehouses OR datawarehouses
+PQ1636598961	data warehouse OR datawarehouse OR data warehouses OR datawarehouses
+PQ1621989031	data warehouse OR datawarehouse OR data warehouses OR datawarehouses
+PQ1620311631	data warehouse OR datawarehouse OR data warehouses OR datawarehouses
+PQ229153771	meta data OR metadata
+PQ224157361	meta data OR metadata
+PQ158155641	meta data OR metadata
+PQ155919971	meta data OR metadata
+PQ406099461	competitive intelligence
+PQ405175431	competitive intelligence
+PQ345770441	competitive intelligence
+PQ322167191	competitive intelligence
+PQ320862221	competitive intelligence
+PQ289761951	competitive intelligence
+PQ1340475611	data mart OR data marts OR datamart OR datamarts
+PQ1302473131	data mart OR data marts OR datamart OR datamarts
+PQ1275841311	data mart OR data marts OR datamart OR datamarts
+PQ1249437551	data mart OR data marts OR datamart OR datamarts
+PQ1243180051	data mart OR data marts OR datamart OR datamarts
+PQ1242529241	data mart OR data marts OR datamart OR datamarts
+PQ497007501	data warehouse OR datawarehouse OR data warehouses OR datawarehouses
+PQ609158001	data warehouse OR datawarehouse OR data warehouses OR datawarehouses
+PQ429740791	data warehouse OR datawarehouse OR data warehouses OR datawarehouses
+PQ372744901	data warehouse OR datawarehouse OR data warehouses OR datawarehouses
+PQ372744901	data warehouse OR datawarehouse OR data warehouses OR datawarehouses
+PQ496018131	data warehouse OR datawarehouse OR data warehouses OR datawarehouses
+PQ333826381	data warehouse OR datawarehouse OR data warehouses OR datawarehouses
+PQ332359541	data warehouse OR datawarehouse OR data warehouses OR datawarehouses
+PQ329642271	data warehouse OR datawarehouse OR data warehouses OR datawarehouses
+PQ307968851	data warehouse OR datawarehouse OR data warehouses OR datawarehouses
+PQ296310351	data warehouse OR datawarehouse OR data warehouses OR datawarehouses
+PQ290922941	data warehouse OR datawarehouse OR data warehouses OR datawarehouses
+PQ287541001	data warehouse OR datawarehouse OR data warehouses OR datawarehouses
+PQ280357851	data warehouse OR datawarehouse OR data warehouses OR datawarehouses
+PQ279325811	data warehouse OR datawarehouse OR data warehouses OR datawarehouses
+PQ277144821	data warehouse OR datawarehouse OR data warehouses OR datawarehouses
+PQ508007351	data warehouse OR datawarehouse OR data warehouses OR datawarehouses
+PQ94310306	competitive intelligence
+PQ93223909	competitive intelligence
+PQ80406842	competitive intelligence
+PQ79875677	competitive intelligence
+PQ79349629	competitive intelligence
+PQ74913078	competitive intelligence
+PQ69575651	competitive intelligence
+PQ768619461	data mining OR datamining
+PQ768062971	data mining OR datamining
+PQ768062421	data mining OR datamining
+PQ759726871	data mining OR datamining
+PQ753366671	data mining OR datamining
+PQ737894141	data mining OR datamining
+PQ735687211	data mining OR datamining
+PQ731301581	data mining OR datamining
+PQ727680831	data mining OR datamining
+PQ727051631	data mining OR datamining
+PQ726826441	data mining OR datamining
+PQ725613761	data mining OR datamining
+PQ723824171	data mining OR datamining
+PQ723907211	data mining OR datamining
+PQ723242011	data mining OR datamining
+PQ723242821	data mining OR datamining
+PQ717589171	data mining OR datamining
+PQ714761341	data mining OR datamining
+PQ714016831	data mining OR datamining
+PQ773181721	data mining OR datamining
+PQ712767251	data mining OR datamining
+PQ710850211	data mining OR datamining
+PQ706365471	data mining OR datamining
+PQ704470211	data mining OR datamining
+PQ784667141	data mining OR datamining
+PQ703638651	data mining OR datamining
+PQ700074871	data mining OR datamining
+PQ697691611	data mining OR datamining
+PQ696938361	data mining OR datamining
+PQ694896171	data mining OR datamining
+PQ694424481	data mining OR datamining
+PQ732449361	data mining OR datamining
+PQ688781481	data mining OR datamining
+PQ678750121	data mining OR datamining
+PQ674106781	data mining OR datamining
+PQ673192771	data mining OR datamining
+PQ669332871	data mining OR datamining
+PQ667191601	data mining OR datamining
+PQ666112361	data mining OR datamining
+PQ665794351	data mining OR datamining
+PQ664269811	data mining OR datamining
+PQ651917711	data mining OR datamining
+PQ651099291	data mining OR datamining
+PQ650650521	data mining OR datamining
+PQ645584211	data mining OR datamining
+PQ644412691	data mining OR datamining
+PQ643120311	data mining OR datamining
+PQ639670131	data mining OR datamining
+PQ638225701	data mining OR datamining
+PQ638225701	data mining OR datamining
+PQ637834641	data mining OR datamining
+PQ671829561	data mining OR datamining
+PQ634175701	data mining OR datamining
+PQ634175701	data mining OR datamining
+PQ624961521	data mining OR datamining
+PQ623406661	data mining OR datamining
+PQ619803221	data mining OR datamining
+PQ617893031	data mining OR datamining
+PQ615925581	data mining OR datamining
+PQ596633041	data mining OR datamining
+PQ595025891	data mining OR datamining
+PQ593605941	data mining OR datamining
+PQ586159831	data mining OR datamining
+PQ580630321	data mining OR datamining
+PQ652647691	data mining OR datamining
+PQ715421671	data mining OR datamining
+PQ575196411	data mining OR datamining
+PQ570239971	data mining OR datamining
+PQ567199371	data mining OR datamining
+PQ548711501	data mining OR datamining
+PQ548036641	data mining OR datamining
+PQ544647211	data mining OR datamining
+PQ538356711	data mining OR datamining
+PQ533327341	data mining OR datamining
+PQ536094231	data mining OR datamining
+PQ527181431	data mining OR datamining
+PQ527180691	data mining OR datamining
+PQ526792541	data mining OR datamining
+PQ526790931	data mining OR datamining
+PQ525792981	data mining OR datamining
+PQ525774621	data mining OR datamining
+PQ525786061	data mining OR datamining
+PQ1867039191	predictive analytics
+PQ1807767881	predictive analytics
+PQ1807727381	predictive analytics
+PQ1807687471	predictive analytics
+PQ1613190401	business process reengineering OR business processes reengineering OR BPR
+PQ1478987581	business process reengineering OR business processes reengineering OR BPR
+PQ1412202641	business process reengineering OR business processes reengineering OR BPR
+PQ1187688741	data mining OR datamining
+PQ1207037621	data mining OR datamining
+PQ1178623211	data mining OR datamining
+PQ1177301481	data mining OR datamining
+PQ1176973031	data mining OR datamining
+PQ1175269721	data mining OR datamining
+PQ1175269911	data mining OR datamining
+PQ1174467301	data mining OR datamining
+PQ1174679831	data mining OR datamining
+PQ1189984321	data mining OR datamining
+PQ1172859051	data mining OR datamining
+PQ1169254941	data mining OR datamining
+PQ1165427491	data mining OR datamining
+PQ1161068011	data mining OR datamining
+PQ1161068011	data mining OR datamining
+PQ1156745871	data mining OR datamining
+PQ1155852451	data mining OR datamining
+PQ1151899881	data mining OR datamining
+PQ1151939011	data mining OR datamining
+PQ1151939011	data mining OR datamining
+PQ1149366891	data mining OR datamining
+PQ1146410901	data mining OR datamining
+PQ1146060111	data mining OR datamining
+PQ1142848121	data mining OR datamining
+PQ1142330251	data mining OR datamining
+PQ1140751731	data mining OR datamining
+PQ1138613321	data mining OR datamining
+PQ1138322651	data mining OR datamining
+PQ1135275531	data mining OR datamining
+PQ1135258001	data mining OR datamining
+PQ1135281591	data mining OR datamining
+PQ1134636701	data mining OR datamining
+PQ1132645611	data mining OR datamining
+PQ1132678011	data mining OR datamining
+PQ1129479921	data mining OR datamining
+PQ1126511831	data mining OR datamining
+PQ1125079261	data mining OR datamining
+PQ1124182511	data mining OR datamining
+PQ1123447271	data mining OR datamining
+PQ1121771291	data mining OR datamining
+PQ1117889631	data mining OR datamining
+PQ1139552371	data mining OR datamining
+PQ1139552371	data mining OR datamining
+PQ1101231221	data mining OR datamining
+PQ1129602591	data mining OR datamining
+PQ1096570051	data mining OR datamining
+PQ1096595721	data mining OR datamining
+PQ1096620091	data mining OR datamining
+PQ1094656421	data mining OR datamining
+PQ1094035191	data mining OR datamining
+PQ1093279031	data mining OR datamining
+PQ1093278501	data mining OR datamining
+PQ1093292921	data mining OR datamining
+PQ1093320561	data mining OR datamining
+PQ1092695991	data mining OR datamining
+PQ1092695851	data mining OR datamining
+PQ1086625001	data mining OR datamining
+PQ1086625511	data mining OR datamining
+PQ1086624271	data mining OR datamining
+PQ1085687301	data mining OR datamining
+PQ1077396591	data mining OR datamining
+PQ1075546301	data mining OR datamining
+PQ1074885281	data mining OR datamining
+PQ1073560701	data mining OR datamining
+PQ1070154941	data mining OR datamining
+PQ1069557611	data mining OR datamining
+PQ1068741781	data mining OR datamining
+PQ1068027081	data mining OR datamining
+PQ1065972041	data mining OR datamining
+PQ1065684581	data mining OR datamining
+PQ1162411531	data mining OR datamining
+PQ1065118181	data mining OR datamining
+PQ1065158031	data mining OR datamining
+PQ1063739811	data mining OR datamining
+PQ1096775871	data mining OR datamining
+PQ1062392171	data mining OR datamining
+PQ1062392171	data mining OR datamining
+PQ1061332361	data mining OR datamining
+PQ1060563871	data mining OR datamining
+PQ1060567981	data mining OR datamining
+PQ1058244511	data mining OR datamining
+PQ1092030721	data mining OR datamining
+PQ1050058131	data mining OR datamining
+PQ1049124231	data mining OR datamining
+PQ1049124851	data mining OR datamining
+PQ1049148481	data mining OR datamining
+PQ1048003051	data mining OR datamining
+PQ1045930921	data mining OR datamining
+PQ1046410501	data mining OR datamining
+PQ1046662861	data mining OR datamining
+PQ1043384291	data mining OR datamining
+PQ1043417991	data mining OR datamining
+PQ1041769041	data mining OR datamining
+PQ1041146101	data mining OR datamining
+PQ1039485121	data mining OR datamining
+PQ1039483371	data mining OR datamining
+PQ1092693421	data mining OR datamining
+PQ1038668211	data mining OR datamining
+PQ1066672421	data mining OR datamining
+PQ1076534811	data mining OR datamining
+PQ1069642931	data mining OR datamining
+PQ1121824041	data mining OR datamining
+PQ1171206871	data mining OR datamining
+PQ1038329821	data mining OR datamining
+PQ1079647061	data mining OR datamining
+PQ1037529251	data mining OR datamining
+PQ1037776961	data mining OR datamining
+PQ1037776561	data mining OR datamining
+PQ1037246121	data mining OR datamining
+PQ1036597571	data mining OR datamining
+PQ1182329771	data mining OR datamining
+PQ1036484261	data mining OR datamining
+PQ1036497251	data mining OR datamining
+PQ1036079691	data mining OR datamining
+PQ1036557821	data mining OR datamining
+PQ1041851831	data mining OR datamining
+PQ1036752901	data mining OR datamining
+PQ1036752991	data mining OR datamining
+PQ1036094551	data mining OR datamining
+PQ1035538061	data mining OR datamining
+PQ1035540271	data mining OR datamining
+PQ1036094571	data mining OR datamining
+PQ1035518961	data mining OR datamining
+PQ1035658681	data mining OR datamining
+PQ1035659101	data mining OR datamining
+PQ1035534611	data mining OR datamining
+PQ1035572761	data mining OR datamining
+PQ1034465291	data mining OR datamining
+PQ1032745871	data mining OR datamining
+PQ1032257461	data mining OR datamining
+PQ1031701621	data mining OR datamining
+PQ1027781411	data mining OR datamining
+PQ1021559551	data mining OR datamining
+PQ1021825931	data mining OR datamining
+PQ1020901631	data mining OR datamining
+PQ1020385701	data mining OR datamining
+PQ1018375181	data mining OR datamining
+PQ1013833191	data mining OR datamining
+PQ1128299511	data mining OR datamining
+PQ1007394711	data mining OR datamining
+PQ1005999041	data mining OR datamining
+PQ1002625361	data mining OR datamining
+PQ1001516611	data mining OR datamining
+PQ999705691	data mining OR datamining
+PQ999090211	data mining OR datamining
+PQ999212011	data mining OR datamining
+PQ997606291	data mining OR datamining
+PQ1015729161	data mining OR datamining
+PQ995715881	data mining OR datamining
+PQ993957001	data mining OR datamining
+PQ993306061	data mining OR datamining
+PQ988582681	data mining OR datamining
+PQ986345531	data mining OR datamining
+PQ983509181	data mining OR datamining
+PQ983815851	data mining OR datamining
+PQ981695551	data mining OR datamining
+PQ981439581	data mining OR datamining
+PQ981511611	data mining OR datamining
+PQ980752141	data mining OR datamining
+PQ1007382471	data mining OR datamining
+PQ977979521	data mining OR datamining
+PQ977703001	data mining OR datamining
+PQ976068871	data mining OR datamining
+PQ975505701	data mining OR datamining
+PQ974906881	data mining OR datamining
+PQ973390881	data mining OR datamining
+PQ991886691	data mining OR datamining
+PQ972279171	data mining OR datamining
+PQ969614241	data mining OR datamining
+PQ992742131	data mining OR datamining
+PQ965253851	data mining OR datamining
+PQ963031151	data mining OR datamining
+PQ959151841	data mining OR datamining
+PQ1015823351	data mining OR datamining
+PQ955586681	data mining OR datamining
+PQ955586681	data mining OR datamining
+PQ953243661	data mining OR datamining
+PQ260740121	knowledge management
+PQ242654551	knowledge management
+PQ239900161	knowledge management
+PQ468004841	knowledge management
+PQ235640111	knowledge management
+PQ230240481	knowledge management
+PQ491125501	knowledge management
+PQ232443081	knowledge management
+PQ491140101	knowledge management
+PQ185939631	knowledge management
+PQ163518701	knowledge management
+PQ491143181	knowledge management
+PQ130653571	knowledge management
+PQ581209001	knowledge management
+PQ125749021	knowledge management
+PQ123916261	knowledge management
+PQ121945593	knowledge management
+PQ120652574	knowledge management
+PQ120587529	knowledge management
+PQ114467976	knowledge management
+PQ113884272	knowledge management
+PQ468180691	knowledge management
+PQ108631948	knowledge management
+PQ103051636	knowledge management
+PQ99618706	knowledge management
+PQ1905807801	business analytics
+PQ1923485031	business analytics
+PQ1819276181	business analytics
+PQ1807727381	business analytics
+PQ1807687471	business analytics
+PQ1746493961	business analytics
+PQ1759734801	business analytics
+PQ1707142971	business analytics
+PQ1706456871	business analytics
+PQ1370298691	business analytics
+PQ1331120181	business analytics
+PQ1308841491	business analytics
+PQ666112361	data mart OR data marts OR datamart OR datamarts
+PQ610439701	data mart OR data marts OR datamart OR datamarts
+PQ812856291	business intelligence OR business intelligences OR business intelligent
+PQ807720541	business intelligence OR business intelligences OR business intelligent
+PQ792793801	business intelligence OR business intelligences OR business intelligent
+PQ792839361	business intelligence OR business intelligences OR business intelligent
+PQ792839361	business intelligence OR business intelligences OR business intelligent
+PQ786480361	business intelligence OR business intelligences OR business intelligent
+PQ786206771	business intelligence OR business intelligences OR business intelligent
+PQ782942931	business intelligence OR business intelligences OR business intelligent
+PQ778032441	business intelligence OR business intelligences OR business intelligent
+PQ778032961	business intelligence OR business intelligences OR business intelligent
+PQ948159991	business intelligence OR business intelligences OR business intelligent
+PQ948031561	business intelligence OR business intelligences OR business intelligent
+PQ947141471	business intelligence OR business intelligences OR business intelligent
+PQ925835151	business intelligence OR business intelligences OR business intelligent
+PQ925837441	business intelligence OR business intelligences OR business intelligent
+PQ915579041	business intelligence OR business intelligences OR business intelligent
+PQ915604111	business intelligence OR business intelligences OR business intelligent
+PQ901463361	business intelligence OR business intelligences OR business intelligent
+PQ888379041	business intelligence OR business intelligences OR business intelligent
+PQ886075161	business intelligence OR business intelligences OR business intelligent
+PQ885094331	business intelligence OR business intelligences OR business intelligent
+PQ882514191	business intelligence OR business intelligences OR business intelligent
+PQ986045951	business intelligence OR business intelligences OR business intelligent
+PQ872379841	business intelligence OR business intelligences OR business intelligent
+PQ862385511	business intelligence OR business intelligences OR business intelligent
+PQ862860851	business intelligence OR business intelligences OR business intelligent
+PQ860406801	business intelligence OR business intelligences OR business intelligent
+PQ855962311	business intelligence OR business intelligences OR business intelligent
+PQ855718341	business intelligence OR business intelligences OR business intelligent
+PQ854146041	business intelligence OR business intelligences OR business intelligent
+PQ852672061	business intelligence OR business intelligences OR business intelligent
+PQ849630321	business intelligence OR business intelligences OR business intelligent
+PQ867556041	business intelligence OR business intelligences OR business intelligent
+PQ846382351	business intelligence OR business intelligences OR business intelligent
+PQ843300321	business intelligence OR business intelligences OR business intelligent
+PQ850676901	business intelligence OR business intelligences OR business intelligent
+PQ833546401	business intelligence OR business intelligences OR business intelligent
+PQ850675461	business intelligence OR business intelligences OR business intelligent
+PQ826468291	business intelligence OR business intelligences OR business intelligent
+PQ821506341	business intelligence OR business intelligences OR business intelligent
+PQ1158315991	knowledge management
+PQ1152867071	knowledge management
+PQ1164969251	knowledge management
+PQ1125375971	knowledge management
+PQ1082021021	knowledge management
+PQ1036753501	knowledge management
+PQ1033343231	knowledge management
+PQ1033343471	knowledge management
+PQ1090872221	knowledge management
+PQ1018376761	knowledge management
+PQ1054595251	knowledge management
+PQ990142581	knowledge management
+PQ990142581	knowledge management
+PQ922580621	meta data OR metadata
+PQ918463551	meta data OR metadata
+PQ939167111	meta data OR metadata
+PQ839975081	meta data OR metadata
+PQ830250851	meta data OR metadata
+PQ825971271	meta data OR metadata
+PQ810175591	meta data OR metadata
+PQ1193354891	business performance management OR business performances management
+PQ279983921	business performance management OR business performances management
+PQ1546688301	data mart OR data marts OR datamart OR datamarts
+PQ1545094331	data mart OR data marts OR datamart OR datamarts
+PQ1537583651	data mart OR data marts OR datamart OR datamarts
+PQ1413896011	knowledge management
+PQ1403194051	knowledge management
+PQ1407817511	knowledge management
+PQ1395693821	knowledge management
+PQ1381823551	knowledge management
+PQ1366007001	knowledge management
+PQ1348334101	knowledge management
+PQ1341142501	knowledge management
+PQ1366742211	knowledge management
+PQ1336167341	knowledge management
+PQ1294708351	knowledge management
+PQ1285889131	knowledge management
+PQ1261787731	knowledge management
+PQ1261787511	knowledge management
+PQ1243194381	knowledge management
+PQ1254379021	knowledge management
+PQ1234486771	knowledge management
+PQ1224772491	knowledge management
+PQ1209467431	knowledge management
+PQ1206501741	knowledge management
+PQ772556371	hyperion
+PQ771214671	hyperion
+PQ773194881	hyperion
+PQ770769261	hyperion
+PQ771378271	hyperion
+PQ770446321	hyperion
+PQ768553161	hyperion
+PQ768226821	hyperion
+PQ768226541	hyperion
+PQ768225791	hyperion
+PQ769043471	hyperion
+PQ769039291	hyperion
+PQ768396381	hyperion
+PQ766912391	hyperion
+PQ765505701	hyperion
+PQ764508921	hyperion
+PQ764494641	hyperion
+PQ763269481	hyperion
+PQ761904341	hyperion
+PQ761899871	hyperion
+PQ762345211	hyperion
+PQ761896771	hyperion
+PQ759802021	hyperion
+PQ759801781	hyperion
+PQ759802201	hyperion
+PQ784138191	hyperion
+PQ784150371	hyperion
+PQ757209721	hyperion
+PQ757117031	hyperion
+PQ757117181	hyperion
+PQ757117161	hyperion
+PQ753402641	hyperion
+PQ753402631	hyperion
+PQ755599701	hyperion
+PQ751250161	hyperion
+PQ750587651	hyperion
+PQ748214631	hyperion
+PQ748214651	hyperion
+PQ747310141	hyperion
+PQ747283101	hyperion
+PQ748453091	hyperion
+PQ745619761	hyperion
+PQ745381601	hyperion
+PQ743244211	hyperion
+PQ740618221	hyperion
+PQ742990061	hyperion
+PQ739856241	hyperion
+PQ741616051	hyperion
+PQ740859401	hyperion
+PQ739843191	hyperion
+PQ738464291	hyperion
+PQ735709601	hyperion
+PQ736742011	hyperion
+PQ734992931	hyperion
+PQ734223611	hyperion
+PQ733316951	hyperion
+PQ731226511	hyperion
+PQ731800541	hyperion
+PQ730556301	hyperion
+PQ727670841	hyperion
+PQ755628761	hyperion
+PQ727479921	hyperion
+PQ727801221	hyperion
+PQ726836531	hyperion
+PQ727858921	hyperion
+PQ727181751	hyperion
+PQ773173931	hyperion
+PQ725634841	hyperion
+PQ721918871	hyperion
+PQ721905931	hyperion
+PQ723476471	hyperion
+PQ719488441	hyperion
+PQ719513311	hyperion
+PQ714736381	hyperion
+PQ714026301	hyperion
+PQ713954551	hyperion
+PQ717443351	hyperion
+PQ713133951	hyperion
+PQ712815601	hyperion
+PQ712027051	hyperion
+PQ710851651	hyperion
+PQ755629851	hyperion
+PQ710872691	hyperion
+PQ710187161	hyperion
+PQ710177911	hyperion
+PQ710165821	hyperion
+PQ710635701	hyperion
+PQ709312251	hyperion
+PQ709334271	hyperion
+PQ755620131	hyperion
+PQ708620851	hyperion
+PQ707875361	hyperion
+PQ707054731	hyperion
+PQ707097761	hyperion
+PQ705396891	hyperion
+PQ706607111	hyperion
+PQ703637731	hyperion
+PQ699801231	hyperion
+PQ699796781	hyperion
+PQ699798601	hyperion
+PQ700934341	hyperion
+PQ732432911	hyperion
+PQ698772891	hyperion
+PQ694898761	hyperion
+PQ694898601	hyperion
+PQ694423721	hyperion
+PQ693607111	hyperion
+PQ693786251	hyperion
+PQ732404871	hyperion
+PQ690920361	hyperion
+PQ691172111	hyperion
+PQ732411031	hyperion
+PQ690238031	hyperion
+PQ688508481	hyperion
+PQ688293661	hyperion
+PQ689815791	hyperion
+PQ687730341	hyperion
+PQ704516301	hyperion
+PQ685239421	hyperion
+PQ684996091	hyperion
+PQ686459971	hyperion
+PQ683823531	hyperion
+PQ681847001	hyperion
+PQ681542431	hyperion
+PQ681529521	hyperion
+PQ682330771	hyperion
+PQ680840231	hyperion
+PQ680289231	hyperion
+PQ679872701	hyperion
+PQ678764631	hyperion
+PQ678760141	hyperion
+PQ679199671	hyperion
+PQ678203381	hyperion
+PQ677454351	hyperion
+PQ676555401	hyperion
+PQ676555411	hyperion
+PQ675883601	hyperion
+PQ675883771	hyperion
+PQ677117901	hyperion
+PQ674841031	hyperion
+PQ674088031	hyperion
+PQ703586891	hyperion
+PQ672060851	hyperion
+PQ676177521	hyperion
+PQ671582191	hyperion
+PQ670602431	hyperion
+PQ670024291	hyperion
+PQ669551981	hyperion
+PQ669345201	hyperion
+PQ672767171	hyperion
+PQ668359521	hyperion
+PQ667204471	hyperion
+PQ666768651	hyperion
+PQ665228891	hyperion
+PQ664271621	hyperion
+PQ664287711	hyperion
+PQ662423091	hyperion
+PQ661386131	hyperion
+PQ665848321	hyperion
+PQ660616471	hyperion
+PQ659514021	hyperion
+PQ659005631	hyperion
+PQ658484471	hyperion
+PQ657941151	hyperion
+PQ657993551	hyperion
+PQ657460911	hyperion
+PQ657450151	hyperion
+PQ657458111	hyperion
+PQ656742261	hyperion
+PQ656643531	hyperion
+PQ656036141	hyperion
+PQ655785941	hyperion
+PQ655785971	hyperion
+PQ655789221	hyperion
+PQ656195401	hyperion
+PQ655557941	hyperion
+PQ655226111	hyperion
+PQ653439361	hyperion
+PQ653470791	hyperion
+PQ653470011	hyperion
+PQ653246921	hyperion
+PQ653246931	hyperion
+PQ653246941	hyperion
+PQ654416291	hyperion
+PQ652426151	hyperion
+PQ652505501	hyperion
+PQ651496041	hyperion
+PQ651090811	hyperion
+PQ650433701	hyperion
+PQ650429271	hyperion
+PQ652776281	hyperion
+PQ649830501	hyperion
+PQ649858451	hyperion
+PQ649859401	hyperion
+PQ651216451	hyperion
+PQ648952791	hyperion
+PQ647386531	hyperion
+PQ647031361	hyperion
+PQ647019571	hyperion
+PQ648984601	hyperion
+PQ646056131	hyperion
+PQ646056131	hyperion
+PQ643935271	hyperion
+PQ643935241	hyperion
+PQ643932111	hyperion
+PQ645259861	hyperion
+PQ643932191	hyperion
+PQ675675361	hyperion
+PQ643656571	hyperion
+PQ640547581	hyperion
+PQ640331291	hyperion
+PQ640331281	hyperion
+PQ643193761	hyperion
+PQ640327691	hyperion
+PQ639700431	hyperion
+PQ638238291	hyperion
+PQ637566911	hyperion
+PQ637841711	hyperion
+PQ639823221	hyperion
+PQ637333901	hyperion
+PQ637019011	hyperion
+PQ636280741	hyperion
+PQ635712461	hyperion
+PQ635764411	hyperion
+PQ635141821	hyperion
+PQ632266991	hyperion
+PQ632267001	hyperion
+PQ635413351	hyperion
+PQ629799091	hyperion
+PQ629827461	hyperion
+PQ628224481	hyperion
+PQ627683861	hyperion
+PQ626284511	hyperion
+PQ627500531	hyperion
+PQ626281151	hyperion
+PQ635413331	hyperion
+PQ655578921	hyperion
+PQ625635411	hyperion
+PQ624604711	hyperion
+PQ624526031	hyperion
+PQ623887081	hyperion
+PQ623414211	hyperion
+PQ623864531	hyperion
+PQ622911401	hyperion
+PQ621943161	hyperion
+PQ620480351	hyperion
+PQ619813301	hyperion
+PQ621158831	hyperion
+PQ621161601	hyperion
+PQ618527201	hyperion
+PQ617919421	hyperion
+PQ616648161	hyperion
+PQ615924941	hyperion
+PQ615463321	hyperion
+PQ615462141	hyperion
+PQ616341661	hyperion
+PQ613050431	hyperion
+PQ610476751	hyperion
+PQ608079991	hyperion
+PQ604635911	hyperion
+PQ604635891	hyperion
+PQ608067121	hyperion
+PQ609350121	hyperion
+PQ599485061	hyperion
+PQ594755491	hyperion
+PQ591079291	hyperion
+PQ591068681	hyperion
+PQ594388221	hyperion
+PQ590642321	hyperion
+PQ589625691	hyperion
+PQ589682381	hyperion
+PQ587222061	hyperion
+PQ585136341	hyperion
+PQ584145161	hyperion
+PQ584145141	hyperion
+PQ584139111	hyperion
+PQ585186571	hyperion
+PQ581958861	hyperion
+PQ578208081	hyperion
+PQ578208111	hyperion
+PQ579621431	hyperion
+PQ578178461	hyperion
+PQ579183131	hyperion
+PQ576239871	hyperion
+PQ576278301	hyperion
+PQ575227851	hyperion
+PQ573748691	hyperion
+PQ572727471	hyperion
+PQ572519561	hyperion
+PQ572519571	hyperion
+PQ574026621	hyperion
+PQ572516561	hyperion
+PQ573988181	hyperion
+PQ571245031	hyperion
+PQ569146181	hyperion
+PQ652561391	hyperion
+PQ569143841	hyperion
+PQ652584771	hyperion
+PQ567198001	hyperion
+PQ562846641	hyperion
+PQ622339431	hyperion
+PQ565808491	hyperion
+PQ551989081	hyperion
+PQ550305681	hyperion
+PQ548390051	hyperion
+PQ548386611	hyperion
+PQ548860381	hyperion
+PQ547628791	hyperion
+PQ546815951	hyperion
+PQ545915951	hyperion
+PQ545253161	hyperion
+PQ546044631	hyperion
+PQ544647471	hyperion
+PQ544144791	hyperion
+PQ543352551	hyperion
+PQ541995111	hyperion
+PQ540887101	hyperion
+PQ541043011	hyperion
+PQ540341841	hyperion
+PQ541250031	hyperion
+PQ538374081	hyperion
+PQ537395571	hyperion
+PQ622380041	hyperion
+PQ535582861	hyperion
+PQ535952031	hyperion
+PQ622560161	hyperion
+PQ622385031	hyperion
+PQ534312651	hyperion
+PQ534622441	hyperion
+PQ530443681	hyperion
+PQ530941841	hyperion
+PQ528242621	hyperion
+PQ525787101	hyperion
+PQ526134961	hyperion
+PQ525082791	hyperion
+PQ525183661	hyperion
+PQ524803311	hyperion
+PQ523819991	hyperion
+PQ523124521	hyperion
+PQ523124511	hyperion
+PQ523990261	hyperion
+PQ622565211	hyperion
+PQ522617961	hyperion
+PQ521357721	hyperion
+PQ521357701	hyperion
+PQ521544161	hyperion
+PQ520951421	hyperion
+PQ520951411	hyperion
+PQ520951361	hyperion
+PQ520943401	hyperion
+PQ520785861	hyperion
+PQ520350271	hyperion
+PQ520360651	hyperion
+PQ520190341	hyperion
+PQ1412815861	cognos
+PQ1516575801	cognos
+PQ1502560911	cognos
+PQ1474114731	cognos
+PQ1470607701	cognos
+PQ1463767521	cognos
+PQ1436106311	cognos
+PQ1416280521	cognos
+PQ115195666	text mining OR textmining
+PQ1612114421	knowledge management
+PQ1603043021	knowledge management
+PQ1598057181	knowledge management
+PQ1598340851	knowledge management
+PQ1581828571	knowledge management
+PQ1591735751	knowledge management
+PQ1571963791	knowledge management
+PQ1582626641	knowledge management
+PQ1582383961	knowledge management
+PQ1582384091	knowledge management
+PQ1533340461	knowledge management
+PQ1525213361	knowledge management
+PQ1496172861	knowledge management
+PQ1464501891	knowledge management
+PQ1463725441	knowledge management
+PQ1459716971	knowledge management
+PQ1456021321	knowledge management
+PQ1442818651	knowledge management
+PQ1442818591	knowledge management
+PQ1438197851	knowledge management
+PQ1413896011	knowledge management
+PQ432355151	cognos
+PQ411409771	cognos
+PQ386802161	cognos
+PQ386388321	cognos
+PQ370891581	cognos
+PQ355762411	cognos
+PQ350159811	cognos
+PQ321195781	cognos
+PQ288431361	cognos
+PQ753366411	electronic data interchange OR eData interchange OR edata interchange OR e data interchange
+PQ784675781	electronic data interchange OR eData interchange OR edata interchange OR e data interchange
+PQ735687211	electronic data interchange OR eData interchange OR edata interchange OR e data interchange
+PQ719491571	electronic data interchange OR eData interchange OR edata interchange OR e data interchange
+PQ608048991	electronic data interchange OR eData interchange OR edata interchange OR e data interchange
+PQ548703021	electronic data interchange OR eData interchange OR edata interchange OR e data interchange
+PQ536144121	electronic data interchange OR eData interchange OR edata interchange OR e data interchange
+PQ529432491	electronic data interchange OR eData interchange OR edata interchange OR e data interchange
+PQ782952021	online analytical processing OR online analytical processing OR OLAP
+PQ784653961	data warehousing OR datawarehousing
+PQ725635691	data warehousing OR datawarehousing
+PQ711478701	data warehousing OR datawarehousing
+PQ711595641	data warehousing OR datawarehousing
+PQ710392451	data warehousing OR datawarehousing
+PQ702547751	data warehousing OR datawarehousing
+PQ696938361	data warehousing OR datawarehousing
+PQ696938361	data warehousing OR datawarehousing
+PQ688113921	data warehousing OR datawarehousing
+PQ685211981	data warehousing OR datawarehousing
+PQ662424561	data warehousing OR datawarehousing
+PQ662446371	data warehousing OR datawarehousing
+PQ661555601	data warehousing OR datawarehousing
+PQ658699311	data warehousing OR datawarehousing
+PQ654284091	data warehousing OR datawarehousing
+PQ625613821	data warehousing OR datawarehousing
+PQ625636031	data warehousing OR datawarehousing
+PQ621890091	data warehousing OR datawarehousing
+PQ524715951	data warehousing OR datawarehousing
+PQ947171741	electronic data interchange OR eData interchange OR edata interchange OR e data interchange
+PQ911382981	electronic data interchange OR eData interchange OR edata interchange OR e data interchange
+PQ903953781	electronic data interchange OR eData interchange OR edata interchange OR e data interchange
+PQ886649941	electronic data interchange OR eData interchange OR edata interchange OR e data interchange
+PQ885116881	electronic data interchange OR eData interchange OR edata interchange OR e data interchange
+PQ896266721	electronic data interchange OR eData interchange OR edata interchange OR e data interchange
+PQ880301771	electronic data interchange OR eData interchange OR edata interchange OR e data interchange
+PQ887698841	electronic data interchange OR eData interchange OR edata interchange OR e data interchange
+PQ786480631	electronic data interchange OR eData interchange OR edata interchange OR e data interchange

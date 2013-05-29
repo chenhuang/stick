@@ -1,0 +1,38 @@
+Home Depot Foundation::Home Depot
+Washington Post Company Sep::REMOVE
+Washington Post Company::REMOVE
+New York Times Company::REMOVE
+New York Times::REMOVE
+ACC::REMOVE
+CIA::REMOVE
+NFL::REMOVE
+NCAA::REMOVE
+WEEE::Waste Electrical & Electronic Equipment 
+NNPA::REMOVE
+LEED::Leadership in Energy and Environmental Design
+NASA::REMOVE
+NATO::REMOVE
+SDC::Sustainable Development Commission
+CNN::REMOVE
+HCCI::REMOVE
+NAACP::REMOVE
+EPA::Environmental Protection Agency
+Wall Street Journal::REMOVE
+Baltimore Sun Company::REMOVE
+Late Edition::REMOVE
+Washington Post Company::REMOVE
+Congress::REMOVE
+Senate::REMOVE
+Associated Press::REMOVE
+Air Force::REMOVE
+Amsterdam Avenue::REMOVE
+Army::REMOVE
+City Council::REMOVE
+Congress::REMOVE
+Fifth Avenue::REMOVE
+Navy::REMOVE
+Reuters::REMOVE
+Sep::REMOVE
+Taliban::REMOVE
+Treasury::REMOVE
+Vonage Holdings Corp::Vonage

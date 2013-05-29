@@ -1,0 +1,6832 @@
+TMMicrosoft365	Verizon
+TMMicrosoft2007	Adobe
+TMOracle1657	CNET News
+TMSAP761	Google
+TMSAS245	Apple
+TMIBM2206	Nokia
+TMMicrosoft1526	Big Blue
+TMIBM2315	Microsoft
+TMSAS2606	Wall Street Journal
+TMbusiness intelligence OR business intelligences OR business intelligent44	Big Blue
+TMOracle1937	Oracle
+TMMicrosoft1255	CNET News
+TMIBM951	Apple
+TMIBM2279	Yahoo
+TMbenchmarking OR benchmark OR benchmarks2474	Yahoo
+TMMicrosoft1449	Wall Street Journal
+TMMicrosoft1045	Hewlett Packard
+TMmeta data OR meta-data2595	eBay
+TMMicrosoft1343	Intel
+TMIBM2590	Dell
+TMOracle16	Oracle
+TMIBM2383	International Business Machines
+TMMicrosoft1281	Google
+TMMicrosoft1278	Yahoo
+TMOracle1908	Oracle
+TMMicrosoft1370	Apple
+TMMicrosoft1548	Apple
+TMMicrosoft366	Apple
+TMOracle1891	Business Objects
+TMIBM2241	Sun Microsystems
+TMMicrosoft1554	Microsoft
+TMIBM801	Google
+TMMicrosoft1597	Intel
+TMMicrosoft1707	Stanford University
+TMOracle1888	Advanced Micro Devices
+TMMicrosoft1573	Yahoo
+TMMicrosoft400	Apple
+TMMicrosoft1498	Apple
+TMIBM61	International Business Machines
+TMMicrosoft2013	Nokia
+TMIBM2364	International Business Machines
+TMOracle188	Apple
+TMIBM2558	eBay
+TMmeta data OR meta-data38	International Business Machines
+TMSAS764	Wall Street Journal
+TMhyperion253	New York Times
+TMIBM153	Hewlett Packard
+TMMicrosoft1371	Apple
+TMMicrosoft1800	Apple
+TMMicrosoft1272	BBC
+TMMicrosoft1704	Microsoft
+TMOracle1920	International Business Machines
+TMMicrosoft369	Intel
+TMIBM822	Google
+TMMicrosoft427	Microsoft
+TMdata mining OR data-mining485	Yahoo
+TMIBM861	University of California
+TMMicrosoft1050	Google
+TMMicrosoft1746	New York Times
+TMSAP741	eBay
+TMIBM1005	Wall Street Journal
+TMMicrosoft1836	Wall Street Journal
+TMMicrosoft1711	Microsoft
+TMknowledge management2173	Microsoft
+TMIBM822	Yahoo
+TMOracle1956	Oracle
+TMMicrosoft1590	International Business Machines
+TMIBM1022	Yahoo
+TMOracle1661	Microsoft
+TMIBM881	Apple
+TMSAS251	Apple
+TMIBM2550	Google
+TMbenchmarking OR benchmark OR benchmarks591	New York Times
+TMIBM1009	Microsoft
+TMOracle1891	SAP
+TMbenchmarking OR benchmark OR benchmarks271	Wall Street Journal
+TMIBM2322	Microsoft
+TMbenchmarking OR benchmark OR benchmarks2459	BBC
+TMMicrosoft1289	Google
+TMMicrosoft2090	MySpace
+TMIBM90	Apple
+TMMicrosoft448	Microsoft
+TMMicrosoft422	Apple
+TMbenchmarking OR benchmark OR benchmarks542	Sony
+TMbenchmarking OR benchmark OR benchmarks609	Verizon
+TMSAS2603	Yahoo
+TMIBM2324	Hewlett Packard
+TMMicrosoft1451	Yahoo
+TMMicrosoft1424	American Online
+TMMicrosoft1301	Advanced Micro Devices
+TMMicrosoft2093	Verizon
+TMIBM527	Sun Microsystems
+TMMicrosoft1158	Apple
+TMMicrosoft1704	Nokia
+TMbusiness intelligence OR business intelligences OR business intelligent1324	Microsoft
+TMMicrosoft1398	Yahoo
+TMOracle1954	SAP
+TMMicrosoft1705	Google
+TMbenchmarking OR benchmark OR benchmarks2490	Yahoo
+TMIBM894	Apple
+TMSAS2621	Yahoo
+TMIBM777	Apple
+TMOracle1957	Microsoft
+TMSAP2143	Microsoft
+TMbenchmarking OR benchmark OR benchmarks652	Apple
+TMIBM2297	Microsoft
+TMbenchmarking OR benchmark OR benchmarks275	Apple
+TMMicrosoft375	American Online
+TMMicrosoft432	Sony
+TMIBM161	Google
+TMMicrosoft447	Microsoft
+TMSAS2613	Apple
+TMSAS2618	Nokia
+TMOracle1924	Federal Trade Commission
+TMOracle1904	Microsoft
+TMOracle1664	Verizon
+TMbenchmarking OR benchmark OR benchmarks629	Intel
+TMMicrosoft2061	Microsoft
+TMIBM2185	Big Blue
+TMMicrosoft2013	Yahoo
+TMMicrosoft1190	Microsoft
+TMMicrosoft1776	Yahoo
+TMbenchmarking OR benchmark OR benchmarks2433	Yahoo
+TMOracle1610	Wall Street Journal
+TMOracle1683	Microsoft
+TMMicrosoft1788	Apple
+TMMicrosoft1431	Yahoo
+TMbenchmarking OR benchmark OR benchmarks631	Yahoo
+TMMicrosoft1593	International Business Machines
+TMIBM2289	International Business Machines
+TMMicrosoft1412	Microsoft
+TMMicrosoft1485	Adobe
+TMmeta data OR meta-data319	Yahoo
+TMbenchmarking OR benchmark OR benchmarks559	Facebook
+TMMicrosoft1710	Microsoft
+TMMicrosoft1706	Microsoft
+TMSAP668	Apple
+TMIBM2542	Apple
+TMOracle1900	Oracle
+TMMicrosoft1124	Google
+TMMicrosoft1469	Yahoo
+TMIBM2328	American Online
+TMbenchmarking OR benchmark OR benchmarks2461	Yahoo
+TMMicrosoft1988	Yahoo
+TMMicrosoft1140	New York Times
+TMMicrosoft1723	Microsoft
+TMIBM83	SAP
+TMMicrosoft1159	Facebook
+TMMicrosoft1232	Intel
+TMOracle216	eBay
+TMOracle1895	Apple
+TMMicrosoft416	International Business Machines
+TMMicrosoft1338	International Business Machines
+TMMicrosoft1982	Microsoft
+TMIBM926	Flickr
+TMMicrosoft1849	Facebook
+TMIBM1010	International Business Machines
+TMIBM2306	Sun Microsystems
+TMSAP684	Wall Street Journal
+TMIBM948	Google
+TMmeta data OR meta-data2596	BBC
+TMMicrosoft1399	Apple
+TMMicrosoft1969	American Online
+TMbenchmarking OR benchmark OR benchmarks299	Facebook
+TMIBM2319	Yahoo
+TMIBM89	Yahoo
+TMOracle1668	Wall Street Journal
+TMdata warehousing OR data-warehousing2169	Google
+TMMicrosoft2121	Verizon
+TMSAP2146	Apple
+TMMicrosoft1816	University of California
+TMOracle1917	Intel
+TMIBM940	Sun Microsystems
+TMMicrosoft447	Google
+TMIBM2270	Big Blue
+TMOracle1892	Microsoft
+TMIBM2259	Dell
+TMMicrosoft429	Yahoo
+TMIBM124	International Business Machines
+TMIBM2234	New York Times
+TMIBM60	Apple
+TMMicrosoft1183	Oracle
+TMMicrosoft1824	Microsoft
+TMMicrosoft1262	Google
+TMIBM778	International Business Machines
+TMOracle1610	Apple
+TMIBM828	Google
+TMIBM2325	Hewlett Packard
+TMIBM2298	Wall Street Journal
+TMmeta data OR meta-data2166	Google
+TMbenchmarking OR benchmark OR benchmarks2449	Intel
+TMIBM853	Intel
+TMSAP2400	Microsoft
+TMOracle1911	Apple
+TMMicrosoft1806	Microsoft
+TMbenchmarking OR benchmark OR benchmarks2445	Adobe
+TMMicrosoft1854	Yahoo
+TMIBM137	Microsoft
+TMMicrosoft413	Sony
+TMIBM2197	Microsoft
+TMbusiness intelligence OR business intelligences OR business intelligent47	Apple
+TMMicrosoft1999	Apple
+TMIBM2277	Google
+TMMicrosoft1418	Microsoft
+TMdata mining OR data-mining1862	Fox
+TMIBM953	Oracle
+TMMicrosoft1335	Sony
+TMMicrosoft2131	Microsoft
+TMMicrosoft387	Microsoft
+TMMicrosoft1775	New York Times
+TMIBM2196	International Business Machines
+TMMicrosoft1356	University of California
+TMMicrosoft437	ATT
+TMMicrosoft1381	LinkedIn
+TMSAP759	Cisco Systems
+TMMicrosoft416	Microsoft
+TMbenchmarking OR benchmark OR benchmarks2458	Google
+TMMicrosoft1226	Motorola
+TMMicrosoft1470	Apple
+TMdata warehouse OR data-warehouse OR data warehouses OR data-warehouses2524	Microsoft
+TMIBM1012	Microsoft
+TMIBM826	Xerox
+TMcognos182	Business Objects
+TMMicrosoft1267	Google
+TMMicrosoft1336	Microsoft
+TMOracle196	MySpace
+TMMicrosoft1710	Adobe
+TMOracle1951	Oracle
+TMIBM2272	International Business Machines
+TMOracle1918	Intel
+TMMicrosoft2028	Microsoft
+TMMicrosoft469	Apple
+TMMicrosoft1839	Microsoft
+TMhyperion255	Oracle
+TMMicrosoft419	Adobe
+TMOracle1935	Oracle
+TMIBM102	Cisco
+TMIBM2197	Apple
+TMMicrosoft1701	Apple
+TMSAP2143	Nokia
+TMMicrosoft1145	Microsoft
+TMMicrosoft401	Microsoft
+TMSAP668	Yahoo
+TMOracle1961	Oracle
+TMMicrosoft395	Microsoft
+TMSAS2607	Verizon
+TMIBM2326	International Business Machines
+TMOracle1665	Yahoo
+TMIBM778	Google
+TMSAP729	Cisco
+TMSAS770	SAS
+TMMicrosoft1338	Microsoft
+TMIBM2317	Microsoft
+TMMicrosoft1845	SAP
+TMIBM2283	Apple
+TMMicrosoft1569	Wall Street Journal
+TMbenchmarking OR benchmark OR benchmarks274	Sun Microsystems
+TMMicrosoft370	Microsoft
+TMIBM989	Microsoft
+TMMicrosoft445	Google
+TMSAS250	Microsoft
+TMMicrosoft1336	Google
+TMIBM1005	Apple
+TMSAS335	Nokia
+TMMicrosoft2074	Microsoft
+TMMicrosoft1155	Google
+TMIBM169	Adobe
+TMMicrosoft1410	eBay
+TMIBM796	American Online
+TMIBM66	Yahoo
+TMMicrosoft373	Yahoo
+TMMicrosoft2051	Microsoft
+TMIBM973	Cisco Systems
+TMIBM914	International Business Machines
+TMMicrosoft1312	Apple
+TMbenchmarking OR benchmark OR benchmarks2447	Adobe
+TMMicrosoft1479	Microsoft
+TMOracle1634	Motorola
+TMbusiness intelligence OR business intelligences OR business intelligent714	Oracle
+TMIBM2239	Hewlett Packard
+TMOracle204	MySpace
+TMSAP2141	International Business Machines
+TMIBM2211	SAP
+TMMicrosoft1316	Dell
+TMIBM2559	Cisco Systems
+TMIBM2546	Xerox
+TMMicrosoft1279	Apple
+TMMicrosoft1369	Google
+TMMicrosoft1178	Microsoft
+TMIBM2380	Microsoft
+TMMicrosoft1776	Microsoft
+TMMicrosoft1451	Massachusetts Institute of Technology
+TMMicrosoft1712	Microsoft
+TMMicrosoft429	Verizon
+TMOracle1685	SAP
+TMMicrosoft1078	Yahoo
+TMMicrosoft1477	Microsoft
+TMSAP677	Hewlett Packard
+TMMicrosoft466	Yahoo
+TMIBM2212	Microsoft
+TMMicrosoft2082	Microsoft
+TMOracle22	Google
+TMMicrosoft1752	Comcast
+TMIBM909	Sun Microsystems
+TMIBM2259	Sun Microsystems
+TMMicrosoft2061	Yahoo
+TMIBM1022	International Business Machines
+TMMicrosoft1026	Facebook
+TMIBM105	Microsoft
+TMMicrosoft1246	Harvard
+TMIBM2229	Oracle
+TMMicrosoft1437	Yahoo
+TMmeta data OR meta-data33	Yahoo
+TMMicrosoft1837	Nokia
+TMOracle1911	Sony
+TMMicrosoft1318	Yahoo
+TMSAS2621	MySpace
+TMMicrosoft377	Yahoo
+TMMicrosoft1058	Apple
+TMMicrosoft2121	CNET News
+TMbenchmarking OR benchmark OR benchmarks2449	Dell
+TMIBM2332	Intel
+TMIBM94	Facebook
+TMbenchmarking OR benchmark OR benchmarks2456	Yahoo
+TMdata mining OR data-mining342	Yahoo
+TMdata warehouse OR data-warehouse OR data warehouses OR data-warehouses2525	Wall Street Journal
+TMOracle1636	Oracle
+TMmeta data OR meta-data320	Madrona Venture Group
+TMIBM2239	Apple
+TMMicrosoft1424	Yahoo
+TMMicrosoft1326	Microsoft
+TMMicrosoft1419	Wall Street Journal
+TMMicrosoft435	Microsoft
+TMdata mining OR data-mining472	New York Times
+TMbenchmarking OR benchmark OR benchmarks2517	Microsoft
+TMMicrosoft423	Microsoft
+TMIBM2391	SAP
+TMMicrosoft1532	Microsoft
+TMbenchmarking OR benchmark OR benchmarks645	Yahoo
+TMSAP743	LinkedIn
+TMOracle18	Oracle
+TMIBM2388	Yahoo
+TMOracle1933	Intel
+TMMicrosoft2095	Yahoo
+TMMicrosoft1425	CNET News
+TMIBM843	Intel
+TMIBM2376	Microsoft
+TMMicrosoft2011	MySpace
+TMMicrosoft1382	Intel
+TMMicrosoft1505	Adobe
+TMSAS331	Wall Street Journal
+TMIBM805	Facebook
+TMIBM903	Intel
+TMMicrosoft1388	Microsoft
+TMIBM1011	Apple
+TMOracle1876	American Online
+TMMicrosoft1835	Microsoft
+TMMicrosoft2093	Yahoo
+TMMicrosoft1055	Google
+TMMicrosoft391	Yahoo
+TMMicrosoft1031	Microsoft
+TMMicrosoft1120	Microsoft
+TMbenchmarking OR benchmark OR benchmarks634	Adobe
+TMMicrosoft1535	Wall Street Journal
+TMbenchmarking OR benchmark OR benchmarks2465	Apple
+TMSAS767	Apple
+TMIBM69	Yahoo
+TMMicrosoft1527	Wall Street Journal
+TMMicrosoft1140	Google
+TMMicrosoft1303	Apple
+TMMicrosoft1229	Yahoo
+TMMicrosoft2024	Yahoo
+TMMicrosoft1126	Yahoo
+TMIBM160	Intel
+TMIBM2201	Comcast
+TMIBM93	Hewlett Packard
+TMMicrosoft1313	Cisco
+TMIBM876	Oracle
+TMmeta data OR meta-data323	BBC
+TMMicrosoft1419	eBay
+TMMicrosoft1403	Microsoft
+TMOracle226	Oracle
+TMMicrosoft2086	Microsoft
+TMIBM135	Comcast
+TMdata mining OR data-mining344	American Online
+TMMicrosoft1549	Yahoo
+TMIBM2286	Apple
+TMOracle11	Microsoft
+TMbusiness intelligence OR business intelligences OR business intelligent719	Microsoft
+TMSAP665	Apple
+TMOracle1879	Oracle
+TMbenchmarking OR benchmark OR benchmarks629	Yahoo
+TMIBM842	Big Blue
+TMIBM801	Apple
+TMhyperion1966	Apple
+TMMicrosoft2113	Microsoft
+TMcognos655	New York Times
+TMIBM112	Microsoft
+TMMicrosoft2020	Yahoo
+TMMicrosoft460	Google
+TMMicrosoft1143	Hewlett Packard
+TMIBM930	Facebook
+TMMicrosoft1512	Microsoft
+TMIBM859	International Business Machines
+TMMicrosoft1502	Apple
+TMMicrosoft1245	Microsoft
+TMMicrosoft1592	Microsoft
+TMSAP736	Microsoft
+TMMicrosoft1356	Microsoft
+TMOracle190	SAP
+TMbenchmarking OR benchmark OR benchmarks554	MySpace
+TMIBM936	Sun Microsystems
+TMIBM116	Big Blue
+TMOracle22	Oracle
+TMIBM2540	Nokia
+TMMicrosoft1714	Wall Street Journal
+TMIBM923	Oracle
+TMSAP675	eBay
+TMOracle187	Oracle
+TMIBM2526	Apple
+TMOracle12	Yahoo
+TMMicrosoft417	Wall Street Journal
+TMMicrosoft1353	Microsoft
+TMIBM63	SAP
+TMMicrosoft1580	Netflix
+TMMicrosoft366	Advanced Micro Devices
+TMbenchmarking OR benchmark OR benchmarks2497	Cisco
+TMMicrosoft418	Adobe
+TMMicrosoft1149	Google
+TMMicrosoft2111	Fox
+TMOracle1932	Verizon
+TMMicrosoft1046	Google
+TMSAP678	Massachusetts Institute of Technology
+TMMicrosoft2090	BusinessWeek
+TMbenchmarking OR benchmark OR benchmarks2460	American Online
+TMIBM2268	International Business Machines
+TMOracle1691	Oracle
+TMbenchmarking OR benchmark OR benchmarks2497	Apple
+TMOracle227	Advanced Micro Devices
+TMSAP736	Oracle
+TMMicrosoft2074	American Online
+TMOracle190	Microsoft
+TMSAS2607	Apple
+TMbenchmarking OR benchmark OR benchmarks299	Adobe
+TMbusiness analytics362	Big Blue
+TMbusiness intelligence OR business intelligences OR business intelligent46	American Online
+TMSAS2619	Apple
+TMmeta data OR meta-data317	Facebook
+TMSAP659	Apple
+TMIBM794	BusinessWeek
+TMIBM955	Microsoft
+TMMicrosoft2016	Microsoft
+TMOracle1916	Yahoo
+TMMicrosoft1162	Facebook
+TMMicrosoft2116	Microsoft
+TMMicrosoft425	Comcast
+TMMicrosoft1167	Microsoft
+TMMicrosoft1341	ATT
+TMMicrosoft2062	New York Times
+TMMicrosoft381	Microsoft
+TMMicrosoft2128	Verizon
+TMMicrosoft1850	Federal Trade Commission
+TMMicrosoft1542	Microsoft
+TMMicrosoft1988	eBay
+TMMicrosoft390	ATT
+TMMicrosoft1415	Microsoft
+TMMicrosoft1786	Facebook
+TMIBM66	SAP
+TMMicrosoft1420	Microsoft
+TMIBM833	New York Times
+TMMicrosoft1832	Nokia
+TMOracle1687	Microsoft
+TMOracle1676	Verizon
+TMdata mining OR data-mining2422	Madrona Venture Group
+TMMicrosoft1237	Microsoft
+TMbenchmarking OR benchmark OR benchmarks540	Yahoo
+TMIBM2579	Wall Street Journal
+TMIBM2280	Advanced Micro Devices
+TMMicrosoft1100	Google
+TMbusiness analytics356	International Business Machines
+TMMicrosoft2101	Apple
+TMbenchmarking OR benchmark OR benchmarks303	Wall Street Journal
+TMbenchmarking OR benchmark OR benchmarks2461	Google
+TMMicrosoft1410	Microsoft
+TMIBM63	International Business Machines
+TMbenchmarking OR benchmark OR benchmarks2450	Google
+TMIBM1017	Microsoft
+TMIBM2566	Sony
+TMMicrosoft437	Intel
+TMMicrosoft1742	Wall Street Journal
+TMMicrosoft1192	New York Times
+TMMicrosoft2077	Apple
+TMIBM812	Microsoft
+TMSAS2631	Apple
+TMIBM169	Apple
+TMMicrosoft1180	Apple
+TMSAS2618	Yahoo
+TMbenchmarking OR benchmark OR benchmarks597	Sony
+TMMicrosoft1083	University of California
+TMIBM983	eBay
+TMMicrosoft1034	Apple
+TMIBM909	Microsoft
+TMMicrosoft1212	Yahoo
+TMIBM905	Yahoo
+TMIBM2270	Yahoo
+TMIBM842	International Business Machines
+TMIBM777	Google
+TMMicrosoft1228	Microsoft
+TMIBM947	Cisco
+TMIBM995	New York Times
+TMMicrosoft2056	Microsoft
+TMMicrosoft2053	Google
+TMIBM91	eBay
+TMIBM105	Yahoo
+TMIBM108	Apple
+TMSAP694	Facebook
+TMIBM134	Verizon
+TMOracle13	Apple
+TMMicrosoft1212	Wall Street Journal
+TMbenchmarking OR benchmark OR benchmarks651	eBay
+TMMicrosoft2013	Microsoft
+TMIBM58	International Business Machines
+TMIBM907	Microsoft
+TMMicrosoft1451	Intel
+TMMicrosoft2128	Nokia
+TMIBM1020	Google
+TMIBM892	Advanced Micro Devices
+TMMicrosoft1533	Adobe
+TMIBM155	eBay
+TMMicrosoft1507	Microsoft
+TMIBM853	Oracle
+TMOracle1882	Microsoft
+TMMicrosoft2003	Microsoft
+TMOracle23	Microsoft
+TMIBM837	New York Times
+TMIBM2253	Intel
+TMMicrosoft1548	Hewlett Packard
+TMIBM996	Cisco
+TMIBM2383	Apple
+TMOracle207	Microsoft
+TMIBM1009	Apple
+TMMicrosoft2040	Yahoo
+TMOracle25	Microsoft
+TMMicrosoft1606	Microsoft
+TMIBM896	International Business Machines
+TMIBM798	Intel
+TMIBM954	Sun Microsystems
+TMMicrosoft1809	Microsoft
+TMMicrosoft1216	Microsoft
+TMMicrosoft1581	Microsoft
+TMMicrosoft450	Microsoft
+TMSAP755	BBC
+TMIBM966	Intel
+TMMicrosoft1736	Apple
+TMOracle1669	Oracle
+TMdata mining OR data-mining344	Microsoft
+TMMicrosoft1344	Apple
+TMIBM2219	Microsoft
+TMMicrosoft1124	International Business Machines
+TMIBM106	Microsoft
+TMMicrosoft1415	Wall Street Journal
+TMMicrosoft383	Microsoft
+TMOracle1611	Yahoo
+TMSAP684	Verizon
+TMIBM931	Oracle
+TMbenchmarking OR benchmark OR benchmarks278	Yahoo
+TMMicrosoft1078	Google
+TMIBM160	Dell
+TMIBM147	Microsoft
+TMbenchmarking OR benchmark OR benchmarks606	Apple
+TMMicrosoft1377	New York Times
+TMIBM94	Yahoo
+TMMicrosoft1214	Dell
+TMOracle1682	Yahoo
+TMOracle1639	Apple
+TMMicrosoft1846	Microsoft
+TMIBM2347	Microsoft
+TMIBM776	Cisco
+TMOracle1933	Oracle
+TMIBM83	Oracle
+TMMicrosoft1400	ATT
+TMbenchmarking OR benchmark OR benchmarks2480	Yahoo
+TMIBM82	Microsoft
+TMMicrosoft1985	Yahoo
+TMhyperion2523	Oracle
+TMdata mining OR data-mining353	Microsoft
+TMMicrosoft1325	Microsoft
+TMMicrosoft1359	Wall Street Journal
+TMIBM2249	International Business Machines
+TMMicrosoft1158	Microsoft
+TMbenchmarking OR benchmark OR benchmarks2466	Cisco
+TMMicrosoft1734	Microsoft
+TMOracle1648	SAP
+TMSAP725	Microsoft
+TMbenchmarking OR benchmark OR benchmarks628	Comcast
+TMIBM155	Cisco
+TMIBM79	Oracle
+TMIBM99	Microsoft
+TMIBM114	Apple
+TMMicrosoft1768	Cisco
+TMbenchmarking OR benchmark OR benchmarks2461	Intel
+TMIBM828	American Online
+TMdata mining OR data-mining474	Yahoo
+TMdata mining OR data-mining2405	Stanford University
+TMOracle3	Oracle
+TMbenchmarking OR benchmark OR benchmarks604	Wall Street Journal
+TMMicrosoft1200	Yahoo
+TMMicrosoft391	Microsoft
+TMIBM780	Microsoft
+TMMicrosoft1991	Nokia
+TMMicrosoft1779	eBay
+TMIBM910	SAP
+TMOracle1894	Microsoft
+TMOracle1664	Wall Street Journal
+TMIBM832	Oracle
+TMIBM850	Business Objects
+TMMicrosoft1543	Cisco Systems
+TMMicrosoft379	American Online
+TMbenchmarking OR benchmark OR benchmarks580	Facebook
+TMMicrosoft1424	Comcast
+TMIBM163	Sony
+TMSAP2145	Oracle
+TMIBM175	Apple
+TMMicrosoft1482	Yahoo
+TMMicrosoft1288	Nokia
+TMIBM2309	International Business Machines
+TMOracle1639	Intel
+TMOracle1932	Cisco
+TMMicrosoft1102	Microsoft
+TMIBM966	Cisco Systems
+TMIBM132	Microsoft
+TMMicrosoft1482	Apple
+TMMicrosoft1570	Time Warner
+TMOracle22	Sun Microsystems
+TMOracle15	Apple
+TMIBM835	Microsoft
+TMMicrosoft1334	Intel
+TMMicrosoft418	Apple
+TMIBM2264	Microsoft
+TMOracle1639	Unisys
+TMbenchmarking OR benchmark OR benchmarks268	Wall Street Journal
+TMIBM2233	International Business Machines
+TMMicrosoft1579	Microsoft
+TMIBM2313	Oracle
+TMbenchmarking OR benchmark OR benchmarks280	Verizon
+TMMicrosoft1749	Microsoft
+TMMicrosoft1113	Google
+TMOracle1874	Oracle
+TMIBM2328	International Business Machines
+TMOracle1955	Nokia
+TMMicrosoft1512	Google
+TMMicrosoft1832	Microsoft
+TMMicrosoft1336	Facebook
+TMMicrosoft434	Microsoft
+TMMicrosoft1486	Microsoft
+TMIBM158	Intel
+TMOracle1889	Sun Microsystems
+TMIBM821	Google
+TMMicrosoft1333	Microsoft
+TMSAP676	Apple
+TMtext mining OR text-mining1964	Apple
+TMIBM515	Comcast
+TMIBM150	eBay
+TMIBM2557	Cisco
+TMMicrosoft1422	Netflix
+TMbenchmarking OR benchmark OR benchmarks641	Intel
+TMbusiness analytics361	Dell
+TMMicrosoft2000	Microsoft
+TMMicrosoft1395	Apple
+TMIBM961	Yahoo
+TMbenchmarking OR benchmark OR benchmarks2512	Google
+TMbenchmarking OR benchmark OR benchmarks276	Apple
+TMIBM103	Google
+TMIBM1019	International Business Machines
+TMMicrosoft2125	eBay
+TMMicrosoft1223	Apple
+TMMicrosoft1118	Yahoo
+TMIBM2270	International Business Machines
+TMIBM911	Intel
+TMMicrosoft2050	Wall Street Journal
+TMdata warehouse OR data-warehouse OR data warehouses OR data-warehouses2524	Oracle
+TMIBM2230	Yahoo
+TMdata mining OR data-mining483	Facebook
+TMSAP2150	SAP
+TMMicrosoft1116	Yahoo
+TMMicrosoft1206	Microsoft
+TMOracle1864	Microsoft
+TMMicrosoft1969	Google
+TMMicrosoft1523	Microsoft
+TMSAP727	Microsoft
+TMMicrosoft1144	SAS
+TMOracle223	Sun Microsystems
+TMMicrosoft1977	Microsoft
+TMIBM996	Adobe
+TMIBM996	International Business Machines
+TMOracle1666	MySpace
+TMOracle1638	Oracle
+TMbenchmarking OR benchmark OR benchmarks293	Google
+TMIBM828	International Business Machines
+TMIBM101	Facebook
+TMSAS2619	Microsoft
+TMMicrosoft2132	American Online
+TMmeta data OR meta-data319	eBay
+TMbenchmarking OR benchmark OR benchmarks630	Apple
+TMMicrosoft1233	BusinessWeek
+TMIBM2211	Cisco Systems
+TMMicrosoft1386	Apple
+TMOracle204	American Online
+TMMicrosoft2037	International Business Machines
+TMMicrosoft2037	Microsoft
+TMIBM2265	International Business Machines
+TMMicrosoft1979	Microsoft
+TMMicrosoft1267	Yahoo
+TMMicrosoft1701	Wall Street Journal
+TMSAP749	Microsoft
+TMSAP750	Oracle
+TMMicrosoft1486	MySpace
+TMIBM2327	Verizon
+TMMicrosoft1106	Microsoft
+TMMicrosoft2089	Microsoft
+TMIBM2313	CNET News
+TMIBM841	Microsoft
+TMMicrosoft431	Microsoft
+TMIBM2266	Microsoft
+TMbenchmarking OR benchmark OR benchmarks2430	Netflix
+TMMicrosoft1232	Google
+TMMicrosoft1596	Microsoft
+TMbenchmarking OR benchmark OR benchmarks2502	Apple
+TMSAS338	Comcast
+TMMicrosoft1449	ATT
+TMMicrosoft2124	Yahoo
+TMbenchmarking OR benchmark OR benchmarks276	New York Times
+TMMicrosoft2069	Wall Street Journal
+TMIBM932	International Business Machines
+TMMicrosoft1270	Google
+TMSAS325	Microsoft
+TMOracle1954	International Business Machines
+TMIBM2243	Microsoft
+TMMicrosoft1185	Motorola
+TMIBM919	Cisco Systems
+TMIBM2194	Yahoo
+TMMicrosoft1728	Yahoo
+TMSAP690	Apple
+TMbenchmarking OR benchmark OR benchmarks265	Google
+TMIBM150	International Business Machines
+TMIBM60	International Business Machines
+TMIBM2251	Cisco Systems
+TMOracle22	Yahoo
+TMOracle1662	Wall Street Journal
+TMSAP745	SAP
+TMIBM880	International Business Machines
+TMMicrosoft1701	Yahoo
+TMbenchmarking OR benchmark OR benchmarks2426	Cisco
+TMbenchmarking OR benchmark OR benchmarks303	Verizon
+TMMicrosoft1363	Apple
+TMMicrosoft431	Wall Street Journal
+TMMicrosoft1539	Microsoft
+TMIBM864	Google
+TMOracle1882	Big Blue
+TMMicrosoft1551	Google
+TMIBM138	Federal Trade Commission
+TMMicrosoft1825	University of California
+TMdata mining OR data-mining1863	Madrona Venture Group
+TMMicrosoft1303	Oracle
+TMOracle189	International Business Machines
+TMbenchmarking OR benchmark OR benchmarks300	Google
+TMMicrosoft1825	MySpace
+TMdata mining OR data-mining2405	Massachusetts Institute of Technology
+TMIBM951	Verizon
+TMOracle1646	International Business Machines
+TMMicrosoft1196	Microsoft
+TMIBM133	Yahoo
+TMIBM909	Oracle
+TMSAP734	Microsoft
+TMMicrosoft2052	Sony
+TMIBM2248	Cisco Systems
+TMIBM793	International Business Machines
+TMOracle1676	Wall Street Journal
+TMMicrosoft1096	Microsoft
+TMbenchmarking OR benchmark OR benchmarks285	Adobe
+TMMicrosoft1700	Google
+TMOracle204	BBC
+TMIBM151	International Business Machines
+TMSAS2627	Fox
+TMbenchmarking OR benchmark OR benchmarks2517	Apple
+TMIBM2212	Hewlett Packard
+TMSAP679	Massachusetts Institute of Technology
+TMdata mining OR data-mining501	CNN
+TMMicrosoft2114	Apple
+TMcognos655	BusinessWeek
+TMIBM793	Microsoft
+TMIBM2230	Verizon
+TMMicrosoft1399	Wall Street Journal
+TMOracle1914	Apple
+TMMicrosoft1588	Apple
+TMIBM2254	Yahoo
+TMbenchmarking OR benchmark OR benchmarks2474	Facebook
+TMOracle1931	Oracle
+TMMicrosoft1433	eBay
+TMMicrosoft1387	Intel
+TMbenchmarking OR benchmark OR benchmarks2456	Wall Street Journal
+TMMicrosoft1061	Facebook
+TMOracle1906	International Business Machines
+TMMicrosoft409	Yahoo
+TMIBM2322	Google
+TMMicrosoft1279	Google
+TMSAS238	Apple
+TMSAP677	Cisco Systems
+TMOracle1905	Nokia
+TMdata warehouse OR data-warehouse OR data warehouses OR data-warehouses505	Sun Microsystems
+TMMicrosoft1120	Oracle
+TMIBM2186	Yahoo
+TMMicrosoft2096	Google
+TMMicrosoft1724	Microsoft
+TMIBM2546	Microsoft
+TMMicrosoft1506	Microsoft
+TMOracle1869	Sun Microsystems
+TMbenchmarking OR benchmark OR benchmarks295	MySpace
+TMIBM907	Google
+TMMicrosoft1245	Apple
+TMMicrosoft1518	ATT
+TMIBM936	Cisco
+TMOracle1662	Microsoft
+TMSAS773	Apple
+TMIBM812	Oracle
+TMMicrosoft1193	SAP
+TMMicrosoft440	Yahoo
+TMIBM2206	Dell
+TMMicrosoft1193	Microsoft
+TMMicrosoft2062	Yahoo
+TMIBM2246	Verizon
+TMMicrosoft1558	Sony
+TMOracle227	Intel
+TMMicrosoft2001	Dell
+TMMicrosoft1183	Microsoft
+TMMicrosoft2022	Intel
+TMOracle1922	Sun Microsystems
+TMMicrosoft1238	Facebook
+TMmeta data OR meta-data29	Microsoft
+TMOracle206	Sun Microsystems
+TMMicrosoft2045	Microsoft
+TMMicrosoft397	Wall Street Journal
+TMbenchmarking OR benchmark OR benchmarks304	Adobe
+TMSAS2606	Apple
+TMOracle199	Oracle
+TMMicrosoft2065	Hewlett Packard
+TMSAP657	Apple
+TMSAP2139	SAP
+TMSAP754	Apple
+TMMicrosoft1404	Microsoft
+TMMicrosoft446	Microsoft
+TMbusiness analytics356	Big Blue
+TMMicrosoft1377	Microsoft
+TMOracle1674	Sun Microsystems
+TMMicrosoft1830	Google
+TMMicrosoft1608	Google
+TMMicrosoft1539	Apple
+TMIBM903	Microsoft
+TMIBM130	American Online
+TMMicrosoft2127	Cisco
+TMOracle1679	American Online
+TMOracle20	Yahoo
+TMbenchmarking OR benchmark OR benchmarks266	Apple
+TMSAS773	ATT
+TMSAP736	SAP
+TMIBM2217	CNET News
+TMMicrosoft1715	Microsoft
+TMOracle1620	Apple
+TMIBM529	Intel
+TMbenchmarking OR benchmark OR benchmarks2515	Intel
+TMSAS325	SAP
+TMIBM137	Sony
+TMbenchmarking OR benchmark OR benchmarks592	New York Times
+TMOracle1955	Wall Street Journal
+TMdata mining OR data-mining2420	Yahoo
+TMMicrosoft1539	Intel
+TMMicrosoft1274	Wall Street Journal
+TMIBM2225	ATT
+TMcompetitive intelligence697	Oracle
+TMbenchmarking OR benchmark OR benchmarks617	Intel
+TMOracle1864	Google
+TMMicrosoft1469	ATT
+TMMicrosoft1805	Yahoo
+TMbenchmarking OR benchmark OR benchmarks260	Wall Street Journal
+TMMicrosoft1995	Yahoo
+TMSAS2602	Wall Street Journal
+TMOracle224	eBay
+TMMicrosoft1034	Nokia
+TMMicrosoft1381	Microsoft
+TMMicrosoft1555	Yahoo
+TMIBM172	Advanced Micro Devices
+TMIBM2245	Intel
+TMMicrosoft422	Sony
+TMIBM911	Microsoft
+TMIBM2253	International Business Machines
+TMcognos654	Verizon
+TMIBM101	Oracle
+TMMicrosoft1852	Google
+TMMicrosoft1593	Apple
+TMOracle186	Google
+TMIBM2273	International Business Machines
+TMMicrosoft1572	Hewlett Packard
+TMOracle1873	Oracle
+TMMicrosoft1430	Microsoft
+TMIBM906	International Business Machines
+TMSAP724	Microsoft
+TMMicrosoft1589	American Online
+TMmeta data OR meta-data324	Flickr
+TMbenchmarking OR benchmark OR benchmarks2497	Yahoo
+TMIBM2327	Apple
+TMMicrosoft2112	Sony
+TMbenchmarking OR benchmark OR benchmarks2501	Microsoft
+TMMicrosoft1823	Microsoft
+TMMicrosoft1401	Microsoft
+TMMicrosoft1500	Microsoft
+TMSAS237	Apple
+TMMicrosoft1699	Yahoo
+TMIBM104	Wall Street Journal
+TMMicrosoft444	Microsoft
+TMMicrosoft1858	Time Warner
+TMMicrosoft1317	Microsoft
+TMIBM805	Microsoft
+TMMicrosoft1726	Apple
+TMOracle24	American Online
+TMIBM2309	Apple
+TMIBM2286	Verizon
+TMMicrosoft373	Microsoft
+TMpredictive analytics1696	Apple
+TMbenchmarking OR benchmark OR benchmarks643	Yahoo
+TMIBM1011	International Business Machines
+TMMicrosoft2114	Yahoo
+TMMicrosoft438	Oracle
+TMbenchmarking OR benchmark OR benchmarks2515	Oracle
+TMMicrosoft1761	Dell
+TMSAS2627	Apple
+TMIBM983	Facebook
+TMIBM518	Microsoft
+TMOracle1866	Microsoft
+TMIBM63	Yahoo
+TMMicrosoft1500	Apple
+TMOracle1671	Time Warner
+TMSAS340	Yahoo
+TMMicrosoft1783	American Online
+TMbenchmarking OR benchmark OR benchmarks2479	Microsoft
+TMMicrosoft1362	Microsoft
+TMMicrosoft1749	Adobe
+TMMicrosoft1467	Fox
+TMIBM68	Intel
+TMMicrosoft1162	Dell
+TMbenchmarking OR benchmark OR benchmarks2458	Microsoft
+TMMicrosoft1841	Motorola
+TMIBM2532	Adobe
+TMOracle1909	Microsoft
+TMMicrosoft1483	American Online
+TMbenchmarking OR benchmark OR benchmarks2427	Yahoo
+TMIBM779	International Business Machines
+TMMicrosoft1180	Microsoft
+TMMicrosoft1817	American Online
+TMMicrosoft2033	Microsoft
+TMIBM2387	International Business Machines
+TMIBM148	Flickr
+TMMicrosoft1841	Apple
+TMbenchmarking OR benchmark OR benchmarks299	Apple
+TMSAP2153	New York Times
+TMIBM2266	eBay
+TMOracle207	Oracle
+TMbusiness intelligence OR business intelligences OR business intelligent708	SAP
+TMbenchmarking OR benchmark OR benchmarks2431	University of California
+TMMicrosoft1522	Microsoft
+TMMicrosoft392	Microsoft
+TMbenchmarking OR benchmark OR benchmarks551	Wall Street Journal
+TMIBM146	Oracle
+TMIBM2265	Google
+TMOracle1614	Apple
+TMbusiness analytics357	Business Catalyst / GoodBarry
+TMOracle1944	Apple
+TMMicrosoft383	Time Warner
+TMIBM983	Nokia
+TMOracle17	Oracle
+TMMicrosoft1971	Google
+TMIBM2203	Intel
+TMbenchmarking OR benchmark OR benchmarks613	Unisys
+TMIBM830	New York Times
+TMOracle1620	Nokia
+TMOracle1881	International Business Machines
+TMMicrosoft1416	CNN
+TMIBM2264	Apple
+TMOracle1924	International Business Machines
+TMOracle1905	Yahoo
+TMMicrosoft1838	Microsoft
+TMbenchmarking OR benchmark OR benchmarks2515	Yahoo
+TMMicrosoft1988	Google
+TMMicrosoft378	American Online
+TMIBM956	Sun Microsystems
+TMMicrosoft1802	Oracle
+TMOracle1937	MySpace
+TMIBM927	Sun Microsystems
+TMMicrosoft1079	Yahoo
+TMOracle18	Intel
+TMbusiness intelligence OR business intelligences OR business intelligent708	Microsoft
+TMOracle5	Google
+TMMicrosoft387	University of California
+TMMicrosoft1825	Facebook
+TMbenchmarking OR benchmark OR benchmarks647	Apple
+TMMicrosoft1313	Microsoft
+TMMicrosoft1850	Google
+TMMicrosoft1851	Microsoft
+TMOracle1928	Yahoo
+TMMicrosoft1076	American Online
+TMIBM776	Microsoft
+TMSAP660	Apple
+TMSAS773	Microsoft
+TMMicrosoft1316	Hewlett Packard
+TMMicrosoft1126	Microsoft
+TMMicrosoft1161	Microsoft
+TMIBM855	International Business Machines
+TMOracle1661	Apple
+TMMicrosoft1489	Microsoft
+TMIBM145	International Business Machines
+TMbenchmarking OR benchmark OR benchmarks590	Hewlett Packard
+TMIBM2320	International Business Machines
+TMMicrosoft429	Microsoft
+TMIBM896	Intel
+TMIBM160	Yahoo
+TMSAS239	Yahoo
+TMMicrosoft2052	Wall Street Journal
+TMMicrosoft1518	Comcast
+TMMicrosoft1551	Microsoft
+TMMicrosoft1848	Microsoft
+TMMicrosoft1720	Apple
+TMhyperion254	Hyperion
+TMbenchmarking OR benchmark OR benchmarks2430	Comcast
+TMIBM2358	eBay
+TMMicrosoft2038	Microsoft
+TMIBM2375	Microsoft
+TMbenchmarking OR benchmark OR benchmarks2476	Facebook
+TMIBM2188	Sony
+TMIBM2552	Hewlett Packard
+TMIBM2328	Yahoo
+TMIBM827	Yahoo
+TMIBM2531	International Business Machines
+TMOracle1676	Apple
+TMSAS335	Yahoo
+TMMicrosoft1853	MySpace
+TMbenchmarking OR benchmark OR benchmarks548	Intel
+TMIBM512	Apple
+TMMicrosoft1057	International Business Machines
+TMMicrosoft2037	Wall Street Journal
+TMIBM2219	Sun Microsystems
+TMMicrosoft1465	Apple
+TMIBM63	Oracle
+TMOracle218	Comcast
+TMMicrosoft1096	Apple
+TMMicrosoft450	Oracle
+TMMicrosoft1450	Microsoft
+TMIBM957	Sun Microsystems
+TMIBM850	Microsoft
+TMMicrosoft1136	Microsoft
+TMIBM2291	International Business Machines
+TMbenchmarking OR benchmark OR benchmarks2449	Hewlett Packard
+TMMicrosoft1265	Comcast
+TMMicrosoft2032	Verizon
+TMMicrosoft1243	Microsoft
+TMmeta data OR meta-data2598	Yahoo
+TMSAP694	Yahoo
+TMIBM2205	Intel
+TMIBM2331	Facebook
+TMbenchmarking OR benchmark OR benchmarks312	American Online
+TMMicrosoft1420	American Online
+TMMicrosoft1753	Microsoft
+TMdata warehousing OR data-warehousing763	Comerica Bank
+TMbenchmarking OR benchmark OR benchmarks579	CNN
+TMIBM134	International Business Machines
+TMbusiness intelligence OR business intelligences OR business intelligent706	Oracle
+TMbusiness analytics361	Microsoft
+TMIBM2309	CNET News
+TMIBM2248	Xerox
+TMIBM2579	Microsoft
+TMMicrosoft1354	Google
+TMIBM895	International Business Machines
+TMSAS2603	Apple
+TMIBM822	Microsoft
+TMIBM814	Dell
+TMMicrosoft1423	Apple
+TMMicrosoft1543	Hewlett Packard
+TMbusiness intelligence OR business intelligences OR business intelligent708	Oracle
+TMMicrosoft443	Google
+TMIBM2239	International Business Machines
+TMMicrosoft1062	Microsoft
+TMIBM143	Dell
+TMIBM2221	Apple
+TMMicrosoft1557	Google
+TMOracle1932	International Business Machines
+TMbenchmarking OR benchmark OR benchmarks280	Google
+TMOracle214	Facebook
+TMMicrosoft1981	Yahoo
+TMIBM2359	Microsoft
+TMSAP744	Sony
+TMbusiness intelligence OR business intelligences OR business intelligent51	Dell
+TMSAP761	LinkedIn
+TMMicrosoft1725	Microsoft
+TMIBM2321	International Business Machines
+TMIBM2326	Microsoft
+TMOracle196	Google
+TMSAS233	eBay
+TMMicrosoft1555	Microsoft
+TMSAP691	SAP
+TMOracle1925	Cisco
+TMSAP759	Microsoft
+TMbenchmarking OR benchmark OR benchmarks556	Hewlett Packard
+TMIBM796	New York Times
+TMSAP666	Oracle
+TMMicrosoft1561	CNN
+TMSAP755	Google
+TMSAP727	Oracle
+TMIBM529	Google
+TMOracle7	Microsoft
+TMIBM888	Google
+TMSAP672	Google
+TMMicrosoft1045	Oracle
+TMMicrosoft1306	Microsoft
+TMIBM1001	Cisco Systems
+TMMicrosoft402	New York Times
+TMMicrosoft1348	Microsoft
+TMMicrosoft2071	Google
+TMMicrosoft1159	Microsoft
+TMIBM173	Microsoft
+TMSAP736	Sun Microsystems
+TMMicrosoft1334	Apple
+TMMicrosoft1074	Microsoft
+TMSAS1319	Wall Street Journal
+TMMicrosoft1780	Yahoo
+TMIBM2245	Sony
+TMMicrosoft412	Apple
+TMMicrosoft1591	Sun Microsystems
+TMIBM2304	International Business Machines
+TMIBM2331	International Business Machines
+TMMicrosoft1249	Microsoft
+TMOracle20	Nokia
+TMbenchmarking OR benchmark OR benchmarks2457	Yahoo
+TMMicrosoft1561	Yahoo
+TMIBM528	Intel
+TMSAP690	International Business Machines
+TMMicrosoft1213	Yahoo
+TMIBM2234	International Business Machines
+TMOracle4	Sony
+TMOracle1924	Microsoft
+TMIBM2254	Microsoft
+TMIBM167	International Business Machines
+TMMicrosoft1996	Microsoft
+TMMicrosoft1803	Microsoft
+TMIBM777	Cisco Systems
+TMOracle1634	Verizon
+TMMicrosoft388	Yahoo
+TMIBM798	Federal Trade Commission
+TMOracle206	Adobe
+TMMicrosoft2130	Microsoft
+TMMicrosoft1128	Microsoft
+TMMicrosoft1770	Time Warner
+TMOracle7	Adobe
+TMIBM72	Microsoft
+TMIBM2374	International Business Machines
+TMIBM2223	International Business Machines
+TMbenchmarking OR benchmark OR benchmarks280	Yahoo
+TMIBM79	Apple
+TMMicrosoft1752	Yahoo
+TMIBM2384	International Business Machines
+TMhyperion2523	American Online
+TMbenchmarking OR benchmark OR benchmarks598	Verizon
+TMMicrosoft2134	Microsoft
+TMIBM999	Hewlett Packard
+TMIBM175	Nokia
+TMMicrosoft1463	Microsoft
+TMMicrosoft2113	Fox
+TMSAS229	Yahoo
+TMMicrosoft1405	International Business Machines
+TMMicrosoft1720	Microsoft
+TMMicrosoft1991	Apple
+TMIBM878	International Business Machines
+TMMicrosoft1607	Microsoft
+TMIBM1022	Microsoft
+TMSAP740	Yahoo
+TMbenchmarking OR benchmark OR benchmarks561	Microsoft
+TMMicrosoft1768	Apple
+TMIBM952	Adobe
+TMMicrosoft2036	Microsoft
+TMMicrosoft429	Apple
+TMmeta data OR meta-data2596	Sony
+TMMicrosoft454	Google
+TMmeta data OR meta-data29	Google
+TMIBM2583	Yahoo
+TMmeta data OR meta-data2596	Microsoft
+TMcognos182	Microsoft
+TMMicrosoft366	Intel
+TMbenchmarking OR benchmark OR benchmarks273	Intel
+TMMicrosoft1989	International Business Machines
+TMIBM68	Yahoo
+TMOracle1927	International Business Machines
+TMSAP730	Google
+TMMicrosoft1289	Microsoft
+TMIBM2201	ATT
+TMMicrosoft1177	CNN
+TMMicrosoft1421	Microsoft
+TMMicrosoft1591	Wall Street Journal
+TMOracle1639	SAP
+TMIBM921	Google
+TMIBM2229	Microsoft
+TMMicrosoft1183	Google
+TMMicrosoft1300	CNET News
+TMMicrosoft1293	Intel
+TMMicrosoft1742	Apple
+TMMicrosoft1267	Apple
+TMIBM906	Microsoft
+TMbenchmarking OR benchmark OR benchmarks623	Yahoo
+TMMicrosoft1268	Microsoft
+TMpredictive analytics1696	Intel
+TMMicrosoft1333	Apple
+TMIBM2308	New York Times
+TMOracle1956	Stanford University
+TMMicrosoft2075	Microsoft
+TMbenchmarking OR benchmark OR benchmarks613	International Business Machines
+TMMicrosoft1596	Google
+TMSAS2623	Motorola
+TMIBM963	Apple
+TMIBM2342	International Business Machines
+TMSAS2609	Verizon
+TMMicrosoft1088	Sony
+TMIBM788	Intel
+TMIBM84	Microsoft
+TMMicrosoft2071	Microsoft
+TMbenchmarking OR benchmark OR benchmarks583	Google
+TMIBM520	Microsoft
+TMhyperion1968	Yahoo
+TMMicrosoft452	Microsoft
+TMMicrosoft1752	Verizon
+TMMicrosoft377	Microsoft
+TMIBM108	Nokia
+TMMicrosoft1266	Microsoft
+TMSAP755	Facebook
+TMIBM125	Microsoft
+TMMicrosoft1518	Nokia
+TMOracle1893	Oracle
+TMIBM929	Cisco
+TMIBM2228	Dell
+TMOracle1940	Sun Microsystems
+TMmeta data OR meta-data27	Microsoft
+TMMicrosoft1495	Comcast
+TMOracle8	Facebook
+TMbenchmarking OR benchmark OR benchmarks2426	Yahoo
+TMMicrosoft1763	Wall Street Journal
+TMMicrosoft1582	Microsoft
+TMMicrosoft1165	Apple
+TMdata mining OR data-mining351	Microsoft
+TMOracle1633	International Business Machines
+TMSAS233	Yahoo
+TMMicrosoft1459	Microsoft
+TMIBM2357	Xerox
+TMMicrosoft1381	Yahoo
+TMMicrosoft1468	Yahoo
+TMhyperion1693	Dell
+TMIBM797	International Business Machines
+TMmeta data OR meta-data28	Adobe
+TMMicrosoft1431	Facebook
+TMOracle206	Oracle
+TMMicrosoft1302	Microsoft
+TMbenchmarking OR benchmark OR benchmarks2506	Apple
+TMbenchmarking OR benchmark OR benchmarks614	Hewlett Packard
+TMMicrosoft2088	Sony
+TMcompetitive intelligence698	Apple
+TMmeta data OR meta-data2600	American Online
+TMIBM99	Yahoo
+TMIBM1014	International Business Machines
+TMMicrosoft1081	International Business Machines
+TMMicrosoft2040	Microsoft
+TMIBM124	LinkedIn
+TMMicrosoft1265	Facebook
+TMMicrosoft1255	Fox
+TMIBM529	Adobe
+TMdata mining OR data-mining2405	Google
+TMOracle1876	New York Times
+TMSAP684	ATT
+TMbenchmarking OR benchmark OR benchmarks610	Intel
+TMOracle1650	Apple
+TMSAS246	Yahoo
+TMbenchmarking OR benchmark OR benchmarks260	New York Times
+TMIBM942	Intel
+TMMicrosoft1306	Yahoo
+TMMicrosoft1137	Microsoft
+TMMicrosoft1833	Microsoft
+TMSAP2146	SAP
+TMIBM2531	Verizon
+TMMicrosoft1317	American Online
+TMbenchmarking OR benchmark OR benchmarks295	Apple
+TMIBM912	Microsoft
+TMIBM2196	Microsoft
+TMIBM2184	Sony
+TMMicrosoft375	Verizon
+TMMicrosoft1151	Nokia
+TMIBM120	Sony
+TMIBM796	eBay
+TMbusiness analytics360	International Business Machines
+TMIBM882	Big Blue
+TMMicrosoft2106	Yahoo
+TMbenchmarking OR benchmark OR benchmarks2427	Federal Trade Commission
+TMMicrosoft1256	CNET News
+TMdata warehouse OR data-warehouse OR data warehouses OR data-warehouses506	Microsoft
+TMSAS234	Nokia
+TMSAP668	Wall Street Journal
+TMMicrosoft2051	Yahoo
+TMIBM151	Dell
+TMMicrosoft1837	Yahoo
+TMMicrosoft1243	New York Times
+TMSAS241	Apple
+TMbenchmarking OR benchmark OR benchmarks626	Comcast
+TMIBM905	Google
+TMMicrosoft2060	Microsoft
+TMMicrosoft1354	Microsoft
+TMSAS2614	eBay
+TMOracle1917	Yahoo
+TMbenchmarking OR benchmark OR benchmarks545	Google
+TMMicrosoft1742	Yahoo
+TMbenchmarking OR benchmark OR benchmarks2438	Facebook
+TMIBM984	Hewlett Packard
+TMIBM965	Sony
+TMSAP757	Apple
+TMSAS240	Wall Street Journal
+TMMicrosoft1559	Microsoft
+TMIBM2537	Adobe
+TMSAS2630	Apple
+TMMicrosoft1151	Apple
+TMSAP754	Microsoft
+TMbenchmarking OR benchmark OR benchmarks2461	CNET News
+TMIBM2211	Microsoft
+TMmeta data OR meta-data319	Facebook
+TMMicrosoft1775	CNN
+TMSAP756	Apple
+TMSAS2613	Wall Street Journal
+TMIBM2352	International Business Machines
+TMSAS231	Wall Street Journal
+TMIBM2283	Wall Street Journal
+TMIBM2363	Microsoft
+TMMicrosoft1985	Apple
+TMOracle1938	Microsoft
+TMOracle1616	Microsoft
+TMMicrosoft1314	Apple
+TMMicrosoft415	Microsoft
+TMIBM2577	Sony
+TMMicrosoft1491	Microsoft
+TMMicrosoft1099	Microsoft
+TMMicrosoft1801	Intel
+TMbenchmarking OR benchmark OR benchmarks631	Cisco
+TMmeta data OR meta-data37	Google
+TMOracle1657	Google
+TMbenchmarking OR benchmark OR benchmarks626	Sony
+TMIBM2574	Sony
+TMIBM153	Wall Street Journal
+TMMicrosoft2046	Hewlett Packard
+TMMicrosoft1337	Advanced Micro Devices
+TMIBM2243	International Business Machines
+TMIBM142	Yahoo
+TMIBM142	International Business Machines
+TMSAS1320	Comcast
+TMSAS1319	Nokia
+TMIBM830	Wall Street Journal
+TMIBM2361	SAP
+TMIBM160	International Business Machines
+TMMicrosoft1121	Microsoft
+TMbenchmarking OR benchmark OR benchmarks300	Time Warner
+TMSAP657	Yahoo
+TMIBM2332	Advanced Micro Devices
+TMMicrosoft1699	Sony
+TMbenchmarking OR benchmark OR benchmarks568	Wall Street Journal
+TMIBM514	Yahoo
+TMbusiness intelligence OR business intelligences OR business intelligent719	Hewlett Packard
+TMMicrosoft1417	Microsoft
+TMIBM168	Intel
+TMIBM1022	Apple
+TMSAP757	American Online
+TMMicrosoft1548	Microsoft
+TMIBM2289	Sony
+TMOracle1634	Wall Street Journal
+TMbenchmarking OR benchmark OR benchmarks286	Microsoft
+TMMicrosoft1983	eBay
+TMMicrosoft1124	Microsoft
+TMIBM919	International Business Machines
+TMMicrosoft2095	Google
+TMOracle1929	Oracle
+TMMicrosoft1275	Microsoft
+TMMicrosoft1118	Wall Street Journal
+TMMicrosoft1718	Google
+TMMicrosoft1482	ATT
+TMMicrosoft1729	Intel
+TMMicrosoft1505	Intel
+TMOracle1925	Sun Microsystems
+TMIBM2572	Google
+TMMicrosoft1037	Google
+TMMicrosoft2042	Intel
+TMMicrosoft1604	Yahoo
+TMMicrosoft453	Google
+TMMicrosoft2071	American Online
+TMSAS333	Apple
+TMSAS2605	Yahoo
+TMMicrosoft2049	eBay
+TMMicrosoft2042	Stanford University
+TMMicrosoft1595	Netflix
+TMMicrosoft425	Cisco
+TMMicrosoft1603	Netflix
+TMIBM990	Sony
+TMIBM2551	Oracle
+TMMicrosoft1330	Microsoft
+TMIBM2223	Apple
+TMOracle1680	Oracle
+TMbenchmarking OR benchmark OR benchmarks548	Apple
+TMIBM103	Microsoft
+TMIBM2540	Google
+TMbenchmarking OR benchmark OR benchmarks604	Google
+TMIBM113	Verizon
+TMSAP739	Intel
+TMbenchmarking OR benchmark OR benchmarks597	Nokia
+TMIBM984	Intel
+TMIBM940	Intel
+TMIBM529	Microsoft
+TMbenchmarking OR benchmark OR benchmarks258	Yahoo
+TMIBM2281	Cisco
+TMbenchmarking OR benchmark OR benchmarks268	Comcast
+TMMicrosoft1244	Microsoft
+TMMicrosoft1253	Microsoft
+TMIBM2209	International Business Machines
+TMIBM78	Sun Microsystems
+TMIBM893	Harvard
+TMIBM2272	ATT
+TMMicrosoft2120	Microsoft
+TMMicrosoft2073	Dell
+TMMicrosoft1423	Microsoft
+TMIBM899	Intel
+TMbenchmarking OR benchmark OR benchmarks585	Apple
+TMIBM1021	International Business Machines
+TMMicrosoft1051	Microsoft
+TMIBM906	Google
+TMOracle1648	Oracle
+TMIBM2534	Google
+TMIBM906	Verizon
+TMIBM838	Yahoo
+TMMicrosoft1721	Viacom
+TMbusiness analytics355	New York Times
+TMOracle1949	Verizon
+TMbenchmarking OR benchmark OR benchmarks2500	Oracle
+TMIBM813	International Business Machines
+TMMicrosoft384	Microsoft
+TMbenchmarking OR benchmark OR benchmarks562	New York Times
+TMMicrosoft428	Intel
+TMSAP727	Sun Microsystems
+TMIBM2228	Sun Microsystems
+TMIBM952	International Business Machines
+TMMicrosoft1483	Microsoft
+TMMicrosoft2007	Sony
+TMmeta data OR meta-data32	Apple
+TMMicrosoft2119	Wall Street Journal
+TMIBM836	Oracle
+TMIBM2578	Sony
+TMMicrosoft1842	Microsoft
+TMIBM74	International Business Machines
+TMOracle7	Yahoo
+TMIBM2529	International Business Machines
+TMMicrosoft2117	BusinessWeek
+TMMicrosoft2024	American Online
+TMIBM2553	Apple
+TMMicrosoft1517	Microsoft
+TMMicrosoft1753	Wall Street Journal
+TMbenchmarking OR benchmark OR benchmarks653	Apple
+TMIBM893	Microsoft
+TMMicrosoft413	Apple
+TMSAS233	Apple
+TMMicrosoft1774	Yahoo
+TMIBM2275	Microsoft
+TMMicrosoft365	Apple
+TMMicrosoft1245	Wall Street Journal
+TMbenchmarking OR benchmark OR benchmarks653	Intel
+TMOracle1890	Oracle
+TMOracle203	Oracle
+TMcompetitive intelligence510	Adobe
+TMbusiness analytics357	Adobe
+TMMicrosoft437	Verizon
+TMIBM2393	Intel
+TMMicrosoft1978	Harvard
+TMSAP750	Cisco
+TMIBM2302	Big Blue
+TMMicrosoft1495	Facebook
+TMMicrosoft1169	Apple
+TMIBM521	Yahoo
+TMbenchmarking OR benchmark OR benchmarks263	Microsoft
+TMMicrosoft1212	Nokia
+TMMicrosoft1800	Microsoft
+TMbusiness analytics356	Oracle
+TMMicrosoft1504	Microsoft
+TMOracle1883	Oracle
+TMIBM940	Google
+TMIBM525	Intel
+TMdata mining OR data-mining502	Hewlett Packard
+TMIBM911	International Business Machines
+TMSAS338	Yahoo
+TMIBM86	Sony
+TMMicrosoft1842	MySpace
+TMMicrosoft450	Wall Street Journal
+TMOracle1904	Apple
+TMIBM878	Motorola
+TMbenchmarking OR benchmark OR benchmarks598	Wall Street Journal
+TMMicrosoft2084	Microsoft
+TMIBM2198	Intel
+TMIBM2376	American Online
+TMIBM2225	Verizon
+TMMicrosoft458	Sony
+TMSAP2141	Business Objects
+TMIBM1012	Intel
+TMIBM892	Sun Microsystems
+TMMicrosoft2024	Xerox
+TMbenchmarking OR benchmark OR benchmarks647	Yahoo
+TMMicrosoft1313	International Business Machines
+TMMicrosoft1028	Microsoft
+TMIBM830	Google
+TMMicrosoft1991	eBay
+TMbenchmarking OR benchmark OR benchmarks2515	Facebook
+TMSAS2605	Wall Street Journal
+TMMicrosoft1406	International Business Machines
+TMIBM1012	International Business Machines
+TMMicrosoft2127	Microsoft
+TMMicrosoft1134	Microsoft
+TMSAS231	Apple
+TMOracle1680	SAP
+TMSAP741	Intel
+TMSAP2145	SAP
+TMIBM2302	Oracle
+TMOracle1961	Google
+TMOracle1656	Big Blue
+TMIBM789	Microsoft
+TMIBM987	Cisco
+TMMicrosoft1034	Motorola
+TMOracle224	Microsoft
+TMbusiness intelligence OR business intelligences OR business intelligent714	Google
+TMMicrosoft2130	LinkedIn
+TMcompetitive intelligence698	Motorola
+TMMicrosoft1420	Yahoo
+TMIBM2578	International Business Machines
+TMOracle1657	International Business Machines
+TMdata mining OR data-mining2409	Yahoo
+TMIBM82	Google
+TMMicrosoft1974	Google
+TMIBM520	Yahoo
+TMOracle1670	Google
+TMbenchmarking OR benchmark OR benchmarks586	International Business Machines
+TMdata mining OR data-mining489	Microsoft
+TMdata mining OR data-mining347	Stanford University
+TMSAP694	Microsoft
+TMIBM147	Verizon
+TMSAS2624	Wall Street Journal
+TMMicrosoft1146	Google
+TMMicrosoft1345	Microsoft
+TMIBM140	University of California
+TMMicrosoft1223	Google
+TMOracle1880	CNET News
+TMmeta data OR meta-data32	Nokia
+TMMicrosoft1192	CNN
+TMMicrosoft1517	Facebook
+TMMicrosoft428	Sun Microsystems
+TMIBM527	Time Warner
+TMIBM149	International Business Machines
+TMMicrosoft1515	Microsoft
+TMIBM990	Motorola
+TMMicrosoft1376	Microsoft
+TMMicrosoft1386	Comcast
+TMSAS1319	Yahoo
+TMMicrosoft2008	Microsoft
+TMbenchmarking OR benchmark OR benchmarks263	Apple
+TMMicrosoft1117	Facebook
+TMMicrosoft1431	Dell
+TMIBM83	Microsoft
+TMIBM2376	Yahoo
+TMMicrosoft2012	Facebook
+TMIBM793	Apple
+TMIBM1001	Cisco
+TMMicrosoft2076	BBC
+TMIBM828	Adobe
+TMhyperion2523	Microsoft
+TMSAS248	Wall Street Journal
+TMIBM129	Oracle
+TMIBM2588	Intel
+TMMicrosoft1989	Microsoft
+TMSAP696	Apple
+TMMicrosoft469	Google
+TMIBM78	Microsoft
+TMMicrosoft1081	Yahoo
+TMMicrosoft2137	Microsoft
+TMMicrosoft406	Verizon
+TMmeta data OR meta-data2593	Google
+TMMicrosoft1302	Apple
+TMMicrosoft365	Microsoft
+TMMicrosoft1768	Microsoft
+TMMicrosoft1451	Adobe
+TMMicrosoft1718	Microsoft
+TMMicrosoft419	Apple
+TMMicrosoft1709	Facebook
+TMIBM2192	Microsoft
+TMdata mining OR data-mining2405	Fox
+TMbenchmarking OR benchmark OR benchmarks299	eBay
+TMMicrosoft1432	American Online
+TMbenchmarking OR benchmark OR benchmarks540	Microsoft
+TMOracle1668	Yahoo
+TMMicrosoft2046	Apple
+TMOracle195	Oracle
+TMOracle1958	Intel
+TMMicrosoft1073	Microsoft
+TMOracle196	Oracle
+TMIBM957	International Business Machines
+TMMicrosoft1431	Microsoft
+TMMicrosoft1482	Wall Street Journal
+TMSAS250	Comcast
+TMMicrosoft1065	Apple
+TMMicrosoft1337	International Business Machines
+TMIBM908	Adobe
+TMMicrosoft1436	American Online
+TMMicrosoft1272	Fox
+TMIBM2244	Microsoft
+TMdata mining OR data-mining2413	Sun Microsystems
+TMMicrosoft2119	Apple
+TMIBM2192	Yahoo
+TMMicrosoft1302	Facebook
+TMSAP666	Cisco Systems
+TMMicrosoft1384	Microsoft
+TMIBM796	International Business Machines
+TMSAP733	Cisco
+TMMicrosoft2013	Apple
+TMMicrosoft403	Apple
+TMdata mining OR data-mining485	Apple
+TMMicrosoft1448	Microsoft
+TMIBM58	Oracle
+TMMicrosoft1431	Massachusetts Institute of Technology
+TMSAS2602	Apple
+TMMicrosoft2044	Microsoft
+TMIBM100	International Business Machines
+TMMicrosoft2116	Oracle
+TMMicrosoft402	Microsoft
+TMSAP722	Apple
+TMMicrosoft1539	Google
+TMIBM983	Harvard
+TMIBM843	International Business Machines
+TMMicrosoft2072	Microsoft
+TMIBM803	Google
+TMOracle1935	Wall Street Journal
+TMIBM791	International Business Machines
+TMdata warehouse OR data-warehouse OR data warehouses OR data-warehouses2525	Verizon
+TMMicrosoft1472	Yahoo
+TMMicrosoft1985	Adobe
+TMSAP723	SAP
+TMMicrosoft1040	Comcast
+TMOracle1931	International Business Machines
+TMMicrosoft1531	New York Times
+TMIBM839	Xerox
+TMOracle1904	Hewlett Packard
+TMIBM2261	Dell
+TMMicrosoft2078	Microsoft
+TMSAS2622	Oracle
+TMMicrosoft1352	Apple
+TMMicrosoft1852	Federal Trade Commission
+TMbenchmarking OR benchmark OR benchmarks556	Dell
+TMMicrosoft1715	Google
+TMMicrosoft1434	Microsoft
+TMOracle15	Google
+TMIBM954	Wall Street Journal
+TMbenchmarking OR benchmark OR benchmarks303	International Business Machines
+TMbusiness intelligence OR business intelligences OR business intelligent714	Apple
+TMMicrosoft1485	New York Times
+TMSAP693	SAP
+TMOracle8	Oracle
+TMbusiness intelligence OR business intelligences OR business intelligent49	SAP
+TMMicrosoft1316	Big Blue
+TMIBM957	Cisco Systems
+TMIBM2203	Sun Microsystems
+TMIBM842	Microsoft
+TMMicrosoft1296	Apple
+TMMicrosoft1856	Microsoft
+TMbusiness intelligence OR business intelligences OR business intelligent55	Intel
+TMMicrosoft1419	Google
+TMMicrosoft1199	eBay
+TMSAS2609	Wall Street Journal
+TMbenchmarking OR benchmark OR benchmarks647	American Online
+TMIBM2245	Microsoft
+TMbenchmarking OR benchmark OR benchmarks272	Google
+TMMicrosoft1539	Yahoo
+TMMicrosoft2116	Verizon
+TMSAP687	Google
+TMbenchmarking OR benchmark OR benchmarks2433	Microsoft
+TMbenchmarking OR benchmark OR benchmarks622	Apple
+TMMicrosoft1062	Yahoo
+TMMicrosoft1349	Yahoo
+TMbusiness intelligence OR business intelligences OR business intelligent54	Cisco
+TMbenchmarking OR benchmark OR benchmarks298	Microsoft
+TMbenchmarking OR benchmark OR benchmarks2456	ATT
+TMbenchmarking OR benchmark OR benchmarks2507	Facebook
+TMSAP2398	SAP
+TMbenchmarking OR benchmark OR benchmarks2466	Facebook
+TMMicrosoft1425	eBay
+TMIBM2396	American Online
+TMmeta data OR meta-data35	American Online
+TMbusiness intelligence OR business intelligences OR business intelligent1323	Apple
+TMOracle1937	Sony
+TMSAS246	Microsoft
+TMMicrosoft447	Fox
+TMbusiness analytics359	Big Blue
+TMbenchmarking OR benchmark OR benchmarks630	Adobe
+TMIBM157	New York Times
+TMMicrosoft373	Google
+TMIBM2574	International Business Machines
+TMmeta data OR meta-data2596	Fox
+TMSAP736	Business Objects
+TMIBM2394	Google
+TMIBM942	International Business Machines
+TMIBM997	Microsoft
+TMMicrosoft1479	Advanced Micro Devices
+TMMicrosoft431	Apple
+TMIBM129	Stanford University
+TMIBM150	Intel
+TMMicrosoft1149	Microsoft
+TMIBM843	Oracle
+TMMicrosoft1329	Microsoft
+TMIBM912	International Business Machines
+TMbusiness intelligence OR business intelligences OR business intelligent701	Business Objects
+TMMicrosoft2124	Google
+TMbusiness intelligence OR business intelligences OR business intelligent719	Dell
+TMMicrosoft1837	Verizon
+TMIBM879	Microsoft
+TMIBM2356	International Business Machines
+TMdata mining OR data-mining495	Hewlett Packard
+TMIBM841	Apple
+TMMicrosoft1428	Microsoft
+TMIBM2297	Sony
+TMIBM2393	Microsoft
+TMMicrosoft1243	MySpace
+TMIBM2274	Google
+TMMicrosoft2019	Cisco
+TMMicrosoft1827	Microsoft
+TMMicrosoft1593	Microsoft
+TMSAS334	American Online
+TMMicrosoft459	Microsoft
+TMIBM2213	Apple
+TMOracle1659	Yahoo
+TMSAS235	Wall Street Journal
+TMMicrosoft1529	Microsoft
+TMMicrosoft2057	Microsoft
+TMMicrosoft402	Apple
+TMIBM2328	Google
+TMMicrosoft2099	Microsoft
+TMMicrosoft1823	Yahoo
+TMSAP660	Microsoft
+TMMicrosoft1293	Hewlett Packard
+TMMicrosoft1539	Facebook
+TMMicrosoft1361	Microsoft
+TMMicrosoft2057	Google
+TMSAS329	Yahoo
+TMMicrosoft1851	Facebook
+TMSAP659	Wall Street Journal
+TMOracle1633	Nokia
+TMOracle1944	Cisco
+TMbenchmarking OR benchmark OR benchmarks2437	LinkedIn
+TMMicrosoft2062	Google
+TMIBM970	International Business Machines
+TMMicrosoft1548	Yahoo
+TMMicrosoft2057	Dell
+TMMicrosoft1765	Harvard
+TMOracle1888	Intel
+TMMicrosoft1798	Microsoft
+TMbenchmarking OR benchmark OR benchmarks263	International Business Machines
+TMMicrosoft1564	Dell
+TMMicrosoft2109	Apple
+TMbenchmarking OR benchmark OR benchmarks576	American Online
+TMIBM164	Cisco
+TMIBM894	Advanced Micro Devices
+TMIBM1015	International Business Machines
+TMMicrosoft415	American Online
+TMMicrosoft2001	Microsoft
+TMIBM2355	International Business Machines
+TMSAS341	Apple
+TMbenchmarking OR benchmark OR benchmarks2466	Microsoft
+TMIBM2331	Wall Street Journal
+TMMicrosoft2111	Google
+TMIBM2217	International Business Machines
+TMSAS250	SAS
+TMMicrosoft1273	Microsoft
+TMMicrosoft2103	Microsoft
+TMOracle201	Google
+TMMicrosoft1518	Microsoft
+TMMicrosoft407	Adobe
+TMbenchmarking OR benchmark OR benchmarks2458	Fox
+TMIBM829	Microsoft
+TMMicrosoft1792	International Business Machines
+TMMicrosoft1104	Microsoft
+TMMicrosoft1185	Sony
+TMSAS1321	Yahoo
+TMMicrosoft1848	Google
+TMMicrosoft1469	Wall Street Journal
+TMIBM175	New York Times
+TMIBM2557	Motorola
+TMOracle1866	Google
+TMIBM1009	Sun Microsystems
+TMMicrosoft1134	Cisco
+TMMicrosoft1587	Microsoft
+TMMicrosoft465	Microsoft
+TMMicrosoft2076	Yahoo
+TMMicrosoft1544	Flickr
+TMbenchmarking OR benchmark OR benchmarks581	Microsoft
+TMSAS2622	Wall Street Journal
+TMIBM2237	Dell
+TMMicrosoft398	Microsoft
+TMIBM2284	International Business Machines
+TMSAP728	LinkedIn
+TMIBM1009	Dell
+TMMicrosoft1804	Microsoft
+TMSAP678	Apple
+TMhyperion1967	Oracle
+TMIBM828	Nokia
+TMMicrosoft1386	Microsoft
+TMMicrosoft2027	MySpace
+TMIBM936	Hewlett Packard
+TMMicrosoft1516	Yahoo
+TMOracle1676	Oracle
+TMMicrosoft1503	Microsoft
+TMMicrosoft1776	Google
+TMIBM2285	Sony
+TMIBM60	Dell
+TMSAS243	Apple
+TMIBM2183	Yahoo
+TMMicrosoft1170	Yahoo
+TMMicrosoft2094	Apple
+TMIBM2246	Motorola
+TMbenchmarking OR benchmark OR benchmarks649	Yahoo
+TMIBM2197	Wall Street Journal
+TMIBM844	International Business Machines
+TMMicrosoft1431	Intel
+TMMicrosoft1036	Microsoft
+TMMicrosoft2097	Apple
+TMIBM2229	SAP
+TMMicrosoft2020	Microsoft
+TMSAP722	Yahoo
+TMIBM2234	Advanced Micro Devices
+TMMicrosoft1561	Apple
+TMbenchmarking OR benchmark OR benchmarks645	Apple
+TMMicrosoft1221	Microsoft
+TMIBM154	Stanford University
+TMIBM2188	Viacom
+TMMicrosoft1519	American Online
+TMbusiness intelligence OR business intelligences OR business intelligent714	Intel
+TMIBM2221	Intel
+TMSAS338	Wall Street Journal
+TMMicrosoft1360	Yahoo
+TMMicrosoft1276	Microsoft
+TMbenchmarking OR benchmark OR benchmarks2474	Microsoft
+TMMicrosoft1722	BBC
+TMIBM803	Nokia
+TMSAS2628	Apple
+TMIBM2546	Intel
+TMIBM129	International Business Machines
+TMSAP750	SAP
+TMOracle201	MySpace
+TMbenchmarking OR benchmark OR benchmarks2515	Sun Microsystems
+TMMicrosoft1188	Microsoft
+TMIBM2365	SAP
+TMMicrosoft1512	Intel
+TMIBM2245	International Business Machines
+TMSAP2146	Wall Street Journal
+TMIBM2572	Oracle
+TMOracle226	Hyperion
+TMMicrosoft1278	Wall Street Journal
+TMIBM906	eBay
+TMOracle11	Cisco
+TMIBM803	Microsoft
+TMMicrosoft2053	Microsoft
+TMMicrosoft1741	Microsoft
+TMIBM529	Sony
+TMMicrosoft1769	Microsoft
+TMbenchmarking OR benchmark OR benchmarks286	Apple
+TMOracle218	Cisco
+TMbenchmarking OR benchmark OR benchmarks270	Adobe
+TMMicrosoft1173	Microsoft
+TMIBM2214	International Business Machines
+TMSAS245	Yahoo
+TMIBM90	Google
+TMMicrosoft1771	Yahoo
+TMMicrosoft458	Harvard
+TMIBM521	Google
+TMMicrosoft1419	Apple
+TMMicrosoft1985	Google
+TMSAP729	SAP
+TMMicrosoft2028	American Online
+TMIBM2397	Flickr
+TMIBM116	Comcast
+TMMicrosoft1084	Apple
+TMOracle1893	Intel
+TMbenchmarking OR benchmark OR benchmarks2484	Google
+TMSAP739	Apple
+TMSAP739	Google
+TMMicrosoft1101	Apple
+TMMicrosoft1304	Microsoft
+TMMicrosoft1038	Apple
+TMIBM2342	Motorola
+TMbenchmarking OR benchmark OR benchmarks2472	Google
+TMIBM2220	Sun Microsystems
+TMSAS2628	Yahoo
+TMSAP690	SAP
+TMIBM812	International Business Machines
+TMMicrosoft1356	Motorola
+TMIBM869	Wall Street Journal
+TMMicrosoft454	Yahoo
+TMOracle199	Google
+TMMicrosoft1285	Microsoft
+TMMicrosoft408	eBay
+TMOracle1610	Yahoo
+TMIBM2563	International Business Machines
+TMOracle11	eBay
+TMIBM2196	Wall Street Journal
+TMMicrosoft1144	Microsoft
+TMIBM144	International Business Machines
+TMIBM2228	Microsoft
+TMMicrosoft1836	Fox
+TMMicrosoft1140	Fox
+TMOracle1941	Oracle
+TMOracle1682	SAP
+TMIBM1001	SAP
+TMMicrosoft2003	Google
+TMMicrosoft1334	Massachusetts Institute of Technology
+TMIBM2281	Advanced Micro Devices
+TMMicrosoft1444	Microsoft
+TMIBM911	Oracle
+TMOracle1919	Sun Microsystems
+TMMicrosoft1347	BusinessWeek
+TMMicrosoft2044	Apple
+TMIBM172	Dell
+TMIBM1011	Verizon
+TMMicrosoft1412	Facebook
+TMIBM135	Hewlett Packard
+TMOracle1876	International Business Machines
+TMIBM2348	Microsoft
+TMSAS232	Wall Street Journal
+TMIBM2189	Microsoft
+TMMicrosoft1824	Yahoo
+TMMicrosoft469	Yahoo
+TMIBM2375	Yahoo
+TMMicrosoft1303	Yahoo
+TMIBM96	Google
+TMIBM894	International Business Machines
+TMIBM2555	Microsoft
+TMMicrosoft1191	Google
+TMMicrosoft439	Adobe
+TMIBM2534	Wall Street Journal
+TMbenchmarking OR benchmark OR benchmarks2447	Microsoft
+TMMicrosoft1857	Microsoft
+TMSAP694	International Business Machines
+TMMicrosoft2026	Intel
+TMknowledge management2522	Yahoo
+TMbenchmarking OR benchmark OR benchmarks2479	Cisco
+TMMicrosoft438	Wall Street Journal
+TMMicrosoft1448	Sony
+TMMicrosoft1781	Adobe
+TMIBM151	Intel
+TMbenchmarking OR benchmark OR benchmarks613	Sun Microsystems
+TMMicrosoft1318	New York Times
+TMIBM2590	International Business Machines
+TMMicrosoft465	Hewlett Packard
+TMIBM68	Advanced Micro Devices
+TMMicrosoft445	New York Times
+TMMicrosoft1772	Intel
+TMMicrosoft2074	Time Warner
+TMIBM2545	International Business Machines
+TMMicrosoft1853	Google
+TMIBM947	Yahoo
+TMOracle1660	International Business Machines
+TMSAS231	Yahoo
+TMIBM896	SAP
+TMMicrosoft2068	Sony
+TMMicrosoft2110	Apple
+TMIBM164	MySpace
+TMIBM895	Intel
+TMMicrosoft2039	Microsoft
+TMMicrosoft1281	Microsoft
+TMMicrosoft1140	CNN
+TMIBM153	Verizon
+TMMicrosoft1050	Microsoft
+TMOracle1926	Dell
+TMOracle1894	Apple
+TMOracle1679	Microsoft
+TMMicrosoft470	Google
+TMMicrosoft1802	Apple
+TMOracle1656	International Business Machines
+TMMicrosoft1081	Dell
+TMIBM2573	Dell
+TMMicrosoft1046	Yahoo
+TMSAS234	MySpace
+TMMicrosoft2068	Microsoft
+TMbenchmarking OR benchmark OR benchmarks605	Cisco
+TMMicrosoft1478	Dell
+TMIBM2586	Apple
+TMMicrosoft1841	Google
+TMMicrosoft1162	Intel
+TMOracle224	Oracle
+TMMicrosoft2043	Microsoft
+TMIBM875	Microsoft
+TMIBM64	SAP
+TMMicrosoft1155	Microsoft
+TMIBM515	Fox
+TMIBM934	Oracle
+TMIBM122	International Business Machines
+TMIBM74	SAP
+TMbenchmarking OR benchmark OR benchmarks304	Yahoo
+TMOracle1640	Massachusetts Institute of Technology
+TMOracle1619	SAP
+TMMicrosoft1583	Apple
+TMMicrosoft1536	Wall Street Journal
+TMknowledge management2176	International Business Machines
+TMOracle1682	Microsoft
+TMOracle1653	Oracle
+TMIBM939	Sun Microsystems
+TMMicrosoft1548	Intel
+TMbenchmarking OR benchmark OR benchmarks2457	Wall Street Journal
+TMSAP678	Intel
+TMMicrosoft2031	Sony
+TMSAS247	Yahoo
+TMIBM799	International Business Machines
+TMIBM2292	International Business Machines
+TMMicrosoft2115	eBay
+TMOracle1926	Sun Microsystems
+TMOracle1935	Yahoo
+TMSAS2607	Comcast
+TMbenchmarking OR benchmark OR benchmarks532	Intel
+TMIBM853	International Business Machines
+TMbenchmarking OR benchmark OR benchmarks607	MySpace
+TMMicrosoft1043	Microsoft
+TMdata mining OR data-mining2410	Google
+TMIBM2342	Intel
+TMbusiness intelligence OR business intelligences OR business intelligent54	Business Objects
+TMIBM74	Google
+TMIBM961	Federal Trade Commission
+TMIBM515	Yahoo
+TMMicrosoft1119	Microsoft
+TMOracle1880	International Business Machines
+TMMicrosoft1128	American Online
+TMSAS341	Wall Street Journal
+TMIBM2385	International Business Machines
+TMOracle1888	International Business Machines
+TMMicrosoft1029	Cisco
+TMIBM837	Stanford University
+TMSAP756	Wall Street Journal
+TMIBM876	International Business Machines
+TMOracle189	Oracle
+TMMicrosoft439	Apple
+TMbenchmarking OR benchmark OR benchmarks2445	eBay
+TMMicrosoft1303	Wall Street Journal
+TMdata mining OR data-mining349	Yahoo
+TMOracle1905	Oracle
+TMMicrosoft1091	Netflix
+TMMicrosoft1839	Nokia
+TMbenchmarking OR benchmark OR benchmarks268	Microsoft
+TMIBM811	Yahoo
+TMMicrosoft1173	Verizon
+TMIBM1005	Verizon
+TMbenchmarking OR benchmark OR benchmarks538	eBay
+TMOracle6	Verizon
+TMbenchmarking OR benchmark OR benchmarks624	Yahoo
+TMIBM2572	Sun Microsystems
+TMMicrosoft1025	Intel
+TMMicrosoft1365	CNET News
+TMIBM2563	Cisco Systems
+TMIBM2351	Oracle
+TMMicrosoft1776	Wall Street Journal
+TMIBM2348	Sun Microsystems
+TMMicrosoft1428	Yahoo
+TMMicrosoft1318	Microsoft
+TMIBM2309	Microsoft
+TMMicrosoft1181	Microsoft
+TMIBM937	Sun Microsystems
+TMMicrosoft2023	Federal Trade Commission
+TMMicrosoft1816	Apple
+TMOracle7	Google
+TMSAP2141	Wall Street Journal
+TMbenchmarking OR benchmark OR benchmarks292	MySpace
+TMSAP2143	International Business Machines
+TMMicrosoft1124	Fox
+TMMicrosoft1083	Microsoft
+TMIBM86	Hewlett Packard
+TMIBM527	Microsoft
+TMMicrosoft1173	Apple
+TMMicrosoft1839	Yahoo
+TMMicrosoft2052	Verizon
+TMIBM2582	Cisco Systems
+TMIBM935	Wall Street Journal
+TMMicrosoft1056	Microsoft
+TMIBM2384	Yahoo
+TMIBM101	International Business Machines
+TMMicrosoft1589	Oracle
+TMIBM2331	MySpace
+TMMicrosoft1290	Microsoft
+TMMicrosoft1770	Yahoo
+TMSAP761	Facebook
+TMMicrosoft390	Verizon
+TMOracle223	Stanford University
+TMMicrosoft386	Microsoft
+TMMicrosoft1261	Dell
+TMbusiness analytics358	Harvard
+TMIBM780	Yahoo
+TMIBM140	Cisco Systems
+TMbenchmarking OR benchmark OR benchmarks2432	Nokia
+TMOracle216	Dell
+TMIBM2256	Dell
+TMIBM132	International Business Machines
+TMMicrosoft1855	Time Warner
+TMMicrosoft1714	Apple
+TMIBM155	Cisco Systems
+TMOracle1881	SAP
+TMMicrosoft1252	Microsoft
+TMdata mining OR data-mining2420	American Online
+TMIBM2204	Hewlett Packard
+TMOracle1918	Facebook
+TMMicrosoft1361	Google
+TMMicrosoft1788	Google
+TMhyperion1966	Yahoo
+TMIBM2532	International Business Machines
+TMMicrosoft1407	Microsoft
+TMdata mining OR data-mining481	Google
+TMMicrosoft1591	CNET News
+TMIBM2396	Microsoft
+TMMicrosoft1078	Wall Street Journal
+TMOracle1668	Microsoft
+TMMicrosoft1484	Microsoft
+TMMicrosoft1518	Yahoo
+TMMicrosoft1065	Harvard
+TMIBM1017	Oracle
+TMOracle215	International Business Machines
+TMSAP676	Wall Street Journal
+TMIBM826	Cisco Systems
+TMMicrosoft1491	Yahoo
+TMIBM803	Apple
+TMIBM2243	Oracle
+TMOracle1684	Yahoo
+TMMicrosoft1370	Nokia
+TMMicrosoft2119	Verizon
+TMbenchmarking OR benchmark OR benchmarks2453	Google
+TMMicrosoft2073	Intel
+TMIBM528	Dell
+TMMicrosoft2104	Microsoft
+TMbenchmarking OR benchmark OR benchmarks614	Motorola
+TMMicrosoft395	American Online
+TMhyperion255	Wall Street Journal
+TMMicrosoft1266	Facebook
+TMMicrosoft394	Apple
+TMIBM793	Google
+TMSAS2628	Verizon
+TMMicrosoft1503	Sony
+TMMicrosoft2094	Microsoft
+TMMicrosoft1169	Facebook
+TMSAS333	Wall Street Journal
+TMMicrosoft1118	Google
+TMMicrosoft425	Microsoft
+TMMicrosoft2085	Microsoft
+TMMicrosoft1214	Intel
+TMOracle1666	American Online
+TMMicrosoft1396	Apple
+TMIBM2542	International Business Machines
+TMmeta data OR meta-data40	Viacom
+TMMicrosoft412	eBay
+TMMicrosoft1288	Microsoft
+TMMicrosoft1343	Yahoo
+TMbusiness intelligence OR business intelligences OR business intelligent718	Yahoo
+TMMicrosoft463	Comcast
+TMMicrosoft1573	American Online
+TMOracle7	Sun Microsystems
+TMSAP681	SAP
+TMMicrosoft1524	Microsoft
+TMMicrosoft1489	Adobe
+TMMicrosoft1827	Intel
+TMMicrosoft1807	Microsoft
+TMIBM795	International Business Machines
+TMIBM2225	Wall Street Journal
+TMIBM2293	Microsoft
+TMMicrosoft1310	CNET News
+TMMicrosoft1314	Sony
+TMbenchmarking OR benchmark OR benchmarks2484	Yahoo
+TMMicrosoft2024	Intel
+TMdata mining OR data-mining2421	American Online
+TMMicrosoft1272	Comcast
+TMmeta data OR meta-data33	New York Times
+TMIBM2200	Verizon
+TMOracle1926	Cisco
+TMMicrosoft2027	Microsoft
+TMbenchmarking OR benchmark OR benchmarks622	Verizon
+TMMicrosoft1396	Microsoft
+TMOracle1890	Microsoft
+TMMicrosoft1316	Oracle
+TMMicrosoft2066	Sony
+TMMicrosoft1186	Google
+TMIBM2305	Intel
+TMdata mining OR data-mining2414	Microsoft
+TMMicrosoft1421	American Online
+TMSAP2142	SAP
+TMOracle1917	Cisco
+TMIBM951	International Business Machines
+TMSAS236	American Online
+TMSAS1320	Microsoft
+TMIBM2273	Yahoo
+TMSAP678	Dell
+TMbenchmarking OR benchmark OR benchmarks571	LinkedIn
+TMIBM2531	Intel
+TMmeta data OR meta-data2598	American Online
+TMIBM150	Microsoft
+TMIBM2364	Yahoo
+TMdata warehouse OR data-warehouse OR data warehouses OR data-warehouses505	Dell
+TMIBM866	Google
+TMbenchmarking OR benchmark OR benchmarks597	CNN
+TMOracle1616	LinkedIn
+TMSAP734	International Business Machines
+TMSAP739	International Business Machines
+TMMicrosoft437	Microsoft
+TMMicrosoft1123	Microsoft
+TMIBM2201	Apple
+TMOracle1665	Wall Street Journal
+TMOracle1880	Oracle
+TMSAS2623	Yahoo
+TMIBM2358	Microsoft
+TMOracle1657	Intel
+TMOracle1673	Microsoft
+TMSAS229	Microsoft
+TMIBM2322	Yahoo
+TMIBM947	Nokia
+TMOracle1633	Oracle
+TMbenchmarking OR benchmark OR benchmarks2481	Intel
+TMIBM2573	Hewlett Packard
+TMMicrosoft1841	Microsoft
+TMIBM67	International Business Machines
+TMMicrosoft372	Microsoft
+TMIBM864	Big Blue
+TMMicrosoft2099	Apple
+TMMicrosoft1702	American Online
+TMIBM927	Dell
+TMIBM1010	Sun Microsystems
+TMMicrosoft1738	Microsoft
+TMMicrosoft1564	Motorola
+TMIBM2301	International Business Machines
+TMIBM928	Sun Microsystems
+TMIBM2548	eBay
+TMIBM940	International Business Machines
+TMIBM162	Apple
+TMSAP760	Verizon
+TMIBM838	Microsoft
+TMMicrosoft1432	Yahoo
+TMSAS2612	American Online
+TMMicrosoft2132	University of California
+TMOracle199	Yahoo
+TMMicrosoft372	Wall Street Journal
+TMOracle5	Oracle
+TMMicrosoft1576	Microsoft
+TMIBM2330	Intel
+TMMicrosoft1417	Google
+TMMicrosoft1530	Intel
+TMIBM2272	eBay
+TMMicrosoft1214	Federal Trade Commission
+TMMicrosoft1065	Microsoft
+TMbenchmarking OR benchmark OR benchmarks2466	Sony
+TMbenchmarking OR benchmark OR benchmarks2480	Facebook
+TMMicrosoft1802	Yahoo
+TMOracle1685	Microsoft
+TMMicrosoft1356	Google
+TMIBM2275	Apple
+TMOracle1666	Microsoft
+TMOracle13	Microsoft
+TMSAP689	SAP
+TMMicrosoft1246	Microsoft
+TMIBM2290	International Business Machines
+TMSAS329	Microsoft
+TMMicrosoft1370	Wall Street Journal
+TMbenchmarking OR benchmark OR benchmarks292	Yahoo
+TMMicrosoft1494	Microsoft
+TMSAP2148	Oracle
+TMMicrosoft1257	Microsoft
+TMOracle1634	Oracle
+TMMicrosoft1840	Intel
+TMMicrosoft1406	Google
+TMOracle1875	Sun Microsystems
+TMMicrosoft1200	New York Times
+TMIBM869	Oracle
+TMMicrosoft1699	Google
+TMMicrosoft1399	Comcast
+TMOracle1909	Oracle
+TMIBM2367	Big Blue
+TMMicrosoft1452	Microsoft
+TMIBM2318	Hewlett Packard
+TMIBM518	International Business Machines
+TMMicrosoft1362	Google
+TMIBM807	Sun Microsystems
+TMMicrosoft413	eBay
+TMIBM153	Apple
+TMIBM2246	Cisco
+TMbenchmarking OR benchmark OR benchmarks565	Wall Street Journal
+TMSAP696	Wall Street Journal
+TMMicrosoft1246	International Business Machines
+TMMicrosoft1541	Apple
+TMOracle1614	Google
+TMbusiness intelligence OR business intelligences OR business intelligent44	Oracle
+TMIBM166	Xerox
+TMMicrosoft1745	Apple
+TMOracle223	Oracle
+TMIBM2537	American Online
+TMMicrosoft2133	eBay
+TMbenchmarking OR benchmark OR benchmarks285	MySpace
+TMMicrosoft1970	Microsoft
+TMIBM2246	Apple
+TMMicrosoft1142	Microsoft
+TMIBM828	Cisco
+TMIBM2309	American Online
+TMIBM2353	Sun Microsystems
+TMIBM2553	Dell
+TMdata mining OR data-mining344	Federal Trade Commission
+TMSAP679	SAP
+TMOracle1938	Sony
+TMMicrosoft1250	Microsoft
+TMIBM911	Yahoo
+TMOracle1930	Oracle
+TMMicrosoft1240	Adobe
+TMMicrosoft2047	Yahoo
+TMMicrosoft1599	Microsoft
+TMMicrosoft377	American Online
+TMbusiness analytics361	Sun Microsystems
+TMSAS245	Hewlett Packard
+TMMicrosoft1752	Apple
+TMMicrosoft1602	Wall Street Journal
+TMSAS765	Yahoo
+TMIBM2281	Microsoft
+TMIBM2374	Microsoft
+TMbenchmarking OR benchmark OR benchmarks2456	Comcast
+TMMicrosoft2013	Motorola
+TMhyperion1966	Wall Street Journal
+TMIBM80	International Business Machines
+TMMicrosoft1136	Facebook
+TMIBM2332	Sun Microsystems
+TMIBM892	Intel
+TMMicrosoft1557	Microsoft
+TMMicrosoft1511	Microsoft
+TMMicrosoft1766	Microsoft
+TMbusiness analytics358	Google
+TMIBM857	International Business Machines
+TMIBM819	Hewlett Packard
+TMMicrosoft1704	Sony
+TMMicrosoft1753	Apple
+TMIBM928	Big Blue
+TMIBM2264	International Business Machines
+TMbenchmarking OR benchmark OR benchmarks551	Google
+TMIBM113	Wall Street Journal
+TMOracle1637	Microsoft
+TMMicrosoft2123	Microsoft
+TMIBM794	International Business Machines
+TMdata mining OR data-mining2416	Comcast
+TMMicrosoft1130	LinkedIn
+TMMicrosoft1471	Yahoo
+TMIBM86	Dell
+TMIBM2320	BBC
+TMMicrosoft1315	Yahoo
+TMIBM2298	Comcast
+TMMicrosoft1768	Dell
+TMIBM2281	Hewlett Packard
+TMIBM821	Apple
+TMMicrosoft378	Google
+TMSAP2150	Apple
+TMOracle1613	Oracle
+TMMicrosoft1045	Google
+TMbenchmarking OR benchmark OR benchmarks630	Google
+TMIBM2267	Verizon
+TMbenchmarking OR benchmark OR benchmarks2447	Oracle
+TMMicrosoft2088	Microsoft
+TMtext mining OR text-mining1964	Yahoo
+TMIBM127	Verizon
+TMMicrosoft2075	Sony
+TMOracle1927	Big Blue
+TMMicrosoft2111	Yahoo
+TMbenchmarking OR benchmark OR benchmarks2515	SAP
+TMIBM524	Motorola
+TMOracle1610	Dell
+TMMicrosoft379	Google
+TMbenchmarking OR benchmark OR benchmarks2495	Apple
+TMbenchmarking OR benchmark OR benchmarks645	Google
+TMMicrosoft2080	Microsoft
+TMIBM2534	Yahoo
+TMbenchmarking OR benchmark OR benchmarks2447	Apple
+TMOracle191	Dell
+TMIBM69	International Business Machines
+TMMicrosoft1412	New York Times
+TMMicrosoft1487	Sun Microsystems
+TMbenchmarking OR benchmark OR benchmarks2519	Sony
+TMMicrosoft2015	Google
+TMSAS243	Wall Street Journal
+TMIBM2381	SAP
+TMMicrosoft1510	Microsoft
+TMSAS328	Google
+TMIBM895	Big Blue
+TMbenchmarking OR benchmark OR benchmarks2450	BusinessWeek
+TMOracle1893	International Business Machines
+TMMicrosoft1208	Google
+TMMicrosoft1752	Microsoft
+TMIBM2534	International Business Machines
+TMMicrosoft1698	Microsoft
+TMIBM1018	Intel
+TMMicrosoft421	Sony
+TMMicrosoft1469	American Online
+TMSAP672	International Business Machines
+TMIBM144	Verizon
+TMbenchmarking OR benchmark OR benchmarks295	eBay
+TMIBM2259	Intel
+TMMicrosoft1991	Wall Street Journal
+TMbenchmarking OR benchmark OR benchmarks636	Massachusetts Institute of Technology
+TMIBM902	International Business Machines
+TMOracle207	SAP
+TMMicrosoft2005	Yahoo
+TMSAP666	Hewlett Packard
+TMMicrosoft1124	BBC
+TMMicrosoft2111	Microsoft
+TMMicrosoft1424	Apple
+TMMicrosoft1811	Microsoft
+TMcognos182	Google
+TMIBM810	Google
+TMMicrosoft1543	Microsoft
+TMbenchmarking OR benchmark OR benchmarks2436	Wall Street Journal
+TMMicrosoft2034	Microsoft
+TMhyperion254	Yahoo
+TMMicrosoft1123	Google
+TMIBM923	Hewlett Packard
+TMMicrosoft1773	Verizon
+TMIBM129	Sun Microsystems
+TMMicrosoft1462	American Online
+TMIBM2274	Hewlett Packard
+TMMicrosoft1172	CNET News
+TMSAP659	Google
+TMMicrosoft1858	Microsoft
+TMMicrosoft1604	Nokia
+TMbenchmarking OR benchmark OR benchmarks2475	Verizon
+TMOracle1922	Oracle
+TMbenchmarking OR benchmark OR benchmarks2502	Yahoo
+TMmeta data OR meta-data317	Google
+TMMicrosoft1333	Intel
+TMIBM890	Sony
+TMbenchmarking OR benchmark OR benchmarks354	Yahoo
+TMOracle204	LinkedIn
+TMSAP755	MySpace
+TMIBM2237	Hewlett Packard
+TMIBM2364	ATT
+TMMicrosoft1177	Google
+TMIBM812	Sun Microsystems
+TMIBM2209	Microsoft
+TMIBM908	Nokia
+TMOracle1610	Nokia
+TMMicrosoft1394	Microsoft
+TMMicrosoft1858	Federal Trade Commission
+TMMicrosoft1482	Comcast
+TMIBM105	Adobe
+TMSAS2615	Massachusetts Institute of Technology
+TMmeta data OR meta-data2155	Apple
+TMMicrosoft2019	Yahoo
+TMMicrosoft2075	Apple
+TMmeta data OR meta-data2155	Nokia
+TMMicrosoft1165	Microsoft
+TMIBM2218	International Business Machines
+TMOracle1646	Yahoo
+TMSAP744	American Online
+TMMicrosoft1399	Yahoo
+TMMicrosoft1481	Yahoo
+TMMicrosoft1536	Motorola
+TMSAP724	SAS
+TMOracle1869	Microsoft
+TMSAP724	SAP
+TMdata mining OR data-mining349	Stanford University
+TMMicrosoft1036	Google
+TMMicrosoft1446	Microsoft
+TMMicrosoft1084	Microsoft
+TMMicrosoft1207	Apple
+TMMicrosoft2037	Apple
+TMOracle12	Apple
+TMdata mining OR data-mining1860	Yahoo
+TMOracle1882	Oracle
+TMSAS242	Verizon
+TMbenchmarking OR benchmark OR benchmarks2507	Microsoft
+TMbenchmarking OR benchmark OR benchmarks629	Adobe
+TMMicrosoft2014	Microsoft
+TMIBM2288	International Business Machines
+TMIBM100	Google
+TMSAS338	Apple
+TMIBM2351	International Business Machines
+TMMicrosoft1247	Yahoo
+TMSAS2604	Intel
+TMdata mining OR data-mining1860	Microsoft
+TMOracle1905	Apple
+TMOracle1900	Dell
+TMMicrosoft1105	Microsoft
+TMdata mining OR data-mining495	Apple
+TMMicrosoft1981	Microsoft
+TMMicrosoft1196	Apple
+TMIBM2327	Wall Street Journal
+TMIBM516	Google
+TMIBM932	Intel
+TMIBM107	Dell
+TMIBM779	Google
+TMSAP659	Comcast
+TMOracle1659	Apple
+TMOracle202	Verizon
+TMMicrosoft1409	International Business Machines
+TMMicrosoft2007	Apple
+TMOracle1888	Stanford University
+TMIBM2532	Yahoo
+TMbenchmarking OR benchmark OR benchmarks2501	Yahoo
+TMIBM817	Microsoft
+TMOracle1961	Apple
+TMIBM2361	Google
+TMIBM869	Big Blue
+TMMicrosoft1058	Microsoft
+TMbenchmarking OR benchmark OR benchmarks542	Dell
+TMOracle1661	Verizon
+TMmeta data OR meta-data323	Viacom
+TMOracle1880	Microsoft
+TMbusiness intelligence OR business intelligences OR business intelligent49	Sun Microsystems
+TMMicrosoft1208	Microsoft
+TMIBM170	Microsoft
+TMSAS242	Wall Street Journal
+TMbusiness analytics180	blueKiwi Software
+TMMicrosoft1251	MySpace
+TMIBM177	Microsoft
+TMMicrosoft1411	Verizon
+TMIBM990	Intel
+TMdata mining OR data-mining2424	Yahoo
+TMMicrosoft1269	Motorola
+TMIBM2388	International Business Machines
+TMIBM2234	Intel
+TMMicrosoft1532	Google
+TMbenchmarking OR benchmark OR benchmarks2458	Intel
+TMMicrosoft1709	Yahoo
+TMbenchmarking OR benchmark OR benchmarks274	International Business Machines
+TMMicrosoft1386	Yahoo
+TMMicrosoft1565	Microsoft
+TMMicrosoft1051	University of California
+TMMicrosoft1746	University of California
+TMMicrosoft2055	Microsoft
+TMMicrosoft1515	Sony
+TMMicrosoft1252	Google
+TMMicrosoft1438	Microsoft
+TMmeta data OR meta-data27	Yahoo
+TMOracle1674	Oracle
+TMIBM2561	Stanford University
+TMMicrosoft1581	Apple
+TMMicrosoft1405	Microsoft
+TMMicrosoft1785	Microsoft
+TMMicrosoft1995	Microsoft
+TMMicrosoft1057	Google
+TMdata mining OR data-mining347	Microsoft
+TMmeta data OR meta-data2167	New York Times
+TMMicrosoft382	Comcast
+TMMicrosoft1431	Apple
+TMMicrosoft1100	Microsoft
+TMMicrosoft1590	Microsoft
+TMIBM2275	Google
+TMIBM958	Microsoft
+TMIBM2315	Yahoo
+TMMicrosoft1220	Microsoft
+TMMicrosoft1440	Microsoft
+TMIBM134	Wall Street Journal
+TMMicrosoft2001	Yahoo
+TMIBM104	Microsoft
+TMMicrosoft2034	Sony
+TMMicrosoft1604	Motorola
+TMIBM2589	Apple
+TMbenchmarking OR benchmark OR benchmarks266	Wall Street Journal
+TMMicrosoft1561	Nokia
+TMOracle204	Microsoft
+TMbusiness intelligence OR business intelligences OR business intelligent718	Verizon
+TMOracle227	Hewlett Packard
+TMOracle204	New York Times
+TMSAS245	Wall Street Journal
+TMbenchmarking OR benchmark OR benchmarks304	Microsoft
+TMIBM2225	Yahoo
+TMSAS765	Nokia
+TMmeta data OR meta-data27	Google
+TMbusiness intelligence OR business intelligences OR business intelligent53	CNET News
+TMIBM2239	Intel
+TMMicrosoft1344	Sony
+TMMicrosoft1372	Hewlett Packard
+TMbenchmarking OR benchmark OR benchmarks271	Yahoo
+TMbenchmarking OR benchmark OR benchmarks2446	CNET News
+TMMicrosoft1431	Motorola
+TMOracle225	Adobe
+TMSAS251	Yahoo
+TMMicrosoft1420	Wall Street Journal
+TMbenchmarking OR benchmark OR benchmarks643	Facebook
+TMMicrosoft1481	Microsoft
+TMSAP750	Hewlett Packard
+TMMicrosoft433	American Online
+TMIBM935	Microsoft
+TMmeta data OR meta-data38	Oracle
+TMIBM927	Cisco
+TMMicrosoft1275	Wall Street Journal
+TMMicrosoft2084	Xerox
+TMmeta data OR meta-data2157	Yahoo
+TMMicrosoft2129	Apple
+TMIBM2309	Massachusetts Institute of Technology
+TMOracle1916	Sun Microsystems
+TMMicrosoft1843	Microsoft
+TMSAS768	Wall Street Journal
+TMbenchmarking OR benchmark OR benchmarks309	American Online
+TMMicrosoft378	Time Warner
+TMbenchmarking OR benchmark OR benchmarks604	Yahoo
+TMMicrosoft1526	Microsoft
+TMIBM2589	Wall Street Journal
+TMMicrosoft2063	Google
+TMOracle1625	Comcast
+TMMicrosoft2019	Microsoft
+TMMicrosoft1702	Yahoo
+TMMicrosoft1370	American Online
+TMMicrosoft1396	Netflix
+TMMicrosoft1436	Apple
+TMMicrosoft1341	Wall Street Journal
+TMOracle1942	Yahoo
+TMMicrosoft1563	Microsoft
+TMbenchmarking OR benchmark OR benchmarks556	Intel
+TMIBM989	Apple
+TMbenchmarking OR benchmark OR benchmarks631	Time Warner
+TMOracle1947	Microsoft
+TMIBM792	International Business Machines
+TMIBM90	Wall Street Journal
+TMMicrosoft1497	Microsoft
+TMIBM2558	Microsoft
+TMMicrosoft1978	Microsoft
+TMMicrosoft1039	Nokia
+TMhyperion1966	SAP
+TMMicrosoft425	Motorola
+TMMicrosoft1744	Microsoft
+TMMicrosoft1369	Wall Street Journal
+TMMicrosoft437	Massachusetts Institute of Technology
+TMMicrosoft1268	Yahoo
+TMMicrosoft470	Microsoft
+TMMicrosoft1823	Google
+TMdata mining OR data-mining1860	eBay
+TMIBM2381	Business Objects
+TMMicrosoft2050	Microsoft
+TMIBM2353	Hewlett Packard
+TMdata mining OR data-mining481	Sony
+TMMicrosoft1189	Yahoo
+TMOracle1939	Oracle
+TMOracle1926	Hewlett Packard
+TMIBM953	Hewlett Packard
+TMOracle1620	Wall Street Journal
+TMMicrosoft1200	Microsoft
+TMbenchmarking OR benchmark OR benchmarks2495	Intel
+TMbenchmarking OR benchmark OR benchmarks268	Adobe
+TMIBM65	International Business Machines
+TMMicrosoft1483	New York Times
+TMIBM2247	International Business Machines
+TMIBM2385	Microsoft
+TMMicrosoft2037	Yahoo
+TMMicrosoft397	Yahoo
+TMMicrosoft1469	Comcast
+TMMicrosoft1605	Google
+TMIBM2302	International Business Machines
+TMMicrosoft1372	Apple
+TMMicrosoft1264	Apple
+TMOracle1911	American Online
+TMIBM2319	BBC
+TMMicrosoft1140	Microsoft
+TMdata mining OR data-mining485	Verizon
+TMdata mining OR data-mining2407	Sun Microsystems
+TMMicrosoft1554	Yahoo
+TMbenchmarking OR benchmark OR benchmarks2497	Microsoft
+TMMicrosoft2004	Microsoft
+TMbenchmarking OR benchmark OR benchmarks303	Intel
+TMIBM162	Microsoft
+TMMicrosoft456	Yahoo
+TMSAS246	Apple
+TMMicrosoft1840	Motorola
+TMMicrosoft1138	Microsoft
+TMSAP755	Yahoo
+TMOracle1881	Cisco
+TMMicrosoft1122	Viacom
+TMbenchmarking OR benchmark OR benchmarks603	Facebook
+TMOracle1907	Oracle
+TMOracle1893	SAP
+TMMicrosoft1704	Cisco
+TMbenchmarking OR benchmark OR benchmarks618	Nokia
+TMMicrosoft2050	Apple
+TMIBM948	International Business Machines
+TMIBM171	International Business Machines
+TMIBM135	Yahoo
+TMIBM803	Sony
+TMMicrosoft2041	Yahoo
+TMOracle202	Google
+TMMicrosoft1186	Apple
+TMbenchmarking OR benchmark OR benchmarks625	Intel
+TMOracle1958	Apple
+TMMicrosoft1093	Microsoft
+TMMicrosoft1521	Microsoft
+TMIBM2293	Google
+TMbenchmarking OR benchmark OR benchmarks2450	eBay
+TMMicrosoft1355	Microsoft
+TMSAS765	Wall Street Journal
+TMOracle1906	Wall Street Journal
+TMIBM839	Intel
+TMMicrosoft441	Yahoo
+TMMicrosoft1840	Verizon
+TMMicrosoft1436	eBay
+TMMicrosoft1079	Wall Street Journal
+TMbenchmarking OR benchmark OR benchmarks643	Apple
+TMIBM525	Motorola
+TMSAS229	Apple
+TMMicrosoft1314	Microsoft
+TMMicrosoft1773	Microsoft
+TMMicrosoft1985	Oracle
+TMSAS2619	CNET News
+TMMicrosoft1170	Microsoft
+TMMicrosoft1430	American Online
+TMMicrosoft1449	Yahoo
+TMOracle1688	451 Group
+TMIBM935	International Business Machines
+TMIBM2565	Cisco
+TMMicrosoft1370	Google
+TMOracle1893	Nokia
+TMOracle1670	Apple
+TMbenchmarking OR benchmark OR benchmarks265	Apple
+TMMicrosoft1177	Yahoo
+TMOracle1944	Wall Street Journal
+TMIBM778	Hewlett Packard
+TMdata mining OR data-mining485	Wall Street Journal
+TMbenchmarking OR benchmark OR benchmarks552	Sun Microsystems
+TMbenchmarking OR benchmark OR benchmarks623	Apple
+TMIBM2574	Apple
+TMSAS2609	Apple
+TMOracle1652	Microsoft
+TMMicrosoft1333	Sony
+TMMicrosoft1726	Microsoft
+TMMicrosoft1314	Dell
+TMIBM2221	New York Times
+TMIBM867	Microsoft
+TMIBM828	Cisco Systems
+TMIBM983	BBC
+TMbenchmarking OR benchmark OR benchmarks2466	Google
+TMMicrosoft461	Google
+TMMicrosoft1527	American Online
+TMSAS328	American Online
+TMIBM884	Microsoft
+TMbenchmarking OR benchmark OR benchmarks630	New York Times
+TMIBM963	ATT
+TMIBM781	International Business Machines
+TMMicrosoft368	Microsoft
+TMMicrosoft1589	Verizon
+TMIBM64	International Business Machines
+TMMicrosoft1728	Microsoft
+TMOracle14	Intel
+TMMicrosoft381	American Online
+TMSAP681	Oracle
+TMMicrosoft416	Yahoo
+TMOracle1905	Wall Street Journal
+TMOracle218	Microsoft
+TMMicrosoft1855	American Online
+TMMicrosoft2113	Yahoo
+TMIBM2279	Apple
+TMSAP728	Yahoo
+TMIBM2183	International Business Machines
+TMIBM890	Apple
+TMMicrosoft1233	Microsoft
+TMMicrosoft449	eBay
+TMMicrosoft445	Yahoo
+TMOracle222	Microsoft
+TMIBM949	International Business Machines
+TMIBM983	Xerox
+TMIBM958	Hewlett Packard
+TMIBM942	Cisco
+TMdata mining OR data-mining500	New York Times
+TMIBM937	Oracle
+TMOracle1886	Oracle
+TMMicrosoft1157	Microsoft
+TMMicrosoft1832	Verizon
+TMSAP664	eBay
+TMIBM528	Apple
+TMOracle1635	Oracle
+TMOracle1963	Microsoft
+TMMicrosoft1313	SAP
+TMOracle1920	Hewlett Packard
+TMIBM792	Big Blue
+TMMicrosoft1027	Apple
+TMSAP694	Intel
+TMMicrosoft406	Oracle
+TMMicrosoft1228	Motorola
+TMMicrosoft460	Microsoft
+TMIBM82	Yahoo
+TMMicrosoft1303	American Online
+TMIBM2381	Microsoft
+TMOracle1875	SAP
+TMIBM2184	Wall Street Journal
+TMMicrosoft437	Wall Street Journal
+TMIBM903	Hewlett Packard
+TMIBM963	Wall Street Journal
+TMSAP673	Apple
+TMIBM846	International Business Machines
+TMSAS764	Yahoo
+TMMicrosoft2095	eBay
+TMIBM2545	Microsoft
+TMOracle1676	Yahoo
+TMIBM2268	Microsoft
+TMMicrosoft1793	Intel
+TMMicrosoft1076	Google
+TMMicrosoft1283	International Business Machines
+TMIBM90	Microsoft
+TMOracle11	Oracle
+TMOracle1645	International Business Machines
+TMbenchmarking OR benchmark OR benchmarks2461	Facebook
+TMMicrosoft467	Yahoo
+TMMicrosoft415	International Business Machines
+TMIBM176	International Business Machines
+TMMicrosoft1465	Wall Street Journal
+TMMicrosoft1194	Microsoft
+TMSAS2628	Sony
+TMSAP664	SAP
+TMIBM975	International Business Machines
+TMOracle1928	Oracle
+TMbenchmarking OR benchmark OR benchmarks650	eBay
+TMMicrosoft1318	Google
+TMSAS1321	Nokia
+TMmeta data OR meta-data26	Google
+TMIBM116	Facebook
+TMMicrosoft2024	Google
+TMIBM2527	International Business Machines
+TMIBM809	International Business Machines
+TMMicrosoft1589	Apple
+TMOracle1639	Adobe
+TMMicrosoft1604	ATT
+TMMicrosoft1078	eBay
+TMMicrosoft1365	Yahoo
+TMMicrosoft443	Yahoo
+TMbenchmarking OR benchmark OR benchmarks2520	Google
+TMSAS246	Wall Street Journal
+TMMicrosoft1342	Google
+TMMicrosoft1329	Yahoo
+TMSAS767	Yahoo
+TMOracle204	International Business Machines
+TMIBM876	Microsoft
+TMMicrosoft1465	Comcast
+TMIBM777	Facebook
+TMMicrosoft1451	Apple
+TMIBM2390	International Business Machines
+TMSAS2623	Nokia
+TMIBM918	Sun Microsystems
+TMbenchmarking OR benchmark OR benchmarks276	Wall Street Journal
+TMMicrosoft1530	Microsoft
+TMMicrosoft2057	Big Blue
+TMIBM2272	Yahoo
+TMMicrosoft1325	Apple
+TMOracle1959	Sun Microsystems
+TMMicrosoft1487	Microsoft
+TMIBM137	Intel
+TMMicrosoft1543	Oracle
+TMMicrosoft2051	Verizon
+TMIBM2580	Sony
+TMIBM139	International Business Machines
+TMMicrosoft1859	Intel
+TMIBM90	Verizon
+TMIBM864	Microsoft
+TMIBM2329	Google
+TMIBM867	Intel
+TMSAS772	Apple
+TMIBM175	Motorola
+TMMicrosoft1745	Nokia
+TMMicrosoft435	Yahoo
+TMSAP677	Sun Microsystems
+TMMicrosoft2106	Sony
+TMIBM165	Google
+TMIBM949	Oracle
+TMOracle1609	Dell
+TMMicrosoft1341	Apple
+TMOracle1886	International Business Machines
+TMMicrosoft1142	American Online
+TMOracle1915	International Business Machines
+TMMicrosoft1781	Google
+TMMicrosoft1527	Fox
+TMIBM2533	Intel
+TMbenchmarking OR benchmark OR benchmarks646	Apple
+TMhyperion2523	Verizon
+TMIBM798	Sun Microsystems
+TMMicrosoft1243	Facebook
+TMIBM96	Microsoft
+TMIBM930	International Business Machines
+TMIBM967	International Business Machines
+TMSAS2605	University of California
+TMMicrosoft431	Verizon
+TMIBM986	Intel
+TMMicrosoft1989	Google
+TMMicrosoft1068	Yahoo
+TMMicrosoft378	Microsoft
+TMMicrosoft1436	Yahoo
+TMIBM853	SAP
+TMOracle1962	Oracle
+TMMicrosoft1408	Microsoft
+TMMicrosoft408	Apple
+TMSAS2612	Apple
+TMIBM853	Microsoft
+TMbenchmarking OR benchmark OR benchmarks312	Apple
+TMbenchmarking OR benchmark OR benchmarks609	Wall Street Journal
+TMMicrosoft1830	New York Times
+TMbenchmarking OR benchmark OR benchmarks630	Yahoo
+TMMicrosoft1479	Dell
+TMIBM789	Hewlett Packard
+TMbenchmarking OR benchmark OR benchmarks257	Adobe
+TMMicrosoft1189	Microsoft
+TMIBM935	Verizon
+TMIBM135	International Business Machines
+TMIBM987	Wall Street Journal
+TMMicrosoft1292	Microsoft
+TMOracle216	Google
+TMMicrosoft1097	MySpace
+TMIBM963	Comcast
+TMOracle204	Yahoo
+TMMicrosoft1199	Microsoft
+TMOracle1667	Apple
+TMSAS234	Facebook
+TMhyperion255	Verizon
+TMMicrosoft1394	Facebook
+TMOracle1920	Big Blue
+TMMicrosoft1276	Cisco
+TMMicrosoft1470	CNET News
+TMIBM138	Yahoo
+TMmeta data OR meta-data28	Flickr
+TMcompetitive intelligence697	SAP
+TMOracle1875	Oracle
+TMOracle211	Microsoft
+TMdata mining OR data-mining2422	Microsoft
+TMMicrosoft2118	Microsoft
+TMbenchmarking OR benchmark OR benchmarks2513	Intel
+TMMicrosoft1390	CNET News
+TMMicrosoft1094	Yahoo
+TMIBM2220	Hewlett Packard
+TMMicrosoft1485	Microsoft
+TMMicrosoft1341	Oracle
+TMMicrosoft1837	Google
+TMSAP2139	LinkedIn
+TMIBM142	Microsoft
+TMMicrosoft2024	International Business Machines
+TMIBM2277	eBay
+TMMicrosoft1124	Sun Microsystems
+TMIBM2184	Microsoft
+TMMicrosoft427	Google
+TMOracle1875	Intel
+TMmeta data OR meta-data28	Yahoo
+TMmeta data OR meta-data32	eBay
+TMIBM2335	Intel
+TMIBM778	Oracle
+TMMicrosoft1338	Big Blue
+TMMicrosoft1237	Motorola
+TMSAP690	Microsoft
+TMSAS328	Verizon
+TMMicrosoft2061	eBay
+TMdata warehouse OR data-warehouse OR data warehouses OR data-warehouses503	Facebook
+TMSAP683	SAP
+TMMicrosoft408	Microsoft
+TMIBM2373	International Business Machines
+TMMicrosoft2090	American Online
+TMMicrosoft2121	Apple
+TMSAS249	Yahoo
+TMMicrosoft2032	Viacom
+TMmeta data OR meta-data320	Apple
+TMMicrosoft1228	Google
+TMOracle1867	Microsoft
+TMOracle1915	eBay
+TMIBM925	Federal Trade Commission
+TMMicrosoft406	Apple
+TMMicrosoft1184	Microsoft
+TMMicrosoft1561	Comcast
+TMMicrosoft1782	Harvard
+TMIBM909	Yahoo
+TMMicrosoft1834	SAP
+TMMicrosoft1493	Microsoft
+TMMicrosoft469	Microsoft
+TMIBM90	Stanford University
+TMIBM2368	International Business Machines
+TMMicrosoft416	Flickr
+TMMicrosoft1140	Wall Street Journal
+TMMicrosoft447	New York Times
+TMmeta data OR meta-data38	Dell
+TMMicrosoft1491	Google
+TMMicrosoft1991	Yahoo
+TMMicrosoft448	Yahoo
+TMIBM807	International Business Machines
+TMOracle16	Yahoo
+TMbusiness intelligence OR business intelligences OR business intelligent1323	Microsoft
+TMbenchmarking OR benchmark OR benchmarks626	American Online
+TMbenchmarking OR benchmark OR benchmarks598	Apple
+TMMicrosoft1500	Google
+TMMicrosoft1325	Sony
+TMIBM2183	Microsoft
+TMMicrosoft1562	Motorola
+TMbenchmarking OR benchmark OR benchmarks2479	Yahoo
+TMMicrosoft1568	Microsoft
+TMMicrosoft2070	Sony
+TMMicrosoft1834	Nokia
+TMIBM875	Yahoo
+TMMicrosoft1989	American Online
+TMSAS771	Fox
+TMbenchmarking OR benchmark OR benchmarks2493	American Online
+TMknowledge management2173	Yahoo
+TMMicrosoft1583	Microsoft
+TMOracle1873	International Business Machines
+TMMicrosoft1297	Microsoft
+TMIBM850	Sun Microsystems
+TMOracle1870	Microsoft
+TMmeta data OR meta-data2595	Microsoft
+TMIBM917	Microsoft
+TMOracle1952	Oracle
+TMSAS326	Wall Street Journal
+TMMicrosoft2037	Sony
+TMMicrosoft1801	Yahoo
+TMmeta data OR meta-data2164	Yahoo
+TMMicrosoft2105	Yahoo
+TMIBM828	eBay
+TMIBM997	Apple
+TMSAS2605	Verizon
+TMMicrosoft1457	Microsoft
+TMIBM2338	eBay
+TMMicrosoft1260	Yahoo
+TMOracle1940	Microsoft
+TMSAP721	Cisco
+TMbusiness intelligence OR business intelligences OR business intelligent55	Unisys
+TMSAS2608	Wall Street Journal
+TMMicrosoft1491	Nokia
+TMIBM2241	New York Times
+TMhyperion253	Hyperion
+TMMicrosoft2117	Yahoo
+TMMicrosoft1722	Google
+TMIBM2378	Google
+TMMicrosoft1819	Motorola
+TMSAS326	Apple
+TMOracle1675	Yahoo
+TMMicrosoft1243	Flickr
+TMMicrosoft1581	Yahoo
+TMMicrosoft1858	Google
+TMSAS247	American Online
+TMbenchmarking OR benchmark OR benchmarks2445	Apple
+TMIBM814	Oracle
+TMMicrosoft1390	Microsoft
+TMMicrosoft1989	Apple
+TMMicrosoft2007	Microsoft
+TMMicrosoft428	Microsoft
+TMIBM2385	Intel
+TMMicrosoft1399	Sony
+TMIBM515	Apple
+TMIBM93	Apple
+TMIBM1022	Sony
+TMmeta data OR meta-data33	Microsoft
+TMIBM167	Intel
+TMMicrosoft404	Cisco
+TMIBM906	Yahoo
+TMMicrosoft1065	Facebook
+TMMicrosoft1284	CNET News
+TMMicrosoft426	Apple
+TMOracle1954	Microsoft
+TMMicrosoft1847	American Online
+TMOracle1652	Oracle
+TMIBM965	International Business Machines
+TMbenchmarking OR benchmark OR benchmarks561	Apple
+TMMicrosoft421	Microsoft
+TMMicrosoft1416	Microsoft
+TMOracle1963	Cisco
+TMOracle1911	SAP
+TMOracle187	LinkedIn
+TMSAS239	Wall Street Journal
+TMIBM926	Oracle
+TMmeta data OR meta-data323	Microsoft
+TMMicrosoft1171	Google
+TMOracle1959	Microsoft
+TMMicrosoft1841	Intel
+TMMicrosoft1214	Microsoft
+TMOracle1962	Microsoft
+TMSAS2612	Yahoo
+TMMicrosoft1337	Intel
+TMSAS2602	Verizon
+TMSAS229	Wall Street Journal
+TMSAP694	American Online
+TMMicrosoft1561	ATT
+TMIBM898	International Business Machines
+TMMicrosoft1836	Microsoft
+TMOracle204	SAP
+TMMicrosoft1480	Yahoo
+TMMicrosoft1492	Viacom
+TMMicrosoft471	Sony
+TMOracle1667	Sony
+TMIBM1017	Apple
+TMSAP677	Microsoft
+TMIBM1022	Dell
+TMIBM2393	Apple
+TMMicrosoft1149	New York Times
+TMMicrosoft2063	Apple
+TMMicrosoft463	Microsoft
+TMIBM2277	Yahoo
+TMIBM2258	International Business Machines
+TMIBM2380	Intel
+TMMicrosoft1270	Microsoft
+TMIBM528	Microsoft
+TMMicrosoft1780	Adobe
+TMMicrosoft447	Yahoo
+TMIBM983	Google
+TMbusiness analytics355	Google
+TMMicrosoft442	Microsoft
+TMMicrosoft1454	Google
+TMcompetitive intelligence698	Nokia
+TMMicrosoft1198	Google
+TMMicrosoft1032	Verizon
+TMSAP657	SAP
+TMMicrosoft1404	Yahoo
+TMSAS2619	Intel
+TMMicrosoft1259	Facebook
+TMIBM2207	International Business Machines
+TMknowledge management2175	Cisco
+TMOracle1931	Google
+TMOracle201	Oracle
+TMOracle1661	Wall Street Journal
+TMMicrosoft1408	Intel
+TMIBM2540	Apple
+TMMicrosoft1137	Apple
+TMOracle1631	Yahoo
+TMOracle1892	Oracle
+TMbenchmarking OR benchmark OR benchmarks2468	Oracle
+TMbenchmarking OR benchmark OR benchmarks2503	Yahoo
+TMOracle1691	Apple
+TMIBM990	Apple
+TMOracle1911	Microsoft
+TMIBM918	Oracle
+TMIBM1013	Hewlett Packard
+TMIBM794	Microsoft
+TMMicrosoft1055	Microsoft
+TMIBM956	Microsoft
+TMMicrosoft1125	Massachusetts Institute of Technology
+TMIBM2355	Cisco Systems
+TMmeta data OR meta-data2600	Yahoo
+TMMicrosoft1537	Sony
+TMIBM2366	International Business Machines
+TMIBM1006	International Business Machines
+TMMicrosoft1838	Time Warner
+TMSAP2142	Oracle
+TMSAP732	BBC
+TMSAP678	Oracle
+TMMicrosoft1408	Netflix
+TMMicrosoft1820	Microsoft
+TMSAP2143	SAP
+TMSAP759	Cisco
+TMMicrosoft406	American Online
+TMMicrosoft467	Apple
+TMIBM1004	Stanford University
+TMMicrosoft372	Oracle
+TMIBM2328	Apple
+TMIBM2338	Microsoft
+TMSAP750	Big Blue
+TMMicrosoft2017	American Online
+TMbusiness intelligence OR business intelligences OR business intelligent1324	Wall Street Journal
+TMMicrosoft1370	ATT
+TMIBM903	Federal Trade Commission
+TMIBM2537	Microsoft
+TMMicrosoft2027	Google
+TMMicrosoft1331	Apple
+TMIBM983	Apple
+TMknowledge management2179	Flickr
+TMIBM166	International Business Machines
+TMbenchmarking OR benchmark OR benchmarks2464	Intel
+TMOracle1888	Sun Microsystems
+TMMicrosoft1745	Dell
+TMOracle183	Microsoft
+TMSAS1320	Cisco
+TMMicrosoft2097	Adobe
+TMOracle1881	Microsoft
+TMMicrosoft1823	American Online
+TMMicrosoft2036	eBay
+TMOracle1920	Oracle
+TMMicrosoft2005	MySpace
+TMSAP681	Comcast
+TMIBM2251	Cisco
+TMMicrosoft444	Yahoo
+TMIBM84	Cisco
+TMSAS241	Microsoft
+TMMicrosoft1491	Apple
+TMMicrosoft2002	Microsoft
+TMcognos182	CNET News
+TMbenchmarking OR benchmark OR benchmarks579	Wall Street Journal
+TMIBM114	Wall Street Journal
+TMIBM2310	Sony
+TMOracle1655	Microsoft
+TMMicrosoft2005	Microsoft
+TMMicrosoft1199	Apple
+TMMicrosoft2088	Apple
+TMbenchmarking OR benchmark OR benchmarks295	Yahoo
+TMMicrosoft1583	Fox
+TMIBM2377	Microsoft
+TMMicrosoft1509	Microsoft
+TMMicrosoft1801	Advanced Micro Devices
+TMdata mining OR data-mining476	New York Times
+TMIBM892	International Business Machines
+TMSAP694	Sun Microsystems
+TMMicrosoft2097	New York Times
+TMMicrosoft1714	American Online
+TMIBM788	Oracle
+TMMicrosoft437	Comcast
+TMMicrosoft447	Comcast
+TMMicrosoft1527	Apple
+TMOracle1907	Microsoft
+TMMicrosoft1352	Microsoft
+TMMicrosoft1143	Intel
+TMMicrosoft1258	Facebook
+TMbenchmarking OR benchmark OR benchmarks312	Google
+TMOracle1878	Yahoo
+TMIBM939	Big Blue
+TMOracle1915	Microsoft
+TMIBM2274	Yahoo
+TMIBM2565	Microsoft
+TMIBM175	Microsoft
+TMIBM91	University of California
+TMMicrosoft1142	Adobe
+TMbenchmarking OR benchmark OR benchmarks354	Oracle
+TMbenchmarking OR benchmark OR benchmarks2452	Intel
+TMSAS2610	Yahoo
+TMIBM160	Stanford University
+TMSAS2608	Yahoo
+TMMicrosoft1484	Yahoo
+TMMicrosoft1472	Microsoft
+TMIBM937	Intel
+TMdata mining OR data-mining477	Google
+TMSAP756	Nokia
+TMMicrosoft1083	Apple
+TMSAP678	SAP
+TMOracle1938	Intel
+TMSAP679	Microsoft
+TMMicrosoft1204	Microsoft
+TMSAS335	Apple
+TMOracle5	Yahoo
+TMIBM2316	Microsoft
+TMIBM71	International Business Machines
+TMbenchmarking OR benchmark OR benchmarks2430	Apple
+TMMicrosoft1468	Google
+TMbenchmarking OR benchmark OR benchmarks579	Microsoft
+TMMicrosoft1774	Apple
+TMOracle1662	Verizon
+TMMicrosoft1978	Google
+TMMicrosoft1331	Microsoft
+TMmeta data OR meta-data36	Intel
+TMIBM117	Intel
+TMMicrosoft1033	Yahoo
+TMbusiness intelligence OR business intelligences OR business intelligent710	Facebook
+TMMicrosoft1980	Microsoft
+TMIBM2267	CNET News
+TMIBM2194	Microsoft
+TMMicrosoft2102	Microsoft
+TMmeta data OR meta-data2163	Microsoft
+TMIBM779	Motorola
+TMMicrosoft1156	Microsoft
+TMOracle1669	Microsoft
+TMdata warehousing OR data-warehousing2169	Xerox
+TMOracle227	Microsoft
+TMMicrosoft1602	Motorola
+TMMicrosoft1098	Microsoft
+TMMicrosoft1740	Microsoft
+TMOracle1944	Yahoo
+TMIBM844	Sun Microsystems
+TMIBM2229	Google
+TMSAP667	Comcast
+TMIBM2361	Microsoft
+TMIBM174	Apple
+TMMicrosoft1330	International Business Machines
+TMMicrosoft2039	Google
+TMMicrosoft1717	Microsoft
+TMMicrosoft1411	Microsoft
+TMMicrosoft1025	Apple
+TMMicrosoft1419	Verizon
+TMOracle1665	Apple
+TMbenchmarking OR benchmark OR benchmarks632	New York Times
+TMIBM920	International Business Machines
+TMIBM143	Apple
+TMMicrosoft1372	Microsoft
+TMbenchmarking OR benchmark OR benchmarks258	Microsoft
+TMMicrosoft1313	Oracle
+TMMicrosoft1537	Microsoft
+TMMicrosoft431	Yahoo
+TMOracle1657	Oracle
+TMIBM2187	Intel
+TMMicrosoft1989	Adobe
+TMbenchmarking OR benchmark OR benchmarks276	Yahoo
+TMMicrosoft1228	International Business Machines
+TMMicrosoft1754	Microsoft
+TMMicrosoft429	American Online
+TMbenchmarking OR benchmark OR benchmarks545	Federal Trade Commission
+TMhyperion1967	Hyperion
+TMMicrosoft1422	Microsoft
+TMMicrosoft1415	Yahoo
+TMMicrosoft1139	Hewlett Packard
+TMIBM2241	eBay
+TMbusiness analytics363	Yahoo
+TMIBM2239	Google
+TMIBM2287	International Business Machines
+TMMicrosoft1988	Microsoft
+TMIBM812	CNET News
+TMSAP744	Apple
+TMbenchmarking OR benchmark OR benchmarks2435	Microsoft
+TMOracle1933	Hewlett Packard
+TMMicrosoft1493	Sony
+TMIBM939	International Business Machines
+TMIBM851	Oracle
+TMOracle1920	Cisco Systems
+TMIBM2296	Google
+TMSAP734	SAP
+TMSAP678	Sony
+TMbenchmarking OR benchmark OR benchmarks2433	Cisco
+TMMicrosoft1024	Apple
+TMMicrosoft1600	Microsoft
+TMMicrosoft455	Apple
+TMIBM2289	Microsoft
+TMdata mining OR data-mining351	Google
+TMOracle1611	Nokia
+TMMicrosoft1340	Microsoft
+TMMicrosoft413	Microsoft
+TMMicrosoft1359	Apple
+TMIBM2557	Advanced Micro Devices
+TMSAP759	International Business Machines
+TMIBM2254	Intel
+TMOracle1675	Cisco Systems
+TMMicrosoft2063	Yahoo
+TMMicrosoft2107	Microsoft
+TMIBM160	Wall Street Journal
+TMIBM2344	International Business Machines
+TMSAS2611	Yahoo
+TMIBM2559	Cisco
+TMMicrosoft2024	Apple
+TMdata warehouse OR data-warehouse OR data warehouses OR data-warehouses505	Microsoft
+TMMicrosoft1435	Microsoft
+TMIBM2248	Microsoft
+TMMicrosoft1281	Sony
+TMSAS2630	Wall Street Journal
+TMMicrosoft1343	Verizon
+TMMicrosoft1805	Apple
+TMMicrosoft1549	Flickr
+TMMicrosoft1079	Apple
+TMIBM934	International Business Machines
+TMMicrosoft432	Apple
+TMIBM790	SAP
+TMIBM790	SAS
+TMIBM2206	Sun Microsystems
+TMMicrosoft1057	Microsoft
+TMdata mining OR data-mining481	Verizon
+TMIBM82	eBay
+TMIBM1020	Microsoft
+TMIBM2245	Oracle
+TMMicrosoft401	Google
+TMbenchmarking OR benchmark OR benchmarks2482	New York Times
+TMMicrosoft1335	Yahoo
+TMbenchmarking OR benchmark OR benchmarks2454	Yahoo
+TMMicrosoft1535	Google
+TMMicrosoft1383	Microsoft
+TMIBM79	Adobe
+TMbenchmarking OR benchmark OR benchmarks532	Facebook
+TMdata mining OR data-mining2406	Verizon
+TMdata mining OR data-mining502	Dell
+TMIBM2305	Microsoft
+TMdata mining OR data-mining481	Microsoft
+TMMicrosoft465	Harvard
+TMMicrosoft1390	Netflix
+TMOracle204	Oracle
+TMSAP744	SAP
+TMMicrosoft411	Intel
+TMMicrosoft1479	Intel
+TMMicrosoft2063	Dell
+TMOracle1650	Yahoo
+TMMicrosoft1065	Google
+TMOracle1927	Sun Microsystems
+TMIBM2300	International Business Machines
+TMIBM2308	International Business Machines
+TMMicrosoft2024	Microsoft
+TMIBM90	Yahoo
+TMIBM953	Big Blue
+TMMicrosoft1048	Microsoft
+TMbenchmarking OR benchmark OR benchmarks354	Apple
+TMOracle1631	Oracle
+TMIBM994	Microsoft
+TMOracle24	Google
+TMbenchmarking OR benchmark OR benchmarks609	Apple
+TMMicrosoft1161	Google
+TMMicrosoft451	Wall Street Journal
+TMMicrosoft1757	Microsoft
+TMIBM2551	Microsoft
+TMOracle1634	Apple
+TMbenchmarking OR benchmark OR benchmarks623	Microsoft
+TMhyperion1965	Hyperion
+TMSAS2624	Apple
+TMIBM2256	Hewlett Packard
+TMOracle1614	Verizon
+TMOracle20	Apple
+TMSAS230	Apple
+TMOracle1617	Apple
+TMIBM2185	International Business Machines
+TMIBM983	Viacom
+TMbusiness intelligence OR business intelligences OR business intelligent43	SAP
+TMMicrosoft2015	Dell
+TMbusiness intelligence OR business intelligences OR business intelligent43	SAS
+TMMicrosoft1499	Microsoft
+TMIBM824	Wall Street Journal
+TMMicrosoft366	Microsoft
+TMmeta data OR meta-data2596	Netflix
+TMOracle1633	Apple
+TMknowledge management2522	MySpace
+TMIBM903	Dell
+TMIBM983	Microsoft
+TMSAP659	LinkedIn
+TMmeta data OR meta-data2156	New York Times
+TMIBM836	International Business Machines
+TMSAS238	Wall Street Journal
+TMOracle1633	Hewlett Packard
+TMMicrosoft1251	American Online
+TMMicrosoft1076	Microsoft
+TMIBM890	International Business Machines
+TMbenchmarking OR benchmark OR benchmarks2515	Apple
+TMMicrosoft1479	Massachusetts Institute of Technology
+TMSAS764	Nokia
+TMSAS249	Wall Street Journal
+TMMicrosoft471	Microsoft
+TMIBM2219	CNET News
+TMMicrosoft1343	Cisco
+TMOracle191	Microsoft
+TMMicrosoft1588	New York Times
+TMMicrosoft2123	Sony
+TMOracle218	International Business Machines
+TMIBM106	Yahoo
+TMOracle205	Oracle
+TMMicrosoft1433	Yahoo
+TMbenchmarking OR benchmark OR benchmarks2456	Apple
+TMOracle1890	Google
+TMOracle217	Oracle
+TMOracle1609	Yahoo
+TMMicrosoft458	Microsoft
+TMIBM2553	eBay
+TMhyperion1968	Wall Street Journal
+TMMicrosoft1269	Nokia
+TMMicrosoft1490	Intel
+TMMicrosoft2067	Yahoo
+TMIBM996	CNET News
+TMIBM2337	Microsoft
+TMOracle228	Oracle
+TMMicrosoft1582	Apple
+TMIBM2272	Viacom
+TMMicrosoft1594	Microsoft
+TMSAS337	American Online
+TMIBM2317	International Business Machines
+TMSAP690	Intel
+TMMicrosoft1383	Yahoo
+TMIBM2560	Intel
+TMIBM2390	New York Times
+TMIBM2562	Yahoo
+TMSAP756	Yahoo
+TMIBM129	Yahoo
+TMIBM908	Microsoft
+TMOracle1642	Comcast
+TMMicrosoft1183	International Business Machines
+TMMicrosoft2131	Adobe
+TMMicrosoft1524	Sony
+TMMicrosoft1838	Yahoo
+TMSAP754	Nokia
+TMbenchmarking OR benchmark OR benchmarks2513	Apple
+TMMicrosoft1806	Harvard
+TMMicrosoft467	Microsoft
+TMSAS237	Yahoo
+TMMicrosoft1548	CNET News
+TMMicrosoft1605	Microsoft
+TMknowledge management2522	University of California
+TMIBM158	Microsoft
+TMMicrosoft1051	Intel
+TMMicrosoft1314	Hewlett Packard
+TMSAP758	Oracle
+TMbusiness intelligence OR business intelligences OR business intelligent717	blueKiwi Software
+TMSAS766	Verizon
+TMSAP690	New York Times
+TMMicrosoft1526	Adobe
+TMOracle224	University of California
+TMIBM96	Sony
+TMbenchmarking OR benchmark OR benchmarks585	Google
+TMIBM2373	Apple
+TMMicrosoft2024	Nokia
+TMMicrosoft1144	SAP
+TMhyperion1966	International Business Machines
+TMMicrosoft1128	Yahoo
+TMIBM2308	CNN
+TMMicrosoft1766	Yahoo
+TMbenchmarking OR benchmark OR benchmarks2515	Microsoft
+TMMicrosoft1192	Wall Street Journal
+TMMicrosoft2079	Microsoft
+TMMicrosoft1536	Verizon
+TMOracle1947	Wall Street Journal
+TMMicrosoft2001	BBC
+TMSAS766	Google
+TMMicrosoft1978	Facebook
+TMMicrosoft1768	Google
+TMdata mining OR data-mining500	Google
+TMMicrosoft1560	Microsoft
+TMMicrosoft2065	Microsoft
+TMMicrosoft2071	Yahoo
+TMMicrosoft370	CNN
+TMIBM964	Microsoft
+TMMicrosoft2087	MySpace
+TMMicrosoft1229	Microsoft
+TMIBM2530	International Business Machines
+TMSAS766	Apple
+TMdata mining OR data-mining347	Oracle
+TMMicrosoft1272	Microsoft
+TMMicrosoft1512	Yahoo
+TMMicrosoft1182	Microsoft
+TMOracle189	Wall Street Journal
+TMMicrosoft1185	Microsoft
+TMMicrosoft407	Apple
+TMSAS325	SAS
+TMIBM2540	Microsoft
+TMIBM80	Google
+TMMicrosoft2131	Google
+TMMicrosoft1056	Facebook
+TMIBM2245	Apple
+TMIBM2364	Verizon
+TMIBM120	Yahoo
+TMMicrosoft1468	Wall Street Journal
+TMOracle202	Apple
+TMMicrosoft369	Microsoft
+TMMicrosoft2052	eBay
+TMIBM66	Sony
+TMmeta data OR meta-data41	Flickr
+TMMicrosoft1790	Apple
+TMMicrosoft1210	Microsoft
+TMMicrosoft2047	Microsoft
+TMbenchmarking OR benchmark OR benchmarks647	Google
+TMMicrosoft424	Google
+TMIBM66	Big Blue
+TMMicrosoft1258	American Online
+TMIBM867	Google
+TMMicrosoft1047	Microsoft
+TMOracle1944	Nokia
+TMIBM2230	Comcast
+TMOracle1884	Wall Street Journal
+TMbenchmarking OR benchmark OR benchmarks2515	American Online
+TMIBM881	Nokia
+TMIBM2374	Yahoo
+TMMicrosoft375	Time Warner
+TMIBM2369	Microsoft
+TMMicrosoft1816	American Online
+TMMicrosoft1764	Microsoft
+TMbenchmarking OR benchmark OR benchmarks293	Microsoft
+TMSAS2621	Viacom
+TMIBM983	New York Times
+TMMicrosoft2041	Nokia
+TMMicrosoft1343	Microsoft
+TMIBM929	International Business Machines
+TMMicrosoft2135	Microsoft
+TMbenchmarking OR benchmark OR benchmarks354	Microsoft
+TMbusiness intelligence OR business intelligences OR business intelligent712	BusinessWeek
+TMbenchmarking OR benchmark OR benchmarks2431	CNN
+TMSAS2627	Wall Street Journal
+TMbenchmarking OR benchmark OR benchmarks293	Yahoo
+TMOracle1645	Verizon
+TMIBM908	Sun Microsystems
+TMIBM984	International Business Machines
+TMMicrosoft1419	Oracle
+TMIBM2375	International Business Machines
+TMbenchmarking OR benchmark OR benchmarks282	Facebook
+TMIBM791	Big Blue
+TMOracle16	Cisco
+TMIBM899	Microsoft
+TMIBM1001	Oracle
+TMMicrosoft1344	Microsoft
+TMMicrosoft1185	Facebook
+TMSAP694	Oracle
+TMMicrosoft1293	Advanced Micro Devices
+TMMicrosoft427	Yahoo
+TMIBM2187	International Business Machines
+TMMicrosoft1714	Microsoft
+TMMicrosoft1335	ATT
+TMdata mining OR data-mining2419	Dell
+TMIBM2197	Yahoo
+TMbenchmarking OR benchmark OR benchmarks2487	Apple
+TMIBM882	International Business Machines
+TMMicrosoft412	Google
+TMOracle186	International Business Machines
+TMMicrosoft1845	Google
+TMMicrosoft1164	Microsoft
+TMIBM846	Apple
+TMSAP727	Intel
+TMMicrosoft1566	Comcast
+TMknowledge management2176	Microsoft
+TMMicrosoft1813	American Online
+TMMicrosoft1192	Time Warner
+TMMicrosoft1731	Microsoft
+TMOracle1660	Microsoft
+TMSAS327	Yahoo
+TMbenchmarking OR benchmark OR benchmarks587	Sony
+TMMicrosoft395	Sony
+TMMicrosoft2128	Yahoo
+TMIBM2583	Microsoft
+TMbenchmarking OR benchmark OR benchmarks610	Hewlett Packard
+TMMicrosoft1299	Wall Street Journal
+TMOracle3	eBay
+TMOracle1620	Oracle
+TMIBM2222	International Business Machines
+TMMicrosoft1278	Microsoft
+TMMicrosoft2101	Dell
+TMIBM1013	Dell
+TMIBM2195	Google
+TMMicrosoft1854	Microsoft
+TMMicrosoft2070	Microsoft
+TMMicrosoft1604	Wall Street Journal
+TMMicrosoft428	Dell
+TMmeta data OR meta-data40	American Online
+TMOracle18	Hewlett Packard
+TMMicrosoft1281	Verizon
+TMOracle191	Oracle
+TMOracle1940	Oracle
+TMIBM821	International Business Machines
+TMOracle1645	Oracle
+TMMicrosoft1359	Microsoft
+TMOracle1942	Oracle
+TMIBM867	Apple
+TMMicrosoft1830	eBay
+TMMicrosoft2114	Microsoft
+TMMicrosoft1481	American Online
+TMSAP673	Yahoo
+TMMicrosoft1183	Apple
+TMbenchmarking OR benchmark OR benchmarks627	Microsoft
+TMbenchmarking OR benchmark OR benchmarks2451	Cisco
+TMIBM160	Verizon
+TMOracle1949	Oracle
+TMdata mining OR data-mining346	Netflix
+TMIBM920	Apple
+TMIBM780	International Business Machines
+TMMicrosoft1976	Microsoft
+TMIBM800	International Business Machines
+TMMicrosoft1087	Microsoft
+TMMicrosoft1178	Apple
+TMIBM824	International Business Machines
+TMSAS2612	Nokia
+TMMicrosoft423	Yahoo
+TMSAP679	Oracle
+TMMicrosoft1985	Microsoft
+TMOracle3	Google
+TMSAS230	Wall Street Journal
+TMOracle15	Oracle
+TMhyperion1694	American Online
+TMMicrosoft1546	International Business Machines
+TMSAS329	American Online
+TMMicrosoft1768	American Online
+TMMicrosoft1840	Google
+TMMicrosoft1185	Nokia
+TMMicrosoft1994	Sony
+TMMicrosoft1335	Wall Street Journal
+TMMicrosoft1969	Yahoo
+TMIBM2259	Unisys
+TMcompetitive intelligence698	Sony
+TMdata mining OR data-mining484	Facebook
+TMOracle215	Oracle
+TMSAP683	Oracle
+TMdata mining OR data-mining2403	Harvard
+TMIBM828	Microsoft
+TMMicrosoft1185	Verizon
+TMMicrosoft1489	eBay
+TMIBM169	International Business Machines
+TMbenchmarking OR benchmark OR benchmarks2515	International Business Machines
+TMMicrosoft1836	Yahoo
+TMMicrosoft2102	Apple
+TMMicrosoft1152	Adobe
+TMOracle1687	Business Objects
+TMIBM2322	American Online
+TMdata mining OR data-mining353	Yahoo
+TMMicrosoft1436	Verizon
+TMOracle17	CNN
+TMMicrosoft1543	SAP
+TMOracle1673	Oracle
+TMIBM1004	Oracle
+TMIBM2344	Dell
+TMIBM2200	Comcast
+TMIBM2279	International Business Machines
+TMMicrosoft1488	Adobe
+TMMicrosoft1399	Verizon
+TMpredictive analytics1697	International Business Machines
+TMIBM2200	International Business Machines
+TMbenchmarking OR benchmark OR benchmarks280	Microsoft
+TMIBM1001	Microsoft
+TMMicrosoft1482	Nokia
+TMMicrosoft1325	Wall Street Journal
+TMbusiness analytics363	Verizon
+TMMicrosoft1470	Yahoo
+TMSAS340	Wall Street Journal
+TMMicrosoft1276	Apple
+TMOracle202	Wall Street Journal
+TMOracle1637	Oracle
+TMbenchmarking OR benchmark OR benchmarks562	Microsoft
+TMIBM916	New York Times
+TMMicrosoft1440	Yahoo
+TMIBM2308	Sun Microsystems
+TMIBM104	Verizon
+TMMicrosoft1584	Microsoft
+TMOracle1959	Federal Trade Commission
+TMdata mining OR data-mining483	MySpace
+TMMicrosoft1837	Wall Street Journal
+TMOracle1666	Yahoo
+TMMicrosoft1485	Nokia
+TMSAS771	Apple
+TMSAS1321	Apple
+TMbenchmarking OR benchmark OR benchmarks563	Yahoo
+TMIBM2353	University of California
+TMIBM2279	CNET News
+TMIBM2317	Apple
+TMMicrosoft1805	Adobe
+TMOracle12	Wall Street Journal
+TMMicrosoft1247	Microsoft
+TMSAP660	Intel
+TMOracle1952	New York Times
+TMOracle1906	Oracle
+TMIBM2263	International Business Machines
+TMSAP691	Facebook
+TMhyperion2523	Yahoo
+TMIBM2317	Oracle
+TMIBM928	Oracle
+TMMicrosoft1232	Yahoo
+TMIBM514	Microsoft
+TMMicrosoft1272	Yahoo
+TMIBM2363	Dell
+TMMicrosoft1507	Flickr
+TMMicrosoft2033	Apple
+TMbusiness intelligence OR business intelligences OR business intelligent54	Google
+TMOracle192	Dell
+TMOracle1655	Oracle
+TMMicrosoft2024	Motorola
+TMbenchmarking OR benchmark OR benchmarks2474	Harvard
+TMMicrosoft1499	Google
+TMMicrosoft1343	Apple
+TMIBM113	Yahoo
+TMIBM2313	International Business Machines
+TMMicrosoft1519	eBay
+TMOracle1870	SAS
+TMOracle1870	SAP
+TMMicrosoft385	American Online
+TMIBM2532	Google
+TMSAP2142	International Business Machines
+TMIBM2344	Sun Microsystems
+TMOracle1682	Oracle
+TMMicrosoft1359	Adobe
+TMSAS772	Yahoo
+TMIBM2244	Cisco
+TMIBM2314	Intel
+TMMicrosoft1830	Facebook
+TMIBM518	American Online
+TMbenchmarking OR benchmark OR benchmarks631	Google
+TMIBM856	Big Blue
+TMMicrosoft1386	Wall Street Journal
+TMOracle1678	Yahoo
+TMIBM940	Dell
+TMMicrosoft1096	Facebook
+TMMicrosoft383	Yahoo
+TMMicrosoft1567	Microsoft
+TMMicrosoft365	Wall Street Journal
+TMMicrosoft393	Apple
+TMMicrosoft433	Verizon
+TMMicrosoft1792	Oracle
+TMhyperion1968	Apple
+TMIBM512	Advanced Micro Devices
+TMMicrosoft1257	Facebook
+TMIBM140	Sun Microsystems
+TMOracle1675	Apple
+TMIBM2254	Facebook
+TMIBM98	Microsoft
+TMMicrosoft2116	Wall Street Journal
+TMMicrosoft1095	Nokia
+TMbenchmarking OR benchmark OR benchmarks354	Verizon
+TMbenchmarking OR benchmark OR benchmarks631	eBay
+TMcognos654	Business Objects
+TMMicrosoft1139	Intel
+TMIBM2239	CNET News
+TMMicrosoft1830	Yahoo
+TMMicrosoft1193	Sun Microsystems
+TMIBM910	Microsoft
+TMIBM517	American Online
+TMIBM85	International Business Machines
+TMSAS340	American Online
+TMbenchmarking OR benchmark OR benchmarks563	Wall Street Journal
+TMdata mining OR data-mining502	Google
+TMMicrosoft1764	Sony
+TMIBM520	Oracle
+TMSAP739	Oracle
+TMSAP676	Motorola
+TMIBM2285	Motorola
+TMIBM2225	Apple
+TMMicrosoft372	Yahoo
+TMMicrosoft1826	Facebook
+TMIBM2545	Fox
+TMMicrosoft1347	Microsoft
+TMIBM2340	Hewlett Packard
+TMmeta data OR meta-data2595	Nokia
+TMOracle1662	Apple
+TMMicrosoft1579	CNET News
+TMOracle1874	Microsoft
+TMMicrosoft2118	Apple
+TMOracle1912	Microsoft
+TMMicrosoft382	Yahoo
+TMOracle1891	Sun Microsystems
+TMMicrosoft1296	Microsoft
+TMMicrosoft1408	CNN
+TMMicrosoft1226	Verizon
+TMMicrosoft1328	American Online
+TMbenchmarking OR benchmark OR benchmarks2462	Google
+TMMicrosoft1061	American Online
+TMMicrosoft403	Yahoo
+TMMicrosoft1572	Microsoft
+TMMicrosoft2093	Wall Street Journal
+TMIBM2332	Microsoft
+TMIBM2361	International Business Machines
+TMIBM2364	Wall Street Journal
+TMIBM63	Wall Street Journal
+TMbenchmarking OR benchmark OR benchmarks556	Apple
+TMMicrosoft1360	Microsoft
+TMcompetitive intelligence698	Google
+TMbenchmarking OR benchmark OR benchmarks643	Benchmark
+TMOracle1947	Verizon
+TMbenchmarking OR benchmark OR benchmarks642	MySpace
+TMOracle222	Oracle
+TMMicrosoft1539	eBay
+TMSAP749	SAP
+TMIBM2551	Hewlett Packard
+TMIBM808	Microsoft
+TMOracle1619	International Business Machines
+TMMicrosoft1762	Microsoft
+TMIBM865	Microsoft
+TMIBM2233	Apple
+TMOracle1891	Microsoft
+TMMicrosoft1120	Intel
+TMIBM906	Wall Street Journal
+TMIBM86	Intel
+TMMicrosoft1251	Yahoo
+TMMicrosoft1386	ATT
+TMMicrosoft2005	Time Warner
+TMIBM517	International Business Machines
+TMbusiness intelligence OR business intelligences OR business intelligent49	Microsoft
+TMMicrosoft1969	Comcast
+TMbenchmarking OR benchmark OR benchmarks2507	Yahoo
+TMIBM909	Massachusetts Institute of Technology
+TMMicrosoft1232	Cisco
+TMOracle1616	Oracle
+TMMicrosoft2074	Yahoo
+TMIBM999	Microsoft
+TMSAP762	Oracle
+TMIBM2353	Intel
+TMMicrosoft385	Time Warner
+TMMicrosoft1299	Apple
+TMOracle3	Yahoo
+TMSAS335	Wall Street Journal
+TMIBM2217	Wall Street Journal
+TMOracle1925	International Business Machines
+TMMicrosoft1482	Microsoft
+TMIBM172	Oracle
+TMIBM2203	International Business Machines
+TMbusiness intelligence OR business intelligences OR business intelligent718	Apple
+TMMicrosoft1256	Apple
+TMIBM832	Hewlett Packard
+TMMicrosoft1374	Microsoft
+TMSAS2605	Apple
+TMbenchmarking OR benchmark OR benchmarks623	eBay
+TMMicrosoft2051	Apple
+TMMicrosoft1600	Apple
+TMbenchmarking OR benchmark OR benchmarks303	Apple
+TMMicrosoft378	Yahoo
+TMSAS1320	Motorola
+TMIBM2277	Microsoft
+TMMicrosoft1214	Hewlett Packard
+TMMicrosoft1342	Microsoft
+TMMicrosoft464	Microsoft
+TMMicrosoft1538	Yahoo
+TMbenchmarking OR benchmark OR benchmarks629	Apple
+TMIBM954	International Business Machines
+TMIBM2248	Sun Microsystems
+TMdata mining OR data-mining2408	Google
+TMbusiness intelligence OR business intelligences OR business intelligent703	eBay
+TMOracle223	Yahoo
+TMbenchmarking OR benchmark OR benchmarks614	Sony
+TMIBM80	Microsoft
+TMbenchmarking OR benchmark OR benchmarks578	eBay
+TMIBM2381	Oracle
+TMMicrosoft1463	Yahoo
+TMMicrosoft1723	Dell
+TMOracle1916	Massachusetts Institute of Technology
+TMIBM2551	Intel
+TMMicrosoft1278	Sony
+TMIBM83	International Business Machines
+TMIBM127	Microsoft
+TMbenchmarking OR benchmark OR benchmarks283	Google
+TMMicrosoft1588	International Business Machines
+TMtext mining OR text-mining1964	Xerox
+TMMicrosoft1770	eBay
+TMOracle1666	Oracle
+TMMicrosoft382	Time Warner
+TMIBM828	Dell
+TMIBM810	University of California
+TMMicrosoft2076	Google
+TMbusiness analytics363	SAP
+TMMicrosoft1247	Google
+TMbenchmarking OR benchmark OR benchmarks2458	Cisco Systems
+TMOracle24	Oracle
+TMhyperion1693	Microsoft
+TMIBM2547	International Business Machines
+TMOracle1925	Oracle
+TMOracle214	Oracle
+TMIBM806	International Business Machines
+TMMicrosoft1474	Microsoft
+TMMicrosoft1433	Microsoft
+TMIBM2336	Apple
+TMOracle1620	Yahoo
+TMSAS2605	ATT
+TMSAS765	Apple
+TMMicrosoft1827	Yahoo
+TMbenchmarking OR benchmark OR benchmarks634	Apple
+TMMicrosoft1760	Microsoft
+TMOracle7	Apple
+TMOracle1932	Yahoo
+TMMicrosoft1849	Microsoft
+TMIBM2258	Intel
+TMMicrosoft1803	American Online
+TMMicrosoft1078	Microsoft
+TMOracle1659	Wall Street Journal
+TMOracle1653	Benchmark
+TMMicrosoft1557	American Online
+TMMicrosoft1709	Microsoft
+TMMicrosoft422	Microsoft
+TMMicrosoft1334	Microsoft
+TMMicrosoft2066	Nokia
+TMOracle1891	Oracle
+TMIBM2396	International Business Machines
+TMMicrosoft2081	Microsoft
+TMIBM819	Cisco
+TMIBM2216	Motorola
+TMSAS340	Apple
+TMIBM1002	ATT
+TMSAP741	Dell
+TMMicrosoft1395	Wall Street Journal
+TMMicrosoft1831	Google
+TMIBM107	Apple
+TMSAP758	Wall Street Journal
+TMknowledge management2522	Stanford University
+TMIBM2201	Yahoo
+TMMicrosoft1765	Federal Trade Commission
+TMMicrosoft1400	Yahoo
+TMMicrosoft1363	Wall Street Journal
+TMOracle1869	Oracle
+TMmeta data OR meta-data32	Adobe
+TMMicrosoft1838	American Online
+TMhyperion2523	Apple
+TMMicrosoft1059	Apple
+TMSAS340	Verizon
+TMSAP754	SAP
+TMMicrosoft446	Yahoo
+TMMicrosoft1310	International Business Machines
+TMOracle1634	Cisco
+TMMicrosoft1772	Sony
+TMIBM2205	Advanced Micro Devices
+TMOracle204	Facebook
+TMbusiness analytics362	International Business Machines
+TMMicrosoft430	Microsoft
+TMIBM2531	Wall Street Journal
+TMMicrosoft1359	Google
+TMMicrosoft1531	Microsoft
+TMMicrosoft1034	American Online
+TMMicrosoft1802	Microsoft
+TMMicrosoft1214	Advanced Micro Devices
+TMMicrosoft2091	Microsoft
+TMknowledge management2172	Microsoft
+TMMicrosoft1539	Motorola
+TMOracle189	Yahoo
+TMdata mining OR data-mining2419	Microsoft
+TMbenchmarking OR benchmark OR benchmarks305	Apple
+TMSAS242	Apple
+TMOracle206	International Business Machines
+TMOracle1615	SAP
+TMMicrosoft1577	Apple
+TMbenchmarking OR benchmark OR benchmarks2459	New York Times
+TMMicrosoft1558	Adobe
+TMmeta data OR meta-data2165	New York Times
+TMIBM151	Microsoft
+TMIBM2205	Sun Microsystems
+TMMicrosoft1518	Apple
+TMIBM2396	Yahoo
+TMMicrosoft1409	Wall Street Journal
+TMMicrosoft2001	American Online
+TMbenchmarking OR benchmark OR benchmarks630	eBay
+TMbenchmarking OR benchmark OR benchmarks296	Apple
+TMbenchmarking OR benchmark OR benchmarks606	Microsoft
+TMbenchmarking OR benchmark OR benchmarks614	Apple
+TMbenchmarking OR benchmark OR benchmarks2447	International Business Machines
+TMIBM2387	Apple
+TMMicrosoft1589	Yahoo
+TMIBM963	Verizon
+TMIBM2534	Microsoft
+TMbenchmarking OR benchmark OR benchmarks562	Google
+TMIBM810	Yahoo
+TMMicrosoft2059	Google
+TMIBM919	Hewlett Packard
+TMOracle1627	Oracle
+TMMicrosoft1337	Dell
+TMMicrosoft450	Apple
+TMMicrosoft1519	Apple
+TMMicrosoft375	Microsoft
+TMIBM2221	International Business Machines
+TMIBM84	International Business Machines
+TMOracle1874	Apple
+TMIBM925	Hewlett Packard
+TMMicrosoft1854	Google
+TMMicrosoft1310	Microsoft
+TMMicrosoft1585	Microsoft
+TMMicrosoft1548	Google
+TMMicrosoft404	Microsoft
+TMOracle206	Microsoft
+TMSAS231	Verizon
+TMMicrosoft1335	Microsoft
+TMMicrosoft1813	Microsoft
+TMmeta data OR meta-data321	Google
+TMMicrosoft2089	Sony
+TMOracle1619	Microsoft
+TMIBM836	Sun Microsystems
+TMOracle1959	Oracle
+TMIBM2272	Motorola
+TMMicrosoft1191	Microsoft
+TMOracle14	Microsoft
+TMbenchmarking OR benchmark OR benchmarks2472	Apple
+TMSAS337	SAS
+TMIBM2330	Hewlett Packard
+TMSAP2141	SAP
+TMbenchmarking OR benchmark OR benchmarks2479	Google
+TMIBM2537	Yahoo
+TMIBM2359	International Business Machines
+TMbenchmarking OR benchmark OR benchmarks612	Intel
+TMMicrosoft1480	Sun Microsystems
+TMMicrosoft1397	Netflix
+TMMicrosoft1146	Microsoft
+TMIBM2251	International Business Machines
+TMOracle9	MySpace
+TMMicrosoft1382	Microsoft
+TMbenchmarking OR benchmark OR benchmarks2474	LinkedIn
+TMIBM58	Google
+TMMicrosoft2032	Time Warner
+TMMicrosoft1969	Dell
+TMIBM934	Google
+TMMicrosoft1090	Apple
+TMMicrosoft1089	Microsoft
+TMIBM523	International Business Machines
+TMMicrosoft401	Yahoo
+TMIBM2580	International Business Machines
+TMOracle1915	Apple
+TMIBM1009	Hewlett Packard
+TMMicrosoft1091	Fox
+TMMicrosoft1029	Microsoft
+TMIBM66	Microsoft
+TMIBM2391	Verizon
+TMSAS231	International Business Machines
+TMbenchmarking OR benchmark OR benchmarks2426	Verizon
+TMcognos182	Cisco
+TMMicrosoft1852	American Online
+TMMicrosoft1845	International Business Machines
+TMMicrosoft368	Google
+TMMicrosoft1100	MySpace
+TMbenchmarking OR benchmark OR benchmarks597	Apple
+TMSAP696	SAP
+TMIBM2264	Google
+TMMicrosoft1706	Google
+TMMicrosoft2028	Yahoo
+TMIBM2282	Facebook
+TMIBM2309	Yahoo
+TMOracle1949	Apple
+TMMicrosoft1453	Microsoft
+TMbusiness intelligence OR business intelligences OR business intelligent700	Microsoft
+TMMicrosoft1504	eBay
+TMmeta data OR meta-data2155	Microsoft
+TMmeta data OR meta-data2165	Google
+TMIBM94	International Business Machines
+TMOracle1666	Time Warner
+TMOracle20	Microsoft
+TMbenchmarking OR benchmark OR benchmarks600	Intel
+TMIBM958	Sun Microsystems
+TMMicrosoft2093	Nokia
+TMIBM2298	Yahoo
+TMSAS1319	Google
+TMIBM2200	Wall Street Journal
+TMIBM843	Advanced Micro Devices
+TMbenchmarking OR benchmark OR benchmarks2485	International Business Machines
+TMIBM1022	Intel
+TMIBM512	Microsoft
+TMIBM2367	International Business Machines
+TMMicrosoft1778	Microsoft
+TMIBM824	Apple
+TMMicrosoft1202	Microsoft
+TMMicrosoft1831	Verizon
+TMMicrosoft1731	Apple
+TMbenchmarking OR benchmark OR benchmarks354	eBay
+TMMicrosoft1737	Google
+TMMicrosoft1804	Apple
+TMIBM813	SAP
+TMMicrosoft1090	Google
+TMMicrosoft1581	Massachusetts Institute of Technology
+TMbenchmarking OR benchmark OR benchmarks312	Adobe
+TMMicrosoft1707	Oracle
+TMMicrosoft2059	Oracle
+TMOracle222	eBay
+TMMicrosoft1270	Yahoo
+TMSAS2613	Microsoft
+TMSAP661	Dell
+TMIBM822	Intel
+TMOracle1619	Google
+TMbenchmarking OR benchmark OR benchmarks2430	CNET News
+TMSAS328	Apple
+TMMicrosoft1397	Apple
+TMmeta data OR meta-data32	CNN
+TMOracle1962	SAP
+TMMicrosoft1530	Dell
+TMMicrosoft1026	New York Times
+TMOracle190	International Business Machines
+TMMicrosoft1049	Apple
+TMIBM2297	International Business Machines
+TMbusiness intelligence OR business intelligences OR business intelligent713	451 Group
+TMIBM104	Apple
+TMbenchmarking OR benchmark OR benchmarks2426	Microsoft
+TMIBM2298	ATT
+TMMicrosoft1485	Sun Microsystems
+TMMicrosoft1771	Google
+TMIBM2546	University of California
+TMIBM2332	Stanford University
+TMOracle1922	Hewlett Packard
+TMSAP2139	Facebook
+TMOracle1918	eBay
+TMMicrosoft1556	Microsoft
+TMOracle1864	Cisco
+TMMicrosoft454	Microsoft
+TMMicrosoft451	Apple
+TMMicrosoft1489	Sun Microsystems
+TMbenchmarking OR benchmark OR benchmarks2436	Verizon
+TMbenchmarking OR benchmark OR benchmarks2474	Benchmark
+TMIBM2204	Cisco Systems
+TMIBM76	Oracle
+TMIBM1009	Oracle
+TMIBM962	Yahoo
+TMMicrosoft1750	Microsoft
+TMIBM177	International Business Machines
+TMIBM2323	Yahoo
+TMSAS772	Wall Street Journal
+TMIBM857	Big Blue
+TMSAP2145	International Business Machines
+TMIBM839	Motorola
+TMIBM2331	Microsoft
+TMMicrosoft445	Microsoft
+TMMicrosoft1199	LinkedIn
+TMMicrosoft1558	Microsoft
+TMIBM983	Intel
+TMMicrosoft1415	American Online
+TMIBM2297	Intel
+TMbenchmarking OR benchmark OR benchmarks271	Apple
+TMMicrosoft1076	Yahoo
+TMMicrosoft1083	Nokia
+TMIBM1019	Sony
+TMMicrosoft2019	American Online
+TMIBM823	International Business Machines
+TMMicrosoft466	Stanford University
+TMSAP689	Oracle
+TMIBM2311	Hewlett Packard
+TMknowledge management2522	Sony
+TMMicrosoft438	Apple
+TMMicrosoft2029	Yahoo
+TMbenchmarking OR benchmark OR benchmarks537	Sony
+TMMicrosoft1453	Apple
+TMIBM2273	Intel
+TMMicrosoft1560	Apple
+TMIBM86	Google
+TMMicrosoft1768	Yahoo
+TMMicrosoft1555	American Online
+TMOracle1670	Adobe
+TMbusiness intelligence OR business intelligences OR business intelligent714	Microsoft
+TMbenchmarking OR benchmark OR benchmarks2481	Apple
+TMOracle4	Yahoo
+TMMicrosoft1699	Microsoft
+TMSAS2607	ATT
+TMMicrosoft1359	Yahoo
+TMIBM989	International Business Machines
+TMbenchmarking OR benchmark OR benchmarks295	Facebook
+TMIBM172	Hewlett Packard
+TMIBM1009	Intel
+TMOracle1639	Massachusetts Institute of Technology
+TMOracle222	Yahoo
+TMbenchmarking OR benchmark OR benchmarks2460	CNN
+TMSAS328	Wall Street Journal
+TMIBM2325	Verizon
+TMIBM2285	International Business Machines
+TMOracle1884	Sun Microsystems
+TMOracle1677	Oracle
+TMMicrosoft1123	Apple
+TMIBM99	Dell
+TMOracle1954	Cisco
+TMSAP2144	SAP
+TMOracle1942	Facebook
+TMMicrosoft1469	Microsoft
+TMMicrosoft2009	eBay
+TMbenchmarking OR benchmark OR benchmarks2491	Fox
+TMIBM874	International Business Machines
+TMMicrosoft398	American Online
+TMMicrosoft1409	Microsoft
+TMOracle224	Yahoo
+TMSAP721	SAP
+TMMicrosoft1456	Apple
+TMSAP659	Yahoo
+TMIBM2391	Apple
+TMOracle1687	Facebook
+TMMicrosoft1587	Google
+TMOracle1936	International Business Machines
+TMIBM2306	International Business Machines
+TMMicrosoft1125	Microsoft
+TMSAS229	Sony
+TMIBM137	Time Warner
+TMIBM2256	International Business Machines
+TMIBM138	Microsoft
+TMMicrosoft1026	Microsoft
+TMbenchmarking OR benchmark OR benchmarks537	Dell
+TMIBM958	Dell
+TMMicrosoft1746	Google
+TMMicrosoft1337	Hewlett Packard
+TMMicrosoft415	Flickr
+TMMicrosoft1173	Motorola
+TMMicrosoft1400	Nokia
+TMMicrosoft1263	Microsoft
+TMMicrosoft1551	Yahoo
+TMbenchmarking OR benchmark OR benchmarks278	Verizon
+TMbenchmarking OR benchmark OR benchmarks2447	Yahoo
+TMSAP729	Oracle
+TMSAP742	eBay
+TMMicrosoft1467	Apple
+TMbenchmarking OR benchmark OR benchmarks626	Viacom
+TMMicrosoft2066	BBC
+TMMicrosoft417	Microsoft
+TMbenchmarking OR benchmark OR benchmarks578	Cisco Systems
+TMbenchmarking OR benchmark OR benchmarks613	Intel
+TMMicrosoft467	Wall Street Journal
+TMSAP673	Nokia
+TMIBM2570	International Business Machines
+TMIBM946	Microsoft
+TMSAP684	Comcast
+TMOracle1937	Stanford University
+TMcognos656	Microsoft
+TMMicrosoft1187	Microsoft
+TMbenchmarking OR benchmark OR benchmarks600	Dell
+TMIBM832	Sun Microsystems
+TMMicrosoft395	Time Warner
+TMMicrosoft1434	Yahoo
+TMIBM2217	Apple
+TMSAP663	SAP
+TMIBM835	Wall Street Journal
+TMSAP2402	Microsoft
+TMMicrosoft1045	International Business Machines
+TMMicrosoft1790	Google
+TMMicrosoft1546	Microsoft
+TMOracle1957	Oracle
+TMIBM884	International Business Machines
+TMIBM132	Google
+TMIBM821	Nokia
+TMbenchmarking OR benchmark OR benchmarks2426	Intel
+TMIBM98	Sun Microsystems
+TMMicrosoft1722	Adobe
+TMOracle1883	Sun Microsystems
+TMMicrosoft1792	SAP
+TMMicrosoft1792	Microsoft
+TMMicrosoft1853	Oracle
+TMIBM517	Microsoft
+TMbenchmarking OR benchmark OR benchmarks2490	Google
+TMOracle211	Oracle
+TMbenchmarking OR benchmark OR benchmarks2472	Yahoo
+TMMicrosoft2030	Microsoft
+TMbenchmarking OR benchmark OR benchmarks2492	MySpace
+TMknowledge management2522	Oracle
+TMSAP2149	SAP
+TMMicrosoft1411	Yahoo
+TMMicrosoft1101	Microsoft
+TMbusiness intelligence OR business intelligences OR business intelligent708	International Business Machines
+TMOracle1649	Oracle
+TMbenchmarking OR benchmark OR benchmarks2426	eBay
+TMIBM2215	International Business Machines
+TMMicrosoft1473	Microsoft
+TMMicrosoft1185	Apple
+TMMicrosoft429	Oracle
+TMMicrosoft1025	Yahoo
+TMIBM168	University of California
+TMbenchmarking OR benchmark OR benchmarks597	International Business Machines
+TMMicrosoft420	Microsoft
+TMMicrosoft1251	Microsoft
+TMOracle1879	Sun Microsystems
+TMOracle11	Google
+TMMicrosoft433	Wall Street Journal
+TMIBM91	Google
+TMMicrosoft1258	Yahoo
+TMIBM172	Intel
+TMMicrosoft1485	Comcast
+TMSAS233	Wall Street Journal
+TMIBM907	International Business Machines
+TMMicrosoft1476	Microsoft
+TMOracle1919	Oracle
+TMbenchmarking OR benchmark OR benchmarks2510	Facebook
+TMMicrosoft1312	Nokia
+TMIBM153	Intel
+TMMicrosoft438	Verizon
+TMMicrosoft2048	Yahoo
+TMOracle199	Microsoft
+TMIBM2298	Verizon
+TMIBM524	Intel
+TMOracle1955	SAP
+TMMicrosoft1359	eBay
+TMMicrosoft1566	Verizon
+TMOracle204	Apple
+TMMicrosoft1330	Wall Street Journal
+TMIBM2310	Advanced Micro Devices
+TMSAS338	ATT
+TMMicrosoft1355	Wall Street Journal
+TMMicrosoft1413	Apple
+TMIBM977	International Business Machines
+TMSAS2630	Yahoo
+TMOracle1639	Microsoft
+TMOracle1916	International Business Machines
+TMIBM2548	Sun Microsystems
+TMMicrosoft1742	Fox
+TMMicrosoft2116	Yahoo
+TMIBM947	Adobe
+TMMicrosoft1597	Microsoft
+TMbusiness intelligence OR business intelligences OR business intelligent720	Flickr
+TMMicrosoft1200	Wall Street Journal
+TMMicrosoft2035	Microsoft
+TMMicrosoft1589	Wall Street Journal
+TMSAP692	SAP
+TMMicrosoft1040	Apple
+TMSAS231	Oracle
+TMMicrosoft1299	Verizon
+TMMicrosoft1480	CNET News
+TMMicrosoft1732	Microsoft
+TMMicrosoft445	Apple
+TMMicrosoft1024	Microsoft
+TMbenchmarking OR benchmark OR benchmarks611	Google
+TMMicrosoft1033	Microsoft
+TMIBM2334	Apple
+TMOracle22	Microsoft
+TMMicrosoft2029	Microsoft
+TMMicrosoft390	Yahoo
+TMmeta data OR meta-data321	Yahoo
+TMMicrosoft1546	Hewlett Packard
+TMIBM513	Intel
+TMOracle1927	Oracle
+TMIBM164	Facebook
+TMdata mining OR data-mining2408	Yahoo
+TMMicrosoft1533	Microsoft
+TMSAS2613	Oracle
+TMIBM2325	Apple
+TMIBM174	International Business Machines
+TMMicrosoft1395	Facebook
+TMMicrosoft1335	Comcast
+TMIBM2334	Intel
+TMMicrosoft1301	Apple
+TMIBM102	Intel
+TMMicrosoft1783	Nokia
+TMSAS2621	Apple
+TMOracle1866	Oracle
+TMIBM848	Hewlett Packard
+TMMicrosoft1780	Microsoft
+TMIBM871	Microsoft
+TMIBM929	Intel
+TMOracle1646	Oracle
+TMSAP2150	Wall Street Journal
+TMMicrosoft1233	Google
+TMIBM848	Microsoft
+TMIBM856	International Business Machines
+TMSAS2619	Massachusetts Institute of Technology
+TMIBM840	International Business Machines
+TMbenchmarking OR benchmark OR benchmarks2446	Microsoft
+TMbusiness intelligence OR business intelligences OR business intelligent53	Apple
+TMbenchmarking OR benchmark OR benchmarks2475	Wall Street Journal
+TMbenchmarking OR benchmark OR benchmarks275	Yahoo
+TMMicrosoft1713	Microsoft
+TMMicrosoft1832	Motorola
+TMMicrosoft1281	Yahoo
+TMIBM161	Microsoft
+TMMicrosoft1516	Wall Street Journal
+TMOracle206	Apple
+TMIBM1020	Stanford University
+TMMicrosoft423	Google
+TMIBM74	Nokia
+TMOracle204	Cisco
+TMMicrosoft1388	Yahoo
+TMMicrosoft430	Yahoo
+TMMicrosoft1343	Wall Street Journal
+TMIBM136	International Business Machines
+TMSAS2619	Adobe
+TMMicrosoft412	Microsoft
+TMMicrosoft1176	Microsoft
+TMOracle7	Oracle
+TMcompetitive intelligence698	Verizon
+TMbusiness intelligence OR business intelligences OR business intelligent703	Microsoft
+TMIBM830	Microsoft
+TMMicrosoft1832	Intel
+TMIBM833	Dell
+TMbenchmarking OR benchmark OR benchmarks295	Google
+TMMicrosoft429	Wall Street Journal
+TMIBM89	Microsoft
+TMMicrosoft2096	American Online
+TMOracle1922	International Business Machines
+TMOracle1614	Wall Street Journal
+TMbenchmarking OR benchmark OR benchmarks2507	Google
+TMMicrosoft2048	Google
+TMMicrosoft1142	Nokia
+TMMicrosoft1335	Apple
+TMOracle1882	Dell
+TMMicrosoft1813	Verizon
+TMIBM2183	Apple
+TMIBM1016	Microsoft
+TMMicrosoft1475	Big Blue
+TMIBM861	Netflix
+TMOracle1661	Yahoo
+TMMicrosoft2102	New York Times
+TMMicrosoft2109	Microsoft
+TMMicrosoft1485	Motorola
+TMMicrosoft2027	Yahoo
+TMknowledge management2179	Wall Street Journal
+TMMicrosoft2114	MySpace
+TMMicrosoft1535	Verizon
+TMbenchmarking OR benchmark OR benchmarks2454	Google
+TMMicrosoft414	Apple
+TMOracle1884	Hewlett Packard
+TMbusiness intelligence OR business intelligences OR business intelligent49	Business Objects
+TMIBM2328	Facebook
+TMdata mining OR data-mining2409	Microsoft
+TMMicrosoft2052	Apple
+TMMicrosoft1831	Yahoo
+TMIBM813	Microsoft
+TMMicrosoft1485	Apple
+TMIBM102	International Business Machines
+TMIBM993	Cisco
+TMIBM2534	Apple
+TMMicrosoft427	Oracle
+TMSAS2627	Yahoo
+TMMicrosoft2026	Apple
+TMIBM813	Oracle
+TMIBM886	International Business Machines
+TMOracle228	Apple
+TMMicrosoft381	Google
+TMIBM2538	International Business Machines
+TMMicrosoft1261	Microsoft
+TMIBM2363	Hewlett Packard
+TMMicrosoft1376	International Business Machines
+TMIBM2211	Hewlett Packard
+TMcognos654	Wall Street Journal
+TMIBM2200	ATT
+TMMicrosoft1748	Google
+TMMicrosoft1255	Hewlett Packard
+TMdata mining OR data-mining484	Wall Street Journal
+TMOracle1895	Microsoft
+TMOracle1647	Apple
+TMSAP692	Oracle
+TMSAS231	SAP
+TMIBM807	Oracle
+TMMicrosoft1315	Microsoft
+TMOracle221	Oracle
+TMcompetitive intelligence509	Google
+TMIBM2286	Wall Street Journal
+TMSAP745	Hewlett Packard
+TMMicrosoft1349	Google
+TMMicrosoft1721	Microsoft
+TMIBM2210	International Business Machines
+TMbenchmarking OR benchmark OR benchmarks278	Wall Street Journal
+TMMicrosoft1816	Microsoft
+TMMicrosoft1066	Microsoft
+TMMicrosoft383	Verizon
+TMMicrosoft2129	Yahoo
+TMIBM925	International Business Machines
+TMMicrosoft1419	Yahoo
+TMIBM2369	Oracle
+TMSAS329	Google
+TMIBM174	Microsoft
+TMIBM819	Cisco Systems
+TMIBM776	International Business Machines
+TMMicrosoft2090	Yahoo
+TMMicrosoft1124	Apple
+TMIBM792	Oracle
+TMIBM899	Google
+TMSAP2145	Microsoft
+TMIBM798	Microsoft
+TMMicrosoft1467	ATT
+TMIBM1012	Apple
+TMOracle1626	Oracle
+TMMicrosoft2020	Time Warner
+TMIBM826	Hewlett Packard
+TMIBM2230	ATT
+TMMicrosoft1413	Netflix
+TMMicrosoft1264	Sony
+TMbusiness intelligence OR business intelligences OR business intelligent717	Microsoft
+TMMicrosoft1252	Yahoo
+TMknowledge management2180	Wall Street Journal
+TMIBM923	Wall Street Journal
+TMMicrosoft1545	Microsoft
+TMMicrosoft1991	Microsoft
+TMMicrosoft1826	Microsoft
+TMMicrosoft2069	Microsoft
+TMMicrosoft1858	Yahoo
+TMMicrosoft1491	American Online
+TMMicrosoft1835	Google
+TMMicrosoft1812	Google
+TMMicrosoft1185	Yahoo
+TMIBM2397	International Business Machines
+TMSAS2612	Comcast
+TMMicrosoft1978	Yahoo
+TMMicrosoft1608	Microsoft
+TMMicrosoft1405	Yahoo
+TMIBM958	Intel
+TMMicrosoft401	American Online
+TMMicrosoft1456	Microsoft
+TMIBM2561	Microsoft
+TMSAP677	SAP
+TMIBM803	Motorola
+TMbenchmarking OR benchmark OR benchmarks2437	Facebook
+TMSAS341	Yahoo
+TMbenchmarking OR benchmark OR benchmarks629	Microsoft
+TMSAS2608	Apple
+TMMicrosoft390	Comcast
+TMIBM2588	Google
+TMSAS247	Wall Street Journal
+TMMicrosoft1200	Google
+TMMicrosoft2048	Microsoft
+TMMicrosoft2087	Microsoft
+TMmeta data OR meta-data2595	Yahoo
+TMIBM2241	International Business Machines
+TMMicrosoft1244	Google
+TMIBM2586	Sony
+TMbenchmarking OR benchmark OR benchmarks562	eBay
+TMMicrosoft1100	Fox
+TMOracle1667	Adobe
+TMbusiness analytics359	International Business Machines
+TMmeta data OR meta-data2596	American Online
+TMMicrosoft1370	Yahoo
+TMMicrosoft2030	Yahoo
+TMIBM111	International Business Machines
+TMIBM2355	Cisco
+TMMicrosoft450	Yahoo
+TMMicrosoft2093	Microsoft
+TMOracle1683	International Business Machines
+TMIBM178	International Business Machines
+TMMicrosoft1199	Yahoo
+TMIBM2376	Flickr
+TMIBM863	Google
+TMIBM2269	International Business Machines
+TMSAP530	Nokia
+TMbenchmarking OR benchmark OR benchmarks2461	Microsoft
+TMMicrosoft377	Google
+TMSAS233	Sony
+TMIBM935	Oracle
+TMMicrosoft1120	Sun Microsystems
+TMOracle1633	Intel
+TMSAP678	Adobe
+TMOracle1917	Microsoft
+TMMicrosoft1112	Microsoft
+TMIBM93	Dell
+TMMicrosoft1605	Adobe
+TMbenchmarking OR benchmark OR benchmarks2458	Apple
+TMOracle1679	Oracle
+TMMicrosoft1122	Apple
+TMMicrosoft1224	Apple
+TMMicrosoft1232	Apple
+TMIBM794	Cisco
+TMIBM2534	Sony
+TMMicrosoft1387	Apple
+TMSAS2611	Apple
+TMIBM853	Google
+TMOracle1932	Oracle
+TMIBM2206	Intel
+TMmeta data OR meta-data32	Yahoo
+TMMicrosoft403	Microsoft
+TMSAS767	Nokia
+TMIBM947	Apple
+TMbenchmarking OR benchmark OR benchmarks265	Adobe
+TMMicrosoft1706	Apple
+TMIBM2572	Yahoo
+TMIBM2361	New York Times
+TMSAP2142	Microsoft
+TMbenchmarking OR benchmark OR benchmarks651	Adobe
+TMMicrosoft1765	American Online
+TMMicrosoft1850	Yahoo
+TMMicrosoft2036	Yahoo
+TMSAP2147	New York Times
+TMMicrosoft1480	Microsoft
+TMMicrosoft383	American Online
+TMMicrosoft1840	Yahoo
+TMSAS2604	SAS
+TMOracle1950	Microsoft
+TMIBM890	SAP
+TMIBM966	Cisco
+TMIBM879	Sun Microsystems
+TMMicrosoft2042	Microsoft
+TMIBM964	International Business Machines
+TMbenchmarking OR benchmark OR benchmarks274	Intel
+TMMicrosoft450	Verizon
+TMMicrosoft1046	eBay
+TMSAP676	Yahoo
+TMMicrosoft1325	Yahoo
+TMSAP745	Intel
+TMMicrosoft1366	Microsoft
+TMMicrosoft1498	Microsoft
+TMOracle1869	Intel
+TMMicrosoft1548	Motorola
+TMIBM1017	Google
+TMMicrosoft1705	Microsoft
+TMMicrosoft1314	Yahoo
+TMIBM899	Federal Trade Commission
+TMIBM1000	Hewlett Packard
+TMSAP755	SAP
+TMMicrosoft1449	Apple
+TMSAP744	Oracle
+TMSAS247	Apple
+TMMicrosoft1386	Nokia
+TMMicrosoft1436	Wall Street Journal
+TMIBM978	International Business Machines
+TMIBM911	Cisco
+TMIBM79	Sun Microsystems
+TMOracle1915	Yahoo
+TMMicrosoft1728	Google
+TMIBM2568	Microsoft
+TMIBM889	Intel
+TMIBM117	International Business Machines
+TMMicrosoft1736	Microsoft
+TMOracle1926	Oracle
+TMIBM514	Time Warner
+TMSAP729	Microsoft
+TMMicrosoft1788	Yahoo
+TMMicrosoft1786	Yahoo
+TMMicrosoft1746	American Online
+TMIBM982	International Business Machines
+TMMicrosoft2015	Apple
+TMSAP657	Microsoft
+TMMicrosoft1557	Apple
+TMIBM818	International Business Machines
+TMMicrosoft469	American Online
+TMOracle1963	Facebook
+TMMicrosoft1701	Verizon
+TMSAP761	SAP
+TMMicrosoft1746	Federal Trade Commission
+TMMicrosoft1418	Wall Street Journal
+TMMicrosoft1355	ATT
+TMSAP657	Adobe
+TMMicrosoft416	American Online
+TMIBM906	University of California
+TMIBM866	Apple
+TMIBM2590	Apple
+TMIBM2365	Yahoo
+TMMicrosoft1047	Yahoo
+TMIBM2381	International Business Machines
+TMbenchmarking OR benchmark OR benchmarks282	Benchmark
+TMIBM129	Microsoft
+TMMicrosoft1825	Microsoft
+TMMicrosoft2131	Nokia
+TMMicrosoft1799	Microsoft
+TMIBM2272	MySpace
+TMIBM930	Yahoo
+TMbenchmarking OR benchmark OR benchmarks630	Wall Street Journal
+TMdata mining OR data-mining2410	Yahoo
+TMMicrosoft1172	Yahoo
+TMMicrosoft385	Yahoo
+TMMicrosoft2103	Adobe
+TMIBM97	Wall Street Journal
+TMOracle1640	Oracle
+TMOracle1904	Yahoo
+TMMicrosoft1070	University of California
+TMSAP660	Dell
+TMIBM1020	Dell
+TMMicrosoft1417	Yahoo
+TMSAP762	Microsoft
+TMbenchmarking OR benchmark OR benchmarks545	Yahoo
+TMIBM2272	Sony
+TMbenchmarking OR benchmark OR benchmarks2480	Microsoft
+TMMicrosoft1029	International Business Machines
+TMIBM819	Microsoft
+TMIBM927	Oracle
+TMMicrosoft1527	MySpace
+TMIBM900	International Business Machines
+TMOracle1958	Microsoft
+TMOracle1918	International Business Machines
+TMMicrosoft1538	Microsoft
+TMMicrosoft1340	Nokia
+TMMicrosoft1772	Yahoo
+TMOracle1925	Microsoft
+TMSAS2617	Apple
+TMMicrosoft1157	SAP
+TMSAP670	SAP
+TMIBM946	International Business Machines
+TMOracle218	Viacom
+TMMicrosoft1597	Apple
+TMMicrosoft1155	Yahoo
+TMdata mining OR data-mining481	Yahoo
+TMmeta data OR meta-data2154	Hewlett Packard
+TMIBM2576	Sun Microsystems
+TMSAP742	Intel
+TMIBM2214	Apple
+TMMicrosoft2090	Viacom
+TMMicrosoft1969	Apple
+TMdata mining OR data-mining2421	eBay
+TMMicrosoft1563	Apple
+TMmeta data OR meta-data2593	Yahoo
+TMMicrosoft1187	International Business Machines
+TMMicrosoft1298	Motorola
+TMIBM892	Cisco
+TMIBM827	International Business Machines
+TMMicrosoft1541	Microsoft
+TMSAP755	New York Times
+TMMicrosoft437	Apple
+TMMicrosoft1511	Adobe
+TMMicrosoft1217	Microsoft
+TMOracle1639	Sony
+TMMicrosoft1810	Microsoft
+TMIBM125	SAP
+TMdata mining OR data-mining473	Dell
+TMIBM91	Stanford University
+TMIBM2215	Apple
+TMIBM911	Sun Microsystems
+TMOracle1665	Microsoft
+TMbenchmarking OR benchmark OR benchmarks2471	Dell
+TMIBM793	Oracle
+TMIBM2205	University of California
+TMSAP692	Yahoo
+TMIBM2391	International Business Machines
+TMSAP729	International Business Machines
+TMIBM2369	International Business Machines
+TMMicrosoft1483	Yahoo
+TMMicrosoft1729	Microsoft
+TMOracle1897	Oracle
+TMMicrosoft390	Wall Street Journal
+TMMicrosoft1805	Microsoft
+TMIBM935	Cisco
+TMMicrosoft1034	Microsoft
+TMMicrosoft1706	Yahoo
+TMMicrosoft1819	Nokia
+TMMicrosoft1337	Apple
+TMIBM2198	Sun Microsystems
+TMMicrosoft1541	Nokia
+TMmeta data OR meta-data27	Facebook
+TMSAP675	SAP
+TMIBM966	Hewlett Packard
+TMIBM2201	Verizon
+TMOracle225	International Business Machines
+TMMicrosoft1550	Microsoft
+TMmeta data OR meta-data319	Microsoft
+TMMicrosoft1230	Apple
+TMMicrosoft448	Comcast
+TMIBM79	International Business Machines
+TMMicrosoft1604	Apple
+TMIBM838	Google
+TMSAS2623	Apple
+TMSAS2610	Apple
+TMdata warehouse OR data-warehouse OR data warehouses OR data-warehouses504	Cisco Systems
+TMbenchmarking OR benchmark OR benchmarks2443	Yahoo
+TMdata mining OR data-mining480	Netflix
+TMMicrosoft1825	Federal Trade Commission
+TMMicrosoft1567	Oracle
+TMIBM853	Apple
+TMIBM984	Sun Microsystems
+TMbenchmarking OR benchmark OR benchmarks263	Adobe
+TMMicrosoft1329	American Online
+TMSAP733	SAP
+TMIBM91	Yahoo
+TMhyperion1968	Oracle
+TMIBM130	International Business Machines
+TMMicrosoft1116	Microsoft
+TMIBM528	Google
+TMOracle1687	International Business Machines
+TMOracle1866	International Business Machines
+TMMicrosoft1255	Sony
+TMMicrosoft449	Yahoo
+TMMicrosoft1516	Verizon
+TMMicrosoft1715	Viacom
+TMOracle188	New York Times
+TMMicrosoft1591	eBay
+TMIBM2253	Dell
+TMMicrosoft1041	Microsoft
+TMIBM175	Sony
+TMSAP668	Nokia
+TMMicrosoft433	Apple
+TMMicrosoft1840	Nokia
+TMMicrosoft1853	Microsoft
+TMMicrosoft1214	Sun Microsystems
+TMMicrosoft1286	Yahoo
+TMbenchmarking OR benchmark OR benchmarks646	Yahoo
+TMMicrosoft1544	Microsoft
+TMMicrosoft1835	Apple
+TMbusiness intelligence OR business intelligences OR business intelligent1324	New York Times
+TMIBM2373	Dell
+TMMicrosoft1773	Google
+TMMicrosoft1171	Microsoft
+TMIBM2564	Microsoft
+TMIBM2558	Adobe
+TMIBM2553	International Business Machines
+TMMicrosoft1486	Google
+TMOracle1685	Yahoo
+TMMicrosoft1207	Verizon
+TMMicrosoft1472	American Online
+TMIBM814	Hewlett Packard
+TMMicrosoft1391	Microsoft
+TMOracle1912	Oracle
+TMIBM935	Yahoo
+TMMicrosoft2106	Adobe
+TMIBM1000	Dell
+TMIBM2235	Advanced Micro Devices
+TMhyperion2523	Wall Street Journal
+TMIBM2212	International Business Machines
+TMMicrosoft1812	Microsoft
+TMIBM843	Sun Microsystems
+TMMicrosoft2067	Microsoft
+TMOracle1914	Yahoo
+TMbenchmarking OR benchmark OR benchmarks2514	Apple
+TMMicrosoft1077	Microsoft
+TMIBM67	Google
+TMSAP678	Microsoft
+TMMicrosoft1425	Microsoft
+TMMicrosoft387	Sun Microsystems
+TMMicrosoft1787	Microsoft
+TMMicrosoft2125	Microsoft
+TMOracle225	Apple
+TMOracle19	Wall Street Journal
+TMMicrosoft1767	Microsoft
+TMdata mining OR data-mining502	Stanford University
+TMMicrosoft372	Verizon
+TMIBM825	International Business Machines
+TMIBM2183	Sony
+TMknowledge management2173	International Business Machines
+TMbenchmarking OR benchmark OR benchmarks2456	Verizon
+TMIBM2288	New York Times
+TMIBM926	International Business Machines
+TMSAS2624	Verizon
+TMOracle207	International Business Machines
+TMSAS772	Nokia
+TMSAP692	Microsoft
+TMMicrosoft1343	eBay
+TMIBM952	Microsoft
+TMMicrosoft1113	Microsoft
+TMMicrosoft1232	Microsoft
+TMbenchmarking OR benchmark OR benchmarks599	Sun Microsystems
+TMOracle1920	SAP
+TMMicrosoft1566	Wall Street Journal
+TMOracle209	Oracle
+TMMicrosoft1407	Yahoo
+TMMicrosoft376	Microsoft
+TMMicrosoft1557	Intel
+TMMicrosoft1577	Microsoft
+TMMicrosoft1822	Microsoft
+TMIBM898	Adobe
+TMSAP694	Apple
+TMIBM1006	Google
+TMOracle1961	Microsoft
+TMSAP659	ATT
+TMIBM859	Big Blue
+TMIBM2209	Big Blue
+TMMicrosoft2036	American Online
+TMIBM867	Federal Trade Commission
+TMIBM2374	American Online
+TMOracle1932	Wall Street Journal
+TMMicrosoft1401	Yahoo
+TMbenchmarking OR benchmark OR benchmarks631	Apple
+TMMicrosoft1700	Yahoo
+TMIBM994	Big Blue
+TMOracle1957	Sun Microsystems
+TMIBM2397	Google
+TMOracle1961	Dell
+TMMicrosoft1446	Apple
+TMSAP530	Apple
+TMdata mining OR data-mining474	Google
+TMbenchmarking OR benchmark OR benchmarks303	Yahoo
+TMIBM178	Microsoft
+TMdata warehousing OR data-warehousing2	Sun Microsystems
+TMbenchmarking OR benchmark OR benchmarks268	Google
+TMOracle225	Dell
+TMSAS248	Apple
+TMMicrosoft1502	Microsoft
+TMMicrosoft1839	Motorola
+TMMicrosoft1124	Wall Street Journal
+TMMicrosoft1972	Microsoft
+TMIBM1017	Dell
+TMIBM103	International Business Machines
+TMMicrosoft364	Microsoft
+TMSAP744	Microsoft
+TMMicrosoft1124	CNN
+TMMicrosoft1265	Microsoft
+TMIBM2243	Yahoo
+TMOracle1647	Oracle
+TMcompetitive intelligence698	Microsoft
+TMMicrosoft1459	Google
+TMIBM2329	International Business Machines
+TMIBM2397	eBay
+TMIBM518	Yahoo
+TMIBM957	Cisco
+TMOracle1957	Dell
+TMSAP693	Microsoft
+TMIBM908	Google
+TMMicrosoft1803	Federal Trade Commission
+TMIBM2336	Microsoft
+TMMicrosoft1782	Microsoft
+TMbenchmarking OR benchmark OR benchmarks2446	Yahoo
+TMMicrosoft1569	Google
+TMbenchmarking OR benchmark OR benchmarks271	Verizon
+TMMicrosoft2059	Cisco
+TMOracle1617	Wall Street Journal
+TMOracle1611	Wall Street Journal
+TMMicrosoft1489	Apple
+TMIBM520	Google
+TMSAS241	Verizon
+TMMicrosoft1859	Microsoft
+TMMicrosoft1772	Apple
+TMbenchmarking OR benchmark OR benchmarks598	Cisco
+TMIBM983	Yahoo
+TMdata mining OR data-mining478	Facebook
+TMMicrosoft1991	Oracle
+TMIBM514	American Online
+TMIBM517	Yahoo
+TMbenchmarking OR benchmark OR benchmarks581	Apple
+TMMicrosoft1070	New York Times
+TMIBM2285	Nokia
+TMIBM865	Sun Microsystems
+TMMicrosoft397	Google
+TMOracle1954	Cisco Systems
+TMIBM528	Adobe
+TMdata mining OR data-mining2419	Hewlett Packard
+TMbenchmarking OR benchmark OR benchmarks597	Cisco
+TMbenchmarking OR benchmark OR benchmarks2472	Verizon
+TMOracle1679	Yahoo
+TMSAP744	International Business Machines
+TMmeta data OR meta-data37	Yahoo
+TMSAS2631	Yahoo
+TMIBM1013	Cisco
+TMMicrosoft1842	Yahoo
+TMbusiness analytics355	Microsoft
+TMMicrosoft2033	Google
+TMIBM2230	Apple
+TMIBM2275	Intel
+TMMicrosoft461	University of California
+TMMicrosoft1729	Advanced Micro Devices
+TMSAS335	Microsoft
+TMIBM2384	Google
+TMdata mining OR data-mining347	Yahoo
+TMOracle1674	International Business Machines
+TMbenchmarking OR benchmark OR benchmarks258	Time Warner
+TMIBM2591	Hewlett Packard
+TMIBM2560	Apple
+TMbenchmarking OR benchmark OR benchmarks280	Apple
+TMMicrosoft406	Yahoo
+TMMicrosoft1984	Microsoft
+TMMicrosoft1604	Comcast
+TMMicrosoft1708	Yahoo
+TMIBM81	Yahoo
+TMIBM100	Intel
+TMSAS2606	Nokia
+TMIBM143	Hewlett Packard
+TMbenchmarking OR benchmark OR benchmarks286	Google
+TMOracle190	Oracle
+TMMicrosoft1765	Facebook
+TMIBM918	Hewlett Packard
+TMOracle1654	Microsoft
+TMMicrosoft1718	Yahoo
+TMIBM937	Hewlett Packard
+TMMicrosoft2128	Wall Street Journal
+TMIBM917	Intel
+TMmeta data OR meta-data319	American Online
+TMMicrosoft371	CNN
+TMIBM166	Yahoo
+TMIBM2211	Oracle
+TMMicrosoft1465	ATT
+TMMicrosoft412	Yahoo
+TMIBM2195	Microsoft
+TMdata mining OR data-mining477	New York Times
+TMIBM917	Advanced Micro Devices
+TMMicrosoft2040	Google
+TMIBM512	Intel
+TMSAP757	Wall Street Journal
+TMMicrosoft1243	CNN
+TMIBM2188	Apple
+TMOracle218	Oracle
+TMIBM2241	Google
+TMbenchmarking OR benchmark OR benchmarks624	Microsoft
+TMIBM2333	International Business Machines
+TMMicrosoft1204	Intel
+TMMicrosoft1834	Cisco
+TMIBM2223	Microsoft
+TMIBM2539	Hewlett Packard
+TMMicrosoft1264	Hewlett Packard
+TMbenchmarking OR benchmark OR benchmarks643	BBC
+TMIBM97	Apple
+TMbusiness intelligence OR business intelligences OR business intelligent54	Microsoft
+TMMicrosoft1465	Nokia
+TMMicrosoft1774	Wall Street Journal
+TMIBM844	Oracle
+TMIBM906	Apple
+TMMicrosoft2090	New York Times
+TMMicrosoft383	Apple
+TMIBM90	International Business Machines
+TMSAS766	Wall Street Journal
+TMIBM2589	Microsoft
+TMIBM2378	International Business Machines
+TMIBM145	Microsoft
+TMbenchmarking OR benchmark OR benchmarks2439	Intel
+TMMicrosoft1845	Nokia
+TMIBM2588	Cisco
+TMMicrosoft1481	Google
+TMMicrosoft1782	Yahoo
+TMMicrosoft2105	American Online
+TMOracle13	Wall Street Journal
+TMMicrosoft1153	Microsoft
+TMOracle1639	Dell
+TMbenchmarking OR benchmark OR benchmarks2461	eBay
+TMIBM948	New York Times
+TMMicrosoft1335	Verizon
+TMSAP745	International Business Machines
+TMMicrosoft2026	Adobe
+TMIBM2267	Oracle
+TMIBM2316	Sun Microsystems
+TMbenchmarking OR benchmark OR benchmarks588	University of California
+TMIBM2230	Wall Street Journal
+TMSAP2399	Microsoft
+TMMicrosoft1471	CNET News
+TMIBM819	Dell
+TMSAP2143	Google
+TMOracle19	Apple
+TMOracle1631	International Business Machines
+TMOracle15	eBay
+TMOracle18	Microsoft
+TMMicrosoft383	Wall Street Journal
+TMIBM146	International Business Machines
+TMMicrosoft448	Sun Microsystems
+TMMicrosoft1997	Microsoft
+TMbenchmarking OR benchmark OR benchmarks534	Benchmark
+TMMicrosoft1139	Advanced Micro Devices
+TMMicrosoft1709	Google
+TMIBM837	Intel
+TMMicrosoft1032	Apple
+TMknowledge management2171	American Online
+TMMicrosoft1080	Google
+TMMicrosoft1802	Dell
+TMMicrosoft380	Microsoft
+TMIBM822	International Business Machines
+TMIBM936	Cisco Systems
+TMIBM1002	Wall Street Journal
+TMOracle1617	Yahoo
+TMSAS251	Wall Street Journal
+TMhyperion1968	Intel
+TMOracle1877	Oracle
+TMMicrosoft2004	Google
+TMbusiness intelligence OR business intelligences OR business intelligent709	Microsoft
+TMIBM2241	Microsoft
+TMIBM2376	Google
+TMMicrosoft1137	Google
+TMIBM2361	Facebook
+TMmeta data OR meta-data2165	Yahoo
+TMdata warehouse OR data-warehouse OR data warehouses OR data-warehouses2525	Apple
+TMbusiness intelligence OR business intelligences OR business intelligent49	451 Group
+TMMicrosoft409	Google
+TMMicrosoft1528	Microsoft
+TMMicrosoft1073	Oracle
+TMOracle1873	Big Blue
+TMMicrosoft1599	Yahoo
+TMIBM2326	Yahoo
+TMMicrosoft1536	Yahoo
+TMMicrosoft1742	Microsoft
+TMMicrosoft1981	MySpace
+TMOracle1612	Oracle
+TMSAS252	Wall Street Journal
+TMIBM2531	Yahoo
+TMIBM2335	Apple
+TMOracle1940	Hewlett Packard
+TMIBM928	International Business Machines
+TMIBM1013	Cisco Systems
+TMIBM145	Yahoo
+TMdata mining OR data-mining2409	Google
+TMMicrosoft1987	Google
+TMOracle1884	Oracle
+TMMicrosoft1032	Microsoft
+TMbenchmarking OR benchmark OR benchmarks2447	Facebook
+TMSAP2141	Apple
+TMbenchmarking OR benchmark OR benchmarks647	Adobe
+TMMicrosoft1443	CNET News
+TMMicrosoft1095	Motorola
+TMknowledge management2180	Verizon
+TMMicrosoft1416	BBC
+TMIBM166	Google
+TMIBM2328	Microsoft
+TMMicrosoft1512	Cisco
+TMIBM963	Hewlett Packard
+TMMicrosoft2080	CNN
+TMIBM2391	Wall Street Journal
+TMSAP742	Cisco Systems
+TMOracle1949	Wall Street Journal
+TMIBM2245	Nokia
+TMMicrosoft1029	Google
+TMIBM2186	International Business Machines
+TMMicrosoft426	Adobe
+TMIBM2216	International Business Machines
+TMIBM835	International Business Machines
+TMOracle203	Facebook
+TMIBM972	International Business Machines
+TMbenchmarking OR benchmark OR benchmarks2476	Benchmark
+TMMicrosoft1772	Microsoft
+TMIBM850	451 Group
+TMMicrosoft1852	Yahoo
+TMMicrosoft1858	American Online
+TMknowledge management2171	Yahoo
+TMSAS2617	Wall Street Journal
+TMOracle1685	Oracle
+TMdata mining OR data-mining347	International Business Machines
+TMOracle199	MySpace
+TMIBM529	Apple
+TMOracle1688	Sun Microsystems
+TMMicrosoft1450	Yahoo
+TMMicrosoft375	Apple
+TMOracle5	eBay
+TMIBM2200	Apple
+TMOracle1950	Oracle
+TMMicrosoft1441	Yahoo
+TMIBM890	Microsoft
+TMMicrosoft438	Microsoft
+TMSAP690	Facebook
+TMIBM2396	Google
+TMMicrosoft1177	Microsoft
+TMMicrosoft1411	International Business Machines
+TMMicrosoft1811	Intel
+TMbenchmarking OR benchmark OR benchmarks293	Apple
+TMMicrosoft1981	Google
+TMMicrosoft1571	Yahoo
+TMSAS2622	Yahoo
+TMSAS773	Comcast
+TMMicrosoft1310	Oracle
+TMMicrosoft1190	Advanced Micro Devices
+TMIBM865	Unisys
+TMbenchmarking OR benchmark OR benchmarks558	Benchmark
+TMOracle1917	Oracle
+TMbenchmarking OR benchmark OR benchmarks2472	Wall Street Journal
+TMbenchmarking OR benchmark OR benchmarks278	Apple
+TMOracle1930	Hewlett Packard
+TMMicrosoft1805	Google
+TMMicrosoft1806	Facebook
+TMOracle1631	Microsoft
+TMSAP677	Xerox
+TMMicrosoft1325	International Business Machines
+TMMicrosoft1161	Apple
+TMMicrosoft1495	Microsoft
+TMIBM139	Google
+TMdata mining OR data-mining2403	Massachusetts Institute of Technology
+TMdata mining OR data-mining2414	Yahoo
+TMIBM2313	Google
+TMMicrosoft461	Yahoo
+TMMicrosoft371	Microsoft
+TMSAS768	Apple
+TMOracle1940	Big Blue
+TMIBM79	Microsoft
+TMMicrosoft1334	Yahoo
+TMMicrosoft469	Wall Street Journal
+TMMicrosoft2137	Yahoo
+TMMicrosoft1591	Google
+TMIBM2285	Google
+TMSAP666	Microsoft
+TMIBM140	Stanford University
+TMMicrosoft2065	eBay
+TMbenchmarking OR benchmark OR benchmarks638	eBay
+TMMicrosoft1334	Dell
+TMMicrosoft1719	Viacom
+TMSAP530	Fox
+TMIBM925	Microsoft
+TMMicrosoft438	Intel
+TMMicrosoft380	Sony
+TMIBM951	Big Blue
+TMIBM524	Harvard
+TMIBM926	Cisco
+TMbenchmarking OR benchmark OR benchmarks622	Wall Street Journal
+TMOracle228	Sony
+TMbenchmarking OR benchmark OR benchmarks2493	Microsoft
+TMIBM871	International Business Machines
+TMMicrosoft1471	Microsoft
+TMMicrosoft2072	Stanford University
+TMMicrosoft430	Google
+TMMicrosoft1134	Intel
+TMMicrosoft1562	Microsoft
+TMIBM2265	Microsoft
+TMMicrosoft1514	Yahoo
+TMMicrosoft394	Adobe
+TMMicrosoft1752	ATT
+TMOracle1646	Microsoft
+TMMicrosoft1259	Microsoft
+TMIBM2330	University of California
+TMIBM524	Hewlett Packard
+TMMicrosoft1567	LinkedIn
+TMMicrosoft440	Microsoft
+TMOracle1687	Oracle
+TMSAS329	Apple
+TMmeta data OR meta-data35	Yahoo
+TMmeta data OR meta-data321	LinkedIn
+TMIBM526	International Business Machines
+TMMicrosoft1598	Microsoft
+TMIBM843	Stanford University
+TMOracle3	American Online
+TMMicrosoft1246	Facebook
+TMMicrosoft2122	Microsoft
+TMSAS239	Apple
+TMOracle1642	Oracle
+TMSAP751	SAP
+TMIBM788	Sun Microsystems
+TMIBM2575	Apple
+TMbenchmarking OR benchmark OR benchmarks295	Adobe
+TMIBM97	Verizon
+TMOracle1941	Apple
+TMMicrosoft2037	Google
+TMSAS2619	Sun Microsystems
+TMMicrosoft1127	eBay
+TMbenchmarking OR benchmark OR benchmarks311	Microsoft
+TMIBM2344	Hewlett Packard
+TMIBM817	Apple
+TMMicrosoft437	Yahoo
+TMOracle1925	Flickr
+TMMicrosoft405	Microsoft
+TMMicrosoft1316	Microsoft
+TMbenchmarking OR benchmark OR benchmarks572	Apple
+TMMicrosoft1719	Microsoft
+TMOracle21	Oracle
+TMIBM970	Apple
+TMOracle187	Google
+TMMicrosoft1041	Google
+TMMicrosoft1180	Google
+TMMicrosoft1397	Microsoft
+TMOracle1688	Oracle
+TMIBM2364	Apple
+TMSAS2603	Nokia
+TMIBM829	Dell
+TMMicrosoft1262	Microsoft
+TMIBM881	Microsoft
+TMIBM2547	Microsoft
+TMIBM977	Wall Street Journal
+TMMicrosoft2106	Microsoft
+TMbenchmarking OR benchmark OR benchmarks2433	Intel
+TMMicrosoft1534	Microsoft
+TMMicrosoft1424	ATT
+TMIBM122	Apple
+TMIBM1007	Yahoo
+TMMicrosoft1992	Yahoo
+TMMicrosoft389	eBay
+TMMicrosoft1139	Microsoft
+TMIBM2254	Apple
+TMMicrosoft1821	Microsoft
+TMMicrosoft1328	Facebook
+TMMicrosoft1267	Microsoft
+TMbenchmarking OR benchmark OR benchmarks624	Flickr
+TMMicrosoft1491	MySpace
+TMSAS333	Verizon
+TMMicrosoft1566	ATT
+TMMicrosoft1722	Microsoft
+TMMicrosoft1108	Apple
+TMOracle189	SAP
+TMSAS2618	Apple
+TMIBM2376	International Business Machines
+TMMicrosoft1467	Nokia
+TMMicrosoft1730	Sun Microsystems
+TMbenchmarking OR benchmark OR benchmarks2517	Sony
+TMMicrosoft1837	Apple
+TMIBM2237	International Business Machines
+TMIBM789	Intel
+TMOracle1893	Microsoft
+TMIBM2323	International Business Machines
+TMMicrosoft1446	Google
+TMMicrosoft1569	Yahoo
+TMmeta data OR meta-data323	Sun Microsystems
+TMhyperion1967	Business Objects
+TMMicrosoft1387	Advanced Micro Devices
+TMbenchmarking OR benchmark OR benchmarks2520	Benchmark
+TMOracle1955	Apple
+TMOracle1933	Sun Microsystems
+TMOracle228	Xerox
+TMSAS2610	Nokia
+TMOracle1918	Wall Street Journal
+TMIBM795	Big Blue
+TMMicrosoft400	Microsoft
+TMIBM2293	International Business Machines
+TMbenchmarking OR benchmark OR benchmarks563	ATT
+TMIBM931	International Business Machines
+TMOracle1874	International Business Machines
+TMSAP530	Adobe
+TMSAS244	Wall Street Journal
+TMMicrosoft2000	Apple
+TMIBM832	Wall Street Journal
+TMMicrosoft1489	CNET News
+TMbenchmarking OR benchmark OR benchmarks645	eBay
+TMMicrosoft1355	Apple
+TMknowledge management2178	Yahoo
+TMIBM2267	International Business Machines
+TMMicrosoft2025	Microsoft
+TMMicrosoft1030	Microsoft
+TMOracle1897	CNET News
+TMbenchmarking OR benchmark OR benchmarks275	MySpace
+TMIBM2216	Verizon
+TMbusiness intelligence OR business intelligences OR business intelligent718	Wall Street Journal
+TMOracle1656	Oracle
+TMOracle1659	Microsoft
+TMOracle1915	Verizon
+TMMicrosoft1172	Microsoft
+TMIBM2200	Yahoo
+TMMicrosoft1310	Sun Microsystems
+TMIBM148	Google
+TMMicrosoft1033	Facebook
+TMMicrosoft400	Yahoo
+TMOracle1619	Oracle
+TMbenchmarking OR benchmark OR benchmarks2475	Facebook
+TMMicrosoft1516	Google
+TMMicrosoft381	Yahoo
+TMMicrosoft438	Yahoo
+TMMicrosoft1068	American Online
+TMMicrosoft1393	Intel
+TMMicrosoft1709	Flickr
+TMMicrosoft1337	Microsoft
+TMIBM824	Yahoo
+TMIBM869	International Business Machines
+TMSAS329	Nokia
+TMtext mining OR text-mining511	Harvard
+TMIBM93	Microsoft
+TMMicrosoft1265	American Online
+TMIBM2287	Apple
+TMIBM2552	Microsoft
+TMbenchmarking OR benchmark OR benchmarks2461	Apple
+TMOracle12	Microsoft
+TMMicrosoft1427	Microsoft
+TMMicrosoft1228	Apple
+TMMicrosoft1048	Google
+TMIBM2381	Facebook
+TMbenchmarking OR benchmark OR benchmarks2493	Yahoo
+TMIBM788	Microsoft
+TMMicrosoft1255	Dell
+TMOracle24	Microsoft
+TMMicrosoft1143	Dell
+TMMicrosoft372	Apple
+TMMicrosoft1817	Yahoo
+TMOracle223	International Business Machines
+TMOracle202	Yahoo
+TMknowledge management2180	Yahoo
+TMMicrosoft2057	Yahoo
+TMSAS251	Microsoft
+TMMicrosoft2101	Microsoft
+TMIBM776	Google
+TMIBM2188	Adobe
+TMMicrosoft1551	Facebook
+TMOracle1879	International Business Machines
+TMMicrosoft1215	Yahoo
+TMMicrosoft1100	Apple
+TMIBM939	Wall Street Journal
+TMMicrosoft1175	Microsoft
+TMIBM2361	Intel
+TMIBM165	Xerox
+TMOracle1882	Hewlett Packard
+TMIBM958	Wall Street Journal
+TMSAS2629	Apple
+TMMicrosoft2109	Sony
+TMOracle1888	Oracle
+TMMicrosoft1848	Nokia
+TMIBM805	Harvard
+TMMicrosoft1187	Cisco
+TMMicrosoft1594	Sony
+TMMicrosoft1370	Microsoft
+TMMicrosoft1710	Sony
+TMmeta data OR meta-data2600	CNN
+TMOracle1691	Verizon
+TMmeta data OR meta-data34	Yahoo
+TMIBM1001	International Business Machines
+TMMicrosoft381	Time Warner
+TMMicrosoft1478	Microsoft
+TMOracle1959	Yahoo
+TMbenchmarking OR benchmark OR benchmarks2520	Microsoft
+TMOracle1617	Nokia
+TMMicrosoft1374	Dell
+TMMicrosoft1154	Yahoo
+TMOracle202	MySpace
+TMIBM2254	International Business Machines
+TMMicrosoft1301	Intel
+TMbenchmarking OR benchmark OR benchmarks2431	Viacom
+TMIBM919	Microsoft
+TMOracle1955	Yahoo
+TMbusiness intelligence OR business intelligences OR business intelligent49	Oracle
+TMIBM823	Big Blue
+TMIBM116	International Business Machines
+TMMicrosoft1406	Microsoft
+TMbenchmarking OR benchmark OR benchmarks652	Adobe
+TMSAP667	Cisco Systems
+TMIBM989	Hewlett Packard
+TMMicrosoft1775	Facebook
+TMMicrosoft1591	Intel
+TMSAS2629	Yahoo
+TMMicrosoft2114	Fox
+TMOracle1659	Verizon
+TMMicrosoft1724	Google
+TMMicrosoft2022	Microsoft
+TMMicrosoft1377	Xerox
+TMOracle17	Yahoo
+TMMicrosoft409	Microsoft
+TMMicrosoft1728	New York Times
+TMMicrosoft1236	Microsoft
+TMMicrosoft1278	Facebook
+TMMicrosoft1562	Hewlett Packard
+TMbusiness intelligence OR business intelligences OR business intelligent711	Microsoft
+TMIBM1011	Wall Street Journal
+TMOracle1904	Oracle
+TMMicrosoft2129	Google
+TMIBM132	Yahoo
+TMMicrosoft436	Yahoo
+TMIBM169	Microsoft
+TMMicrosoft1437	Microsoft
+TMbenchmarking OR benchmark OR benchmarks304	eBay
+TMIBM2233	Hewlett Packard
+TMIBM951	Wall Street Journal
+TMMicrosoft2059	Yahoo
+TMMicrosoft1301	Microsoft
+TMOracle1920	Cisco
+TMSAP688	International Business Machines
+TMSAS2605	Comcast
+TMOracle1958	Hewlett Packard
+TMbenchmarking OR benchmark OR benchmarks300	eBay
+TMcognos654	Apple
+TMMicrosoft1485	Intel
+TMMicrosoft1700	Microsoft
+TMMicrosoft1048	Yahoo
+TMpredictive analytics1697	Big Blue
+TMOracle6	Oracle
+TMOracle1687	Dell
+TMtext mining OR text-mining1964	Microsoft
+TMIBM145	Google
+TMMicrosoft1153	Apple
+TMMicrosoft1602	Apple
+TMMicrosoft1312	Google
+TMIBM814	Microsoft
+TMIBM2188	Yahoo
+TMIBM2571	International Business Machines
+TMMicrosoft1539	Massachusetts Institute of Technology
+TMIBM89	International Business Machines
+TMOracle1676	Google
+TMMicrosoft1248	Microsoft
+TMbenchmarking OR benchmark OR benchmarks2462	Facebook
+TMMicrosoft2117	Microsoft
+TMMicrosoft1561	Wall Street Journal
+TMIBM113	Apple
+TMMicrosoft1370	Comcast
+TMbenchmarking OR benchmark OR benchmarks586	Microsoft
+TMMicrosoft1059	Microsoft
+TMMicrosoft1537	Hewlett Packard
+TMIBM2579	New York Times
+TMIBM122	Microsoft
+TMIBM814	Big Blue
+TMMicrosoft1186	Microsoft
+TMSAS2622	Verizon
+TMMicrosoft2010	Yahoo
+TMIBM2289	Advanced Micro Devices
+TMbenchmarking OR benchmark OR benchmarks2460	Time Warner
+TMMicrosoft1370	Stanford University
+TMdata mining OR data-mining492	Google
+TMSAS2623	Wall Street Journal
+TMIBM97	Microsoft
+TMcognos656	Oracle
+TMMicrosoft2121	Yahoo
+TMMicrosoft1068	Microsoft
+TMIBM866	Microsoft
+TMcognos654	Oracle
+TMMicrosoft451	Verizon
+TMbusiness intelligence OR business intelligences OR business intelligent55	Hewlett Packard
+TMIBM170	International Business Machines
+TMOracle1880	Sun Microsystems
+TMMicrosoft1515	Sun Microsystems
+TMMicrosoft1378	Microsoft
+TMIBM2241	Yahoo
+TMOracle1937	Yahoo
+TMMicrosoft2018	Microsoft
+TMIBM919	Oracle
+TMMicrosoft2093	Fox
+TMbenchmarking OR benchmark OR benchmarks268	Apple
+TMIBM966	International Business Machines
+TMMicrosoft1171	Harvard
+TMSAS2610	Wall Street Journal
+TMMicrosoft1754	American Online
+TMbenchmarking OR benchmark OR benchmarks264	Intel
+TMIBM890	American Online
+TMOracle1883	Intel
+TMSAP2141	Yahoo
+TMMicrosoft1549	American Online
+TMIBM2246	Oracle
+TMIBM829	International Business Machines
+TMMicrosoft1525	Microsoft
+TMIBM134	Yahoo
+TMSAS2622	Apple
+TMIBM826	Sun Microsystems
+TMMicrosoft2125	Yahoo
+TMMicrosoft2012	Microsoft
+TMMicrosoft1835	Nokia
+TMMicrosoft1510	Yahoo
+TMMicrosoft1400	Apple
+TMbenchmarking OR benchmark OR benchmarks2426	Apple
+TMSAP684	Yahoo
+TMMicrosoft1154	Microsoft
+TMOracle1875	Microsoft
+TMMicrosoft1516	Microsoft
+TMMicrosoft1483	Google
+TMMicrosoft1574	Microsoft
+TMSAS2619	eBay
+TMIBM808	Apple
+TMIBM927	Hewlett Packard
+TMIBM824	Microsoft
+TMIBM2582	International Business Machines
+TMbenchmarking OR benchmark OR benchmarks618	Apple
+TMIBM2270	Hewlett Packard
+TMOracle11	Yahoo
+TMSAP2149	International Business Machines
+TMbusiness intelligence OR business intelligences OR business intelligent55	International Business Machines
+TMOracle215	Facebook
+TMIBM909	International Business Machines
+TMMicrosoft2067	Google
+TMOracle1633	Sony
+TMOracle1687	SAP
+TMIBM97	International Business Machines
+TMIBM159	Oracle
+TMmeta data OR meta-data2154	Apple
+TMIBM527	Apple
+TMbenchmarking OR benchmark OR benchmarks354	Wall Street Journal
+TMbenchmarking OR benchmark OR benchmarks2476	LinkedIn
+TMMicrosoft1752	Wall Street Journal
+TMOracle1883	Microsoft
+TMOracle202	American Online
+TMIBM2193	Microsoft
+TMbenchmarking OR benchmark OR benchmarks613	Hewlett Packard
+TMMicrosoft1224	Microsoft
+TMmeta data OR meta-data32	Microsoft
+TMSAP661	SAP
+TMMicrosoft1460	Microsoft
+TMMicrosoft1089	Yahoo
+TMMicrosoft2017	Google
+TMOracle1914	Wall Street Journal
+TMbusiness intelligence OR business intelligences OR business intelligent1322	Microsoft
+TMIBM514	Google
+TMMicrosoft1765	Microsoft
+TMdata warehouse OR data-warehouse OR data warehouses OR data-warehouses505	Hewlett Packard
+TMbenchmarking OR benchmark OR benchmarks303	Stanford University
+TMMicrosoft1395	Microsoft
+TMIBM869	Sun Microsystems
+TMSAP672	SAP
+TMMicrosoft1231	American Online
+TMMicrosoft1355	Comcast
+TMMicrosoft1393	Sony
+TMIBM803	International Business Machines
+TMMicrosoft1212	Apple
+TMMicrosoft1041	American Online
+TMIBM92	Nokia
+TMbenchmarking OR benchmark OR benchmarks554	Facebook
+TMIBM2209	Adobe
+TMIBM107	International Business Machines
+TMMicrosoft1317	Google
+TMSAP758	Apple
+TMMicrosoft1424	Nokia
+TMSAS2613	Verizon
+TMMicrosoft1745	Microsoft
+TMIBM923	Sun Microsystems
+TMMicrosoft1513	Microsoft
+TMMicrosoft1163	Microsoft
+TMSAP693	Yahoo
+TMMicrosoft1469	Nokia
+TMbenchmarking OR benchmark OR benchmarks551	Yahoo
+TMmeta data OR meta-data32	Google
+TMMicrosoft1086	Microsoft
+TMIBM2260	Flickr
+TMMicrosoft1975	Microsoft
+TMMicrosoft1475	Sun Microsystems
+TMMicrosoft2108	Microsoft
+TMIBM841	International Business Machines
+TMIBM2189	International Business Machines
+TMknowledge management2179	Microsoft
+TMbenchmarking OR benchmark OR benchmarks2474	eBay
+TMIBM2390	Microsoft
+TMOracle1686	Oracle
+TMMicrosoft1566	American Online
+TMOracle225	Oracle
+TMMicrosoft1331	Adobe
+TMdata mining OR data-mining481	Nokia
+TMIBM2365	Oracle
+TMOracle25	Wall Street Journal
+TMIBM73	Microsoft
+TMMicrosoft1060	Microsoft
+TMIBM2313	Intel
+TMSAP673	Wall Street Journal
+TMhyperion255	Apple
+TMSAS2631	Wall Street Journal
+TMOracle1678	Oracle
+TMIBM867	Yahoo
+TMMicrosoft1096	LinkedIn
+TMIBM2246	Wall Street Journal
+TMMicrosoft1190	Intel
+TMOracle1924	Hewlett Packard
+TMIBM2219	International Business Machines
+TMIBM2270	Intel
+TMMicrosoft2136	Microsoft
+TMSAS2603	Wall Street Journal
+TMOracle184	Oracle
+TMMicrosoft1219	American Online
+TMIBM789	Advanced Micro Devices
+TMMicrosoft1166	Microsoft
+TMMicrosoft1989	Yahoo
+TMIBM2194	International Business Machines
+TMMicrosoft1449	Nokia
+TMMicrosoft1466	Microsoft
+TMIBM2377	Yahoo
+TMIBM963	Oracle
+TMcognos654	SAP
+TMbenchmarking OR benchmark OR benchmarks628	Verizon
+TMIBM2272	American Online
+TMIBM791	Stanford University
+TMSAP672	Oracle
+TMMicrosoft1588	Intel
+TMSAS764	Apple
+TMdata warehousing OR data-warehousing2	Intel
+TMMicrosoft1601	Microsoft
+TMIBM2296	International Business Machines
+TMbenchmarking OR benchmark OR benchmarks573	Yahoo
+TMIBM2224	International Business Machines
+TMMicrosoft1480	Google
+TMSAS2619	Sony
+TMOracle1952	Sun Microsystems
+TMMicrosoft1272	Apple
+TMbenchmarking OR benchmark OR benchmarks2486	Apple
+TMMicrosoft1382	Dell
+TMMicrosoft1783	Apple
+TMMicrosoft1832	Apple
+TMMicrosoft1500	Adobe
+TMMicrosoft1305	Microsoft
+TMdata mining OR data-mining502	Microsoft
+TMbusiness analytics363	Apple
+TMOracle194	Oracle
+TMMicrosoft1175	Google
+TMOracle1909	International Business Machines
+TMSAS767	Wall Street Journal
+TMOracle1881	Oracle
+TMMicrosoft1841	Nokia
+TMSAS2611	Intel
+TMbenchmarking OR benchmark OR benchmarks607	Yahoo
+TMMicrosoft461	Microsoft
+TMbenchmarking OR benchmark OR benchmarks578	Intel
+TMMicrosoft1566	Yahoo
+TMMicrosoft1118	Microsoft
+TMMicrosoft1399	ATT
+TMOracle1891	451 Group
+TMMicrosoft1047	Facebook
+TMMicrosoft2004	eBay
+TMbenchmarking OR benchmark OR benchmarks636	American Online
+TMIBM2222	Microsoft
+TMMicrosoft1400	Comcast
+TMMicrosoft388	Google
+TMMicrosoft1469	Apple
+TMMicrosoft1505	Advanced Micro Devices
+TMIBM886	Microsoft
+TMOracle1911	Oracle
+TMMicrosoft1852	Microsoft
+TMMicrosoft1228	Nokia
+TMMicrosoft1423	Nokia
+TMSAP760	Apple
+TMIBM779	Microsoft
+TMMicrosoft2073	Microsoft
+TMMicrosoft2059	eBay
+TMMicrosoft379	Time Warner
+TMIBM2268	Oracle
+TMMicrosoft1549	Microsoft
+TMMicrosoft1424	Wall Street Journal
+TMIBM798	Dell
+TMbenchmarking OR benchmark OR benchmarks627	Sony
+TMOracle1920	Microsoft
+TMMicrosoft1081	Microsoft
+TMIBM2275	Yahoo
+TMIBM821	Microsoft
+TMIBM807	Yahoo
+TMMicrosoft2028	New York Times
+TMOracle204	Google
+TMMicrosoft1586	Microsoft
+TMMicrosoft1232	Wall Street Journal
+TMMicrosoft1065	Massachusetts Institute of Technology
+TMbusiness intelligence OR business intelligences OR business intelligent713	Microsoft
+TMMicrosoft1290	Nokia
+TMdata warehouse OR data-warehouse OR data warehouses OR data-warehouses2525	Microsoft
+TMIBM917	Federal Trade Commission
+TMSAP690	Google
+TMSAP750	Microsoft
+TMIBM926	Microsoft
+TMbenchmarking OR benchmark OR benchmarks2466	New York Times
+TMIBM2274	Intel
+TMIBM2216	Wall Street Journal
+TMMicrosoft456	Microsoft
+TMMicrosoft2069	Yahoo
+TMMicrosoft1187	BusinessWeek
+TMMicrosoft1733	Microsoft
+TMMicrosoft367	Microsoft
+TMSAS2603	Sony
+TMIBM2384	American Online
+TMMicrosoft1325	Verizon
+TMMicrosoft1834	International Business Machines
+TMMicrosoft1581	Intel
+TMMicrosoft1813	Google
+TMMicrosoft1789	Microsoft
+TMMicrosoft1836	Apple
+TMIBM889	International Business Machines
+TMMicrosoft1545	Yahoo
+TMIBM2251	Intel
+TMhyperion1966	Oracle
+TMMicrosoft1053	Microsoft
+TMIBM2215	Wall Street Journal
+TMMicrosoft437	Oracle
+TMMicrosoft1277	Yahoo
+TMMicrosoft1298	Microsoft
+TMIBM2301	Fox
+TMIBM2229	International Business Machines
+TMIBM2337	International Business Machines
+TMSAP530	Yahoo
+TMMicrosoft2062	Microsoft
+TMMicrosoft1411	Wall Street Journal
+TMIBM524	Microsoft
+TMSAS231	Business Objects
+TMSAS237	Wall Street Journal
+TMIBM2206	Hewlett Packard
+TMOracle220	Apple
+TMIBM2535	Microsoft
+TMIBM144	Microsoft
+TMIBM878	Apple
+TMMicrosoft1815	Microsoft
+TMIBM955	BusinessWeek
+TMbenchmarking OR benchmark OR benchmarks565	Benchmark
+TMIBM1000	Apple
+TMMicrosoft1415	Time Warner
+TMSAS2607	Wall Street Journal
+TMOracle1876	eBay
+TMOracle1896	Oracle
+TMIBM2214	CNET News
+TMIBM2280	International Business Machines
+TMMicrosoft2050	Verizon
+TMMicrosoft1834	Oracle
+TMMicrosoft402	Intel
+TMdata mining OR data-mining2422	Stanford University
+TMMicrosoft1034	Verizon
+TMbenchmarking OR benchmark OR benchmarks609	Intel
+TMbenchmarking OR benchmark OR benchmarks2455	Google
+TMbenchmarking OR benchmark OR benchmarks310	Google
+TMIBM1018	Microsoft
+TMbenchmarking OR benchmark OR benchmarks311	Yahoo
+TMOracle1889	Oracle
+TMMicrosoft1433	Google
+TMMicrosoft1579	International Business Machines
+TMSAP732	SAP
+TMMicrosoft431	Dell
+TMMicrosoft1834	Apple
+TMSAS2612	Wall Street Journal
+TMIBM1020	Hewlett Packard
+TMIBM2393	eBay
+TMbenchmarking OR benchmark OR benchmarks285	Apple
+TMMicrosoft379	Microsoft
+TMbenchmarking OR benchmark OR benchmarks2502	Wall Street Journal
+TMhyperion1968	Verizon
+TMOracle1915	University of California
+TMMicrosoft1051	Google
+TMMicrosoft1986	Microsoft
+TMOracle186	Oracle
+TMMicrosoft1425	Hewlett Packard
+TMMicrosoft1774	Verizon
+TMSAS237	Verizon
+TMMicrosoft1304	CNET News
+TMIBM2248	SAP
+TMIBM1017	Hewlett Packard
+TMOracle1611	Apple
+TMOracle1642	SAP
+TMIBM2377	International Business Machines
+TMMicrosoft1040	Microsoft
+TMMicrosoft1529	Yahoo
+TMIBM852	Google
+TMIBM878	Intel
+TMSAP760	Wall Street Journal
+TMbenchmarking OR benchmark OR benchmarks591	Verizon
+TMMicrosoft1527	Oracle
+TMIBM2298	Apple
+TMbenchmarking OR benchmark OR benchmarks299	Google
+TMOracle183	Oracle
+TMOracle1889	CNET News
+TMbenchmarking OR benchmark OR benchmarks2447	American Online
+TMMicrosoft1070	Microsoft
+TMMicrosoft1527	Yahoo
+TMIBM828	Yahoo
+TMMicrosoft1027	Motorola
+TMIBM1021	Yahoo
+TMMicrosoft1536	Comcast
+TMOracle1679	Time Warner
+TMOracle189	Apple
+TMknowledge management2171	Microsoft
+TMMicrosoft1999	Microsoft
+TMMicrosoft390	American Online
+TMIBM2293	Apple
+TMMicrosoft1738	Nokia
+TMMicrosoft2095	Microsoft
+TMMicrosoft2134	Sony
+TMIBM2341	International Business Machines
+TMMicrosoft1350	Microsoft
+TMMicrosoft1256	Microsoft
+TMMicrosoft1252	American Online
+TMSAP684	Apple
+TMIBM2332	Hewlett Packard
+TMIBM2365	Microsoft
+TMMicrosoft414	Adobe
+TMSAS252	Apple
+TMMicrosoft1198	Microsoft
+TMIBM1002	International Business Machines
+TMMicrosoft1341	Comcast
+TMIBM824	Viacom
+TMSAP684	Microsoft
+TMbenchmarking OR benchmark OR benchmarks630	MySpace
+TMMicrosoft1447	Microsoft
+TMMicrosoft2046	American Online
+TMMicrosoft1331	SAP
+TMmeta data OR meta-data2596	Apple
+TMMicrosoft1219	Microsoft
+TMbenchmarking OR benchmark OR benchmarks614	International Business Machines
+TMMicrosoft1831	Microsoft
+TMIBM950	International Business Machines
+TMIBM2216	Apple
+TMIBM2321	Cisco
+TMMicrosoft1192	Microsoft
+TMOracle1944	Oracle
+TMMicrosoft1514	Google
+TMMicrosoft1830	Microsoft
+TMbusiness intelligence OR business intelligences OR business intelligent54	CNET News
+TMIBM2279	Microsoft
+TMMicrosoft1603	Microsoft
+TMIBM2239	Yahoo
+TMMicrosoft1203	Microsoft
+TMbenchmarking OR benchmark OR benchmarks650	Benchmark
+TMSAS328	Yahoo
+TMIBM846	Dell
+TMIBM864	Apple
+TMMicrosoft1317	Yahoo
+TMIBM868	Dell
+TMMicrosoft1557	ATT
+TMOracle1879	Yahoo
+TMMicrosoft1172	Google
+TMMicrosoft1535	Microsoft
+TMMicrosoft1840	Microsoft
+TMMicrosoft1055	American Online
+TMdata mining OR data-mining485	Microsoft
+TMMicrosoft1194	Dell
+TMIBM2555	International Business Machines
+TMMicrosoft1413	Microsoft
+TMbenchmarking OR benchmark OR benchmarks2491	Yahoo
+TMMicrosoft466	Google
+TMMicrosoft1983	Microsoft
+TMMicrosoft447	Time Warner
+TMOracle1633	Microsoft
+TMIBM2358	Yahoo
+TMIBM2308	Apple
+TMOracle1671	Viacom
+TMMicrosoft385	Microsoft
+TMIBM868	Apple
+TMIBM2271	International Business Machines
+TMMicrosoft1490	Apple
+TMMicrosoft1110	Intel
+TMMicrosoft1564	Microsoft
+TMdata mining OR data-mining476	Stanford University
+TMIBM178	Massachusetts Institute of Technology
+TMIBM2351	Microsoft
+TMMicrosoft1395	Adobe
+TMSAP727	SAP
+TMOracle210	Oracle
+TMMicrosoft1258	Microsoft
+TMMicrosoft1187	Hewlett Packard
+TMMicrosoft1848	Apple
+TMOracle10	Intel
+TMMicrosoft1974	Microsoft
+TMIBM888	Yahoo
+TMMicrosoft2116	Apple
+TMMicrosoft1173	Nokia
+TMMicrosoft1467	Wall Street Journal
+TMMicrosoft2024	Adobe
+TMbenchmarking OR benchmark OR benchmarks2468	Benchmark
+TMMicrosoft369	Apple
+TMIBM850	SAP
+TMMicrosoft1711	Adobe
+TMIBM879	Dell
+TMMicrosoft1514	Microsoft
+TMMicrosoft1202	Intel
+TMIBM2538	Google
+TMMicrosoft1834	Microsoft
+TMSAS241	Wall Street Journal
+TMOracle197	Facebook
+TMbenchmarking OR benchmark OR benchmarks580	CNET News
+TMIBM149	BBC
+TMMicrosoft1088	Microsoft
+TMMicrosoft1748	Microsoft
+TMMicrosoft2063	Intel
+TMMicrosoft2057	Oracle
+TMSAP2141	Oracle
+TMOracle189	Business Objects
+TMbenchmarking OR benchmark OR benchmarks624	Google
+TMMicrosoft1597	Advanced Micro Devices
+TMOracle1928	eBay
+TMIBM520	eBay
+TMMicrosoft2005	eBay
+TMMicrosoft1442	Microsoft
+TMMicrosoft1536	ATT
+TMMicrosoft1400	Wall Street Journal
+TMMicrosoft1838	Federal Trade Commission
+TMIBM2352	Sun Microsystems
+TMOracle5	Microsoft
+TMOracle1914	SAP
+TMSAS238	Yahoo
+TMIBM987	Apple
+TMdata warehousing OR data-warehousing2168	Google
+TMMicrosoft1281	Nokia
+TMMicrosoft1717	eBay
+TMMicrosoft2069	New York Times
+TMSAS2618	Wall Street Journal
+TMOracle227	Dell
+TMbenchmarking OR benchmark OR benchmarks643	Viacom
+TMMicrosoft1745	Motorola
+TMMicrosoft1526	International Business Machines
+TMMicrosoft1857	Facebook
+TMMicrosoft1492	Microsoft
+TMOracle24	Harvard
+TMbenchmarking OR benchmark OR benchmarks585	Intel
+TMIBM1005	Oracle
+TMMicrosoft1488	Apple
+TMmeta data OR meta-data2596	Yahoo
+TMcognos654	Yahoo
+TMbenchmarking OR benchmark OR benchmarks2475	Apple
+TMIBM959	Sun Microsystems
+TMMicrosoft1555	Intel
+TMIBM887	International Business Machines
+TMMicrosoft1288	Apple
+TMOracle15	Yahoo
+TMMicrosoft2065	Yahoo
+TMOracle1627	Wall Street Journal
+TMSAP762	SAP
+TMbenchmarking OR benchmark OR benchmarks263	Yahoo
+TMMicrosoft1519	Microsoft
+TMOracle20	Wall Street Journal
+TMSAP735	SAP
+TMMicrosoft1384	Sony
+TMMicrosoft1971	Microsoft
+TMIBM2388	Google
+TMIBM2541	University of California
+TMIBM2347	Sun Microsystems
+TMOracle1928	American Online
+TMMicrosoft2026	International Business Machines
+TMOracle1625	Oracle
+TMOracle23	Oracle
+TMMicrosoft1308	Microsoft
+TMSAS2619	Yahoo
+TMIBM919	Cisco
+TMOracle1883	Apple
+TMdata mining OR data-mining477	Microsoft
+TMMicrosoft1599	Google
+TMMicrosoft465	Motorola
+TMIBM989	Intel
+TMMicrosoft463	Apple
+TMMicrosoft1411	Apple
+TMSAS251	Google
+TMSAS2629	Wall Street Journal
+TMOracle202	Oracle
+TMIBM2327	International Business Machines
+TMbenchmarking OR benchmark OR benchmarks2429	Google
+TMMicrosoft1598	Google
+TMOracle1932	Microsoft
+TMMicrosoft1037	Comcast
+TMbenchmarking OR benchmark OR benchmarks2466	Yahoo
+TMIBM850	Oracle
+TMMicrosoft1527	Verizon
+TMIBM989	Dell
+TMIBM146	Dell
+TMbenchmarking OR benchmark OR benchmarks629	Sony
+TMbenchmarking OR benchmark OR benchmarks563	Comcast
+TMIBM865	International Business Machines
+TMbenchmarking OR benchmark OR benchmarks285	Yahoo
+TMOracle201	Facebook
+TMSAP730	SAP
+TMOracle1684	Oracle
+TMSAP739	Nokia
+TMSAP758	Verizon
+TMIBM2540	International Business Machines
+TMOracle1654	eBay
+TMIBM2552	Yahoo
+TMMicrosoft1422	CNET News
+TMOracle16	Apple
+TMIBM2184	International Business Machines
+TMIBM899	Yahoo
+TMdata mining OR data-mining347	Sun Microsystems
+TMSAP665	Microsoft
+TMbenchmarking OR benchmark OR benchmarks299	Yahoo
+TMknowledge management2180	Apple
+TMIBM2562	Google
+TMOracle226	Business Objects
+TMIBM144	Intel
+TMMicrosoft1454	Microsoft
+TMSAP2399	Apple
+TMMicrosoft2083	Microsoft
+TMSAS240	Apple
+TMIBM2364	Comcast
+TMMicrosoft1467	Yahoo
+TMIBM2527	American Online
+TMSAP2139	MySpace
+TMIBM2183	Wall Street Journal
+TMMicrosoft1746	Microsoft
+TMMicrosoft1808	Microsoft
+TMMicrosoft1744	Apple
+TMOracle220	Wall Street Journal
+TMbenchmarking OR benchmark OR benchmarks2455	CNET News
+TMIBM123	International Business Machines
+TMIBM972	Big Blue
+TMMicrosoft2076	CNN
+TMbenchmarking OR benchmark OR benchmarks2466	eBay
+TMMicrosoft1266	American Online
+TMIBM963	Cisco
+TMMicrosoft1557	Yahoo
+TMMicrosoft1245	Dell
+TMbenchmarking OR benchmark OR benchmarks563	Apple
+TMIBM517	Flickr
+TMdata mining OR data-mining2424	American Online
+TMbenchmarking OR benchmark OR benchmarks590	Apple
+TMIBM989	Yahoo
+TMMicrosoft1176	Apple
+TMbenchmarking OR benchmark OR benchmarks2497	Intel
+TMMicrosoft1605	International Business Machines
+TMMicrosoft2112	Microsoft
+TMbenchmarking OR benchmark OR benchmarks256	Apple
+TMmeta data OR meta-data36	CNN
+TMbenchmarking OR benchmark OR benchmarks256	Microsoft
+TMIBM2345	International Business Machines
+TMSAS2607	Yahoo
+TMSAS773	Yahoo
+TMMicrosoft443	Microsoft
+TMMicrosoft1489	Fox
+TMMicrosoft1756	Microsoft
+TMSAS2608	Sony
+TMMicrosoft2077	Microsoft
+TMOracle1954	Oracle
+TMMicrosoft2052	Yahoo
+TMbusiness intelligence OR business intelligences OR business intelligent56	Apple
+TMMicrosoft1578	Microsoft
+TMIBM2224	Motorola
+TMIBM131	International Business Machines
+TMOracle1615	Cisco Systems
+TMSAP744	Yahoo
+TMMicrosoft2133	Yahoo
+TMOracle1915	Google
+TMOracle1664	Apple
+TMMicrosoft2090	Google
+TMIBM962	International Business Machines
+TMMicrosoft392	Yahoo
+TMOracle1867	Oracle
+TMMicrosoft1579	Sun Microsystems
+TMOracle25	Apple
+TMOracle223	Microsoft
+TMOracle1865	Oracle
+TMIBM835	Sony
+TMMicrosoft1279	Microsoft
+TMMicrosoft1844	New York Times
+TMMicrosoft1433	American Online
+TMMicrosoft1213	Microsoft
+TMIBM2197	International Business Machines
+TMIBM958	Advanced Micro Devices
+TMIBM2591	Intel
+TMIBM957	Dell
+TMMicrosoft1045	Microsoft
+TMOracle224	Google
+TMIBM2349	University of California
+TMIBM2248	Hewlett Packard
+TMIBM66	International Business Machines
+TMSAS237	University of California
+TMIBM918	Dell
+TMOracle1908	Hewlett Packard
+TMIBM2540	Adobe
+TMMicrosoft1699	Time Warner
+TMMicrosoft1990	Microsoft
+TMSAP678	Unisys
+TMSAS2616	SAS
+TMMicrosoft1985	Sun Microsystems
+TMMicrosoft2017	Microsoft
+TMIBM971	Nokia
+TMOracle222	Google
+TMdata mining OR data-mining343	Google
+TMbenchmarking OR benchmark OR benchmarks281	Yahoo
+TMOracle1917	Sun Microsystems
+TMIBM2311	International Business Machines
+TMMicrosoft2052	Oracle
+TMMicrosoft1040	Netflix
+TMOracle1685	International Business Machines
+TMIBM956	International Business Machines
+TMSAP2149	Microsoft
+TMOracle1961	Hewlett Packard
+TMIBM160	Apple
+TMOracle1615	Microsoft
+TMIBM966	Microsoft
+TMIBM2388	American Online
+TMIBM777	Stanford University
+TMSAP750	International Business Machines
+TMIBM899	Apple
+TMbenchmarking OR benchmark OR benchmarks624	Adobe
+TMOracle1922	Wall Street Journal
+TMOracle1915	Wall Street Journal
+TMMicrosoft2038	Google
+TMMicrosoft453	Microsoft
+TMOracle1673	International Business Machines
+TMbenchmarking OR benchmark OR benchmarks258	eBay
+TMSAS773	Wall Street Journal
+TMMicrosoft1840	Apple
+TMOracle1670	Oracle
+TMIBM890	Oracle
+TMMicrosoft2054	Microsoft
+TMIBM153	International Business Machines
+TMMicrosoft1821	Stanford University
+TMIBM91	Microsoft
+TMbusiness intelligence OR business intelligences OR business intelligent52	Facebook
+TMSAP2148	SAP
+TMbenchmarking OR benchmark OR benchmarks2451	American Online
+TMOracle1889	International Business Machines
+TMMicrosoft1232	Nokia
+TMIBM890	Yahoo
+TMIBM950	Wall Street Journal
+TMdata mining OR data-mining348	Federal Trade Commission
+TMSAP759	Oracle
+TMbenchmarking OR benchmark OR benchmarks635	eBay
+TMMicrosoft1788	Microsoft
+TMbenchmarking OR benchmark OR benchmarks611	Yahoo
+TMOracle10	Yahoo
+TMIBM999	Dell
+TMMicrosoft1237	Apple
+TMbenchmarking OR benchmark OR benchmarks272	Yahoo
+TMMicrosoft1850	Microsoft
+TMOracle219	Oracle
+TMMicrosoft1806	Yahoo
+TMMicrosoft1054	MySpace
+TMIBM2397	Microsoft
+TMMicrosoft1118	MySpace
+TMMicrosoft1369	Microsoft
+TMIBM1003	International Business Machines
+TMMicrosoft1243	BBC
+TMMicrosoft2131	International Business Machines
+TMknowledge management2179	Yahoo
+TMbenchmarking OR benchmark OR benchmarks268	Yahoo
+TMIBM2349	Stanford University
+TMSAS234	SAS
+TMOracle1893	Google
+TMIBM2283	Intel
+TMMicrosoft449	Microsoft
+TMIBM2385	Cisco
+TMMicrosoft1260	Microsoft
+TMIBM529	Dell
+TMSAS331	Apple
+TMbenchmarking OR benchmark OR benchmarks649	eBay
+TMMicrosoft1784	Microsoft
+TMIBM178	Yahoo
+TMIBM93	Intel
+TMSAP725	SAP
+TMbenchmarking OR benchmark OR benchmarks632	MySpace
+TMbenchmarking OR benchmark OR benchmarks643	Adobe
+TMIBM2335	International Business Machines
+TMIBM863	Microsoft
+TMSAS2621	Wall Street Journal
+TMIBM829	SAP
+TMIBM2388	Microsoft
+TMMicrosoft1707	Microsoft
+TMMicrosoft424	Microsoft
+TMMicrosoft401	Time Warner
+TMMicrosoft1855	Federal Trade Commission
+TMbenchmarking OR benchmark OR benchmarks631	Oracle
+TMIBM174	Flickr
+TMMicrosoft1245	Hewlett Packard
+TMbusiness intelligence OR business intelligences OR business intelligent43	Microsoft
+TMIBM905	Microsoft
+TMMicrosoft1853	Yahoo
+TMOracle1650	New York Times
+TMIBM1002	Comcast
+TMMicrosoft1767	Apple
+TMIBM919	SAP
+TMIBM2197	Verizon
+TMOracle227	Oracle
+TMbenchmarking OR benchmark OR benchmarks2447	eBay
+TMMicrosoft1064	Microsoft
+TMMicrosoft1382	Apple
+TMOracle1615	Oracle
+TMMicrosoft438	Massachusetts Institute of Technology
+TMOracle1919	Hewlett Packard
+TMIBM2266	Yahoo
+TMMicrosoft2097	Microsoft
+TMIBM894	Intel
+TMIBM2397	Yahoo
+TMSAP672	Microsoft
+TMMicrosoft382	American Online
+TMOracle1664	Yahoo
+TMbenchmarking OR benchmark OR benchmarks2465	Verizon
+TMOracle8	Yahoo
+TMMicrosoft415	Yahoo
+TMIBM987	American Online
+TMIBM2346	International Business Machines
+TMMicrosoft1220	Yahoo
+TMMicrosoft1041	Yahoo
+TMOracle1935	Google
+TMMicrosoft2052	Microsoft
+TMOracle1906	Sun Microsystems
+TMIBM777	Hewlett Packard
+TMIBM930	Microsoft
+TMOracle1917	International Business Machines
+TMMicrosoft447	American Online
+TMOracle1906	Big Blue
+TMIBM162	Dell
+TMSAP743	Yahoo
+TMIBM950	Intel
+TMOracle1668	Apple
+TMbenchmarking OR benchmark OR benchmarks646	Adobe
+TMIBM831	International Business Machines
+TMMicrosoft1108	Intel
+TMbenchmarking OR benchmark OR benchmarks305	Adobe
+TMIBM96	Intel
+TMOracle23	Intel
+TMOracle1639	Oracle
+TMMicrosoft465	Intel
+TMMicrosoft1333	Cisco
+TMknowledge management2175	Microsoft
+TMIBM94	Microsoft
+TMMicrosoft1746	Yahoo
+TMMicrosoft1297	Apple
+TMOracle1689	Oracle
+TMIBM2376	BBC
+TMMicrosoft1571	Microsoft
+TMIBM868	Hewlett Packard
+TMIBM178	Adobe
+TMIBM925	Oracle
+TMSAS771	Wall Street Journal
+TMSAS1321	Wall Street Journal
+TMIBM73	Sun Microsystems
+TMMicrosoft1166	Apple
+TMIBM896	Hewlett Packard
+TMMicrosoft2105	Microsoft
+TMMicrosoft1500	Yahoo
+TMMicrosoft1710	Apple
+TMOracle1615	Hewlett Packard
+TMIBM1002	Apple
+TMMicrosoft2064	Microsoft
+TMMicrosoft1284	Microsoft
+TMMicrosoft1734	Sony
+TMMicrosoft1485	Cisco Systems
+TMMicrosoft2063	Microsoft
+TMbenchmarking OR benchmark OR benchmarks293	Adobe
+TMIBM1018	International Business Machines
+TMIBM2239	Microsoft
+TMMicrosoft2007	Yahoo
+TMMicrosoft1205	Microsoft
+TMMicrosoft1487	Apple
+TMMicrosoft1071	Microsoft
+TMSAS2632	SAS
+TMOracle218	BBC
+TMIBM125	International Business Machines
+TMIBM2366	Yahoo
+TMMicrosoft367	Yahoo
+TMbenchmarking OR benchmark OR benchmarks277	New York Times
+TMOracle1941	Google
+TMMicrosoft1701	Facebook
+TMIBM2275	International Business Machines
+TMMicrosoft1539	Xerox
+TMSAS239	Nokia
+TMMicrosoft1969	Microsoft
+TMMicrosoft2119	Microsoft
+TMMicrosoft1737	Yahoo
+TMOracle1916	Microsoft
+TMbenchmarking OR benchmark OR benchmarks2497	Google
+TMSAS2625	Wall Street Journal
+TMMicrosoft1082	International Business Machines
+TMIBM903	Cisco Systems
+TMdata mining OR data-mining342	Microsoft
+TMIBM994	International Business Machines
+TMIBM2328	Nokia
+TMIBM2195	International Business Machines
+TMdata mining OR data-mining2407	Yahoo
+TMMicrosoft2090	Microsoft
+TMbenchmarking OR benchmark OR benchmarks643	MySpace
+TMMicrosoft1550	Motorola
+TMIBM844	CNET News
+TMMicrosoft1155	Nokia
+TMbenchmarking OR benchmark OR benchmarks646	eBay
+TMSAP739	Microsoft
+TMMicrosoft2110	Microsoft
+TMMicrosoft2026	Microsoft
+TMMicrosoft1770	Microsoft
+TMIBM826	Dell
+TMMicrosoft1365	Microsoft
+TMMicrosoft1475	International Business Machines
+TMbenchmarking OR benchmark OR benchmarks282	Microsoft
+TMbusiness intelligence OR business intelligences OR business intelligent55	Sun Microsystems
+TMbenchmarking OR benchmark OR benchmarks2486	Intel
+TMSAP757	Cisco
+TMMicrosoft1569	Microsoft
+TMbenchmarking OR benchmark OR benchmarks270	Apple
+TMbenchmarking OR benchmark OR benchmarks2516	Benchmark
+TMMicrosoft2064	Sony
+TMMicrosoft1548	Massachusetts Institute of Technology
+TMIBM778	Microsoft
+TMMicrosoft2121	Wall Street Journal
+TMMicrosoft469	Oracle
+TMMicrosoft2124	Microsoft
+TMMicrosoft1025	Microsoft
+TMIBM122	MySpace
+TMMicrosoft470	Yahoo
+TMMicrosoft1602	Microsoft
+TMMicrosoft1359	New York Times
+TMSAS234	Motorola
+TMMicrosoft1155	eBay
+TMbenchmarking OR benchmark OR benchmarks634	eBay
+TMbenchmarking OR benchmark OR benchmarks611	Microsoft
+TMSAP665	SAP
+TMMicrosoft2065	Google
+TMIBM990	Hewlett Packard
+TMMicrosoft406	Wall Street Journal
+TMhyperion1966	Verizon
+TMMicrosoft2131	Apple
+TMOracle17	American Online
+TMOracle1654	Oracle
+TMIBM2276	International Business Machines
+TMOracle1675	Adobe
+TMdata mining OR data-mining2407	Microsoft
+TMMicrosoft449	Google
+TMMicrosoft1538	Apple
+TMMicrosoft2133	Microsoft
+TMbusiness intelligence OR business intelligences OR business intelligent713	Xerox
+TMIBM2556	International Business Machines
+TMIBM74	Microsoft
+TMMicrosoft1398	Microsoft
+TMIBM2332	University of California
+TMMicrosoft1551	CNET News
+TMMicrosoft1269	Microsoft
+TMbenchmarking OR benchmark OR benchmarks2469	Intel
+TMMicrosoft1080	Apple
+TMOracle221	SAP
+TMMicrosoft1039	Apple
+TMIBM2225	Comcast
+TMdata mining OR data-mining344	Time Warner
+TMMicrosoft2015	Microsoft
+TMMicrosoft1789	Dell
+TMMicrosoft1341	Verizon
+TMMicrosoft1193	Intel
+TMMicrosoft469	Motorola
+TMOracle1936	Oracle
+TMMicrosoft2032	Microsoft
+TMIBM2247	Microsoft
+TMIBM2552	Intel
+TMIBM2283	Verizon
+TMMicrosoft1092	Microsoft
+TMMicrosoft1132	Microsoft
+TMbenchmarking OR benchmark OR benchmarks651	Apple
+TMMicrosoft1430	Yahoo
+TMMicrosoft1096	Yahoo
+TMIBM2185	Adobe
+TMbenchmarking OR benchmark OR benchmarks624	Apple
+TMMicrosoft1593	Yahoo
+TMSAP750	Cisco Systems
+TMdata mining OR data-mining472	Netflix
+TMbenchmarking OR benchmark OR benchmarks2501	American Online
+TMbenchmarking OR benchmark OR benchmarks579	Massachusetts Institute of Technology
+TMOracle1911	Yahoo
+TMMicrosoft1710	Google
+TMIBM853	Nokia
+TMbenchmarking OR benchmark OR benchmarks313	Yahoo
+TMOracle1662	Yahoo
+TMMicrosoft450	eBay
+TMbenchmarking OR benchmark OR benchmarks2426	Wall Street Journal
+TMIBM81	International Business Machines
+TMbenchmarking OR benchmark OR benchmarks618	Sony
+TMbusiness analytics180	Microsoft
+TMMicrosoft1439	Microsoft
+TMOracle1893	Apple
+TMbenchmarking OR benchmark OR benchmarks280	Facebook
+TMIBM2564	Harvard
+TMIBM832	International Business Machines
+TMIBM855	Yahoo
+TMOracle1658	Adobe
+TMMicrosoft1083	Stanford University
+TMMicrosoft1226	Microsoft
+TMMicrosoft2076	Microsoft
+TMMicrosoft2001	Apple
+TMIBM990	International Business Machines
+TMSAP755	Motorola
+TMMicrosoft455	Microsoft
+TMMicrosoft1534	eBay
+TMbenchmarking OR benchmark OR benchmarks607	eBay
+TMSAP2400	International Business Machines
+TMbenchmarking OR benchmark OR benchmarks2433	Google
+TMbenchmarking OR benchmark OR benchmarks2465	Wall Street Journal
+TMOracle1958	Sun Microsystems
+TMMicrosoft456	Google
+TMMicrosoft2090	Time Warner
+TMMicrosoft2026	Google
+TMbenchmarking OR benchmark OR benchmarks2519	Time Warner
+TMIBM2532	Microsoft
+TMbusiness analytics363	Wall Street Journal
+TMOracle183	Stanford University
+TMIBM153	Yahoo
+TMMicrosoft1803	Yahoo
+TMIBM2531	Apple
+TMIBM2268	Yahoo
+TMMicrosoft466	Microsoft
+TMIBM794	Hewlett Packard
+TMIBM2532	Apple
+TMIBM983	Sony
+TMIBM2352	Oracle
+TMMicrosoft1608	BBC
+TMbenchmarking OR benchmark OR benchmarks2465	Yahoo
+TMIBM89	Google
+TMMicrosoft1334	Motorola
+TMIBM972	Microsoft
+TMIBM2245	Hewlett Packard
+TMMicrosoft2101	Yahoo
+TMIBM2336	International Business Machines
+TMIBM1012	Yahoo
+TMOracle191	Yahoo
+TMbenchmarking OR benchmark OR benchmarks579	BBC
+TMMicrosoft1264	Dell
+TMIBM2210	Apple
+TMOracle23	eBay
+TMMicrosoft1586	Facebook
+TMMicrosoft1027	Verizon
+TMMicrosoft1393	Advanced Micro Devices
+TMMicrosoft431	Oracle
+TMMicrosoft1817	Microsoft
+TMMicrosoft1813	Apple
+TMMicrosoft2051	Wall Street Journal
+TMMicrosoft1534	Yahoo
+TMSAP739	SAP
+TMIBM2265	Yahoo
+TMMicrosoft1705	Facebook
+TMOracle1947	Apple
+TMIBM2267	Microsoft
+TMIBM2185	Microsoft
+TMbusiness intelligence OR business intelligences OR business intelligent714	SAP
+TMbenchmarking OR benchmark OR benchmarks313	eBay
+TMIBM813	Cisco
+TMknowledge management2181	Yahoo
+TMMicrosoft453	Yahoo
+TMbenchmarking OR benchmark OR benchmarks2480	Google
+TMIBM894	Dell
+TMMicrosoft458	Flickr
+TMSAS245	Microsoft
+TMIBM953	Microsoft
+TMOracle193	Dell
+TMSAP755	Microsoft
+TMOracle1942	Google
+TMIBM2575	Intel
+TMMicrosoft1300	Microsoft
+TMOracle1683	Oracle
+TMbenchmarking OR benchmark OR benchmarks2495	Hewlett Packard
+TMMicrosoft1829	Microsoft
+TMMicrosoft1585	BBC
+TMMicrosoft1049	Microsoft
+TMMicrosoft1213	Google
+TMIBM1005	International Business Machines
+TMIBM2541	American Online
+TMbenchmarking OR benchmark OR benchmarks538	Facebook
+TMIBM2228	Hewlett Packard
+TMMicrosoft1540	Microsoft
+TMIBM923	International Business Machines
+TMOracle1664	Microsoft
+TMOracle1649	Microsoft
+TMOracle1658	New York Times
+TMMicrosoft1581	Facebook
+TMMicrosoft1193	Oracle
+TMMicrosoft1536	Apple
+TMIBM946	Cisco Systems
+TMOracle1963	Oracle
+TMOracle1609	Apple
+TMIBM866	International Business Machines
+TMIBM63	Business Objects
+TMMicrosoft1482	American Online
+TMMicrosoft1827	Google
+TMOracle1918	Dell
+TMMicrosoft1237	Dell
+TMdata mining OR data-mining342	American Online
+TMIBM157	International Business Machines
+TMMicrosoft1245	Intel
+TMIBM2549	Sony
+TMcognos654	International Business Machines
+TMOracle1886	Sun Microsystems
+TMMicrosoft457	Microsoft
+TMSAP691	Apple
+TMIBM2572	Microsoft
+TMIBM1003	Microsoft
+TMMicrosoft1317	Apple
+TMIBM64	Microsoft
+TMOracle1866	Hewlett Packard
+TMMicrosoft1338	Adobe
+TMMicrosoft1827	Apple
+TMMicrosoft1238	Microsoft
+TMOracle1614	Oracle
+TMMicrosoft1838	MySpace
+TMMicrosoft1371	Microsoft
+TMIBM2562	University of California
+TMbenchmarking OR benchmark OR benchmarks303	Dell
+TMMicrosoft395	Google
+TMIBM811	Microsoft
+TMMicrosoft432	Microsoft
+TMMicrosoft1099	Facebook
+TMOracle1660	Apple
+TMMicrosoft2057	Apple
+TMIBM2203	Big Blue
+TMmeta data OR meta-data319	Google
+TMSAP688	Microsoft
+TMSAS2611	Wall Street Journal
+TMOracle1640	SAP
+TMMicrosoft1468	Microsoft
+TMIBM2258	Apple
+TMSAP736	451 Group
+TMbenchmarking OR benchmark OR benchmarks645	Adobe
+TMMicrosoft1714	Federal Trade Commission
+TMMicrosoft1217	Apple
+TMmeta data OR meta-data2595	Google
+TMdata mining OR data-mining1860	Google
+TMMicrosoft1293	Microsoft
+TMMicrosoft1185	Harvard
+TMSAP760	SAP
+TMMicrosoft393	Verizon
+TMMicrosoft1832	Google
+TMdata mining OR data-mining2407	Google
+TMMicrosoft1785	Apple
+TMSAS328	Oracle
+TMIBM871	Intel
+TMMicrosoft1117	Microsoft
+TMIBM2374	Google
+TMMicrosoft427	eBay
+TMOracle15	Time Warner
+TMSAP694	SAP
+TMSAP759	SAP
+TMMicrosoft1146	Facebook
+TMOracle1958	Oracle
+TMMicrosoft1730	Microsoft
+TMMicrosoft1066	Apple
+TMIBM134	Apple
+TMMicrosoft464	Intel
+TMIBM2201	Wall Street Journal
+TMOracle1921	Oracle
+TMIBM993	International Business Machines
+TMIBM996	Dell
+TMIBM950	Sun Microsystems
+TMIBM902	Sony
+TMIBM2549	Microsoft
+TMIBM2314	Hewlett Packard
+TMMicrosoft2036	Facebook
+TMIBM108	Sony
+TMSAS2629	Microsoft
+TMIBM112	Cisco Systems
+TMMicrosoft1428	Google
+TMOracle1935	Dell
+TMMicrosoft1071	New York Times
+TMbenchmarking OR benchmark OR benchmarks636	Yahoo
+TMbenchmarking OR benchmark OR benchmarks266	Verizon
+TMbenchmarking OR benchmark OR benchmarks2478	Google
+TMMicrosoft1591	Microsoft
+TMOracle191	Apple
+TMOracle16	Microsoft
+TMMicrosoft1475	Intel
+TMdata mining OR data-mining2416	Yahoo
+TMIBM81	Google
+TMMicrosoft1833	Sun Microsystems
+TMMicrosoft1698	eBay
+TMMicrosoft375	Wall Street Journal
+TMMicrosoft1547	Microsoft
+TMMicrosoft1353	Yahoo
+TMMicrosoft424	Yahoo
+TMbenchmarking OR benchmark OR benchmarks280	Oracle
+TMIBM113	International Business Machines
+TMMicrosoft1331	eBay
+TMMicrosoft377	Time Warner
+TMbenchmarking OR benchmark OR benchmarks556	Advanced Micro Devices
+TMMicrosoft382	Google
+TMMicrosoft1729	University of California
+TMMicrosoft1601	Sony
+TMOracle1691	Wall Street Journal
+TMMicrosoft1850	American Online
+TMIBM942	Microsoft
+TMMicrosoft1755	Microsoft
+TMMicrosoft1542	Facebook
+TMSAP676	Nokia
+TMSAP734	Dell
+TMSAP696	International Business Machines
+TMdata mining OR data-mining489	Facebook
+TMMicrosoft1786	Microsoft
+TMIBM983	American Online
+TMIBM117	Sun Microsystems
+TMIBM851	Microsoft
+TMIBM2394	International Business Machines
+TMIBM2325	Wall Street Journal
+TMMicrosoft2115	Microsoft
+TMMicrosoft1845	Microsoft
+TMMicrosoft1550	Dell
+TMMicrosoft446	American Online
+TMMicrosoft1295	Microsoft
+TMSAS329	Wall Street Journal
+TMIBM528	Sony
+TMSAS2602	Yahoo
+TMMicrosoft1064	Apple
+TMIBM919	Big Blue
+TMMicrosoft1375	Microsoft
+TMOracle1678	Microsoft
+TMMicrosoft1523	Yahoo
+TMbenchmarking OR benchmark OR benchmarks609	New York Times
+TMbusiness intelligence OR business intelligences OR business intelligent714	Facebook
+TMMicrosoft1719	Google
+TMMicrosoft1096	MySpace
+TMMicrosoft2062	Cisco Systems
+TMMicrosoft2059	Microsoft
+TMMicrosoft1207	Motorola
+TMOracle12	Oracle
+TMMicrosoft1204	Verizon
+TMOracle1911	International Business Machines
+TMbenchmarking OR benchmark OR benchmarks313	Comcast
+TMMicrosoft382	Microsoft
+TMMicrosoft443	American Online
+TMMicrosoft1596	CNET News
+TMIBM852	Harvard
+TMMicrosoft1518	Wall Street Journal
+TMIBM2361	Apple
+TMMicrosoft1702	Microsoft
+TMSAS2628	Wall Street Journal
+TMMicrosoft1470	Microsoft
+TMbenchmarking OR benchmark OR benchmarks2478	Yahoo
+TMMicrosoft401	Comcast
+TMIBM2235	Intel
+TMIBM2552	Sun Microsystems
+TMMicrosoft464	Sony
+TMIBM112	International Business Machines
+TMMicrosoft1544	Yahoo
+TMbenchmarking OR benchmark OR benchmarks2491	Cisco
+TMMicrosoft1532	CNET News
+TMMicrosoft1090	Microsoft
+TMbenchmarking OR benchmark OR benchmarks276	Verizon
+TMMicrosoft1125	Adobe
+TMMicrosoft1255	Microsoft
+TMIBM159	International Business Machines
+TMOracle1609	Nokia
+TMMicrosoft1062	American Online
+TMMicrosoft1497	eBay
+TMIBM935	Apple
+TMMicrosoft1337	Motorola
+TMbusiness intelligence OR business intelligences OR business intelligent708	Google
+TMMicrosoft1269	Apple
+TMIBM2259	International Business Machines
+TMMicrosoft2010	Microsoft
+TMIBM2205	Hewlett Packard
+TMIBM894	Motorola
+TMIBM147	International Business Machines
+TMMicrosoft1787	Sony
+TMIBM2532	Intel
+TMMicrosoft1179	Microsoft
+TMMicrosoft1194	Facebook
+TMOracle24	Yahoo
+TMbenchmarking OR benchmark OR benchmarks609	Yahoo
+TMMicrosoft1303	Verizon
+TMIBM2281	Cisco Systems
+TMdata warehouse OR data-warehouse OR data warehouses OR data-warehouses504	Hewlett Packard
+TMIBM2378	Sun Microsystems
+TMMicrosoft1432	Microsoft
+TMOracle1937	University of California
+TMbenchmarking OR benchmark OR benchmarks280	Wall Street Journal
+TMMicrosoft1855	Microsoft
+TMbenchmarking OR benchmark OR benchmarks308	Massachusetts Institute of Technology
+TMMicrosoft1847	Microsoft
+TMIBM2528	International Business Machines
+TMIBM2206	Cisco Systems
+TMbenchmarking OR benchmark OR benchmarks304	Apple
+TMIBM2379	International Business Machines
+TMSAS2606	Yahoo
+TMOracle1609	Wall Street Journal
+TMOracle1929	International Business Machines
+TMSAS1319	Apple
+TMOracle1660	Oracle
+TMMicrosoft1198	eBay
+TMIBM2580	Microsoft
+TMIBM2333	Microsoft
+TMMicrosoft2112	Apple
+TMOracle1640	Microsoft
+TMIBM984	Unisys
+TMSAP666	SAP
+TMMicrosoft1398	Wall Street Journal
+TMIBM513	Cisco
+TMMicrosoft1195	Microsoft
+TMIBM983	International Business Machines
+TMSAS247	Microsoft
+TMdata mining OR data-mining2424	ATT
+TMSAS2621	Google
+TMIBM120	Microsoft
+TMSAS235	Apple
+TMbenchmarking OR benchmark OR benchmarks2436	Apple
+TMhyperion1966	Business Objects
+TMMicrosoft1369	Yahoo
+TMOracle1645	Microsoft
+TMOracle1884	International Business Machines
+TMdata warehousing OR data-warehousing2169	Yahoo
+TMMicrosoft1555	Google
+TMOracle1614	Yahoo
+TMIBM953	Sun Microsystems
+TMMicrosoft1505	Microsoft
+TMbenchmarking OR benchmark OR benchmarks275	Adobe
+TMIBM798	Advanced Micro Devices
+TMIBM171	Microsoft
+TMMicrosoft1091	CNN
+TMMicrosoft1195	CNET News
+TMOracle200	Oracle
+TMMicrosoft398	Yahoo
+TMOracle15	Cisco
+TMOracle1890	Yahoo
+TMIBM99	International Business Machines
+TMIBM107	Hewlett Packard
+TMMicrosoft1591	Hewlett Packard
+TMbenchmarking OR benchmark OR benchmarks2485	Google
+TMMicrosoft1467	Comcast
+TMIBM805	International Business Machines
+TMIBM940	Hewlett Packard
+TMMicrosoft1355	Adobe
+TMSAP741	Microsoft
+TMIBM2276	Microsoft
+TMMicrosoft1708	Microsoft
+TMMicrosoft1331	Yahoo
+TMMicrosoft1465	Yahoo
+TMMicrosoft1080	Microsoft
+TMSAS2608	Nokia
+TMMicrosoft1198	Yahoo
+TMIBM153	Microsoft
+TMbenchmarking OR benchmark OR benchmarks268	International Business Machines
+TMMicrosoft1368	Microsoft
+TMIBM2259	Hewlett Packard
+TMMicrosoft1273	Apple
+TMMicrosoft2017	Yahoo
+TMOracle1874	Google
+TMcognos655	Wall Street Journal
+TMbenchmarking OR benchmark OR benchmarks550	Google
+TMMicrosoft1242	Microsoft
+TMIBM798	Hewlett Packard
+TMIBM153	Dell
+TMMicrosoft1470	Sony
+TMIBM846	Google
+TMIBM156	New York Times
+TMMicrosoft1108	Hewlett Packard
+TMIBM839	International Business Machines
+TMOracle23	University of California
+TMmeta data OR meta-data2599	Sony
+TMMicrosoft2104	Apple
+TMIBM70	International Business Machines
+TMIBM1002	Yahoo
+TMIBM114	Verizon
+TMOracle1944	Hewlett Packard
+TMMicrosoft1108	Dell
+TMMicrosoft2057	International Business Machines
+TMMicrosoft1312	Microsoft
+TMbenchmarking OR benchmark OR benchmarks563	Facebook
+TMOracle1916	Oracle
+TMbenchmarking OR benchmark OR benchmarks614	Intel
+TMMicrosoft396	Microsoft
+TMIBM133	Stanford University
+TMOracle1932	Apple
+TMIBM887	Dell
+TMOracle202	Facebook
+TMMicrosoft1462	Microsoft
+TMSAS339	SAS
+TMMicrosoft1127	Microsoft
+TMOracle1919	Dell
+TMMicrosoft1330	Sony
+TMMicrosoft1496	Microsoft
+TMbusiness intelligence OR business intelligences OR business intelligent710	Microsoft
+TMIBM164	International Business Machines
+TMOracle1667	Oracle
+TMMicrosoft386	Apple
+TMOracle1645	CNET News
+TMMicrosoft388	eBay
+TMOracle1924	Oracle
+TMSAP657	eBay
+TMMicrosoft2026	Yahoo
+TMMicrosoft1819	Apple
+TMIBM513	Hewlett Packard
+TMbenchmarking OR benchmark OR benchmarks2458	Facebook
+TMMicrosoft2128	Apple
+TMMicrosoft1789	Apple
+TMOracle16	Viacom
+TMOracle1864	International Business Machines
+TMIBM64	Oracle
+TMOracle228	Nokia
+TMMicrosoft393	Wall Street Journal
+TMIBM950	Cisco
+TMIBM2193	Yahoo
+TMMicrosoft460	Comcast
+TMMicrosoft1605	Yahoo
+TMIBM2394	LinkedIn
+TMMicrosoft1365	Flickr
+TMIBM889	Google
+TMMicrosoft1566	Apple
+TMIBM2328	CNN
+TMOracle1908	Wall Street Journal
+TMMicrosoft2004	Yahoo
+TMIBM2556	Sony
+TMIBM887	Cisco
+TMMicrosoft1449	Comcast
+TMIBM780	Dell
+TMSAS232	Apple
+TMIBM1012	Dell
+TMMicrosoft2093	Apple
+TMSAP748	Microsoft
+TMMicrosoft1779	Microsoft
+TMIBM134	Google
+TMSAP741	SAP
+TMIBM99	Apple
+TMOracle1958	Dell
+TMbenchmarking OR benchmark OR benchmarks623	Google
+TMMicrosoft1451	Microsoft
+TMbusiness intelligence OR business intelligences OR business intelligent44	International Business Machines
+TMIBM2223	Yahoo
+TMOracle1895	Oracle
+TMSAS326	Comcast
+TMIBM2261	International Business Machines
+TMIBM926	Sun Microsystems
+TMIBM790	Microsoft
+TMIBM2381	Dell
+TMMicrosoft1790	Microsoft
+TMMicrosoft1228	Sony
+TMMicrosoft1057	Motorola
+TMMicrosoft1730	Google
+TMMicrosoft1558	Apple
+TMIBM2357	Stanford University
+TMMicrosoft390	Apple
+TMMicrosoft1498	SAP
+TMIBM2251	Dell
+TMIBM172	Microsoft
+TMIBM518	Flickr
