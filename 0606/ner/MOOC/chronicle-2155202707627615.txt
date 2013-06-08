@@ -1,0 +1,4 @@
+The venture-capital firm <PERSON>Andreessen Horowitz</PERSON> led the latest investment for the <LOCATION>Silicon Valley</LOCATION> upstart, which has been part of a broad effort to transform higher education usingfree online courses.
+Source:<PERSON>WsjPeter Levine</PERSON>, a general partner at the firm who is joining <ORGANIZATION>Udacity</ORGANIZATION>’s board, throws out some particularly effusive praise–stating in a blog post that it is sinking money into “a team and company that we’re absolutely convinced will change the world.”
+Read more at:blogs.wsj.com
+<PERSON>Nick DeSantis</PERSON>

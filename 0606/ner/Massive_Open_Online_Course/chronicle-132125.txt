@@ -1,0 +1,13 @@
+
+What is it like to teach a free online course to tens of thousands of students? Dozens of professors are doing just that, experimenting with a format known asMassive Open Online Courses.And there are more providers than ever, some working with elite universities, and others thatallow any professor to join in.
+The Chronicleasked four professors, teaching on different platforms, to share their thoughts on the experience so far. The responses are based on e-mail interviews, which have been condensed and edited for publication.
+
+Reworking a Course Into an Online Format: 'Sort of Like Moving'Peter Struck: Associate professor of classical studies, <ORGANIZATION>University of Pennsylvania</ORGANIZATION>, teaching via <LOCATION>Coursera</LOCATION>
+"You find things in the version of the course you know well and wonder, Now why did I hang onto that? And then you run into other things and are reminded of why they're so important."
+Turning 'Muddled Recordings' Into a 'Seamless Video'David Evans: Associate professor of computer science, <ORGANIZATION>University of Virginia</ORGANIZATION>, teaching via <LOCATION>Udacity</LOCATION>
+"This is different from classroom lecturing since the students are not there when you are doing it (most of the recording is done alone), and the recording will be edited to produce the class."
+Sharing a Passion for Poetry With Students Around the WorldMargaret Soltan: Associate professor of English, <ORGANIZATION>George Washington University</ORGANIZATION>, teaching via <PERSON>Udemy</PERSON>
+"I hope that the willingness of American university professors to do free <ORGANIZATION>MOOC</ORGANIZATION>'s will enhance the image of universities among Americans, many of whom think of tenured university professors as people always looking to get out of teaching, always obsessed with their own research."
+Building Different MOOCÕs for Different Pedagogical NeedsCurtis Bonk: Professor of education, <ORGANIZATION>Indiana University</ORGANIZATION> at <LOCATION>Bloomington</LOCATION>, teaching via Blackboard
+"Some people seem to treat <ORGANIZATION>MOOC</ORGANIZATION>'s as a type of religious experience."
+<PERSON>Jeffrey R. Young</PERSON>

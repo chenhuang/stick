@@ -1,0 +1,226 @@
+<DOCUMENT>
+  <publisher>The Chronicle Review</publisher>
+  <fulltext>&lt;div class="article-body" id="article-body"&gt;
+ &lt;p style="padding-left: 150px; padding-right: 150px;"&gt;
+  More than 900,000 students have signed up for the so-called massively open online courses offered by major universities through Coursera. The upstart company, which began operating earlier this year, held its first official meet-up on Saturday, in a park near its headquarters in Mountain View, Calif. Some 650 students attended.
+  &lt;em&gt;
+   The Chronicle
+  &lt;/em&gt;
+  asked a sample of students at the event to explain their motivation for working through the courses, which carry no official credit. |
+  &lt;strong&gt;
+   &lt;a href="http://chronicle.com/article/Upstart-Free-Course-Provider/133227"&gt;
+    Related Story
+   &lt;/a&gt;
+  &lt;/strong&gt;
+ &lt;/p&gt;
+ &lt;ul&gt;
+  &lt;li class="first"&gt;
+   &lt;img alt="" src="http://chronicle.com/blogs/wp-content/uploads/2012/07/spillman-coursera.gif"/&gt;
+   &lt;p class="name"&gt;
+    Kimberly Spillman
+   &lt;/p&gt;
+   &lt;p class="bio"&gt;
+    38, San Diego
+   &lt;/p&gt;
+   &lt;p class="quote"&gt;
+    "I was socializing with students way more than I ever had. We'd hang out in the pub."
+   &lt;/p&gt;
+   &lt;div class="audio"&gt;
+    &lt;div id="AWplayer"&gt;
+     This audio feature is not available.
+    &lt;/div&gt;
+    &lt;script type="text/javascript"&gt;
+     // &amp;lt;![CDATA[&#13;
+function parseRSS(url, callback) {&#13;
+$.ajax({&#13;
+url: 'http://ajax.googleapis.com/ajax/services/feed/load?v=1.0&amp;amp;num=10&amp;amp;callback=?&amp;amp;q=' + encodeURIComponent(url),&#13;
+dataType: 'json',&#13;
+success: function(data) {&#13;
+      callback(data.responseData.feed);&#13;
+    }&#13;
+  });&#13;
+}&#13;
+function getRSSdata(json) {&#13;
+flashvars1.audio = json.entries[0].mediaGroups[0].contents[0].url;&#13;
+populateAudio();&#13;
+}&#13;
+function populateAudio () {&#13;
+swfobject.embedSWF("/items/biz/flashswf/audio-2012-noauto.swf", "AWplayer", "190", "15", "7",false, flashvars1);&#13;
+$('#AWplayer').html('&amp;lt;audio controls="controls" preload="none"&amp;gt;&amp;lt;source src="'+flashvars1.audio+'" type="audio/mpeg" /&amp;gt;This audio feature is not available.&amp;lt;\/audio&amp;gt;');&#13;
+&#13;
+}&#13;
+var flashvars1 = {&#13;
+audio: "http://media.chronicle.com/audio/1088946/chronicle_2012-07-29-205946.64.mp3",&#13;
+dur: "2:58",&#13;
+isRSS: 'false'&#13;
+};&#13;
+if (flashvars1.isRSS == "true") {&#13;
+parseRSS(flashvars1.audio, getRSSdata);&#13;
+} else {&#13;
+populateAudio();&#13;
+}&#13;
+// ]]&amp;gt;
+    &lt;/script&gt;
+   &lt;/div&gt;
+  &lt;/li&gt;
+  &lt;li class="final"&gt;
+   &lt;img alt="" src="http://chronicle.com/blogs/wp-content/uploads/2012/07/clark-coursera.gif"/&gt;
+   &lt;p class="name"&gt;
+    Charles Clark
+   &lt;/p&gt;
+   &lt;p class="bio"&gt;
+    59, Washington, D.C.
+   &lt;/p&gt;
+   &lt;p class="quote"&gt;
+    "I could have bought a book, but I think having a fixed deadline has a lot of value."
+   &lt;/p&gt;
+   &lt;div class="audio"&gt;
+    &lt;div id="TTplayer"&gt;
+     This audio feature is not available.
+    &lt;/div&gt;
+    &lt;script type="text/javascript"&gt;
+     // &amp;lt;![CDATA[&#13;
+function parseRSS(url, callback) {&#13;
+$.ajax({&#13;
+url: 'http://ajax.googleapis.com/ajax/services/feed/load?v=1.0&amp;amp;num=10&amp;amp;callback=?&amp;amp;q=' + encodeURIComponent(url),&#13;
+dataType: 'json',&#13;
+success: function(data) {&#13;
+      callback(data.responseData.feed);&#13;
+    }&#13;
+  });&#13;
+}&#13;
+function getRSSdata(json) {&#13;
+flashvars3.audio = json.entries[0].mediaGroups[0].contents[0].url;&#13;
+populateAudio();&#13;
+}&#13;
+function populateAudio () {&#13;
+swfobject.embedSWF("/items/biz/flashswf/audio-2012-noauto.swf", "TTplayer", "190", "15", "7",false, flashvars3);&#13;
+$('#TTplayer').html('&amp;lt;audio controls="controls" preload="none"&amp;gt;&amp;lt;source src="'+flashvars3.audio+'" type="audio/mpeg" /&amp;gt;This audio feature is not available.&amp;lt;\/audio&amp;gt;');&#13;
+&#13;
+}&#13;
+var flashvars3 = {&#13;
+audio: "http://media.chronicle.com/audio/1088944/chronicle_2012-07-29-205844.64.mp3",&#13;
+dur: "2:23",&#13;
+isRSS: 'false'&#13;
+};&#13;
+if (flashvars3.isRSS == "true") {&#13;
+parseRSS(flashvars3.audio, getRSSdata);&#13;
+} else {&#13;
+populateAudio();&#13;
+}&#13;
+// ]]&amp;gt;
+    &lt;/script&gt;
+   &lt;/div&gt;
+  &lt;/li&gt;
+ &lt;/ul&gt;
+ &lt;ul&gt;
+  &lt;li class="first"&gt;
+   &lt;img alt="" src="http://chronicle.com/blogs/wp-content/uploads/2012/07/cao-coursera.gif"/&gt;
+   &lt;p class="name"&gt;
+    Yichuan Cao
+   &lt;/p&gt;
+   &lt;p class="bio"&gt;
+    23, Mountain View, Calif.
+   &lt;/p&gt;
+   &lt;p class="quote"&gt;
+    "I probably wouldn't put that on my resumé, but I would say I know how to do it."
+   &lt;/p&gt;
+   &lt;div class="audio"&gt;
+    &lt;div id="IVplayer"&gt;
+     This audio feature is not available.
+    &lt;/div&gt;
+    &lt;script type="text/javascript"&gt;
+     // &amp;lt;![CDATA[&#13;
+function parseRSS(url, callback) {&#13;
+$.ajax({&#13;
+url: 'http://ajax.googleapis.com/ajax/services/feed/load?v=1.0&amp;amp;num=10&amp;amp;callback=?&amp;amp;q=' + encodeURIComponent(url),&#13;
+dataType: 'json',&#13;
+success: function(data) {&#13;
+      callback(data.responseData.feed);&#13;
+    }&#13;
+  });&#13;
+}&#13;
+function getRSSdata(json) {&#13;
+flashvars4.audio = json.entries[0].mediaGroups[0].contents[0].url;&#13;
+populateAudio();&#13;
+}&#13;
+function populateAudio () {&#13;
+swfobject.embedSWF("/items/biz/flashswf/audio-2012-noauto.swf", "IVplayer", "190", "15", "7",false, flashvars4);&#13;
+$('#IVplayer').html('&amp;lt;audio controls="controls" preload="none"&amp;gt;&amp;lt;source src="'+flashvars4.audio+'" type="audio/mpeg" /&amp;gt;This audio feature is not available.&amp;lt;\/audio&amp;gt;');&#13;
+&#13;
+}&#13;
+var flashvars4 = {&#13;
+audio: "http://media.chronicle.com/audio/1088952/chronicle_2012-07-29-210152.64.mp3",&#13;
+dur: "2:11",&#13;
+isRSS: 'false'&#13;
+};&#13;
+if (flashvars4.isRSS == "true") {&#13;
+parseRSS(flashvars4.audio, getRSSdata);&#13;
+} else {&#13;
+populateAudio();&#13;
+}&#13;
+// ]]&amp;gt;
+    &lt;/script&gt;
+   &lt;/div&gt;
+  &lt;/li&gt;
+  &lt;li class="final"&gt;
+   &lt;img alt="" src="http://chronicle.com/blogs/wp-content/uploads/2012/07/tam-coursera.gif"/&gt;
+   &lt;p class="name"&gt;
+    Amy Tam
+   &lt;/p&gt;
+   &lt;p class="bio"&gt;
+    42, Sunnyvale, Calif.
+   &lt;/p&gt;
+   &lt;p class="quote"&gt;
+    "What I am hoping for is, if there are questions, the local study group will help."
+   &lt;/p&gt;
+   &lt;div class="audio"&gt;
+    &lt;div id="VIplayer"&gt;
+     This audio feature is not available.
+    &lt;/div&gt;
+    &lt;script type="text/javascript"&gt;
+     // &amp;lt;![CDATA[&#13;
+function parseRSS(url, callback) {&#13;
+$.ajax({&#13;
+url: 'http://ajax.googleapis.com/ajax/services/feed/load?v=1.0&amp;amp;num=10&amp;amp;callback=?&amp;amp;q=' + encodeURIComponent(url),&#13;
+dataType: 'json',&#13;
+success: function(data) {&#13;
+      callback(data.responseData.feed);&#13;
+    }&#13;
+  });&#13;
+}&#13;
+function getRSSdata(json) {&#13;
+flashvars6.audio = json.entries[0].mediaGroups[0].contents[0].url;&#13;
+populateAudio();&#13;
+}&#13;
+function populateAudio () {&#13;
+swfobject.embedSWF("/items/biz/flashswf/audio-2012-noauto.swf", "VIplayer", "190", "15", "7",false, flashvars6);&#13;
+$('#VIplayer').html('&amp;lt;audio controls="controls" preload="none"&amp;gt;&amp;lt;source src="'+flashvars6.audio+'" type="audio/mpeg" /&amp;gt;This audio feature is not available.&amp;lt;\/audio&amp;gt;');&#13;
+&#13;
+}&#13;
+var flashvars6 = {&#13;
+audio: "http://media.chronicle.com/audio/1088942/chronicle_2012-07-29-205742.64.mp3",&#13;
+dur: "2:38",&#13;
+isRSS: 'false'&#13;
+};&#13;
+if (flashvars6.isRSS == "true") {&#13;
+parseRSS(flashvars6.audio, getRSSdata);&#13;
+} else {&#13;
+populateAudio();&#13;
+}&#13;
+// ]]&amp;gt;
+    &lt;/script&gt;
+   &lt;/div&gt;
+  &lt;/li&gt;
+ &lt;/ul&gt;
+&lt;/div&gt;</fulltext>
+  <pub_title>Chronicle</pub_title>
+  <author>Interviews: Jeffrey R. Young; Photos: Noah Berger; Design: Brock Read</author>
+  <abstract></abstract>
+  <title>Why Do Students Flock to MOOC's?</title>
+  <comments></comments>
+  <document_url>http://chronicle.com/article/Scenes-From-the-Cookout-Why/133165/</document_url>
+  <query>MOOC</query>
+  <pub_date>July 26, 2012</pub_date>
+  <document_id>chronicle-133165</document_id>
+</DOCUMENT>

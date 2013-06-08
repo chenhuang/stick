@@ -1,0 +1,169 @@
+<DOCUMENT>
+  <publisher>The Chronicle Review</publisher>
+  <fulltext>&lt;div class="article-body"&gt;
+ &lt;p&gt;
+  My first teaching job was describing computer networks to displaced Linotype and page-layout workers in Toronto. The government of Ontario paid for the classes. I tried my best to explain obscure topics like network topologies, collision-detection protocols, and congestion-control algorithms. My students learned how to tell IPX-SPX from DECnet from Banyan Vines (network protocols that are now mostly defunct). It all felt vitally important to me, but they had trouble finding any use for most of what I was teaching them.
+ &lt;/p&gt;
+ &lt;p&gt;
+  It was 1992, and we were using NeXT computers developed under the aegis of Steve Jobs, the man recently kicked out of Apple. I wanted to convince my classes that the NeXT browser in front of them would change the way people interacted with information and provide a lightweight method for delivering books and newspapers. They were not convinced, and they were not amused. Steve Jobs, one ex-worker told me, was a loser.
+ &lt;/p&gt;
+ &lt;div style="width: 275px; float: left; margin: 0 13px 3px 5px;"&gt;
+  &lt;p style="margin-bottom: 2px; padding-bottom: 0; color: #780808; font-family: Arial; font-size: 12px; font-weight: bold;"&gt;
+   RELATED ARTICLES
+  &lt;/p&gt;
+  &lt;p style="margin-bottom: 2px;"&gt;
+   &lt;img alt="" height="3" src="/img/photos/biz/rule.gif" width="275"/&gt;
+  &lt;/p&gt;
+  &lt;p style="margin-bottom: 5px; font-size: 11px;"&gt;
+   &lt;img alt="" src="http://chronicle.com/img/photos/biz/5929-related-kingwell.jpg" width="250"/&gt;
+  &lt;/p&gt;
+  &lt;p style="margin-bottom: 6px; font-size: 14px;"&gt;
+   &lt;a href="/article/The-New-Industrial-Revolution/138015/"&gt;
+    &lt;span style="font-size: 12px;"&gt;
+     &lt;strong&gt;
+      The New Industrial Revolution
+     &lt;/strong&gt;
+    &lt;/span&gt;
+   &lt;/a&gt;
+  &lt;/p&gt;
+  &lt;p style="margin-bottom: 6px; font-size: 14px;"&gt;
+   &lt;a href="/article/Robots-Arent-the-Problem-/138011/"&gt;
+    &lt;span style="font-size: 12px;"&gt;
+     &lt;strong&gt;
+      The Barbed Gift of Leisure
+     &lt;/strong&gt;
+    &lt;/span&gt;
+   &lt;/a&gt;
+  &lt;/p&gt;
+  &lt;p style="margin-bottom: 6px; font-size: 14px;"&gt;
+   &lt;a href="/article/Robots-Arent-the-Problem-/138007/"&gt;
+    &lt;span style="font-size: 12px;"&gt;
+     &lt;strong&gt;
+      Robots Aren't the Problem: It's Us
+     &lt;/strong&gt;
+    &lt;/span&gt;
+   &lt;/a&gt;
+  &lt;/p&gt;
+  &lt;p style="margin-bottom: 6px; font-size: 14px;"&gt;
+   &lt;a href="/article/The-Soul-of-Invention/138017/"&gt;
+    &lt;span style="font-size: 12px;"&gt;
+     &lt;strong&gt;
+      The Soul of Invention
+     &lt;/strong&gt;
+    &lt;/span&gt;
+   &lt;/a&gt;
+  &lt;/p&gt;
+  &lt;p style="margin-bottom: 0px; font-size: 14px;"&gt;
+   &lt;a href="/article/When-Bots-Go-Bad/138009/"&gt;
+    &lt;span style="font-size: 12px;"&gt;
+     &lt;strong&gt;
+      Robots Behind Bars
+     &lt;/strong&gt;
+    &lt;/span&gt;
+   &lt;/a&gt;
+  &lt;/p&gt;
+  &lt;p style="margin-bottom: 0px; font-size: 14px;"&gt;
+   &lt;a href="/article/I-Dont-Want-to-Be-Moocd/138013//"&gt;
+    &lt;span style="font-size: 12px;"&gt;
+     &lt;strong&gt;
+      I Don't Want to Be Mooc'd
+     &lt;/strong&gt;
+    &lt;/span&gt;
+   &lt;/a&gt;
+  &lt;/p&gt;
+  &lt;p style="margin-bottom: 3px; padding-bottom: 0; font-weight: bold; font-size: 12px;"&gt;
+   &lt;img alt="" height="3" src="/img/photos/biz/rule.gif" width="275"/&gt;
+  &lt;/p&gt;
+ &lt;/div&gt;
+ &lt;p&gt;
+  These former print workers had been displaced by a program called Aldus PageMaker, which in the late 1980s allowed a few graphic designers to do what a roomful of compositors had done in newsrooms, insurance companies, and advertising agencies all over Toronto. The story in print was similar to the story in television. My mom's boyfriend, David, was a TV news director. In the 1970s, he was a clever guy who joked with the cameramen, the sound guys, and the tape handlers. As Mom anchored the news, she watched the cameramen laughing at the off-color remarks. By the middle of the 1990s, David had no one to joke with; by then he was running the entire news room from a booth. He reminded me of Doctor Octopus in the
+  &lt;em&gt;
+   Spiderman
+  &lt;/em&gt;
+  comics as he orchestrated complex dolly shots, fast pulls, and video-font effects by turning a few dials.
+ &lt;/p&gt;
+ &lt;p&gt;
+  The political economist Adam Smith, writing from Scotland in the 1770s, predicted the first part of that transformation but not the second. He saw that any manufacturing process (making pins, say) could be broken into small parts. A group of "dextrous" workers, each with one task, was more efficient than a group of workers who did all the tasks; an owner used the efficiency to make cheaper goods; everyone benefited. Smith assured us that, with free trade, a division of labor among countries would improve everyone's lives. He failed to consider the post-1770s scenario: Once dextrous workers had mastered a process, a machine could replace them.
+ &lt;/p&gt;
+ &lt;p&gt;
+  Nor did he envision all the results of international competition. After my teaching job, I worked as a network engineer for a Toronto company that owned thousands of retail stores. My job was to pull the patch cords and plan the cable runs in corporate headquarters. Did the buyers and tech people know that the company faced stiff competition from Wal-Mart and the Gap in the wake of the North American Free Trade Agreement? I think so. I seldom saw the pink slips, but gossip circulated that some stores would close, the company would be carved up, and a large headquarters might no longer be necessary. One day a contractor summoned me to give his laptop a faster network connection to run cost-benefit figures. He chose 100 retail stores to close that winter.
+ &lt;/p&gt;
+ &lt;p&gt;
+  I suppose I saw the handwriting on the wall: In 1993, I left the networking world to become a history professor.
+ &lt;/p&gt;
+ &lt;p&gt;
+  When I began learning about labor history, I read a lot about workers displaced by machinery: hand-loom weavers in Scotland, steel puddlers in Pittsburgh, coal miners in Carbondale, Ill. They had often been the most intelligent, advanced, and thoughtful workers of their day. And they tended to be found in areas that capitalists couldn't leave­, like the wool-growing areas of Scotland or the regions with high-quality iron deposits in Pennsylvania. They joined trade unions, fought against well-organized corporations, called the attention of the middle class to their plight, and sometimes—just sometimes—won concessions from management. They helped give us the five-day week, the eight-hour day, and an excellent collection of drinking songs.
+ &lt;/p&gt;
+ &lt;p&gt;
+  The history of the labor movement's successes was less depressing than the story I saw in Toronto. Some scholars say finding middle-class allies was easier for workers 100 years ago. Some say capitalists find it easier to move when they have a whole planet to draw raw materials from. Others argue that as workers increasingly left unions in industrialized countries, unions lost their bargaining power, becoming weaker in a deepening, downward spiral.
+ &lt;/p&gt;
+ &lt;p&gt;
+  The stories I saw as a network manager were grim for the silence that surrounded them. I cannot remember a song I want to sing from those years. (In academe, the grimmest irony today is that it is hard to find new labor historians in history departments.)
+ &lt;/p&gt;
+ &lt;p&gt;
+  Yet in reflecting on technological displacements in my own lifetime and those in the past, I can see what may be a deeper takeaway: People can retool.
+ &lt;/p&gt;
+ &lt;p&gt;
+  Adam Smith, despite his failure to imagine technological displacement, loved education (though he despised the "negligence and incapacity" of masters at Oxford and Cambridge). He argued that while the division of labor had huge advantages, it was likely to turn workers into unthinking drones (the word had a different connotation in those days), and drones were dangerous to public safety. He argued for a broad system of "little schools," on the Scottish model, in which every young adult learned to read, write, and calculate. Workers brought up with universal schooling would respect authority, learn enough "geometry and mechanics" to use in their trades, keep invention alive, and finally see through "the interested complaints of faction and sedition." In other words, they would learn to think critically.
+ &lt;/p&gt;
+ &lt;p&gt;
+  The conservative emphasis on job training and respect for authority can be used to bash the liberal arts. Indeed, the governors of North Carolina, Texas, and Florida routinely use Smith's logic to do just that. But the part about teaching people to think—which is what the liberal arts are supposed to do—is important. Many folks need to think critically, and it's not easy to teach them how.
+ &lt;/p&gt;
+ &lt;p&gt;
+  With a little help, people adapt. I can tell from LinkedIn that many of my displaced retail friends from Toronto have retooled. They still work in the industries I met them in and still live downtown, near where they work, but they have different jobs. Some were retrained in the government-sponsored programs where I first taught. Ontario did it better than Florida, where I grew up. Many of my high-school friends lost their jobs due to the post-cold-war decline of the aerospace industry and the outsourcing of programming jobs. Even engineers, it turns out, can become redundant.
+ &lt;/p&gt;
+ &lt;p&gt;
+  It is not surprising that, as a professor, I would think that a "little school" is the answer for the technologically unemployed­—but I am pretty certain it is. Tooling is what I teach now, not retooling. Mine are writing-intensive courses in Southern, labor, and business history. My classes now in Virginia, as before in Ontario, have small numbers and students eager to learn about a rapidly changing world, so they can find a place for themselves in it.
+ &lt;/p&gt;
+ &lt;p&gt;
+  But now I try to encourage controversy and sharpen my students' critical-thinking skills. My retraining classes were a little different: how to write a résumé and how to creatively describe the class as an experience that made my students worth hiring. We talked about eye contact and handshakes and speaking with your hands.
+ &lt;/p&gt;
+ &lt;p&gt;
+  As I look around at the teenagers in my classroom today, however, I worry about how well I am preparing them. What I teach now is not immediately useful. I teach my students the labor songs, give them some writing skills, describe how companies change and corporate networks work, and hope that it all helps them be flexible and wise enough to muddle through and to start over again at various points in their lives. They surely will have to.
+ &lt;/p&gt;
+ &lt;p&gt;
+  Nowadays entrepreneurs hope to apply Adam Smith's ideas about the division of labor to schooling. The massive open online course, or MOOC, it is said, will allow one professor to teach 10,000 students in a semester. Students get a great Ivy League lecturer, peer advising from classmates, quizzes that instantly test new knowledge, and a proctored final exam by a certified testing agency, all at a low cost. Adam Smith would have been proud.
+ &lt;/p&gt;
+ &lt;p&gt;
+  Or would he?
+ &lt;/p&gt;
+ &lt;p&gt;
+  Smith reasoned from his own experience. A popular lecturer at the Universities of Edinburgh and Glasgow, he received a guinea each per semester from students in lecture halls that rarely held more than 40.
+  &lt;em&gt;
+   The Wealth of Nations
+  &lt;/em&gt;
+  was, in fact, generated from his classroom lectures (giving him the chance to earn twice from students who would buy his book years later). The classroom back-and-forth was important: University students constantly let Smith know when they were bored or disagreed, a fact he mentions at least twice in
+  &lt;em&gt;
+   The Wealth of Nations
+  &lt;/em&gt;
+  . Of course the book grew out of its author's accomplished brain and close analysis of the industrial world. But it also grew out of face-to-face contact with smart, aristocratic Scottish students who had few compunctions about disagreeing with him.
+ &lt;/p&gt;
+ &lt;p&gt;
+  Smith found teaching to be hard work. He gave up his prestigious lectureship at Glasgow when a wealthy donor offered him £300 a year to travel through Europe for four years, educating the young Duke of Buccleuch. The lifetime annuity he then received gave him the time to turn his lectures into books.
+ &lt;/p&gt;
+ &lt;p&gt;
+  Smith's synthesis of analysis, observation, and lecture grew out of a unique university experience. Most lecturers do not have the same success with their books. But the discoveries of the next century­—the periodic table, the cellular structure of plants, antiseptic techniques, electromagnetic force, the structure of atoms—all developed from a blend of experiment and university lectures in small classes.
+ &lt;/p&gt;
+ &lt;p&gt;
+  Will MOOCs provide what students need to tool or retool for the future? Smith, with his fondness for "little schools," probably wouldn't think so. Nor do I.
+ &lt;/p&gt;
+ &lt;p&gt;
+  Lots of processes are scalable in this world, but writing, critical thinking, and analysis can probably be taught only in groups smaller than 40. And the seemingly crucial facts (like IPX-SPX that I once taught) are as ephemeral as last year's jobs. Massive scalability, as Smith would point out, is a path that turns invention into drudgery. A laborer, he declared smugly, "has no occasion to exert his understanding or to exercise his invention." The same is true for students who watch recorded lectures.
+ &lt;/p&gt;
+ &lt;p&gt;
+  I might be wrong about the necessity of the "little school" as the soul of invention and preparation for an ever-changing labor market. If I am, I should work on my own résumé. I still have my notes from the class in Toronto.
+ &lt;/p&gt;
+ &lt;p class="author-blurb"&gt;
+  Scott Reynolds Nelson is a professor of history at the College of William &amp;amp; Mary. His most recent book is A Nation of Deadbeats: An Uncommon History of America's Financial Disasters (Alfred A. Knopf, 2012).
+ &lt;/p&gt;
+&lt;/div&gt;</fulltext>
+  <pub_title>Chronicle</pub_title>
+  <author>Scott Reynolds Nelson</author>
+  <abstract></abstract>
+  <title>The Soul of Invention</title>
+  <comments></comments>
+  <document_url>http://chronicle.com/article/The-Soul-of-Invention/138017/</document_url>
+  <query>Massive Open Online Course</query>
+  <pub_date>March 25, 2013</pub_date>
+  <document_id>chronicle-138017</document_id>
+</DOCUMENT>

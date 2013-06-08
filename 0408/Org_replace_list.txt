@@ -6,7 +6,7 @@ Clearwire Corp::Clearwire
 Johns Hopkins University Bloomberg School of Public Health::Johns Hopkins University
 Johns Hopkins Bloomberg School of Public Health::Johns Hopkins University
 American Council on Education's College Credit Recommendation Service::American Council on Education
-University of Virginia and Northwestern::University of North Carolina
+University of Virginia and Northwestern::University of Virginia:Northwestern University
 University of Michigan English::University of Michigan
 University of Pennsylvania Wharton School::University of Pennsylvania
 Harvards::Harvard University
@@ -87,3 +87,4 @@ Catholic::REMOVE
 Republican Senate::REMOVE
 The University of Texas::University of Texas
 Massachusetts Institute of Technology An::Massachusetts Institute of Technology
+edX::edX

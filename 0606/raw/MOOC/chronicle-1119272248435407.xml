@@ -1,0 +1,142 @@
+<DOCUMENT>
+  <publisher>The Chronicle - Blogs</publisher>
+  <fulltext>&lt;div class="abstract"&gt;
+ &lt;div class="entry-content"&gt;
+  &lt;p&gt;
+   &lt;a href="http://www.coursera.com"&gt;
+    Coursera
+   &lt;/a&gt;
+   right now is reminding me of this scene from LOST, shortly after the initial plane crash:
+  &lt;/p&gt;
+  &lt;p&gt;
+   &lt;iframe allowfullscreen="" frameborder="0" height="315" src="http://www.youtube.com/embed/Tg2tB_xTt9I?start=30&amp;amp;end=60&amp;amp;autoplay1" width="560"&gt;
+   &lt;/iframe&gt;
+  &lt;/p&gt;
+  &lt;p&gt;
+   Having a bad month, indeed. First it was this MOOC on “Fundamentals of Online Learning” that, ironically,
+   &lt;a href="http://www.slate.com/blogs/future_tense/2013/02/05/mooc_meltdown_coursera_course_on_fundamentals_of_online_education_ends_in.html"&gt;
+    had to be shut down
+   &lt;/a&gt;
+   for reasons involving the failure of online learning technology.
+   &lt;a href="http://chronicle.com/blogs/wiredcampus/professor-leaves-a-mooc-in-mid-course-in-dispute-over-teaching/42381#comment-803251148"&gt;
+    Now it’s this course on “Microeconomics for Managers” in which the instructor, Richard McKenzie, walked away from the course
+   &lt;/a&gt;
+   . According to the CHE report:
+  &lt;/p&gt;
+  &lt;blockquote&gt;
+   &lt;p&gt;
+    Gary Matkin, the dean for distance education at [UC-Irvine, McKenzie’s home institution], said the problem had stemmed from Mr. McKenzie’s reluctance to loosen his grip on students who he thought were not learning well in the course.
+   &lt;/p&gt;
+   &lt;p&gt;
+    “In Professor McKenzie’s view, for instance, uninformed or superfluous responses to the questions posed in the discussion forums hobbled the serious students in their learning,” said Mr. Matkin in an e-mail.
+   &lt;/p&gt;
+  &lt;/blockquote&gt;
+  &lt;p&gt;
+   And:
+  &lt;/p&gt;
+  &lt;blockquote&gt;
+   &lt;p&gt;
+    …posts from the professor on the course’s “announcements” page suggest that Mr. McKenzie had spent a great deal of time attempting to respond to student feedback—an effort chronicled in the many addendums on “housekeeping issues” appended to his notes on course content.
+   &lt;/p&gt;
+   &lt;p&gt;
+    The professor apparently had faced criticism from students who objected to his decision to assign a textbook that was not available free. Mr. McKenzie also had heard complaints about how much work he assigned.
+   &lt;/p&gt;
+   &lt;p&gt;
+    “I will not give on standards,” wrote Mr. McKenzie in one post, “and you also should not want me to, or else the value of any ‘certification’ won’t be worth the digits it is written with.”
+   &lt;/p&gt;
+  &lt;/blockquote&gt;
+  &lt;p&gt;
+   &lt;a href="http://storify.com/derekbruff/prof-leaves-mooc-mid-stream"&gt;
+    This Storified collection of tweets
+   &lt;/a&gt;
+   from the perspective of a student in the course provides an insider’s view. It’s just one person, but revealing nonetheless.
+  &lt;/p&gt;
+  &lt;p&gt;
+   You might argue that these two courses are the exceptions that prove the rule, since Coursera
+   &lt;a href="https://www.coursera.org/courses"&gt;
+    currently offers 222 courses
+   &lt;/a&gt;
+   , with more coming on the horizon and only two have melted down (at least publicly). Udacity did have a similar situation a while back, when a
+   &lt;a href="http://chronicle.com/blogs/wiredcampus/udacity-cancels-free-online-math-course-citing-lack-of-quality/38998"&gt;
+    logic and discrete math course was cancelled before it began
+   &lt;/a&gt;
+   , due to “lack of quality”. Udacity does offer
+   &lt;a href="https://www.udacity.com/courses"&gt;
+    far fewer courses
+   &lt;/a&gt;
+   than Coursera at the moment, which makes this one “failure” stand out.
+  &lt;/p&gt;
+  &lt;p&gt;
+   It raises the question – just how much thought is given to instructional design issues when MOOCs are drawn up? And a related question – how much peer review is given to MOOCs, and their professors, before they go public?
+  &lt;/p&gt;
+  &lt;p&gt;
+   In every brick-and-mortar college or university I’ve ever worked in, course proposals are vetted in excruciating detail. Every facet of a course is taken apart and examined before it’s allowed to run — potential enrollment figures, impact on computing and library resources, effects on client discipline scheduling, you name it. The end product is never perfect, and say what you will about the bureaucracy of higher education, but any potential for catastrophic failure is caught far in advance.
+  &lt;/p&gt;
+  &lt;p&gt;
+   And part of that peer review in my experience has always involved thinking about how the course is going to be taught. I just proposed a new course here at GVSU, and I had to go to great lengths do describe how various learning goals would be woven into the course and how the course will engage students. Presumably if my pedagogical goals didn’t pass muster, neither would my course.
+  &lt;/p&gt;
+  &lt;p&gt;
+   Can we say the same for MOOCs? Well, some of these categories don’t apply — MOOC students don’t have to worry about two courses conflicting with each other, for instance. But in terms of instructional design, there doesn’t appear to be any consistent model for vetting MOOCs. I’ve had several courses through Coursera. Some were pretty good. One was OK but clearly designed only to promote the professor’s research; the weekly assessments were multiple choice quizzes with five items each, and we had five attempts at each quiz. Do the math. Another was downright awful, with workloads that consistently blew past the 3–5 hours per week estimate in the course advertisement, poorly designed activities, and zero instructor interaction. If you’re growing that big, that fast, it must be difficult to have any way of guaranteeing uniform quality.
+  &lt;/p&gt;
+  &lt;p&gt;
+   Udacity seems to be doing better. I’ve always been impressed by their attention to instructional design details.
+   &lt;a href="https://medium.com/teaching-learning/1d7c77b857de"&gt;
+    This article by the instructor of the parallel programming course sheds some interesting light
+   &lt;/a&gt;
+   — there is actually a training process, for instance, for professors transitioning to Udacity’s screencasting style. The fact that Udacity cancelled their discrete math course before it started says they have a quality-control system of some sort in place.
+  &lt;/p&gt;
+  &lt;p&gt;
+   I think it would be interesting to hear about the decision-making processes of any MOOC provider as to how courses are approved and maintained. The worst possible process would be something like: “We get big-name profs from big-name schools, so nothing could possibly go wrong.” I don’t think any MOOC operates this way, but I can’t prove it.
+  &lt;/p&gt;
+ &lt;/div&gt;
+ &lt;!-- .entry-content --&gt;
+ &lt;div class="entry-utility"&gt;
+  This entry was posted in
+  &lt;a href="http://chronicle.com/blognetwork/castingoutnines/category/life-in-academia/" rel="category tag" title="View all posts in Life in academia"&gt;
+   Life in academia
+  &lt;/a&gt;
+  ,
+  &lt;a href="http://chronicle.com/blognetwork/castingoutnines/category/technology/programming-technology/" rel="category tag" title="View all posts in Programming"&gt;
+   Programming
+  &lt;/a&gt;
+  ,
+  &lt;a href="http://chronicle.com/blognetwork/castingoutnines/category/technology/screencasts/" rel="category tag" title="View all posts in Screencasts"&gt;
+   Screencasts
+  &lt;/a&gt;
+  ,
+  &lt;a href="http://chronicle.com/blognetwork/castingoutnines/category/technology/" rel="category tag" title="View all posts in Technology"&gt;
+   Technology
+  &lt;/a&gt;
+  and tagged
+  &lt;a href="http://chronicle.com/blognetwork/castingoutnines/tag/coursera/" rel="tag"&gt;
+   Coursera
+  &lt;/a&gt;
+  ,
+  &lt;a href="http://chronicle.com/blognetwork/castingoutnines/tag/mooc/" rel="tag"&gt;
+   MOOC
+  &lt;/a&gt;
+  ,
+  &lt;a href="http://chronicle.com/blognetwork/castingoutnines/tag/udacity/" rel="tag"&gt;
+   Udacity
+  &lt;/a&gt;
+  . Bookmark the
+  &lt;a href="http://chronicle.com/blognetwork/castingoutnines/2013/02/19/when-moocs-melt-down/" rel="bookmark" title="Permalink to When MOOCs melt down"&gt;
+   permalink
+  &lt;/a&gt;
+  .
+ &lt;/div&gt;
+ &lt;!-- .entry-utility --&gt;
+ &lt;br/&gt;
+&lt;/div&gt;</fulltext>
+  <pub_title>The Chronicle of Higher Education</pub_title>
+  <author>Robert Talbert</author>
+  <abstract></abstract>
+  <title>When MOOCs melt down</title>
+  <comments></comments>
+  <document_url>http://chronicle.com/blognetwork/castingoutnines/2013/02/19/when-moocs-melt-down/</document_url>
+  <query>MOOC</query>
+  <pub_date>February 19, 2013,
+           
+            7:45 am</pub_date>
+  <document_id>chronicle-1119272248435407</document_id>
+</DOCUMENT>

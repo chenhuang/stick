@@ -54,9 +54,10 @@ for file in files:
 		id_content = sign[1]
 
 		sim = compare_similarity(id_content, content_sign)
-		print sim
+		#print sim
 
 		if sim > 0.7:
+			print id, file_id
 			duplicated_ids[id].append(file_id)
 			is_unique = False
 			break

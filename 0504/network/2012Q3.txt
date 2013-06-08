@@ -1,0 +1,99 @@
+Stanford University	University of Pennsylvania	2
+Stanford University	University of California	1
+Columbia University	Hebrew University of Jerusalem	1
+California Institute of Technology	Georgia Institute of Technology	1
+Massachusetts Institute of Technology	Peer University	1
+Mount Sinai	Hebrew University of Jerusalem	1
+Mount Sinai	Berklee College of Music	1
+Hong Kong University of Science and Technology	Hebrew University of Jerusalem	1
+Massachusetts Institute of Technology	University of California	1
+California Institute of Technology	Massachusetts Institute of Technology	1
+Columbia University	Coursera	1
+Coursera	Princeton University	1
+California Institute of Technology	Harvard University	1
+Harvard University	University of California	1
+California Institute of Technology	Cornell University	1
+Massachusetts Institute of Technology	Georgia Institute of Technology	1
+Harvey Mudd College	1
+Stanford University	California Institute of Technology	1
+Empire State College	The State University of New York	1
+Columbia University	Brown University	1
+edX	2
+Stanford University	Udacity	1
+National Research Council of Canada	Yahoo	1
+Chronicle of Higher Education	Melinda Gates Foundation	1
+Columbia University	Hong Kong University of Science and Technology	1
+Brown University	Wesleyan University	1
+University of Florida	Brown University	1
+California Institute of Technology	Princeton University	1
+University of Melbourne	Hong Kong University of Science and Technology	1
+University of Florida	Wesleyan University	1
+Cornell University	Stanford University	1
+California Institute of Technology	Cisco	1
+Mount Sinai	Brown University	1
+Athabasca University	Chronicle of Higher Education	1
+Brown University	University of Melbourne	1
+Harvard University	edX	3
+Hebrew University of Jerusalem	University of Florida	1
+University of Melbourne	Hebrew University of Jerusalem	1
+College of Cardinals	Ohio State University	1
+Cornell University	Harvard University	1
+Pearson PLC	1
+Cornell University	Georgia Institute of Technology	1
+Princeton University	Cornell University	1
+Pearson PLC	edX	2
+University of Pennsylvania	Harvard University	1
+University of Florida	Mount Sinai	1
+Coursera	Udacity	1
+Cornell University	Massachusetts Institute of Technology	1
+Facebook	1
+University of Melbourne	University of Florida	1
+Athabasca University	Melinda Gates Foundation	1
+Hebrew University of Jerusalem	Brown University	1
+Moody's Investors Service	1
+Udacity	Colorado State University	2
+Mount Sinai	Hong Kong University of Science and Technology	1
+Stanford University	Coursera	5
+University of California	California Institute of Technology	1
+Mount Sinai	Columbia University	1
+Harvard University	Massachusetts Institute of Technology	5
+University of California	Cornell University	1
+Harvard University	Georgia Institute of Technology	1
+Princeton University	Georgia Institute of Technology	1
+Udacity	edX	1
+Wesleyan University	Columbia University	1
+Harvard University	Princeton University	1
+Stanford University	1
+Hong Kong University of Science and Technology	Brown University	1
+Kettering University	1
+Stanford University	Georgia Institute of Technology	1
+Columbia University	University of Florida	1
+University of Florida	Hong Kong University of Science and Technology	1
+Coursera	University of Pennsylvania	2
+University of Melbourne	Mount Sinai	1
+Worcester Polytechnic Institute	1
+Princeton University	University of Pennsylvania	1
+Princeton University	University of California	1
+University of Pennsylvania	Massachusetts Institute of Technology	1
+Wesleyan University	Hong Kong University of Science and Technology	1
+Georgia Institute of Technology	University of California	1
+Coursera	Massachusetts Institute of Technology	1
+Hebrew University of Jerusalem	Wesleyan University	1
+Princeton University	Massachusetts Institute of Technology	1
+College of Pharmacy	1
+Massachusetts Institute of Technology	edX	3
+edX	Coursera	2
+edX	University of Pennsylvania	1
+Udacity	Pearson PLC	1
+Princeton University	Stanford University	2
+Massachusetts Institute of Technology	Stanford University	3
+Harvard University	Stanford University	3
+Massachusetts Institute of Technology	Pearson PLC	1
+University of Melbourne	Wesleyan University	1
+Pearson PLC	Harvard University	1
+Columbia University	University of Melbourne	1
+Coursera	3
+Coursera	Harvard University	1
+Wesleyan University	Mount Sinai	1
+Peer University	1
+edX	Stanford University	1

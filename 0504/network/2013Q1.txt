@@ -1,0 +1,243 @@
+Stanford University	University of Pennsylvania	1
+Georgia State University	San Jose State University	1
+Proctor U	Coursera	1
+Georgetown University	University of California	2
+edX	American Council on Education	1
+Columbia University	Coursera	1
+University of Pennsylvania	Harvard University	1
+Harvard University	University of California	2
+University of Arkansas	Arizona State University	1
+Udacity	Google	1
+University of Prince Edward Island	1
+edX	1
+San Jose State University	New York Times	1
+San Jose State University	Coursera	1
+Duke University	University of California-San Francisco	1
+Coursera	University of California	2
+Evangelical Synod	Presbyterian Church of America	1
+D.C. Council	1
+Kleiner Perkins Caufield	Coursera	1
+Sprint	Clearwire	3
+National Science Foundation	San Jose State University	1
+Massachusetts Institute of Technology	Massachusetts Institute of Technology An	1
+Harvard University	edX	10
+State University of New York	1
+Pearson Foundation	1
+Reserve Board	1
+Massachusetts Institute of Technology	University of Phoenix	1
+University of California	University of Pennsylvania and University of California	1
+Johns Hopkins University	edX	1
+University of Maryland Eastern Shore	University of Maryland	1
+San Jose State University	California Faculty Association	1
+New York Times	Udacity	1
+Vanderbilt University	1
+New America Foundation	1
+Georgia Institute of Technology	1
+University Professional and Continuing Education Association	1
+Frostburg State University	Bowie State University	1
+International Business Machines	Coursera	1
+Massachusetts Institute of Technology	Raytheon	1
+University of Washington	Coursera	1
+Northwestern University	Coursera	2
+Stanford University	Coursera	11
+Udacity	Autodesk Inc	1
+University of Cincinnati	Arizona State University	1
+Coursera	Berklee College of Music	1
+Stanford University	Duke University	1
+Antioch University	University of Pennsylvania	1
+Harvard University	Rice University	2
+Texas Public Policy Foundation	Center for Higher Education	1
+U.S. News	2
+Stanford University	Arlington Public Schools	1
+International Business Machines	University of Michigan	1
+Worcester Polytechnic Institute	1
+edX	Melinda Gates Foundation	1
+Proctor U	Google	1
+Duke University	Massachusetts Institute of Technology	3
+Massachusetts Institute of Technology	Melinda Gates Foundation	1
+Google	Stanford University	1
+Coursera	Georgia State University	2
+University of Pennsylvania	Massachusetts Institute of Technology	1
+Georgia Institute of Technology	University of California	2
+Coursera	Massachusetts Institute of Technology	4
+George Washington University	1
+Advance Collegiate Schools of Business	2
+edX	Coursera	12
+Udacity	Pearson PLC	2
+University of Cincinnati	1
+University CouncilAmerican Federation of Teachers	University of California	1
+edX	University of Texas	1
+McGill University	Rice University	2
+California Senate	2
+Georgetown University	Wellesley College	1
+Duke University	Georgia Institute of Technology	2
+edX	University of Pennsylvania	1
+Harvard University	Stanford University	5
+Georgetown University	edX	1
+New Enterprise Associates	Coursera	2
+Toll Brothers	4
+Harvard University	McGill University	2
+Wellesley College	1
+Colloquy	The Washington Post	1
+Central Intelligence Agency	1
+University of Illinois	Georgia Institute of Technology	2
+Dickinson College Carlisle	1
+Columbia University	University of British Columbia	1
+Stanford University	Kleiner Perkins Caufield	1
+Coursera	American Council on Education	7
+Congress	White House	1
+Massachusetts Institute of Technology	Johns Hopkins University	1
+edX	Stanford University	2
+National Taiwan University	Instituto de Empresa Business School	2
+Coursera	New York Times	1
+Wellesley College	Massachusetts Institute of Technology	1
+Massachusetts Institute of Technology	National University	2
+Rice University	edX	2
+San Jose State University	edX	1
+Coursera	University of Illinois	2
+University of Cincinnati	University of Arkansas	1
+Association of Public and Land-Grant Universities	2
+University of Pennsylvania	5
+Texas Christian University	Association for Continuing Higher Education	1
+Coursera	Antioch University	3
+University of Illinois	Duke University	2
+University of Texas	University of California	2
+Izembek National Wildlife Refuge	1
+Bowie State University	University of Maryland Eastern Shore	1
+Massachusetts Institute of Technology	University of Texas	2
+International Business Machines	2
+Dish Network	1
+Udacity	Proctor U	1
+University of Illinois	University of California-San Francisco	1
+Duke University	American Council on Education	1
+Pearson PLC	edX	2
+Massachusetts Institute of Technology	Udacity	4
+Coursera	Udacity	14
+Georgetown University	1
+Intelligence Advisory Board	1
+University of Pennsylvania	Udacity	1
+Coursera	University of California-San Francisco	1
+Stanford University	New York Times	1
+University of Pennsylvania	University of California	1
+Johns Hopkins University	University of Pennsylvania	1
+Coursera	Chronicle of Higher Education	1
+Harvard University	Massachusetts Institute of Technology	16
+The University of Pennsylvania	University of Pennsylvania	2
+Georgetown University	Massachusetts Institute of Technology	2
+University of Pennsylvania and University of California	University of Pennsylvania	1
+Stanford University	7
+Babson College	1
+Rice University	Massachusetts Institute of Technology	2
+Harvard University	Massachusetts Institute of Technology An	1
+Dish Network	Clearwire	1
+San Jose State University	Udacity	7
+Coursera	Johns Hopkins University	2
+California Faculty Association	1
+edX	Duke University	1
+Stanford University	Wikipedia	1
+Nintendo	1
+University of Texas	Georgetown University	2
+University of Maryland Eastern Shore	Frostburg State University	1
+New York University	PowerHouse Arena	1
+University of Pennsylvania and University of California	Duke University	1
+Massachusetts Institute of Technology	McGill University	2
+World Bank	1
+Massachusetts Institute of Technology	edX	14
+University of Texas	Harvard University	2
+International Center for Academic Integrity	Clemson University	1
+Massachusetts Institute of Technology	Stanford University	4
+University of Maryland	Frostburg State University	1
+Massachusetts Institute of Technology	Pearson PLC	1
+University of Michigan	Coursera	2
+Texas Rangers	1
+University of California	Wellesley College	1
+National University	edX	2
+Coursera	Wikipedia	1
+College Board's College Level Examination Program	1
+Coursera	39
+American Council on Education	San Jose State University	1
+Harvard University	National University	2
+University of California	University of Illinois	2
+Wellesley College	University of Texas	1
+edX	McGill University	2
+George Mason University	1
+Google	5
+Northwestern University	National Taiwan University	2
+Coursera	Pearson PLC	1
+Coursera	Harvard University	3
+Georgia State University	American Council on Education	1
+The University of Pennsylvania	Coursera	1
+University of Florida	1
+Massachusetts Institute of Technology	University of California	3
+Antioch University	University of Washington	1
+Coursera	Princeton University	4
+Parsons The New School for Design	1
+Stanford University	Udacity	7
+San Jose State University	4
+University of Melbourne	Antioch University	1
+Intelligence Advisory Board	National Security Council	1
+American Council on Education	Udacity	2
+McGill University	National University	2
+Georgia Institute of Technology	University of California-San Francisco	1
+California Faculty Association	Udacity	1
+Instituto de Empresa Business School	Northwestern University	2
+Instituto de Empresa Business School	Coursera	2
+Harvard University	4
+Hechinger Institute on Education	Columbia University	1
+Sony	1
+Harvard University	Georgetown University	2
+DePaul University	1
+San Jose State University	California State University System	1
+U.S. Department of Agriculture	2
+Dish Network	Sprint	1
+Georgia Institute of Technology	National Aeronautics and Space Administration	1
+Department of Education	1
+American Association of State Colleges	American Association of State Colleges and Universities	2
+University of California	Duke University	3
+University of California	1
+Bowie State University	University of Maryland	1
+Modern Language Association of America	Columbia University	1
+Princeton University	Chronicle of Higher Education	1
+Carnegie Mellon University	University of California	1
+Rice University	National University	2
+Duke University	Coursera	8
+Massachusetts Institute of Technology	4
+Quinnipiac University	1
+Georgia Institute of Technology	Coursera	4
+New York Law School	1
+University of Delaware	1
+University of California	edX	2
+The Washington Post	2
+Harvard University	Melinda Gates Foundation	1
+Raytheon	1
+Duke University	2
+University of Denver	1
+Autodesk Inc	Google	1
+Wellesley College	Harvard University	1
+White House	1
+Association of American Colleges and Universities	1
+Harvard University	Duke University	2
+Udacity	Facebook	1
+Coursera	Facebook	1
+YouTube	1
+Duke University	University of Pennsylvania	4
+Columbia University	Princeton University	1
+The Center for College Affordability	1
+Udacity	Harvard University	3
+Winfree Academy Charter School	Udacity	1
+Udacity	11
+Pearson PLC	1
+American Council on Education	2
+University of Maryland	1
+American University	1
+Moody's Investors Service	1
+National Center for Education Statistics	1
+Udacity	edX	13
+University of Texas	1
+University of California	University of California-San Francisco	1
+Coursera	National Taiwan University	2
+Coursera	University of Pennsylvania	8
+University of Virginia	3
+Duke University	Johns Hopkins University	1
+McGraw-Hill	1
+New York Times	1

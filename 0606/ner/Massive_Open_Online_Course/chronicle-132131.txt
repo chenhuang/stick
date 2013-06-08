@@ -1,0 +1,19 @@
+<PERSON>David Evans</PERSON>, associate professor of computer science, <ORGANIZATION>University of Virginia</ORGANIZATION>
+Course Provider:Udacity
+Course Titles:"Introduction to Computer Science—Building a Search Engine" and "Applied Cryptography: Science of Secrets"
+Links:http://www.udacity.com/course/cs101andhttp://www.udacity.com/course/cs387
+Q. Why did you sign up to teach a Massive Open Online Course?
+A.It's a tremendous opportunity to reach students around the world, and have an impact through teaching. It's also an exciting way to try something different, and explore a new way of teaching.
+Q. What's it like so far? Briefly describe what a typical "day" of online teaching is like.
+A.It's been an amazing experience. Every day is different, but there are three main kinds of things involved in teaching an online course like this:
+(1) Planning the course: This is very different from planning a classroom course, and is both an exciting opportunity to try things that are different without the usual constraints of a classroom such as schedule, geography, and timing. It is also important in designing an online course like this to know that students have to be given compelling reasons to join and stick with the course, and really feel like they are gaining a lot from the experience.
+(2) Producing the class: Most of this is recorded with a tablet, but we also film interviews and field trips. This is different from classroom lecturing since the students are not there when you are doing it (most of the recording is done alone), and the recording will be edited to produce the class. <PERSON>Udacity</PERSON> has a fantastic team of video editors who make all the muddled recordings into a seamless video before it reaches the students.
+(3) Interacting with students: This is different from an in-person class, but there are lots of quality interactions with students in the online forums, and it's great to see lots of students reacting to and developing on things in the class.
+Q. What needs to happen for you to consider the course a success?
+A.I hope students who learn the most important ideas from the course and are able to apply them to solve problems are empowered to do useful and interesting things they couldn't do before the class, and want to take more courses after this one.
+In terms of more measurable things, we can see how many students stay in the class, and how many students attempt each question on the homeworks and exams, and how well they do on them. We can also see the more open-ended projects students do at the end of the class.
+Q. Has anything surprised you about the students who signed up for your course?
+A.The breadth of the students is remarkable—there were 9-year olds who completed CS 101 ["Introduction to Computer Science"] and were enthusiastic about taking follow-on classes, and 80-plus-year-old retirees sending e-mails about using parts of their brains they forgot they had; there were many students with no background in computing, from neurosurgeons to truck drivers, but others who've been working in professional software development for many years; there were students from hundreds of countries around the world.
+The amount of dedication from students in an online class was way beyond my expectations. Nearly every question in the course forum was quickly answered by another student, often with a great answer and lots of detail, and then other students would provide more discussion. Some students responded to hundreds of questions, and the students in the class built a great community, doing things like designing T-shirts and organizing an end-of-course party.
+Q. Do you have any concerns going into the course—about format, implications for universities, or any other aspect of this unusual venture?
+A.Teaching a large number of students in an open course is daunting and humbling, and I had plenty of concerns that things could go badly or students would find the class too demanding.

@@ -1,0 +1,116 @@
+<DOCUMENT>
+  <publisher>The Chronicle - Blogs</publisher>
+  <fulltext>&lt;div class="abstract"&gt;
+ &lt;div class="entry-content"&gt;
+  &lt;p&gt;
+   &lt;a href="http://chronicle.com/blognetwork/castingoutnines/files/2013/01/oxfordr.png"&gt;
+    &lt;img alt="" class="alignleft wp-image-4689" height="180" src="http://chronicle.com/blognetwork/castingoutnines/files/2013/01/oxfordr.png" title="oxfordr" width="162"/&gt;
+   &lt;/a&gt;
+   I’m currently taking a MOOC called
+   &lt;em&gt;
+    Computing for Data Analysis
+   &lt;/em&gt;
+   through
+   &lt;a href="https://www.coursera.org/"&gt;
+    Coursera
+   &lt;/a&gt;
+   . Ths is my fourth MOOC (the sixth one, if you count the two that I started and then dropped). It’s an introduction to the open-source statistical computing environment known as
+   &lt;a href="http://cran.r-project.org/"&gt;
+    “R”
+   &lt;/a&gt;
+   . I got interested in R after learning about
+   &lt;a href="http://mosaic-web.org/2012-maa-prep-workshop/"&gt;
+    this modeling-based Calculus project
+   &lt;/a&gt;
+   that uses the statistical and plotting capabilities of R as well as some special symbolic packages as the centerpiece of introductory calculus. I’m leading a taskforce in my department to draft a plan for technology use in the Calculus sequence, and while I don’t think we’ll be using R, I like very much the spirit behind this calculus project, which puts programming at the heart of learning the subject and uses an open-source platform. Plus, I thought R might come in handy for analyzing my own data, and anyway, it’s free, and the
+   &lt;a href="https://www.coursera.org/course/compdata"&gt;
+    course description says
+   &lt;/a&gt;
+   it only requires 3–5 hours a week. So why not?
+  &lt;/p&gt;
+  &lt;p&gt;
+   The first week was fine — I was able to lean on my just-enough-to-be-dangerous knowledge of Python for most of the R content — but this week has me reconsidering the notion that MOOCs are “free”. They may not cost anything, but there is an expense, namely time. That “3–5 hour workload” estimate turned out to be wildly underestimated, at least for newbies like me. The programming assignment for this week has us working with a ZIP file containing 322 comma-separated value files of data. We are to write programs that (1) convert a user-specified file to a suitable data frame, (2) check to see how many completed entries are in each file; and (3) go through the data files and compute correlation coefficients for each set if they pass a certain threshhold of completeness.
+  &lt;/p&gt;
+  &lt;p&gt;
+   It’s quite applicable — and it’s blowing me away. I spent 3 hours today just on part (1) and somehow managed to get it to work properly. And that was 3 hours that I honestly didn’t really have, what with course preparations, grading, service responsibilities, and actual research that needed to get done.
+  &lt;/p&gt;
+  &lt;p&gt;
+   On the way home, I took the time to reflect on why in the world I was doing this. There’s really two reasons.
+  &lt;/p&gt;
+  &lt;p&gt;
+   First, I feel it’s important to bolster my computer science knowledge, especially since I don’t have any real background in CS (other than a Pascal course taken in 1989 that I have completely forgotten) and yet I teach a lot of CS majors and even some courses traditionally taught in CS departments, and some of my research interests lie in the intersection of algebra, geometry, and CS. In particular, I want to be a better programmer, for my own intellectual growth and so I can keep up with my students. With that goal in mind, it’s important to realize that struggling with a difficult programming assignment — even if I don’t make it all the way through —
+   &lt;em&gt;
+    will
+   &lt;/em&gt;
+   make me better at programming if I give it a good-faith effort. Or at least I will not suck any worse.
+  &lt;/p&gt;
+  &lt;p&gt;
+   Second, one of the reasons I have taken MOOCs at all is to remind myself what being a student is like, which in turn informs the way I design my courses. I’ve learned a lot about course design from MOOCs — equal parts “what to do” and “what not to do” — all based on being in those MOOCs. For this particular course, I’m learning that the lectures don’t always impart all the knowledge I need to work the assignments, and so the main source of learning for me is Google and the course discussion boards. I have learned a
+   &lt;em&gt;
+    ton
+   &lt;/em&gt;
+   about R through these two resources in the last two weeks, and I’m seeing there’s value in being thrown into the deep end of the pool. I’m not exactly taking this approach in
+   &lt;a href="http://chronicle.com/blognetwork/castingoutnines/2012/12/18/doing-linear-algebra-with-peer-instruction-and-learning-catalytics/"&gt;
+    the current peer instruction-centric Linear Algebra course
+   &lt;/a&gt;
+   , but I do have students doing reading and viewing outside of class, and as I do the same with the R class I can continue to learn how better to manage my linear algebra course, and also remember what it feels like to be a smart student who is struggling with an assignment.
+  &lt;/p&gt;
+  &lt;p&gt;
+   So onward and upward with this MOOC and with R, and I’m hopeful that students can reap the collateral benefits.
+  &lt;/p&gt;
+ &lt;/div&gt;
+ &lt;!-- .entry-content --&gt;
+ &lt;div class="entry-utility"&gt;
+  This entry was posted in
+  &lt;a href="http://chronicle.com/blognetwork/castingoutnines/category/education/" rel="category tag" title="View all posts in Education"&gt;
+   Education
+  &lt;/a&gt;
+  ,
+  &lt;a href="http://chronicle.com/blognetwork/castingoutnines/category/technology/programming-technology/" rel="category tag" title="View all posts in Programming"&gt;
+   Programming
+  &lt;/a&gt;
+  ,
+  &lt;a href="http://chronicle.com/blognetwork/castingoutnines/category/technology/python/" rel="category tag" title="View all posts in Python"&gt;
+   Python
+  &lt;/a&gt;
+  ,
+  &lt;a href="http://chronicle.com/blognetwork/castingoutnines/category/technology/" rel="category tag" title="View all posts in Technology"&gt;
+   Technology
+  &lt;/a&gt;
+  and tagged
+  &lt;a href="http://chronicle.com/blognetwork/castingoutnines/tag/course-design/" rel="tag"&gt;
+   course design
+  &lt;/a&gt;
+  ,
+  &lt;a href="http://chronicle.com/blognetwork/castingoutnines/tag/coursera/" rel="tag"&gt;
+   Coursera
+  &lt;/a&gt;
+  ,
+  &lt;a href="http://chronicle.com/blognetwork/castingoutnines/tag/mooc/" rel="tag"&gt;
+   MOOC
+  &lt;/a&gt;
+  ,
+  &lt;a href="http://chronicle.com/blognetwork/castingoutnines/tag/r/" rel="tag"&gt;
+   R
+  &lt;/a&gt;
+  . Bookmark the
+  &lt;a href="http://chronicle.com/blognetwork/castingoutnines/2013/01/15/lessons-learned-from-wrestling-with-a-mooc/" rel="bookmark" title="Permalink to Lessons learned from wrestling with a MOOC"&gt;
+   permalink
+  &lt;/a&gt;
+  .
+ &lt;/div&gt;
+ &lt;!-- .entry-utility --&gt;
+ &lt;br/&gt;
+&lt;/div&gt;</fulltext>
+  <pub_title>The Chronicle of Higher Education</pub_title>
+  <author>Robert Talbert</author>
+  <abstract></abstract>
+  <title>Lessons learned from wrestling with a MOOC</title>
+  <comments></comments>
+  <document_url>http://chronicle.com/blognetwork/castingoutnines/2013/01/15/lessons-learned-from-wrestling-with-a-mooc/</document_url>
+  <query>MOOC</query>
+  <pub_date>January 15, 2013,
+           
+            9:10 pm</pub_date>
+  <document_id>chronicle-1223355500676155</document_id>
+</DOCUMENT>

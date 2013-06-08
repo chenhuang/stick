@@ -1,0 +1,132 @@
+<DOCUMENT>
+  <publisher>The Chronicle - Blogs</publisher>
+  <fulltext>&lt;div class="abstract"&gt;
+ &lt;div class="entry-content"&gt;
+  &lt;div style="float:left;width:100%"&gt;
+   &lt;ul class="social-buttons"&gt;
+    &lt;li class="st_facebook" st_image="http://chronicle.com/img/shareicons/default-share.png" st_summary="There's an important distinction between what an organization does and what it sells. Sometimes those are the same thing, like at the sandwich shop near my office. But sometimes they're different. For..." st_title="More Notes on the Rise of Thrun Credits" st_url="http://chronicle.com/blogs/brainstorm/more-notes-on-the-rise-of-thrun-credits/45138"&gt;
+    &lt;/li&gt;
+    &lt;li class="st_twitter" st_image="http://chronicle.com/img/shareicons/default-share.png" st_summary="There's an important distinction between what an organization does and what it sells. Sometimes those are the same thing, like at the sandwich shop near my office. But sometimes they're different. For..." st_title="More Notes on the Rise of Thrun Credits" st_url="http://chronicle.com/blogs/brainstorm/more-notes-on-the-rise-of-thrun-credits/45138" st_via="chronicle"&gt;
+    &lt;/li&gt;
+    &lt;li class="st_googleplus" st_image="http://chronicle.com/img/shareicons/default-share.png" st_summary="There's an important distinction between what an organization does and what it sells. Sometimes those are the same thing, like at the sandwich shop near my office. But sometimes they're different. For..." st_title="More Notes on the Rise of Thrun Credits" st_url="http://chronicle.com/blogs/brainstorm/more-notes-on-the-rise-of-thrun-credits/45138"&gt;
+    &lt;/li&gt;
+    &lt;li class="st_email" st_image="http://chronicle.com/img/shareicons/default-share.png" st_summary="There's an important distinction between what an organization does and what it sells. Sometimes those are the same thing, like at the sandwich shop near my office. But sometimes they're different. For..." st_title="More Notes on the Rise of Thrun Credits" st_url="http://chronicle.com/blogs/brainstorm/more-notes-on-the-rise-of-thrun-credits/45138"&gt;
+    &lt;/li&gt;
+    &lt;li class="print share-divider print-btn" onclick="javascript:print()"&gt;
+    &lt;/li&gt;
+    &lt;li class="comment"&gt;
+     &lt;a href="http://chronicle.com/blogs/brainstorm/more-notes-on-the-rise-of-thrun-credits/45138#disqus_thread"&gt;
+      &lt;img alt="comment" src="/img/icn_comment.png" style="float:none;"/&gt;
+     &lt;/a&gt;
+    &lt;/li&gt;
+   &lt;/ul&gt;
+  &lt;/div&gt;
+  &lt;p&gt;
+   There’s an important distinction between what an organization
+   &lt;em&gt;
+    does
+   &lt;/em&gt;
+   and what it
+   &lt;em&gt;
+    sells.
+   &lt;/em&gt;
+   Sometimes those are the same thing, like at the sandwich shop near my office. But sometimes they’re different. For example, there was once a common misconception that newspapers were in the business of selling news stories to news readers, when they were in fact in the business of selling advertising to grocery stores and H.R. departments. They did the first thing in order to be able to sell the second thing.
+  &lt;/p&gt;
+  &lt;p&gt;
+   So, too, with higher education. For example, there’s been a lot of
+   &lt;a href="http://www.nytimes.com/2012/03/05/education/moocs-large-courses-open-to-all-topple-campus-walls.html?_r=1&amp;amp;ref=tamarlewin" target="_blank"&gt;
+    coverage in the mainstream press
+   &lt;/a&gt;
+   of so-called Massively Open Online Courses, specifically the course taught by rock-star computer scientist Sebastian Thrun at Stanford, along with commentary from excitable policy analysts that this marks the
+   &lt;a href="http://www.tnr.com/article/politics/101620/higher-education-accreditation-MIT-university" target="_blank"&gt;
+    crumbling of the higher-education monopoly
+   &lt;/a&gt;
+   and so forth. Unsurprisingly,
+   &lt;em&gt;
+    Wired
+   &lt;/em&gt;
+   commissioned a
+   &lt;a href="http://www.wired.com/wiredscience/2012/03/ff_aiclass//" target="_blank"&gt;
+    piece
+   &lt;/a&gt;
+   on the subject with some interesting new reporting about how it all shook out:
+  &lt;/p&gt;
+  &lt;blockquote&gt;
+   &lt;p&gt;
+    In late July, Thrun emailed 1,000 members of the
+    &lt;a href="http://www.aaai.org/home.html" title="Association for the Advancement of Artificial Intelligence"&gt;
+     Association for the Advancement of Artificial Intelligence
+    &lt;/a&gt;
+    , a group that had weathered the AI winter of the 1980s and ’90s only to see the field later revitalized by the likes of Stanley. By the next morning 5,000 students had signed up. A few days later the class had 10,000. That’s when the Stanford administration called. Thrun had neglected to tell them about his plan—he’d had a hunch it might not go over well. The university’s chief complaint: You cannot issue an official certificate of any kind. Over the next few weeks, 15 meetings were held on the matter. Thrun talked to the dean’s office, the registrar, and the university’s legal department. Meanwhile, enrollment in CS221 was ballooning: 14,000, 18,000, and—just two weeks later—58,000.
+   &lt;/p&gt;
+   &lt;p&gt;
+    In all those meetings, not one person objected to Thrun’s offering his class online for free. They admired his vision. The administration simply wanted Thrun to drop the assignments and certificate. He refused. Those two components, he argued, were responsible for driving the sign-ups. Someone proposed removing Stanford’s name from the course website altogether. Eventually they reached a compromise: (1) Offer a Statement of Accomplishment, not a certificate, and (2) include a disclaimer stating that the class wouldn’t count toward Stanford credit, a grade, or a degree.
+   &lt;/p&gt;
+  &lt;/blockquote&gt;
+  &lt;p&gt;
+   So there you have it. Teaching students is what Stanford does. But Stanford is in the
+   &lt;em&gt;
+    business
+   &lt;/em&gt;
+   of selling academic credentials. That’s why they were perfectly willing to let Thrun give the teaching away for free, but adamant about the credits and degrees. Was this because, upon reviewing Stanford’s carefully developed and faithfully applied criteria for ensuring the quality of undergraduate courses, they felt that the educational experience being offered by Thrun online was not up to Stanford standards? Well, no:
+  &lt;/p&gt;
+  &lt;blockquote&gt;
+   &lt;p&gt;
+    It’s a crisp and sunny December morning at Stanford—the last day of class—and Thrun steps up to a podium to deliver the in-class lecture. I’d pictured crashing a hall packed with techies, but only 41 students out of 200 show up. Four stroll in late. Two fall asleep. Five leave early. That’s not uncommon. There’s little incentive to come to class. During the fall term, the Stanford students taking CS221 preferred watching the KnowLabs videos. Thrun says this improved their performance. In previous years his students averaged 60 percent on the midterm; this time around they did much better. Thrun swears the exam was tougher than any other he’s given at Stanford. My online classmates averaged 83 percent overall. (I did not help the average.)
+   &lt;/p&gt;
+  &lt;/blockquote&gt;
+  &lt;p&gt;
+   The 100,000+ students around the world taking CS221 online weren’t experiencing some kind of cheap, bowdlerized version of an authentic undergraduate learning experience that can only be realized through the ineffable and unavoidably expensive human bond between student and professor. They were experiencing exactly what the Stanford students were experiencing, and it was–at least, according to Thrun–
+   &lt;em&gt;
+    better
+   &lt;/em&gt;
+   than the way the course had been taught before.
+  &lt;/p&gt;
+  &lt;p&gt;
+   The higher-education business depends on selling a certain kind of credential in a certain kind of way, and anything that threatens that will be perceived accordingly. Thrun credits clearly fall into that category, which is why he ended up taking his course to the private sector, completely outside of the existing system of regulating and funding higher education. I don’t think he’ll be the last person to combine fame and professional authority with the ability to deliver online college courses at scale.
+  &lt;/p&gt;
+  &lt;ul class="social-buttons"&gt;
+   &lt;li class="st_facebook" st_image="http://chronicle.com/img/shareicons/default-share.png" st_summary="There's an important distinction between what an organization does and what it sells. Sometimes those are the same thing, like at the sandwich shop near my office. But sometimes they're different. For..." st_title="More Notes on the Rise of Thrun Credits" st_url="http://chronicle.com/blogs/brainstorm/more-notes-on-the-rise-of-thrun-credits/45138"&gt;
+   &lt;/li&gt;
+   &lt;li class="st_twitter" st_image="http://chronicle.com/img/shareicons/default-share.png" st_summary="There's an important distinction between what an organization does and what it sells. Sometimes those are the same thing, like at the sandwich shop near my office. But sometimes they're different. For..." st_title="More Notes on the Rise of Thrun Credits" st_url="http://chronicle.com/blogs/brainstorm/more-notes-on-the-rise-of-thrun-credits/45138" st_via="chronicle"&gt;
+   &lt;/li&gt;
+   &lt;li class="st_googleplus" st_image="http://chronicle.com/img/shareicons/default-share.png" st_summary="There's an important distinction between what an organization does and what it sells. Sometimes those are the same thing, like at the sandwich shop near my office. But sometimes they're different. For..." st_title="More Notes on the Rise of Thrun Credits" st_url="http://chronicle.com/blogs/brainstorm/more-notes-on-the-rise-of-thrun-credits/45138"&gt;
+   &lt;/li&gt;
+   &lt;li class="st_email" st_image="http://chronicle.com/img/shareicons/default-share.png" st_summary="There's an important distinction between what an organization does and what it sells. Sometimes those are the same thing, like at the sandwich shop near my office. But sometimes they're different. For..." st_title="More Notes on the Rise of Thrun Credits" st_url="http://chronicle.com/blogs/brainstorm/more-notes-on-the-rise-of-thrun-credits/45138"&gt;
+   &lt;/li&gt;
+   &lt;li class="print share-divider print-btn" onclick="javascript:print()"&gt;
+   &lt;/li&gt;
+   &lt;li class="comment"&gt;
+    &lt;a href="http://chronicle.com/blogs/brainstorm/more-notes-on-the-rise-of-thrun-credits/45138#disqus_thread"&gt;
+     &lt;img alt="comment" src="/img/icn_comment.png" style="float:none;"/&gt;
+    &lt;/a&gt;
+   &lt;/li&gt;
+  &lt;/ul&gt;
+ &lt;/div&gt;
+ &lt;!-- .entry-content --&gt;
+ &lt;div class="entry-utility"&gt;
+  This entry was posted in
+  &lt;a href="http://chronicle.com/blogs/brainstorm/category/uncategorized" rel="category tag" title="View all posts in Uncategorized"&gt;
+   Uncategorized
+  &lt;/a&gt;
+  . Bookmark the
+  &lt;a href="http://chronicle.com/blogs/brainstorm/more-notes-on-the-rise-of-thrun-credits/45138" rel="bookmark" title="Permalink to More Notes on the Rise of Thrun Credits"&gt;
+   permalink
+  &lt;/a&gt;
+  .
+ &lt;/div&gt;
+ &lt;!-- .entry-utility --&gt;
+ &lt;br/&gt;
+&lt;/div&gt;</fulltext>
+  <pub_title>The Chronicle of Higher Education</pub_title>
+  <author>Kevin Carey</author>
+  <abstract></abstract>
+  <title>More Notes on the Rise of Thrun Credits</title>
+  <comments></comments>
+  <document_url>http://chronicle.com/blogs/brainstorm/more-notes-on-the-rise-of-thrun-credits/45138</document_url>
+  <query>Massive Open Online Course</query>
+  <pub_date>March 26, 2012,
+           
+            2:26 pm</pub_date>
+  <document_id>chronicle-45138</document_id>
+</DOCUMENT>

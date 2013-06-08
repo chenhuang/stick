@@ -1,0 +1,155 @@
+<DOCUMENT>
+  <publisher>The Chronicle - Blogs</publisher>
+  <fulltext>&lt;div class="abstract"&gt;
+ &lt;div class="entry-content"&gt;
+  &lt;p&gt;
+   &lt;a href="http://chronicle.com/blognetwork/castingoutnines/files/2012/03/221217488_ca8e1e7e57_m.jpg"&gt;
+    &lt;img alt="" class="alignleft size-full wp-image-4089" height="240" src="http://chronicle.com/blognetwork/castingoutnines/files/2012/03/221217488_ca8e1e7e57_m.jpg" title="221217488_ca8e1e7e57_m" width="102"/&gt;
+   &lt;/a&gt;
+   One of my professional plans for this semester was  to take two of Stanford University’s massively-open online courses (“MOOC” for short), one on
+   &lt;a href="http://www.cs101-class.org/"&gt;
+    Introduction to Computer Science
+   &lt;/a&gt;
+   and the other on
+   &lt;a href="https://www.coursera.org/crypto/auth/welcome"&gt;
+    Cryptography
+   &lt;/a&gt;
+   . I had planned on taking these, that is, until the courses started suffering repeated delays. The last email I received from Stanford cited “legal and administrative issues” that have pushed the Cryptography course — which was originally slated to start in January — back into March, and the CS course that was originally scheduled for late February has also failed to materialize. I think I’ll be writing a separate blog post regarding what I think about these delays and what it might mean for Stanford. Let’s just say it doesn’t make Stanford look good. In the meantime, I decided I was ready to learn and didn’t want to wait around anymore, so I signed up for the
+   &lt;a href="http://www.udacity.com/overview/Course/cs101"&gt;
+    CS101 class
+   &lt;/a&gt;
+   offered by
+   &lt;a href="http://www.udacity.com/"&gt;
+    Udacity
+   &lt;/a&gt;
+   .
+  &lt;/p&gt;
+  &lt;p&gt;
+   You’ll
+   &lt;a href="http://www.hackeducation.com/2012/01/23/stanford-ai-professor-thrun-leaves-university-to-start-udacity-an-online-learning-startup/"&gt;
+    remember
+   &lt;/a&gt;
+   that Udacity was formed by Sebastian Thrun, who was involved with Stanford’s MOOC on artificial intelligence. That class enrolled 160,000 students, putting the “M” in MOOC and driving Thrun to believe his reach as an instructor shouldn’t be limited by physical classroom space.
+  &lt;/p&gt;
+  &lt;p&gt;
+   The CS101 class focuses on
+   &lt;a href="http://www.python.org"&gt;
+    Python
+   &lt;/a&gt;
+   and consists of seven one-week units. We just completed Unit 2, which focused on procedures, if-then statements, and loops. It’s been an interesting experience so far.
+  &lt;/p&gt;
+  &lt;p&gt;
+   The pedagogy of the class is quite sound and well-designed. Each unit so far has consisted of 20-30 short lectures (averaging around 2-3 minutes in length) on YouTube, many of which are followed by quizzes that are either multiple choice (think: clicker questions) or exercises in writing code in an interpreter. These don’t count towards one’s grade (yes, there are grades; more in a bit on that) so they are risk-free. And as we know, frequent low-stakes quizzing is an excellent way to improve learning. The main body of student work comes from weekly homework sets, which consist primarily of code-writing exercises that are graded by scripts.
+  &lt;/p&gt;
+  &lt;p&gt;
+   Maybe it’s my lack of programming skill, but I’m surprised at how rigorous the course has been. It’s not a cakewalk at all for people who are relative beginners — I’ve seen more than one “farewell” post on the discussion boards from students who just can’t keep up with the pace and are dropping out. The quizzes, although they entail no risk to my grade, have been quite challenging times, as have some of the homework problems. (One problem from Unit 1 — to write a procedure that rounds a number to the nearest integer using only string methods and basic arithmetic — took me multiple sessions to figure out.)
+  &lt;/p&gt;
+  &lt;p&gt;
+   The rigor on the “micro” scale is balanced by good instructional design on the macro scale. Everything in the course is focused on a single, overarching project: building a web crawler. We are learning about control structures and loops and string methods and so on, not as isolated topics, but because we need them to complete the project. Even the title of the course reflects the project orientation: it’s called “Building a Search Engine” rather than the usual “Introduction to Python” or something similar.
+  &lt;/p&gt;
+  &lt;p&gt;
+   So, whether or not the Udacity people realize it, they’ve set the course up with several design points that promote engagement and creative flow: clear goals and a ready-made structure (the web crawler project) into which new concepts can be placed, immediate feedback (since quizzes and homework are auto-graded), a balance between ability level and challenge, and a sense of personal control over our activities.
+  &lt;/p&gt;
+  &lt;p&gt;
+   Another thing the course has going for it is a
+   &lt;a href="http://www.udacity-forums.com/cs101/"&gt;
+    highly robust discussion forum
+   &lt;/a&gt;
+   . I don’t know how many people are enrolled in CS101 right now, but the forum for the class is constantly churning with new posts and replies. I regularly learn as much from interacting on the boards as I do from the class itself, and the esprit de corps is fun. (It’s amusing to see the same kinds of students on the boards here as you would find in a “real” CS class — the complainers, the overachievers, the grade-grubbers, etc.)
+  &lt;/p&gt;
+  &lt;p&gt;
+   There are definitely some kinks to work out in the course. Occasionally the pedagogical goals for a unit are not entirely clear, and a quiz or homework question doesn’t see m to assess the right thing. For example, in the Unit 2 homework there was a question that gave three code snippets that involved loops, and we were asked to determine whether each loop always finishes, sometimes runs forever, or whether it’s unknown to anyone whether the loop finishes or not. One loop was an implementation of the
+   &lt;a href="http://en.wikipedia.org/wiki/Collatz_conjecture"&gt;
+    Collatz conjecture
+   &lt;/a&gt;
+   . It seemed that this question was not testing one’s knowledge about the termination of loops but rather whether you could recognize the Collatz conjecture, specifically the fact that it is a conjecture. Is that the pedagogical goal for the problem? If so, is it an appropriate one? I imagine there will be some discussion-board controversy on this once the homework is graded. (We did get
+   &lt;a href="http://xkcd.com/710/"&gt;
+    this xkcd comic
+   &lt;/a&gt;
+   as a hint — I suspect the only people who understood the hint were the ones who didn’t really need it in the first place.)
+  &lt;/p&gt;
+  &lt;p&gt;
+   Back to grades for a moment. There are, apparently, going to be grades in the course. It’s not completely clear what the purpose of these grades will be other than as a summative measure and as a motivator. There is currently no Udacity “degree” that would require maintaining a certain GPA. But looking at the list of courses that are coming up at Udacity, I wonder if that’s going to change. I also wonder about the eventual pay structure for Udacity; it’s currently labeled as “Beta”, which translates into “Eventually this will cost money”. Is Udacity taking a “freemium” approach in which they’re giving away CS101 for free but will charge for more advanced courses? We’ll see.
+  &lt;/p&gt;
+  &lt;p&gt;
+   Could CS101 be replicated in a traditional university setting? Maybe, with modifications. I could definitely see the setup of CS101 being mapped onto a traditional Computing 101 course in college, with an inverted classroom structure that keeps lectures with frequent quizzing outside the class (as CS101 does) and puts a portion of the homework, or a more advanced project, as the focus of the class meetings. It’s certainly an engaging way to run a class like this. People who like computer science like doing things, and that seems to be what CS101 is all about so far.
+  &lt;/p&gt;
+  &lt;p&gt;
+   I don’t know if Udacity poses anything like a serious threat to the traditional university, but I do think traditional higher education should start paying attention to what Udacity is doing. It’s a serious class with a lot of good things going for it.
+  &lt;/p&gt;
+  &lt;p&gt;
+   &lt;em&gt;
+    Image:
+    &lt;a href="http://www.flickr.com/photos/travelinlibrarian/"&gt;
+     http://www.flickr.com/photos/travelinlibrarian/
+    &lt;/a&gt;
+   &lt;/em&gt;
+  &lt;/p&gt;
+ &lt;/div&gt;
+ &lt;!-- .entry-content --&gt;
+ &lt;div class="entry-utility"&gt;
+  This entry was posted in
+  &lt;a href="http://chronicle.com/blognetwork/castingoutnines/category/education/higher-ed/" rel="category tag" title="View all posts in Higher ed"&gt;
+   Higher ed
+  &lt;/a&gt;
+  ,
+  &lt;a href="http://chronicle.com/blognetwork/castingoutnines/category/teaching/inverted-classroom-teaching/" rel="category tag" title="View all posts in Inverted classroom"&gt;
+   Inverted classroom
+  &lt;/a&gt;
+  ,
+  &lt;a href="http://chronicle.com/blognetwork/castingoutnines/category/math/" rel="category tag" title="View all posts in Math"&gt;
+   Math
+  &lt;/a&gt;
+  ,
+  &lt;a href="http://chronicle.com/blognetwork/castingoutnines/category/technology/python/" rel="category tag" title="View all posts in Python"&gt;
+   Python
+  &lt;/a&gt;
+  ,
+  &lt;a href="http://chronicle.com/blognetwork/castingoutnines/category/technology/screencasts/" rel="category tag" title="View all posts in Screencasts"&gt;
+   Screencasts
+  &lt;/a&gt;
+  ,
+  &lt;a href="http://chronicle.com/blognetwork/castingoutnines/category/technology/" rel="category tag" title="View all posts in Technology"&gt;
+   Technology
+  &lt;/a&gt;
+  and tagged
+  &lt;a href="http://chronicle.com/blognetwork/castingoutnines/tag/computing-education/" rel="tag"&gt;
+   Computing education
+  &lt;/a&gt;
+  ,
+  &lt;a href="http://chronicle.com/blognetwork/castingoutnines/tag/cs101/" rel="tag"&gt;
+   CS101
+  &lt;/a&gt;
+  ,
+  &lt;a href="http://chronicle.com/blognetwork/castingoutnines/tag/higher-ed/" rel="tag"&gt;
+   Higher ed
+  &lt;/a&gt;
+  ,
+  &lt;a href="http://chronicle.com/blognetwork/castingoutnines/tag/python/" rel="tag"&gt;
+   Python
+  &lt;/a&gt;
+  ,
+  &lt;a href="http://chronicle.com/blognetwork/castingoutnines/tag/udacity/" rel="tag"&gt;
+   Udacity
+  &lt;/a&gt;
+  . Bookmark the
+  &lt;a href="http://chronicle.com/blognetwork/castingoutnines/2012/03/06/two-weeks-with-udacity/" rel="bookmark" title="Permalink to Two Weeks With Udacity"&gt;
+   permalink
+  &lt;/a&gt;
+  .
+ &lt;/div&gt;
+ &lt;!-- .entry-utility --&gt;
+ &lt;br/&gt;
+&lt;/div&gt;</fulltext>
+  <pub_title>The Chronicle of Higher Education</pub_title>
+  <author>Robert Talbert</author>
+  <abstract></abstract>
+  <title>Two Weeks With Udacity</title>
+  <comments></comments>
+  <document_url>http://chronicle.com/blognetwork/castingoutnines/2012/03/06/two-weeks-with-udacity/</document_url>
+  <query>Massive Open Online Course</query>
+  <pub_date>March 6, 2012,
+           
+            8:10 am</pub_date>
+  <document_id>chronicle-3912606845845204</document_id>
+</DOCUMENT>

@@ -1,0 +1,176 @@
+<DOCUMENT>
+  <publisher>The Chronicle - Blogs</publisher>
+  <fulltext>&lt;div class="abstract"&gt;
+ &lt;div class="entry-content"&gt;
+  &lt;div style="float:left;width:100%"&gt;
+   &lt;ul class="social-buttons"&gt;
+    &lt;li class="st_facebook" st_image="http://chronicle.com/img/shareicons/default-share.png" st_summary="This month I conducted a workshop on &amp;quot;Thinking Outside the Course Management System&amp;quot; as part of a series on &amp;quot;Networked Learning&amp;quot; we're running at the University of Baltimore. Many of us at ProfHacker ..." st_title="Revisiting Your Learning Management System" st_url="http://chronicle.com/blogs/profhacker/revisiting-your-lms/48441"&gt;
+    &lt;/li&gt;
+    &lt;li class="st_twitter" st_image="http://chronicle.com/img/shareicons/default-share.png" st_summary="This month I conducted a workshop on &amp;quot;Thinking Outside the Course Management System&amp;quot; as part of a series on &amp;quot;Networked Learning&amp;quot; we're running at the University of Baltimore. Many of us at ProfHacker ..." st_title="Revisiting Your Learning Management System" st_url="http://chronicle.com/blogs/profhacker/revisiting-your-lms/48441" st_via="chronicle"&gt;
+    &lt;/li&gt;
+    &lt;li class="st_googleplus" st_image="http://chronicle.com/img/shareicons/default-share.png" st_summary="This month I conducted a workshop on &amp;quot;Thinking Outside the Course Management System&amp;quot; as part of a series on &amp;quot;Networked Learning&amp;quot; we're running at the University of Baltimore. Many of us at ProfHacker ..." st_title="Revisiting Your Learning Management System" st_url="http://chronicle.com/blogs/profhacker/revisiting-your-lms/48441"&gt;
+    &lt;/li&gt;
+    &lt;li class="st_email" st_image="http://chronicle.com/img/shareicons/default-share.png" st_summary="This month I conducted a workshop on &amp;quot;Thinking Outside the Course Management System&amp;quot; as part of a series on &amp;quot;Networked Learning&amp;quot; we're running at the University of Baltimore. Many of us at ProfHacker ..." st_title="Revisiting Your Learning Management System" st_url="http://chronicle.com/blogs/profhacker/revisiting-your-lms/48441"&gt;
+    &lt;/li&gt;
+    &lt;li class="print share-divider print-btn" onclick="javascript:print()"&gt;
+    &lt;/li&gt;
+    &lt;li class="comment"&gt;
+     &lt;a href="http://chronicle.com/blogs/profhacker/revisiting-your-lms/48441#disqus_thread"&gt;
+      &lt;img alt="comment" src="/img/icn_comment.png" style="float:none;"/&gt;
+     &lt;/a&gt;
+    &lt;/li&gt;
+   &lt;/ul&gt;
+  &lt;/div&gt;
+  &lt;p&gt;
+   &lt;a href="http://www.flickr.com/photos/yaketyyakyak/7605280624/"&gt;
+    &lt;img alt="7605280624_d373564f4d_m" class="alignleft size-full wp-image-48567" height="240" src="http://chronicle.com/blogs/profhacker/files/2013/04/7605280624_d373564f4d_m.jpg" width="160"/&gt;
+   &lt;/a&gt;
+   This month I conducted a workshop on “
+   &lt;a href="http://selfloud.net/ub21/"&gt;
+    Thinking Outside the Course Management System
+   &lt;/a&gt;
+   ” as part of a series on “
+   &lt;a href="http://prezi.com/8b64ppi920g7/ub21-networked-technology/"&gt;
+    Networked Learning
+   &lt;/a&gt;
+   ” we’re
+   &lt;a href="http://www.ubalt.edu/about-ub/ub-s-future/UB21%20Catalyst%20Grant%20Proposal%20Networked%20Learning%20Cohort%20Support.pdf"&gt;
+    running at the University of Baltimore
+   &lt;/a&gt;
+   . Many of us at ProfHacker are big believers in using open tools and alternative platforms for our courses instead of our university systems:
+   &lt;a href="http://chronicle.com/blogs/profhacker/wordpress-a-better-lms/23050"&gt;
+    David Parry, a fellow WordPress advocate, offered several thoughts on what makes WordPress a great course platform
+   &lt;/a&gt;
+   and
+   &lt;a href="http://chronicle.com/blogs/profhacker/rebelling-against-blackboard-with-posterous-and-tinychat/36145"&gt;
+    Trent Kays rebelled against Blackboard
+   &lt;/a&gt;
+   with Posterous and TinyChat.
+   &lt;a href="http://chronicle.com/blogs/profhacker/responding-to-your-institutions-technological-choices-an-open-forum/25270"&gt;
+    Ryan Cordell offered several thought-provoking questions about our reasons for these “rebellions”
+   &lt;/a&gt;
+   against our university tech systems, and noted that for some of us who are digitally-inclined (myself included) subversive choices in technology become a default behavior.
+  &lt;/p&gt;
+  &lt;p&gt;
+   Talking about technology choices with a broader audience reminded me how important it is to regularly question all our own assumptions and habits. I’ve been using WordPress (with some variance in plug-ins, set-up, etc.) for several years now as my platform of choice. Most people at my university use Sakai, and I gave it a try for one class prior to teaching this workshop so I could address users already familiar with that platform. Using Sakai was a disaster and I had many of the typical complaints of a power-user: the university’s settings gave me no control over how the course was organized and most of the system’s assumptions clashed horribly with my pedagogy.
+  &lt;/p&gt;
+  &lt;p&gt;
+   I could bring some of these same complaints to WordPress: taking a blogging platform and making it work for academic purposes isn’t exactly ideal. But find that the philosophy behind WordPress is ultimately more compatible with my pedagogy, so the technical details are easier to resolve. It’s harder to convince someone who hasn’t found the benefit in systems like Sakai that another platform is worth the investment.
+  &lt;/p&gt;
+  &lt;p&gt;
+   So why do I use WordPress? At the moment, it’s because it comes closest to enabling the three aspects I see as most important to an online learning environment:
+  &lt;/p&gt;
+  &lt;ul style="margin-left: 0; padding-left: 2.5em;"&gt;
+   &lt;li&gt;
+    &lt;strong&gt;
+     The inspiration to build communication skills in public spaces
+    &lt;/strong&gt;
+    . New media writing and content production requires students and professionals to adapt to new structures and forms, including
+    &lt;a href="http://chronicle.com/blogs/profhacker/a-rubric-for-evaluating-student-blogs/27196"&gt;
+     blogging
+    &lt;/a&gt;
+    ,
+    &lt;a href="http://chronicle.com/blogs/profhacker/a-framework-for-teaching-with-twitter/26223"&gt;
+     Twitter
+    &lt;/a&gt;
+    , Tumblr and more. I want my online learning spaces to bring a potential immediacy to a connection to an audience, and offer opportunities to address writing and communicating to a clearly defined potential reader beyond the constructs of the classroom.
+   &lt;/li&gt;
+   &lt;li&gt;
+    &lt;strong&gt;
+     The reinforcement of digital literacy skills and mastery of a variety of platforms
+    &lt;/strong&gt;
+    . Just as we as professionals benefit from understanding content management systems like WordPress and Joomla, our students need to be prepared to quickly adapt to new interfaces and networks as part of their future careers. If my course is going to make use of networked space, it can require use of a variety of platforms and integration of disciplines.
+   &lt;/li&gt;
+   &lt;li&gt;
+    &lt;strong&gt;
+     New opportunities for playful and collaborative pedagogy
+    &lt;/strong&gt;
+    . From the massive collaboration of the
+    &lt;a href="https://plus.google.com/u/0/communities/106132864609383396284"&gt;
+     Learning Creative Learning MOOC
+    &lt;/a&gt;
+    out of MIT to the emerging community of
+    &lt;a href="http://commons.mla.org/"&gt;
+     MLA Commons
+    &lt;/a&gt;
+    , there are lots of examples of how different platforms can be used to create new connections integrated with knowledge-sharing.
+   &lt;/li&gt;
+  &lt;/ul&gt;
+  &lt;p&gt;
+   I’m going to continue to search for new platforms that better accomplish these goals.
+   &lt;strong&gt;
+    Do you use an online system to manage your course, whether university provided or open?  What do you want the digital spaces of your courses to provide to students?
+   &lt;/strong&gt;
+  &lt;/p&gt;
+  &lt;p&gt;
+   [
+   &lt;a href="http://www.flickr.com/photos/yaketyyakyak/7605280624/"&gt;
+    CC BY 2.0 Image via Flickr - Dave Catchpole
+   &lt;/a&gt;
+   ]
+  &lt;/p&gt;
+  &lt;ul class="social-buttons"&gt;
+   &lt;li class="st_facebook" st_image="http://chronicle.com/img/shareicons/default-share.png" st_summary="This month I conducted a workshop on &amp;quot;Thinking Outside the Course Management System&amp;quot; as part of a series on &amp;quot;Networked Learning&amp;quot; we're running at the University of Baltimore. Many of us at ProfHacker ..." st_title="Revisiting Your Learning Management System" st_url="http://chronicle.com/blogs/profhacker/revisiting-your-lms/48441"&gt;
+   &lt;/li&gt;
+   &lt;li class="st_twitter" st_image="http://chronicle.com/img/shareicons/default-share.png" st_summary="This month I conducted a workshop on &amp;quot;Thinking Outside the Course Management System&amp;quot; as part of a series on &amp;quot;Networked Learning&amp;quot; we're running at the University of Baltimore. Many of us at ProfHacker ..." st_title="Revisiting Your Learning Management System" st_url="http://chronicle.com/blogs/profhacker/revisiting-your-lms/48441" st_via="chronicle"&gt;
+   &lt;/li&gt;
+   &lt;li class="st_googleplus" st_image="http://chronicle.com/img/shareicons/default-share.png" st_summary="This month I conducted a workshop on &amp;quot;Thinking Outside the Course Management System&amp;quot; as part of a series on &amp;quot;Networked Learning&amp;quot; we're running at the University of Baltimore. Many of us at ProfHacker ..." st_title="Revisiting Your Learning Management System" st_url="http://chronicle.com/blogs/profhacker/revisiting-your-lms/48441"&gt;
+   &lt;/li&gt;
+   &lt;li class="st_email" st_image="http://chronicle.com/img/shareicons/default-share.png" st_summary="This month I conducted a workshop on &amp;quot;Thinking Outside the Course Management System&amp;quot; as part of a series on &amp;quot;Networked Learning&amp;quot; we're running at the University of Baltimore. Many of us at ProfHacker ..." st_title="Revisiting Your Learning Management System" st_url="http://chronicle.com/blogs/profhacker/revisiting-your-lms/48441"&gt;
+   &lt;/li&gt;
+   &lt;li class="print share-divider print-btn" onclick="javascript:print()"&gt;
+   &lt;/li&gt;
+   &lt;li class="comment"&gt;
+    &lt;a href="http://chronicle.com/blogs/profhacker/revisiting-your-lms/48441#disqus_thread"&gt;
+     &lt;img alt="comment" src="/img/icn_comment.png" style="float:none;"/&gt;
+    &lt;/a&gt;
+   &lt;/li&gt;
+  &lt;/ul&gt;
+ &lt;/div&gt;
+ &lt;!-- .entry-content --&gt;
+ &lt;div class="entry-utility"&gt;
+  This entry was posted in
+  &lt;a href="http://chronicle.com/blogs/profhacker/category/editorial" rel="category tag" title="View all posts in Editorial"&gt;
+   Editorial
+  &lt;/a&gt;
+  ,
+  &lt;a href="http://chronicle.com/blogs/profhacker/category/software" rel="category tag" title="View all posts in Software"&gt;
+   Software
+  &lt;/a&gt;
+  ,
+  &lt;a href="http://chronicle.com/blogs/profhacker/category/teaching" rel="category tag" title="View all posts in Teaching"&gt;
+   Teaching
+  &lt;/a&gt;
+  and tagged
+  &lt;a href="http://chronicle.com/blogs/profhacker/tag/learning" rel="tag"&gt;
+   learning
+  &lt;/a&gt;
+  ,
+  &lt;a href="http://chronicle.com/blogs/profhacker/tag/lms" rel="tag"&gt;
+   lms
+  &lt;/a&gt;
+  ,
+  &lt;a href="http://chronicle.com/blogs/profhacker/tag/wordpress" rel="tag"&gt;
+   wordpress
+  &lt;/a&gt;
+  . Bookmark the
+  &lt;a href="http://chronicle.com/blogs/profhacker/revisiting-your-lms/48441" rel="bookmark" title="Permalink to Revisiting Your Learning Management System"&gt;
+   permalink
+  &lt;/a&gt;
+  .
+ &lt;/div&gt;
+ &lt;!-- .entry-utility --&gt;
+ &lt;br/&gt;
+&lt;/div&gt;</fulltext>
+  <pub_title>The Chronicle of Higher Education</pub_title>
+  <author>Anastasia Salter</author>
+  <abstract></abstract>
+  <title>Revisiting Your Learning Management System</title>
+  <comments></comments>
+  <document_url>http://chronicle.com/blogs/profhacker/revisiting-your-lms/48441</document_url>
+  <query>MOOC</query>
+  <pub_date>April 18, 2013,
+           
+            11:00 am</pub_date>
+  <document_id>chronicle-48441</document_id>
+</DOCUMENT>

@@ -1,0 +1,108 @@
+<DOCUMENT>
+  <publisher>The Chronicle - Blogs</publisher>
+  <fulltext>&lt;div class="abstract"&gt;
+ &lt;div class="entry-content"&gt;
+  &lt;div style="float:left;width:100%"&gt;
+   &lt;ul class="social-buttons"&gt;
+    &lt;li class="st_facebook" st_image="http://chronicle.com/img/shareicons/default-share.png" st_summary="Starting in June, colleges that want to deliver their own massive open online courses will be able to use a free software platform developed jointly by Stanford University and edX, the nonprofit MOOC ..." st_title="Stanford U. and edX Will Jointly Build Open-Source Software to Deliver MOOCs" st_url="http://chronicle.com/blogs/wiredcampus/stanford-u-and-edx-will-jointly-build-open-source-software-to-deliver-moocs/43301"&gt;
+    &lt;/li&gt;
+    &lt;li class="st_twitter" st_image="http://chronicle.com/img/shareicons/default-share.png" st_summary="Starting in June, colleges that want to deliver their own massive open online courses will be able to use a free software platform developed jointly by Stanford University and edX, the nonprofit MOOC ..." st_title="Stanford U. and edX Will Jointly Build Open-Source Software to Deliver MOOCs" st_url="http://chronicle.com/blogs/wiredcampus/stanford-u-and-edx-will-jointly-build-open-source-software-to-deliver-moocs/43301" st_via="chronicle"&gt;
+    &lt;/li&gt;
+    &lt;li class="st_linkedin" st_image="http://chronicle.com/img/shareicons/default-share.png" st_summary="Starting in June, colleges that want to deliver their own massive open online courses will be able to use a free software platform developed jointly by Stanford University and edX, the nonprofit MOOC ..." st_title="Stanford U. and edX Will Jointly Build Open-Source Software to Deliver MOOCs" st_url="http://chronicle.com/blogs/wiredcampus/stanford-u-and-edx-will-jointly-build-open-source-software-to-deliver-moocs/43301"&gt;
+    &lt;/li&gt;
+    &lt;li class="st_googleplus" st_image="http://chronicle.com/img/shareicons/default-share.png" st_summary="Starting in June, colleges that want to deliver their own massive open online courses will be able to use a free software platform developed jointly by Stanford University and edX, the nonprofit MOOC ..." st_title="Stanford U. and edX Will Jointly Build Open-Source Software to Deliver MOOCs" st_url="http://chronicle.com/blogs/wiredcampus/stanford-u-and-edx-will-jointly-build-open-source-software-to-deliver-moocs/43301"&gt;
+    &lt;/li&gt;
+    &lt;li class="st_email" st_image="http://chronicle.com/img/shareicons/default-share.png" st_summary="Starting in June, colleges that want to deliver their own massive open online courses will be able to use a free software platform developed jointly by Stanford University and edX, the nonprofit MOOC ..." st_title="Stanford U. and edX Will Jointly Build Open-Source Software to Deliver MOOCs" st_url="http://chronicle.com/blogs/wiredcampus/stanford-u-and-edx-will-jointly-build-open-source-software-to-deliver-moocs/43301"&gt;
+    &lt;/li&gt;
+    &lt;li class="print share-divider print-btn" onclick="javascript:print()"&gt;
+    &lt;/li&gt;
+    &lt;li class="comment"&gt;
+     &lt;a href="http://chronicle.com/blogs/wiredcampus/stanford-u-and-edx-will-jointly-build-open-source-software-to-deliver-moocs/43301#disqus_thread"&gt;
+      &lt;img alt="comment" src="/img/icn_comment.png" style="float:none;"/&gt;
+     &lt;/a&gt;
+    &lt;/li&gt;
+   &lt;/ul&gt;
+  &lt;/div&gt;
+  &lt;p&gt;
+   Starting in June, colleges that want to deliver their own massive open online courses will be able to use a free software platform developed jointly by Stanford University and edX, the nonprofit MOOC provider founded by Harvard University and the Massachusetts Institute of Technology.
+  &lt;/p&gt;
+  &lt;p&gt;
+   The move is a merger of sorts between two previously competing software-development projects with the same goal. EdX has long said it would make the software it built to power its MOOCs freely available to anyone as an open-source package. And Stanford was working on Class2Go, its own free software for online courses. Now the two software teams will work together and focus on developing a single platform.
+  &lt;/p&gt;
+  &lt;p&gt;
+   Here’s where it gets confusing. Despite the joint work on software development, Stanford has no plans to join edX as a partner, and it will not offer courses via edX. Instead, Stanford will create its own branded presence, with the jointly built software platform powering it in the background. Stanford will also continue to deliver some courses through Coursera, a company started by two Stanford professors that is now working with highly selective colleges around the world.
+  &lt;/p&gt;
+  &lt;p&gt;
+   John Mitchell, vice provost for online learning at Stanford, said in a telephone press conference on Tuesday that the goal was to create the “Linux of online learning.” (For those not in the know, Linux is perhaps the world’s most successful open-source effort, producing a free alternative to Microsoft’s Windows or Apple’s Macintosh operating system.)
+  &lt;/p&gt;
+  &lt;p&gt;
+   Students taking courses via edX will see no immediate effect from the decision announced on Tuesday, although leaders said that new features could be added faster now that more programmers were involved in building its back-end software.
+  &lt;/p&gt;
+  &lt;p&gt;
+   The move might cause some headaches for universities that had already started using Class2Go to deliver their own MOOCs. Mr. Mitchell said that the software would continue to be offered for those that wanted to use it, but it won’t be upgraded. The vice provost said that his team would try to make it easy for colleges that are now using Class2Go to move content from that system to the new platform.
+  &lt;/p&gt;
+  &lt;p&gt;
+   One for-profit education company is already using the edX software to run its Web site. The company, 10gen, was given early access to the software as part of a pilot project to test whether it could be easily used, said Anant Agarwal, president of edX.
+  &lt;/p&gt;
+  &lt;p&gt;
+   Colleges have an increasing number of choices for delivering online courses. Last year Google announced a free open-source software platform for MOOCs, called
+   &lt;a href="http://chronicle.com/blogs/wiredcampus/google-releases-open-source-online-education-software/39882"&gt;
+    Course Builder.
+   &lt;/a&gt;
+   And many colleges have already purchased software to deliver online courses that could also be used for MOOCs.
+  &lt;/p&gt;
+  &lt;ul class="social-buttons"&gt;
+   &lt;li class="st_facebook" st_image="http://chronicle.com/img/shareicons/default-share.png" st_summary="Starting in June, colleges that want to deliver their own massive open online courses will be able to use a free software platform developed jointly by Stanford University and edX, the nonprofit MOOC ..." st_title="Stanford U. and edX Will Jointly Build Open-Source Software to Deliver MOOCs" st_url="http://chronicle.com/blogs/wiredcampus/stanford-u-and-edx-will-jointly-build-open-source-software-to-deliver-moocs/43301"&gt;
+   &lt;/li&gt;
+   &lt;li class="st_twitter" st_image="http://chronicle.com/img/shareicons/default-share.png" st_summary="Starting in June, colleges that want to deliver their own massive open online courses will be able to use a free software platform developed jointly by Stanford University and edX, the nonprofit MOOC ..." st_title="Stanford U. and edX Will Jointly Build Open-Source Software to Deliver MOOCs" st_url="http://chronicle.com/blogs/wiredcampus/stanford-u-and-edx-will-jointly-build-open-source-software-to-deliver-moocs/43301" st_via="chronicle"&gt;
+   &lt;/li&gt;
+   &lt;li class="st_linkedin" st_image="http://chronicle.com/img/shareicons/default-share.png" st_summary="Starting in June, colleges that want to deliver their own massive open online courses will be able to use a free software platform developed jointly by Stanford University and edX, the nonprofit MOOC ..." st_title="Stanford U. and edX Will Jointly Build Open-Source Software to Deliver MOOCs" st_url="http://chronicle.com/blogs/wiredcampus/stanford-u-and-edx-will-jointly-build-open-source-software-to-deliver-moocs/43301"&gt;
+   &lt;/li&gt;
+   &lt;li class="st_googleplus" st_image="http://chronicle.com/img/shareicons/default-share.png" st_summary="Starting in June, colleges that want to deliver their own massive open online courses will be able to use a free software platform developed jointly by Stanford University and edX, the nonprofit MOOC ..." st_title="Stanford U. and edX Will Jointly Build Open-Source Software to Deliver MOOCs" st_url="http://chronicle.com/blogs/wiredcampus/stanford-u-and-edx-will-jointly-build-open-source-software-to-deliver-moocs/43301"&gt;
+   &lt;/li&gt;
+   &lt;li class="st_email" st_image="http://chronicle.com/img/shareicons/default-share.png" st_summary="Starting in June, colleges that want to deliver their own massive open online courses will be able to use a free software platform developed jointly by Stanford University and edX, the nonprofit MOOC ..." st_title="Stanford U. and edX Will Jointly Build Open-Source Software to Deliver MOOCs" st_url="http://chronicle.com/blogs/wiredcampus/stanford-u-and-edx-will-jointly-build-open-source-software-to-deliver-moocs/43301"&gt;
+   &lt;/li&gt;
+   &lt;li class="print share-divider print-btn" onclick="javascript:print()"&gt;
+   &lt;/li&gt;
+   &lt;li class="comment"&gt;
+    &lt;a href="http://chronicle.com/blogs/wiredcampus/stanford-u-and-edx-will-jointly-build-open-source-software-to-deliver-moocs/43301#disqus_thread"&gt;
+     &lt;img alt="comment" src="/img/icn_comment.png" style="float:none;"/&gt;
+    &lt;/a&gt;
+   &lt;/li&gt;
+  &lt;/ul&gt;
+ &lt;/div&gt;
+ &lt;!-- .entry-content --&gt;
+ &lt;div class="entry-utility"&gt;
+  This entry was posted in
+  &lt;a href="http://chronicle.com/blogs/wiredcampus/category/distance-education" rel="category tag" title="View all posts in Distance Education"&gt;
+   Distance Education
+  &lt;/a&gt;
+  ,
+  &lt;a href="http://chronicle.com/blogs/wiredcampus/category/distance-education/moocs-distance-education" rel="category tag" title="View all posts in MOOCs"&gt;
+   MOOCs
+  &lt;/a&gt;
+  ,
+  &lt;a href="http://chronicle.com/blogs/wiredcampus/category/software" rel="category tag" title="View all posts in Software"&gt;
+   Software
+  &lt;/a&gt;
+  . Bookmark the
+  &lt;a href="http://chronicle.com/blogs/wiredcampus/stanford-u-and-edx-will-jointly-build-open-source-software-to-deliver-moocs/43301" rel="bookmark" title="Permalink to Stanford U. and edX Will Jointly Build Open-Source Software to Deliver MOOCs"&gt;
+   permalink
+  &lt;/a&gt;
+  .
+ &lt;/div&gt;
+ &lt;!-- .entry-utility --&gt;
+ &lt;br/&gt;
+&lt;/div&gt;</fulltext>
+  <pub_title>The Chronicle of Higher Education</pub_title>
+  <author>Jeffrey R. Young</author>
+  <abstract></abstract>
+  <title>Stanford U. and edX Will Jointly Build Open-Source Software to Deliver MOOCs</title>
+  <comments></comments>
+  <document_url>http://chronicle.com/blogs/wiredcampus/stanford-u-and-edx-will-jointly-build-open-source-software-to-deliver-moocs/43301</document_url>
+  <query>Massive Open Online Course</query>
+  <pub_date>April 3, 2013,
+           
+            12:01 am</pub_date>
+  <document_id>chronicle-43301</document_id>
+</DOCUMENT>

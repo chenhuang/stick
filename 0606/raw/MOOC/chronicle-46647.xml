@@ -1,0 +1,199 @@
+<DOCUMENT>
+  <publisher>The Chronicle - Blogs</publisher>
+  <fulltext>&lt;div class="abstract"&gt;
+ &lt;div class="entry-content"&gt;
+  &lt;div style="float:left;width:100%"&gt;
+   &lt;ul class="social-buttons"&gt;
+    &lt;li class="st_facebook" st_image="http://chronicle.com/img/shareicons/default-share.png" st_summary="I've discussed the potential value of learning some scripting for any major in the past, and President Obama recently called for more of a focus on making sure students know &amp;quot;how to actually produce s..." st_title="Making Games in the Classroom with Scratch" st_url="http://chronicle.com/blogs/profhacker/making-games-in-the-classroom-with-scratch/46647"&gt;
+    &lt;/li&gt;
+    &lt;li class="st_twitter" st_image="http://chronicle.com/img/shareicons/default-share.png" st_summary="I've discussed the potential value of learning some scripting for any major in the past, and President Obama recently called for more of a focus on making sure students know &amp;quot;how to actually produce s..." st_title="Making Games in the Classroom with Scratch" st_url="http://chronicle.com/blogs/profhacker/making-games-in-the-classroom-with-scratch/46647" st_via="chronicle"&gt;
+    &lt;/li&gt;
+    &lt;li class="st_googleplus" st_image="http://chronicle.com/img/shareicons/default-share.png" st_summary="I've discussed the potential value of learning some scripting for any major in the past, and President Obama recently called for more of a focus on making sure students know &amp;quot;how to actually produce s..." st_title="Making Games in the Classroom with Scratch" st_url="http://chronicle.com/blogs/profhacker/making-games-in-the-classroom-with-scratch/46647"&gt;
+    &lt;/li&gt;
+    &lt;li class="st_email" st_image="http://chronicle.com/img/shareicons/default-share.png" st_summary="I've discussed the potential value of learning some scripting for any major in the past, and President Obama recently called for more of a focus on making sure students know &amp;quot;how to actually produce s..." st_title="Making Games in the Classroom with Scratch" st_url="http://chronicle.com/blogs/profhacker/making-games-in-the-classroom-with-scratch/46647"&gt;
+    &lt;/li&gt;
+    &lt;li class="print share-divider print-btn" onclick="javascript:print()"&gt;
+    &lt;/li&gt;
+    &lt;li class="comment"&gt;
+     &lt;a href="http://chronicle.com/blogs/profhacker/making-games-in-the-classroom-with-scratch/46647#disqus_thread"&gt;
+      &lt;img alt="comment" src="/img/icn_comment.png" style="float:none;"/&gt;
+     &lt;/a&gt;
+    &lt;/li&gt;
+   &lt;/ul&gt;
+  &lt;/div&gt;
+  &lt;p&gt;
+   &lt;a href="http://www.flickr.com/photos/38090850@N08/5762615665/" title="_MG_0440 by ScratchEdTeam, on Flickr"&gt;
+    &lt;img alt="_MG_0440" class="alignleft" height="240" src="http://farm4.staticflickr.com/3307/5762615665_7d6dbfb458_m.jpg" width="160"/&gt;
+   &lt;/a&gt;
+   I’ve discussed the potential value of
+   &lt;a href="http://chronicle.com/blogs/profhacker/program-or-be-programmed/37448"&gt;
+    learning some scripting
+   &lt;/a&gt;
+   for any major in the past, and President Obama recently called for more of a focus on making sure students know “
+   &lt;a href="http://gamasutra.com/view/news/186830/Obama_Lets_give_more_kids_the_opportunity_to_make_games.php#.USa1SKXqnVE"&gt;
+    how to actually produce stuff
+   &lt;/a&gt;
+   ” with computers, citing game design as a potential motivation. I’ve been participating in the
+   &lt;a href="http://learn.media.mit.edu/"&gt;
+    Learning Creative Learning MOOC
+   &lt;/a&gt;
+   from MIT Media Lab, and this week we’ve been working with Scratch. Scratch is certainly a powerful entry point for the type of learning Obama called for. Playing with Scratch reminded me how powerful it is for a language that uses building block code, and made me reconsider it for introducing fundamental programming to some of my non-coders in the classroom. Scratch is a powerful way to support goals like Brian’s of
+   &lt;a href="http://chronicle.com/blogs/profhacker/teaching-kids-to-make-thatcamp-report/34078"&gt;
+    teaching kids to make
+   &lt;/a&gt;
+   –but it’s for more than just kids. I grew up with
+   &lt;a href="http://el.media.mit.edu/logo-foundation/logo/programming.html"&gt;
+    Logo
+   &lt;/a&gt;
+   , a highly visual tool where writing simple code “commanded” a turtle to create things on-screen, and I’m amazed by how far we’ve come since then. Scratch provides a platform for anyone to try making animations, interactive experiments, and games. Unlike the tools I’ve looked at so far in this series —
+   &lt;a href="http://chronicle.com/blogs/profhacker/make-games-in-the-classroom-with-inform-7/45717"&gt;
+    Inform 7
+   &lt;/a&gt;
+   ,
+   &lt;a href="http://chronicle.com/blogs/profhacker/classroom-adventure-with-inklewriter/45873"&gt;
+    Inklewriter
+   &lt;/a&gt;
+   , and
+   &lt;a href="https://chronicle.com/blogs/profhacker/creating-interactive-texts-with-twine/46413"&gt;
+    Twine
+   &lt;/a&gt;
+   –Scratch is highly visual and intended to provide a clear introduction to code.
+  &lt;/p&gt;
+  &lt;p&gt;
+   Scratch has
+   &lt;a href="http://info.scratch.mit.edu/Scratch_1.4_Download"&gt;
+    free downloadable versions for Windows, Mac, and Linux
+   &lt;/a&gt;
+   . For classes in labs where installing software is tricky, there’s also a
+   &lt;a href="http://beta.scratch.mit.edu/projects/editor/"&gt;
+    web-based version in beta
+   &lt;/a&gt;
+   that worked fairly well for me. The
+   &lt;a href="http://info.scratch.mit.edu/sites/infoscratch.media.mit.edu/files/file/ScratchGettingStartedv14.pdf"&gt;
+    Getting Started
+   &lt;/a&gt;
+   guide takes you through most of the basic features, and there are tons of video tutorials for more advanced projects–I recommend starting with the ones on the
+   &lt;a href="http://info.scratch.mit.edu/Video_Tutorials"&gt;
+    official site
+   &lt;/a&gt;
+   and
+   &lt;a href="http://learnscratch.org/"&gt;
+    LearnScratch.org
+   &lt;/a&gt;
+   . There’s also a strong community through learning by sharing:
+   &lt;a href="http://scratch.mit.edu/channel/featured"&gt;
+    uploaded projects
+   &lt;/a&gt;
+   can be downloaded and their code examined for inspiration. You can check out some of the Scratch projects by participants in the Learning Creative Learning course in
+   &lt;a href="http://scratch.mit.edu/galleries/view/192539"&gt;
+    this gallery
+   &lt;/a&gt;
+   (
+   &lt;a href="http://scratch.mit.edu/projects/anasalter/3127899"&gt;
+    mine is here
+   &lt;/a&gt;
+   ). Scratch also comes bundled with several sprites and backgrounds to make it easy to get started–I’ve used them below.
+  &lt;/p&gt;
+  &lt;div class="wp-caption aligncenter" id="attachment_46725" style="width: 557px"&gt;
+   &lt;a href="http://chronicle.com/blogs/profhacker/files/2013/03/scratchplay.jpg"&gt;
+    &lt;img alt="A screenshot from Scratch" class="size-large wp-image-46725" height="397" src="http://chronicle.com/blogs/profhacker/files/2013/03/scratchplay-547x397.jpg" width="547"/&gt;
+   &lt;/a&gt;
+   &lt;p class="wp-caption-text"&gt;
+    Click to embiggen.
+   &lt;/p&gt;
+  &lt;/div&gt;
+  &lt;p&gt;
+   Scratch’s promise of “
+   &lt;a href="http://web.media.mit.edu/~mres/papers/Scratch-CACM-final.pdf"&gt;
+    programming for all
+   &lt;/a&gt;
+   ” is fulfilled through an approach to coding that is highly sprite-based and intuitive. What I particularly like about Scratch from a programming perspective is how the tool doesn’t obscure the logic of the code. The block-based code structure is drag and drop, but most of the fundamental structures are available. For instance, commands for responding to player input can be attached to a sprite and used to create a player-controlled character: in the example below, I’ve connected the statement “when [down arrow] key pressed” to the desired outcome, “change y by [-10].” All the statements are already there for the user to drag and configure, with different options controlled by typing in a new number or selecting a key from a menu.
+  &lt;/p&gt;
+  &lt;p&gt;
+   Looking beyond the basics, Scratch gets even cooler
+   &lt;a href="http://scratch.saorog.com/"&gt;
+    when connected with Microsoft Kinect
+   &lt;/a&gt;
+   to allow anyone to make motion games. As the platform is primarily education-focused, the
+   &lt;a href="http://scratched.media.mit.edu/"&gt;
+    ScratchED
+   &lt;/a&gt;
+   resources reflect both the strong history of Scratch in K-12 and after school programs and some of the uses in
+   &lt;a href="http://scratched.media.mit.edu/resources/search/results/taxonomy%3A116"&gt;
+    higher education
+   &lt;/a&gt;
+   .
+  &lt;/p&gt;
+  &lt;p&gt;
+   &lt;strong&gt;
+    Have you played with Scratch or used Scratch in your classroom? Share your experience in the comments!
+   &lt;/strong&gt;
+  &lt;/p&gt;
+  &lt;p&gt;
+   [
+   &lt;a href="http://www.flickr.com/photos/38090850@N08/5762615665/"&gt;
+    CC BY 2.0 Photo from Flickr - ScratchEdTeam
+   &lt;/a&gt;
+   ]
+  &lt;/p&gt;
+  &lt;ul class="social-buttons"&gt;
+   &lt;li class="st_facebook" st_image="http://chronicle.com/img/shareicons/default-share.png" st_summary="I've discussed the potential value of learning some scripting for any major in the past, and President Obama recently called for more of a focus on making sure students know &amp;quot;how to actually produce s..." st_title="Making Games in the Classroom with Scratch" st_url="http://chronicle.com/blogs/profhacker/making-games-in-the-classroom-with-scratch/46647"&gt;
+   &lt;/li&gt;
+   &lt;li class="st_twitter" st_image="http://chronicle.com/img/shareicons/default-share.png" st_summary="I've discussed the potential value of learning some scripting for any major in the past, and President Obama recently called for more of a focus on making sure students know &amp;quot;how to actually produce s..." st_title="Making Games in the Classroom with Scratch" st_url="http://chronicle.com/blogs/profhacker/making-games-in-the-classroom-with-scratch/46647" st_via="chronicle"&gt;
+   &lt;/li&gt;
+   &lt;li class="st_googleplus" st_image="http://chronicle.com/img/shareicons/default-share.png" st_summary="I've discussed the potential value of learning some scripting for any major in the past, and President Obama recently called for more of a focus on making sure students know &amp;quot;how to actually produce s..." st_title="Making Games in the Classroom with Scratch" st_url="http://chronicle.com/blogs/profhacker/making-games-in-the-classroom-with-scratch/46647"&gt;
+   &lt;/li&gt;
+   &lt;li class="st_email" st_image="http://chronicle.com/img/shareicons/default-share.png" st_summary="I've discussed the potential value of learning some scripting for any major in the past, and President Obama recently called for more of a focus on making sure students know &amp;quot;how to actually produce s..." st_title="Making Games in the Classroom with Scratch" st_url="http://chronicle.com/blogs/profhacker/making-games-in-the-classroom-with-scratch/46647"&gt;
+   &lt;/li&gt;
+   &lt;li class="print share-divider print-btn" onclick="javascript:print()"&gt;
+   &lt;/li&gt;
+   &lt;li class="comment"&gt;
+    &lt;a href="http://chronicle.com/blogs/profhacker/making-games-in-the-classroom-with-scratch/46647#disqus_thread"&gt;
+     &lt;img alt="comment" src="/img/icn_comment.png" style="float:none;"/&gt;
+    &lt;/a&gt;
+   &lt;/li&gt;
+  &lt;/ul&gt;
+ &lt;/div&gt;
+ &lt;!-- .entry-content --&gt;
+ &lt;div class="entry-utility"&gt;
+  This entry was posted in
+  &lt;a href="http://chronicle.com/blogs/profhacker/category/software" rel="category tag" title="View all posts in Software"&gt;
+   Software
+  &lt;/a&gt;
+  ,
+  &lt;a href="http://chronicle.com/blogs/profhacker/category/teaching" rel="category tag" title="View all posts in Teaching"&gt;
+   Teaching
+  &lt;/a&gt;
+  and tagged
+  &lt;a href="http://chronicle.com/blogs/profhacker/tag/games" rel="tag"&gt;
+   games
+  &lt;/a&gt;
+  ,
+  &lt;a href="http://chronicle.com/blogs/profhacker/tag/games-in-the-classroom" rel="tag"&gt;
+   games in the classroom
+  &lt;/a&gt;
+  ,
+  &lt;a href="http://chronicle.com/blogs/profhacker/tag/scratch" rel="tag"&gt;
+   scratch
+  &lt;/a&gt;
+  . Bookmark the
+  &lt;a href="http://chronicle.com/blogs/profhacker/making-games-in-the-classroom-with-scratch/46647" rel="bookmark" title="Permalink to Making Games in the Classroom with Scratch"&gt;
+   permalink
+  &lt;/a&gt;
+  .
+ &lt;/div&gt;
+ &lt;!-- .entry-utility --&gt;
+ &lt;br/&gt;
+&lt;/div&gt;</fulltext>
+  <pub_title>The Chronicle of Higher Education</pub_title>
+  <author>Anastasia Salter</author>
+  <abstract></abstract>
+  <title>Making Games in the Classroom with Scratch</title>
+  <comments></comments>
+  <document_url>http://chronicle.com/blogs/profhacker/making-games-in-the-classroom-with-scratch/46647</document_url>
+  <query>MOOC</query>
+  <pub_date>March 7, 2013,
+           
+            8:00 am</pub_date>
+  <document_id>chronicle-46647</document_id>
+</DOCUMENT>

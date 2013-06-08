@@ -1,0 +1,186 @@
+Coursera	University of Illinois	2
+Ansir Innovation Center	Udacity	2
+Khan Academy	2
+Wellesley College	Massachusetts Institute of Technology	1
+Columbia University	Ohio State University	1
+Facebook	Princeton University	2
+Stanford University	Starbucks	1
+University of Maryland University College	Liberty University	1
+Princeton University	Google	2
+Melinda Gates Foundation	Ohio State University	1
+Georgetown University	University of California	1
+Massachusetts Institute of Technology	Udacity	3
+Brown University	Duke University	1
+Marginal Revolution University	George Mason University	1
+University of Texas	Colorado State University	1
+Massachusetts Institute of Technology	University of California	3
+edX	American Council on Education	1
+University of California	Colorado State University	1
+Duke University	Google	2
+Columbia University	Coursera	4
+Coursera	Princeton University	14
+Microsoft	Udacity	2
+Harvard University	University of California	3
+edX	Facebook	2
+Princeton University	Udacity	5
+Princeton University	Mellon Foundation	1
+Coursera	Facebook	4
+Melinda Gates Foundation	Coursera	1
+YouTube	1
+University of Pennsylvania	Colorado State University	1
+Colorado State University	Stanford University	1
+Princeton University	University of California	1
+edX	9
+Stanford University	Udacity	4
+Princeton University	Duke University	2
+Colorado State University	edX	1
+Udacity	University of Illinois	2
+University of Pennsylvania	1
+University of Illinois	Center for Online Learning, Research and Service	3
+Louisiana Association of Public Charter	Melinda Gates Foundation	1
+Coursera	University of California	2
+Stanford University	University of Texas	1
+Facebook	Massachusetts Institute of Technology	2
+Association of Public and Land-Grant Universities	University of Maryland	1
+Duke University	San Jose State University	2
+edX	Massachusetts Bay Community College	2
+Coursera	Antioch University	1
+Stanford University	Khan Academy	1
+University of Michigan	University of Texas	1
+Coursera	Google	2
+University of Michigan	University of California	1
+University of Texas	University of California	4
+Columbia University	Princeton University	2
+D.C. Council	2
+Princeton University	University of Texas	1
+World Socialist	1
+Columbia University	Duke University	2
+Columbia University	Google	2
+University of Illinois	Stanford University	2
+Ohio State University	Louisiana Association of Public Charter	1
+Cowen	Marginal Revolution University	1
+Chronicle of Higher Education	1
+Massachusetts Institute of Technology	University of Texas	3
+University of Washington	Duke University	1
+edX	Duke University	2
+Carlyle Group	Wesley Heights	1
+Harvard University	edX	11
+Udacity	Harvard University	1
+American Council on Education	Melinda Gates Foundation	1
+Princeton University	Stanford University	3
+Wikipedia	1
+Johns Hopkins University	Udacity	1
+Stanford University	Duke University	2
+Udacity	6
+Wellesley College	University of Texas	1
+University of Texas	University of Pennsylvania	1
+Harvard University	1
+San Jose State University	Massachusetts Bay Community College	2
+Brown University	Coursera	1
+Stanford University	University of California	1
+Coursera	Udacity	14
+Georgetown University	4
+Johns Hopkins University	Harvard University	1
+Coursera	University of Texas	2
+Facebook	2
+WTOP	WJLA-TV	1
+New America Foundation	1
+Harvard University	Georgetown University	4
+University of Pennsylvania	Udacity	1
+Princeton University	edX	2
+University of Michigan	edX	1
+University of Washington	Coursera	1
+University of Maryland	Liberty University	1
+Udacity	Colorado State University	1
+Economic Club	edX	1
+University of Maryland University College	University of Maryland	1
+University of Pennsylvania	University of California	1
+Coursera	Colorado State University	1
+PENTAGON	1
+Wellesley College	edX	1
+Harvard University	Massachusetts Institute of Technology	12
+Duke University	Massachusetts Bay Community College	2
+George Washington University	University of Southern California	1
+Princeton University	New York Times	1
+Cowen	George Mason University	2
+University of Illinois	2
+Johns Hopkins University	3
+Columbia University	Udacity	2
+Kentucky Fried Chicken	1
+University of Michigan	Coursera	1
+Udacity	University of California	3
+Colorado State University	University of Michigan	1
+Duke University	2
+Princeton University	Colorado State University	1
+Facebook	Harvard University	2
+Georgetown University	Massachusetts Institute of Technology	3
+Udacity	edX	10
+Mercatus Center	Cowen	1
+San Jose State University	edX	2
+Harvard University	Princeton University	2
+Stanford University	Coursera	11
+Association of Public and Land-Grant Universities	1
+Starbucks	Harvard University	1
+Stanford University	7
+University of Texas	Udacity	3
+Columbia University	Louisiana Association of Public Charter	1
+Coursera	Mellon Foundation	1
+Google	1
+Coursera	Johns Hopkins University	6
+Congress	1
+Melinda Gates Foundation	Columbia University	1
+Google	Microsoft	2
+Coursera	University of Pennsylvania	5
+Princeton University	University of Pennsylvania	1
+University of Southern California	1
+University of Texas	Georgetown University	1
+Tennessee State University	1
+Google	Stanford University	2
+Facebook	Stanford University	2
+GSA	The Washington Post	1
+Brown University	University of Washington	1
+Coursera	Massachusetts Institute of Technology	7
+George Washington University	1
+Udacity	Google	2
+Princeton University	4
+StraighterLine	1
+Massachusetts Institute of Technology	edX	11
+edX	Coursera	16
+University of Texas	Harvard University	3
+Coursera	Georgetown University	1
+Duke University	Coursera	3
+edX	University of Texas	6
+Coursera	American Council on Education	3
+Massachusetts Institute of Technology	University of Virginia	2
+Columbia University	1
+Georgetown University	Wellesley College	1
+edX	University of Pennsylvania	1
+Harvard University	Stanford University	4
+University of California	Wellesley College	1
+University of Michigan	Princeton University	1
+Massachusetts Institute of Technology	University of Illinois	2
+Georgetown University	edX	7
+Coursera	16
+Georgia Institute of Technology	Coursera	1
+Beacon House	1
+University of Michigan	Stanford University	1
+Stanford University	Columbia University	2
+University of California	edX	6
+The Washington Post	3
+Johns Hopkins University	edX	1
+American Dialect Society	1
+Coursera	Harvard University	7
+Cornell University	2
+Starbucks	Massachusetts Institute of Technology	1
+Melinda Gates Foundation	2
+George Mason University	3
+WTOP	1
+Stanford University	University of Pennsylvania	1
+Massachusetts Institute of Technology	2
+University of Pennsylvania	University of Michigan	1
+University of Michigan	Udacity	1
+Massachusetts Institute of Technology	Stanford University	6
+Massachusetts Institute of Technology	Johns Hopkins University	1
+edX	Stanford University	4
+Wellesley College	Harvard University	1
+Cowen	5

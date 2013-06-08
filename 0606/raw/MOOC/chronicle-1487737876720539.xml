@@ -1,0 +1,167 @@
+<DOCUMENT>
+  <publisher>The Chronicle - Blogs</publisher>
+  <fulltext>&lt;div class="abstract"&gt;
+ &lt;div class="entry-content"&gt;
+  &lt;p&gt;
+   &lt;a href="http://chronicle.com/blognetwork/castingoutnines/files/2012/01/459020985_07d4f48b2f_m.jpg"&gt;
+    &lt;img alt="" class="alignleft size-full wp-image-3995" height="202" src="http://chronicle.com/blognetwork/castingoutnines/files/2012/01/459020985_07d4f48b2f_m.jpg" title="459020985_07d4f48b2f_m" width="240"/&gt;
+   &lt;/a&gt;
+   To follow up on my last post about the importance of programming for everyone, I’m making a personal commitment to get my own coding skills up to “halfway-decent” level in 2012. The more I teach with
+   &lt;a href="http://www.ted.com/talks/conrad_wolfram_teaching_kids_real_math_with_computers.html"&gt;
+    Conrad Wolfram’s TED talk
+   &lt;/a&gt;
+   in the back of my mind, and the more I dig into
+   &lt;a href="http://en.wikipedia.org/wiki/Computational_geometry"&gt;
+    computational geometry
+   &lt;/a&gt;
+   as a new research area, the more I see the need to be able to write good code. I’ve tried this before as a sort of lone ranger, sitting down with a terminal window and an O’Reilly book in front of me, with the intent of working through the book, but I never stuck with it. Fortunately, there are more good resources out there than ever to help:
+  &lt;/p&gt;
+  &lt;ul&gt;
+   &lt;li&gt;
+    There’s
+    &lt;a href="http://www.codeyear.com"&gt;
+     CodeYear
+    &lt;/a&gt;
+    and
+    &lt;a href="http://www.codeacademy.com"&gt;
+     Codecademy
+    &lt;/a&gt;
+    . Codecademy provides simple, self-guided lessons on programming. Currently there are a number of lessons on Javascript, and there are more lessons in more languages on the way. CodeYear is a layer on top of Codecademy where you can sign up to receive Codecademy lessons by email.
+    &lt;a href="http://chronicle.com/blogs/profhacker/become-code-literate-with-codecademy/36088"&gt;
+     ProfHacker did a writeup on Codecademy
+    &lt;/a&gt;
+    back in September that gives another overview.  I’ve worked through the “Getting Started with Programming” lesson from Week 1 and it was a lot of fun.
+   &lt;/li&gt;
+   &lt;li&gt;
+    You can also sign up for Stanford University’s
+    &lt;a href="http://www.cs101-class.org/"&gt;
+     massively-open online Introduction to Computer Science
+    &lt;/a&gt;
+    course that starts up In February. This course sounds much more like a traditional university course, with online video lectures, assignments,and quizzes. The course will focus on Python It’s not for credit, but there will be a discussion forum for students (“users”?) of the course that should add a nice human touch. I’ve signed up for this course as well as another Stanford MOOC on
+    &lt;a href="http://www.crypto-class.org/"&gt;
+     cryptography
+    &lt;/a&gt;
+    . If I had the time, I’d also do their courses on
+    &lt;a href="http://www.algo-class.org/"&gt;
+     algorithms
+    &lt;/a&gt;
+    and
+    &lt;a href="http://www.infotheory-class.org/"&gt;
+     information theory
+    &lt;/a&gt;
+    … and a few others besides. Sigh.
+   &lt;/li&gt;
+   &lt;li&gt;
+    Don’t forget MIT’s OpenCourseWare class on
+    &lt;a href="http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00-introduction-to-computer-science-and-programming-fall-2008/"&gt;
+     Introduction to Computer Science and Programming
+    &lt;/a&gt;
+    , which was one of the main inspirations for my inverted MATLAB class and was a great help in preparing me to teach that class. It’s expertly taught, and the assignments and course materials are top-notch.
+   &lt;/li&gt;
+   &lt;li&gt;
+    And for the math people,
+    &lt;a href="http://projecteuler.net/"&gt;
+     Project Euler
+    &lt;/a&gt;
+    provides a great set of mathematical computer programming problems that will sharpen your skills in both math and programming. These range from fairly straightforward (“Find the sum of all the multiples of 3 or 5 below 1000″) to
+    &lt;a href="http://projecteuler.net/problem=351"&gt;
+     forbiddingly complex
+    &lt;/a&gt;
+    and are not posed in any particular language, so you can choose your favorite platform and go to it — or try to solve problems in multiple languages. I’ve set a goal to solve at least three of these problems in Python by spring break.
+   &lt;/li&gt;
+  &lt;/ul&gt;
+  &lt;p&gt;
+   It’s a great time to be a learner, especially if you want to learn to program.
+  &lt;/p&gt;
+  &lt;p&gt;
+   &lt;em&gt;
+    Image:
+    &lt;a href="http://www.flickr.com/photos/extraketchup/"&gt;
+     http://www.flickr.com/photos/extraketchup/
+    &lt;/a&gt;
+   &lt;/em&gt;
+  &lt;/p&gt;
+ &lt;/div&gt;
+ &lt;!-- .entry-content --&gt;
+ &lt;div class="entry-utility"&gt;
+  This entry was posted in
+  &lt;a href="http://chronicle.com/blognetwork/castingoutnines/category/math/crypto/" rel="category tag" title="View all posts in Crypto"&gt;
+   Crypto
+  &lt;/a&gt;
+  ,
+  &lt;a href="http://chronicle.com/blognetwork/castingoutnines/category/math/" rel="category tag" title="View all posts in Math"&gt;
+   Math
+  &lt;/a&gt;
+  ,
+  &lt;a href="http://chronicle.com/blognetwork/castingoutnines/category/technology/python/" rel="category tag" title="View all posts in Python"&gt;
+   Python
+  &lt;/a&gt;
+  ,
+  &lt;a href="http://chronicle.com/blognetwork/castingoutnines/category/technology/" rel="category tag" title="View all posts in Technology"&gt;
+   Technology
+  &lt;/a&gt;
+  and tagged
+  &lt;a href="http://chronicle.com/blognetwork/castingoutnines/tag/codeacademy/" rel="tag"&gt;
+   CodeAcademy
+  &lt;/a&gt;
+  ,
+  &lt;a href="http://chronicle.com/blognetwork/castingoutnines/tag/codeyear/" rel="tag"&gt;
+   CodeYear
+  &lt;/a&gt;
+  ,
+  &lt;a href="http://chronicle.com/blognetwork/castingoutnines/tag/coding/" rel="tag"&gt;
+   Coding
+  &lt;/a&gt;
+  ,
+  &lt;a href="http://chronicle.com/blognetwork/castingoutnines/tag/computer-science/" rel="tag"&gt;
+   computer science
+  &lt;/a&gt;
+  ,
+  &lt;a href="http://chronicle.com/blognetwork/castingoutnines/tag/javascript/" rel="tag"&gt;
+   Javascript
+  &lt;/a&gt;
+  ,
+  &lt;a href="http://chronicle.com/blognetwork/castingoutnines/tag/mit-ocw/" rel="tag"&gt;
+   MIT OCW
+  &lt;/a&gt;
+  ,
+  &lt;a href="http://chronicle.com/blognetwork/castingoutnines/tag/mooc/" rel="tag"&gt;
+   MOOC
+  &lt;/a&gt;
+  ,
+  &lt;a href="http://chronicle.com/blognetwork/castingoutnines/tag/programming/" rel="tag"&gt;
+   programming
+  &lt;/a&gt;
+  ,
+  &lt;a href="http://chronicle.com/blognetwork/castingoutnines/tag/project-euler/" rel="tag"&gt;
+   Project Euler
+  &lt;/a&gt;
+  ,
+  &lt;a href="http://chronicle.com/blognetwork/castingoutnines/tag/python/" rel="tag"&gt;
+   Python
+  &lt;/a&gt;
+  ,
+  &lt;a href="http://chronicle.com/blognetwork/castingoutnines/tag/stanford/" rel="tag"&gt;
+   Stanford
+  &lt;/a&gt;
+  . Bookmark the
+  &lt;a href="http://chronicle.com/blognetwork/castingoutnines/2012/01/16/so-you-want-to-learn-to-program/" rel="bookmark" title="Permalink to So you want to learn to program?"&gt;
+   permalink
+  &lt;/a&gt;
+  .
+ &lt;/div&gt;
+ &lt;!-- .entry-utility --&gt;
+ &lt;br/&gt;
+&lt;/div&gt;</fulltext>
+  <pub_title>The Chronicle of Higher Education</pub_title>
+  <author>Robert Talbert</author>
+  <abstract></abstract>
+  <title>So you want to learn to program?</title>
+  <comments></comments>
+  <document_url>http://chronicle.com/blognetwork/castingoutnines/2012/01/16/so-you-want-to-learn-to-program/</document_url>
+  <query>MOOC</query>
+  <pub_date>January 16, 2012,
+           
+            8:00 am</pub_date>
+  <document_id>chronicle-1487737876720539</document_id>
+</DOCUMENT>

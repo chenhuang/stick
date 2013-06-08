@@ -30,6 +30,7 @@ class articleExtractor(HTMLParser):
 		self.line_num = 0
 		self.file_name = "NULL"
 		self.content = ""
+	#		self.paragraph_tag=""
 
 	def handle_starttag(self, tag, attrs):
 		if tag == "publisher":
@@ -54,6 +55,9 @@ class articleExtractor(HTMLParser):
 			self.current_tag = "document_url"
 		if tag == "pq_doc_id":
 			self.current_tag = "pq_doc_id"
+			#		if tag == "p":
+				#if self.current_tag == "full_text":
+	#self.paragraph_tag = "p"
 
 	def handle_endtag(self, tag):
 		if tag == "publisher":
@@ -79,6 +83,8 @@ class articleExtractor(HTMLParser):
 			self.end_tag = "document_url"
 		if tag == "pq_doc_id":
 			self.end_tag = "pq_doc_id"
+			#		if tag == "p":
+		#self.paragraph_tag = ""
 
 	def handle_data(self, text):
 
@@ -86,6 +92,9 @@ class articleExtractor(HTMLParser):
 		#print len(text)
 
 		if self.current_tag == "fulltext" or self.current_tag not in self.tags:
+			#			if self.paragraph_tag == "p":
+			#	print "Hello"
+			#	self.content += "\n"
 			self.content += text
 		#print self.current_tag+"\t"+text
 	#	print self.current_tag+"|"+ self.document_id+"|"+ text
@@ -100,7 +109,7 @@ class articleExtractor(HTMLParser):
 
 		if self.current_tag == "pub_date":
 			if self.publication_date == "NULL":
-				self.publication_date = text
+				self.publication_date = " ".join(text.split(" ")[0:3])
 			else:
 				print "ERROR: Uncleared Publication Date "+self.publication_date+" from "+self.document_id + ", "+text
 				sys.exit(0)
@@ -140,13 +149,13 @@ class articleExtractor(HTMLParser):
 	def printout(self):
 		if 1:
 			fout = open(sys.argv[4]+"/"+self.document_id + ".txt", "a")
-			fout.write(self.content)
+			fout.write("\n".join(self.content.split("/pp")))
 			fout.close()
 
 		self.content = ""
 
 		fout = open(sys.argv[3], "a")
-		fout.write(self.document_id+"\t"+self.query+'\tProquest\t'+self.pub_title+"\tNULL\t0\t"+self.publication_date+"\n")
+		fout.write(self.document_id+"\t"+self.query+'\tChronicle\t'+self.pub_title+"\tNULL\t0\t"+self.publication_date+"\n")
 		fout.close()
 
 		# Clear status of the variables, to avoid missing values
@@ -171,8 +180,8 @@ for file in files:
 	source = re.sub("&amp;","and",source)
 	source = re.sub("&quot;",'"',source)
 	source = re.sub("&apos;","'",source)
-	source = re.sub("&lt;","<",source)
-	source = re.sub("&gt;",">",source)
+	#source = re.sub("&lt;","<",source)
+	#source = re.sub("&gt;",">",source)
 
 	#try:
 	a.file_name = file

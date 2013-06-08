@@ -171,7 +171,7 @@ class articleExtractor(HTMLParser):
 
 		if self.current_tag == "pub_date":
 			if self.pub_date == "NULL":
-				self.pub_date = text
+				self.pub_date = " ".join(text.strip().split(" ")[0:3])
 			else:
 				print "ERROR: Uncleared Paper pubdate "+ self.pub_date +", from "+self.file_name + ", "+text
 				sys.exit(0)
@@ -201,13 +201,13 @@ class articleExtractor(HTMLParser):
 	def printout(self):
 		if 1:
 			fout = open(sys.argv[4]+"/"+self.document_id + ".txt", "a")
-			fout.write(self.content)
+			fout.write("\n".join(self.content.split("/pp")))
 			fout.close()
 
 		self.content = ""
 
 		fout = open(sys.argv[3], "a")
-		fout.write(self.document_id+"\t"+self.query+'\tProquest\t'+self.pub_title+"\tNULL\t0\t"+self.pub_date+"\n")
+		fout.write(self.document_id+"\t"+self.query+'\tChronicle\t'+self.pub_title+"\tNULL\t0\t"+self.pub_date+"\n")
 		fout.close()
 
 		# Clear status of the variables, to avoid missing values

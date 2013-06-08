@@ -15,6 +15,7 @@ Massachusetts Institute of Technology	1269210042	Jan 15, 2013	0	NULL
 Harvard University	1269210042	Jan 15, 2013	0	NULL
 California State University System	1269210042	Jan 15, 2013	0	NULL
 San Jose State University	1269210042	Jan 15, 2013	0	NULL
+edX	1269210042	Jan 15, 2013	0	NULL
 California Faculty Association	1269210042	Jan 15, 2013	0	NULL
 Udacity	1269210042	Jan 15, 2013	0	NULL
 Winfree Academy Charter School	1269210042	Jan 15, 2013	0	NULL
@@ -43,6 +44,7 @@ University of Virginia	1314361479	Mar 2, 2013	0	NULL
 Massachusetts Institute of Technology	1312334296	Feb 25, 2013	0	NULL
 Duke University	1312334296	Feb 25, 2013	0	NULL
 National Security Council	1312334296	Feb 25, 2013	0	NULL
+edX	1312334296	Feb 25, 2013	0	NULL
 University of Pennsylvania	1312334296	Feb 25, 2013	0	NULL
 University of Virginia	1312334296	Feb 25, 2013	0	NULL
 Intelligence Advisory Board	1312334296	Feb 25, 2013	0	NULL
@@ -52,14 +54,14 @@ Johns Hopkins University	1312334296	Feb 25, 2013	0	NULL
 The Washington Post	1312334296	Feb 25, 2013	0	NULL
 Facebook	926133652	Mar 5, 2012	0	NULL
 Dartmouth College	926133652	Mar 5, 2012	0	NULL
-New York Times	926133652	Mar 5, 2012	0	NULL
+University of Virginia:Northwestern University	926133652	Mar 5, 2012	0	NULL
 Massachusetts Institute of Technology	926133652	Mar 5, 2012	0	NULL
 Athabasca University	926133652	Mar 5, 2012	0	NULL
 University of Virginia	926133652	Mar 5, 2012	0	NULL
 Stanford University	926133652	Mar 5, 2012	0	NULL
 Georgia Institute of Technology	926133652	Mar 5, 2012	0	NULL
 Google	926133652	Mar 5, 2012	0	NULL
-University of North Carolina	926133652	Mar 5, 2012	0	NULL
+New York Times	926133652	Mar 5, 2012	0	NULL
 Udacity	926133652	Mar 5, 2012	0	NULL
 Yahoo	926133652	Mar 5, 2012	0	NULL
 Starbucks	1237617894	Nov 23, 2012	0	NULL
@@ -68,32 +70,34 @@ Massachusetts Institute of Technology	1237617894	Nov 23, 2012	0	NULL
 Khan Academy	1237617894	Nov 23, 2012	0	NULL
 Stanford University	1237617894	Nov 23, 2012	0	NULL
 Massachusetts Institute of Technology	1034336131	Aug 21, 2012	0	NULL
+edX	1034336131	Aug 21, 2012	0	NULL
 University of Pennsylvania	1034336131	Aug 21, 2012	0	NULL
 Harvard University	1034336131	Aug 21, 2012	0	NULL
 Stanford University	1034336131	Aug 21, 2012	0	NULL
 Coursera	1034336131	Aug 21, 2012	0	NULL
 Peer University	1034336131	Aug 21, 2012	0	NULL
-Massachusetts Institute of Technology	1151371049	Nov 4, 2012	0	NULL
-Massachusetts Bay Community College	1151371049	Nov 4, 2012	0	NULL
-San Jose State University	1151371049	Nov 4, 2012	0	NULL
-Harvard University	1151371049	Nov 4, 2012	0	NULL
-Ansir Innovation Center	1151371049	Nov 4, 2012	0	NULL
-Facebook	1151371049	Nov 4, 2012	0	NULL
-University of Illinois	1151371049	Nov 4, 2012	0	NULL
-Duke University	1151371049	Nov 4, 2012	0	NULL
-University of Texas	1151371049	Nov 4, 2012	0	NULL
 University of California	1151371049	Nov 4, 2012	0	NULL
-Center for Online Learning, Research and Service	1151371049	Nov 4, 2012	0	NULL
-University of Pennsylvania	1151371049	Nov 4, 2012	0	NULL
-Princeton University	1151371049	Nov 4, 2012	0	NULL
-Columbia University	1151371049	Nov 4, 2012	0	NULL
+University of Texas	1151371049	Nov 4, 2012	0	NULL
 Udacity	1151371049	Nov 4, 2012	0	NULL
-University of Virginia	1151371049	Nov 4, 2012	0	NULL
+Coursera	1151371049	Nov 4, 2012	0	NULL
+Massachusetts Institute of Technology	1151371049	Nov 4, 2012	0	NULL
+Facebook	1151371049	Nov 4, 2012	0	NULL
+Ansir Innovation Center	1151371049	Nov 4, 2012	0	NULL
+edX	1151371049	Nov 4, 2012	0	NULL
+Massachusetts Bay Community College	1151371049	Nov 4, 2012	0	NULL
+Duke University	1151371049	Nov 4, 2012	0	NULL
+Center for Online Learning, Research and Service	1151371049	Nov 4, 2012	0	NULL
 Stanford University	1151371049	Nov 4, 2012	0	NULL
 Google	1151371049	Nov 4, 2012	0	NULL
+University of Illinois	1151371049	Nov 4, 2012	0	NULL
+San Jose State University	1151371049	Nov 4, 2012	0	NULL
+Harvard University	1151371049	Nov 4, 2012	0	NULL
+University of Pennsylvania	1151371049	Nov 4, 2012	0	NULL
+Columbia University	1151371049	Nov 4, 2012	0	NULL
+Princeton University	1151371049	Nov 4, 2012	0	NULL
+University of Virginia	1151371049	Nov 4, 2012	0	NULL
 Microsoft	1151371049	Nov 4, 2012	0	NULL
 Khan Academy	1151371049	Nov 4, 2012	0	NULL
-Coursera	1151371049	Nov 4, 2012	0	NULL
 Louisiana Association of Public Charter	1237680713	Dec 11, 2012	0	NULL
 Melinda Gates Foundation	1237680713	Dec 11, 2012	0	NULL
 Ohio State University	1237680713	Dec 11, 2012	0	NULL
@@ -106,6 +110,7 @@ Stanford University	1281889332	Jan 27, 2013	0	NULL
 Harvard University	1281889332	Jan 27, 2013	0	NULL
 Udacity	1281889332	Jan 27, 2013	0	NULL
 University of Pennsylvania	1281889332	Jan 27, 2013	0	NULL
+edX	1281889332	Jan 27, 2013	0	NULL
 University of California	1281889332	Jan 27, 2013	0	NULL
 American University	1317354288	Mar 18, 2013	0	NULL
 Harvard University	1317354288	Mar 18, 2013	0	NULL
@@ -148,6 +153,7 @@ University of Maryland Eastern Shore	1312436996	Feb 26, 2013	0	NULL
 Intelligence Advisory Board	1312436996	Feb 26, 2013	0	NULL
 Stanford University	1312436996	Feb 26, 2013	0	NULL
 YouTube	1312436996	Feb 26, 2013	0	NULL
+edX	1312436996	Feb 26, 2013	0	NULL
 The Washington Post	1312436996	Feb 26, 2013	0	NULL
 University of Virginia	1312436996	Feb 26, 2013	0	NULL
 Bowie State University	1312436996	Feb 26, 2013	0	NULL

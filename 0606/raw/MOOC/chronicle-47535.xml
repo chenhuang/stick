@@ -1,0 +1,238 @@
+<DOCUMENT>
+  <publisher>The Chronicle - Blogs</publisher>
+  <fulltext>&lt;div class="abstract"&gt;
+ &lt;div class="entry-content"&gt;
+  &lt;div style="float:left;width:100%"&gt;
+   &lt;ul class="social-buttons"&gt;
+    &lt;li class="st_facebook" st_image="http://chronicle.com/img/shareicons/default-share.png" st_summary="It's such an ugly word: MOOC. It's an acronym for &amp;quot;massive open online course,&amp;quot; something you probably already know if you've been paying attention to the latest news about higher education. MOOCs hav..." st_title="Weekend Reading: EdTech-a-Palooza Edition" st_url="http://chronicle.com/blogs/profhacker/weekend-reading-edtech-a-palooza-edition/47535"&gt;
+    &lt;/li&gt;
+    &lt;li class="st_twitter" st_image="http://chronicle.com/img/shareicons/default-share.png" st_summary="It's such an ugly word: MOOC. It's an acronym for &amp;quot;massive open online course,&amp;quot; something you probably already know if you've been paying attention to the latest news about higher education. MOOCs hav..." st_title="Weekend Reading: EdTech-a-Palooza Edition" st_url="http://chronicle.com/blogs/profhacker/weekend-reading-edtech-a-palooza-edition/47535" st_via="chronicle"&gt;
+    &lt;/li&gt;
+    &lt;li class="st_googleplus" st_image="http://chronicle.com/img/shareicons/default-share.png" st_summary="It's such an ugly word: MOOC. It's an acronym for &amp;quot;massive open online course,&amp;quot; something you probably already know if you've been paying attention to the latest news about higher education. MOOCs hav..." st_title="Weekend Reading: EdTech-a-Palooza Edition" st_url="http://chronicle.com/blogs/profhacker/weekend-reading-edtech-a-palooza-edition/47535"&gt;
+    &lt;/li&gt;
+    &lt;li class="st_email" st_image="http://chronicle.com/img/shareicons/default-share.png" st_summary="It's such an ugly word: MOOC. It's an acronym for &amp;quot;massive open online course,&amp;quot; something you probably already know if you've been paying attention to the latest news about higher education. MOOCs hav..." st_title="Weekend Reading: EdTech-a-Palooza Edition" st_url="http://chronicle.com/blogs/profhacker/weekend-reading-edtech-a-palooza-edition/47535"&gt;
+    &lt;/li&gt;
+    &lt;li class="print share-divider print-btn" onclick="javascript:print()"&gt;
+    &lt;/li&gt;
+    &lt;li class="comment"&gt;
+     &lt;a href="http://chronicle.com/blogs/profhacker/weekend-reading-edtech-a-palooza-edition/47535#disqus_thread"&gt;
+      &lt;img alt="comment" src="/img/icn_comment.png" style="float:none;"/&gt;
+     &lt;/a&gt;
+    &lt;/li&gt;
+   &lt;/ul&gt;
+  &lt;/div&gt;
+  &lt;p&gt;
+   &lt;img alt="mooc" class="alignleft size-full wp-image-47537" height="240" src="http://chronicle.com/blogs/profhacker/files/2013/03/mooc.png" width="240"/&gt;
+   It’s such an ugly word: MOOC. It’s an acronym for “massive open online course,” something you probably already know if you’ve been paying attention to the latest news about higher education. MOOCs have been all over the news in the last few weeks, in part because the 2013 meeting of
+   &lt;a href="http://www.sxswedu.com"&gt;
+    SxSWedu
+   &lt;/a&gt;
+   took place last week, where these new course delivery platforms were talked up a great deal.
+   &lt;em&gt;
+    The Chronicle
+   &lt;/em&gt;
+   has even put together an online resource titled “
+   &lt;a href="http://chronicle.com/article/What-You-Need-to-Know-About/133475/"&gt;
+    What You Need to Know About MOOCs
+   &lt;/a&gt;
+   .”
+  &lt;/p&gt;
+  &lt;p&gt;
+   Now,
+   &lt;em&gt;
+    The Chronicle
+   &lt;/em&gt;
+   sent me to SxSWedu this year, and I’ll have some posts about the experience next week, but I can report for now that one of the big stories is data. Big data. About students and every last detail of their performance in schools. Former Microsoft head Bill Gates gave the closing keynote, in which he argued for the importance of
+   &lt;a href="http://www.geekwire.com/2013/gates-sxswedu-data/"&gt;
+    gathering more data and making it easier to share
+   &lt;/a&gt;
+   across various systems. Depending on your perspective, this sounds like either an ultra-efficient dream or a dystopian nightmare.
+  &lt;/p&gt;
+  &lt;p&gt;
+   On to this week’s links:
+  &lt;/p&gt;
+  &lt;ul style="margin-left: 0; padding-left: 2.5em;"&gt;
+   &lt;li&gt;
+    “
+    &lt;a href="http://www.reuters.com/article/2013/03/03/us-education-database-idUSBRE92204W20130303"&gt;
+     &lt;strong&gt;
+      K-12 student database jazzes tech startups, spooks parents
+     &lt;/strong&gt;
+    &lt;/a&gt;
+    ,” by Stephanie Simon:
+    &lt;em&gt;
+     An education technology conference this week in Austin, Texas, will clang with bells and whistles as startups eagerly show off their latest wares. But the most influential new product may be the least flashy: a $100 million database built to chart the academic paths of public school students from kindergarten through high school. In operation just three months, the database already holds files on millions of children identified by name, address and sometimes social security number. Learning disabilities are documented, test scores recorded, attendance noted. In some cases, the database tracks student hobbies, career goals, attitudes toward school – even homework completion. Local education officials retain legal control over their students’ information. But federal law allows them to share files in their portion of the database with private companies selling educational products and services.
+    &lt;/em&gt;
+   &lt;/li&gt;
+   &lt;li&gt;
+    “
+    &lt;a href="http://hackeducation.com/2013/03/08/whose-learning-is-it-anyway-webwise-2013/"&gt;
+     &lt;strong&gt;
+      Whose Learning Is It, Anyway?
+     &lt;/strong&gt;
+    &lt;/a&gt;
+    ” by Audrey Watters:
+    &lt;em&gt;
+     Let’s start with the data.  Who owns the learning? Who owns student data? Who owns our education data after we’re out of school? Who owns learners’ data across the variety of institutions, formal and informal, where we continue to learn throughout our lives? Do students own it? Schools? The government? Software providers? It’s probably not too hard to argue that our lack of a strong stance or understanding on this topic goes for all our digital data: who’s collecting it, to what end, under what legal protections or restrictions. These questions aren’t entirely new, but our increasing use of technologies is creating lots of new data, and lots more data, some 2.5 quintillion bytes of data created every day according to IBM, and we are facing numerous challenges and opportunities as a society over what it means to control and access and, in our case here, I’d imagine, learn from it. Yet the question of ownership of education data remains largely – and troublingly – unresolved.
+    &lt;/em&gt;
+   &lt;/li&gt;
+   &lt;li&gt;
+    “
+    &lt;a href="http://www.washingtonpost.com/blogs/answer-sheet/wp/2013/01/09/education-reform-as-a-business/"&gt;
+     &lt;strong&gt;
+      Education Reform as a Business
+     &lt;/strong&gt;
+    &lt;/a&gt;
+    ,” by Valerie Strauss:
+    &lt;em&gt;
+     Did you know that the education sector now represents nearly 9 percent of the country’s gross domestic product? That for-profit education is valued at $1.3 trillion, and is one of the largest U.S. investment markets? These facts were part of an advertisement for a conference for investors in for-profit education ventures, just one example of how much the profit motive has entered into the public education arena. The conference is one of two examples of how school reform has become little more than a business in some arenas (and just how removed some reformers have gotten from classrooms and the actual dynamic of teaching and learning).
+    &lt;/em&gt;
+   &lt;/li&gt;
+   &lt;li&gt;
+    “
+    &lt;a href="http://www.salon.com/2013/03/11/getting_rich_off_of_schoolchildren/"&gt;
+     &lt;strong&gt;
+      Getting rich off of schoolchildren
+     &lt;/strong&gt;
+    &lt;/a&gt;
+    ,” by David Sirota:
+    &lt;em&gt;
+     You know how it goes: The pervasive media mythology tells us that the fight over the schoolhouse is supposedly a battle between greedy self-interested teachers who don’t care about children and benevolent billionaire “reformers” whose political activism is solely focused on the welfare of kids. Epitomizing the media narrative, the Wall Street Journal casts the latter in sanitized terms, reimagining the billionaires as philanthropic altruists “pushing for big changes they say will improve public schools.” The first reason to scoff at this mythology should be obvious: It simply strains credulity to insist that pedagogues who get paid middling wages but nonetheless devote their lives to educating kids care less about those kids than do the Wall Street hedge funders and billionaire CEOs who finance the so-called reform movement. Indeed, to state that pervasive assumption out loud is to reveal how utterly idiotic it really is, and yet it is baked into almost all of today’s coverage of education politics.
+    &lt;/em&gt;
+   &lt;/li&gt;
+   &lt;li&gt;
+    “
+    &lt;a href="http://www.washingtonpost.com/blogs/answer-sheet/wp/2013/03/13/the-problem-with-high-tech-personalized-learning-tools/"&gt;
+     &lt;strong&gt;
+      The problem with high-tech ‘personalized’ learning tools
+     &lt;/strong&gt;
+    &lt;/a&gt;
+    ,” by Sabrina Joy Stevens:
+    &lt;em&gt;
+     I couldn’t help feeling a bit disturbed at SXSWedu last week, hearing tech vendors and venture capitalists use the term “personalized learning” as though it was 1) new (what, exactly, do these people think has been going on in human brains for millennia??) and 2) a ground-breaking thing that could only be enabled through their proprietary technology. Language-check: what many of these people are selling as “personalized” learning is actually digitized
+    &lt;/em&gt;
+    standardized
+    &lt;em&gt;
+     learning. Creating tools and products that offer digital ways to deliver drill-and-kill instruction is not revolutionary. Attaching that to a large bank of flawed, standardized data merely automates and speeds the process of selecting those drill-and-kill activities and marketing more of them to teachers, students and parents. But making it easier to do more of a problematic thing does not make that thing less problematic.
+    &lt;/em&gt;
+   &lt;/li&gt;
+  &lt;/ul&gt;
+  &lt;p&gt;
+   Jeffrey R. Young
+   &lt;a href="http://chronicle.com/article/A-Conversation-With-Bill-Gates/132591/"&gt;
+    interviewed Bill Gates in June of last year
+   &lt;/a&gt;
+   , and in the following clip, Gates shares his thoughts on the role of business in education:
+   &lt;br/&gt;
+   &lt;!-- Start of Brightcove Player --&gt;
+  &lt;/p&gt;
+  &lt;div style="display: none;"&gt;
+  &lt;/div&gt;
+  &lt;p&gt;
+   &lt;!-- By use of this code snippet, I agree to the Brightcove Publisher T and C  found at https://accounts.brightcove.com/en/terms-and-conditions/.  --&gt;
+   &lt;br/&gt;
+   &lt;script src="http://admin.brightcove.com/js/BrightcoveExperiences.js" type="text/javascript"&gt;
+   &lt;/script&gt;
+  &lt;/p&gt;
+  &lt;p&gt;
+   &lt;object class="BrightcoveExperience" id="myExperience1706791253001"&gt;
+    &lt;param name="bgcolor" value="#FFFFFF"&gt;
+    &lt;/param&gt;
+    &lt;param name="width" value="600"&gt;
+    &lt;/param&gt;
+    &lt;param name="height" value="340"&gt;
+    &lt;/param&gt;
+    &lt;param name="playerID" value="1831687334001"&gt;
+    &lt;/param&gt;
+    &lt;param name="playerKey" value="AQ~~,AAAAAFNlFfM~,8U8Lf2MtcfsMZbM_WVbtgsN2AeeP3eZy"&gt;
+    &lt;/param&gt;
+    &lt;param name="isVid" value="true"&gt;
+    &lt;/param&gt;
+    &lt;param name="isUI" value="true"&gt;
+    &lt;/param&gt;
+    &lt;param name="dynamicStreaming" value="true"&gt;
+    &lt;/param&gt;
+    &lt;param name="@videoPlayer" value="1706791253001"&gt;
+    &lt;/param&gt;
+   &lt;/object&gt;
+  &lt;/p&gt;
+  &lt;p&gt;
+   &lt;!--  This script tag will cause the Brightcove Players defined above it to be created as soon as the line is read by the browser. If you wish to have the player instantiated only after the rest of the HTML is processed and the page load is complete, remove the line. --&gt;
+   &lt;br/&gt;
+   &lt;script type="text/javascript"&gt;
+    // &amp;lt;![CDATA[
+brightcove.createExperiences();
+// ]]&amp;gt;
+   &lt;/script&gt;
+   &lt;br/&gt;
+   &lt;!-- End of Brightcove Player --&gt;
+  &lt;/p&gt;
+  &lt;p&gt;
+   &lt;strong&gt;
+    Bonus link 1
+   &lt;/strong&gt;
+   : “
+   &lt;a href="http://www.propublica.org/article/everything-we-know-about-what-data-brokers-know-about-you"&gt;
+    Everything We Know About What Data Brokers Know About You
+   &lt;/a&gt;
+   ,” by Lois Beckett.
+  &lt;/p&gt;
+  &lt;p&gt;
+   &lt;strong&gt;
+    Bonus Link 2
+   &lt;/strong&gt;
+   : “
+   &lt;a href="http://www.washingtonpost.com/opinions/higher-education-is-more-than-a-return-on-investment/2013/03/14/2bae3660-8a94-11e2-8d72-dc76641cb8d4_story.html"&gt;
+    College is more than a ‘return on investment’
+   &lt;/a&gt;
+   ,” by Gene D. Block.
+  &lt;/p&gt;
+  &lt;ul class="social-buttons"&gt;
+   &lt;li class="st_facebook" st_image="http://chronicle.com/img/shareicons/default-share.png" st_summary="It's such an ugly word: MOOC. It's an acronym for &amp;quot;massive open online course,&amp;quot; something you probably already know if you've been paying attention to the latest news about higher education. MOOCs hav..." st_title="Weekend Reading: EdTech-a-Palooza Edition" st_url="http://chronicle.com/blogs/profhacker/weekend-reading-edtech-a-palooza-edition/47535"&gt;
+   &lt;/li&gt;
+   &lt;li class="st_twitter" st_image="http://chronicle.com/img/shareicons/default-share.png" st_summary="It's such an ugly word: MOOC. It's an acronym for &amp;quot;massive open online course,&amp;quot; something you probably already know if you've been paying attention to the latest news about higher education. MOOCs hav..." st_title="Weekend Reading: EdTech-a-Palooza Edition" st_url="http://chronicle.com/blogs/profhacker/weekend-reading-edtech-a-palooza-edition/47535" st_via="chronicle"&gt;
+   &lt;/li&gt;
+   &lt;li class="st_googleplus" st_image="http://chronicle.com/img/shareicons/default-share.png" st_summary="It's such an ugly word: MOOC. It's an acronym for &amp;quot;massive open online course,&amp;quot; something you probably already know if you've been paying attention to the latest news about higher education. MOOCs hav..." st_title="Weekend Reading: EdTech-a-Palooza Edition" st_url="http://chronicle.com/blogs/profhacker/weekend-reading-edtech-a-palooza-edition/47535"&gt;
+   &lt;/li&gt;
+   &lt;li class="st_email" st_image="http://chronicle.com/img/shareicons/default-share.png" st_summary="It's such an ugly word: MOOC. It's an acronym for &amp;quot;massive open online course,&amp;quot; something you probably already know if you've been paying attention to the latest news about higher education. MOOCs hav..." st_title="Weekend Reading: EdTech-a-Palooza Edition" st_url="http://chronicle.com/blogs/profhacker/weekend-reading-edtech-a-palooza-edition/47535"&gt;
+   &lt;/li&gt;
+   &lt;li class="print share-divider print-btn" onclick="javascript:print()"&gt;
+   &lt;/li&gt;
+   &lt;li class="comment"&gt;
+    &lt;a href="http://chronicle.com/blogs/profhacker/weekend-reading-edtech-a-palooza-edition/47535#disqus_thread"&gt;
+     &lt;img alt="comment" src="/img/icn_comment.png" style="float:none;"/&gt;
+    &lt;/a&gt;
+   &lt;/li&gt;
+  &lt;/ul&gt;
+ &lt;/div&gt;
+ &lt;!-- .entry-content --&gt;
+ &lt;div class="entry-utility"&gt;
+  This entry was posted in
+  &lt;a href="http://chronicle.com/blogs/profhacker/category/editorial" rel="category tag" title="View all posts in Editorial"&gt;
+   Editorial
+  &lt;/a&gt;
+  and tagged
+  &lt;a href="http://chronicle.com/blogs/profhacker/tag/weekend-reading" rel="tag"&gt;
+   weekend reading
+  &lt;/a&gt;
+  . Bookmark the
+  &lt;a href="http://chronicle.com/blogs/profhacker/weekend-reading-edtech-a-palooza-edition/47535" rel="bookmark" title="Permalink to Weekend Reading: EdTech-a-Palooza Edition"&gt;
+   permalink
+  &lt;/a&gt;
+  .
+ &lt;/div&gt;
+ &lt;!-- .entry-utility --&gt;
+ &lt;br/&gt;
+&lt;/div&gt;</fulltext>
+  <pub_title>The Chronicle of Higher Education</pub_title>
+  <author>George Williams</author>
+  <abstract></abstract>
+  <title>Weekend Reading: EdTech-a-Palooza Edition</title>
+  <comments></comments>
+  <document_url>http://chronicle.com/blogs/profhacker/weekend-reading-edtech-a-palooza-edition/47535</document_url>
+  <query>MOOC</query>
+  <pub_date>March 15, 2013,
+           
+            3:00 pm</pub_date>
+  <document_id>chronicle-47535</document_id>
+</DOCUMENT>

@@ -1,0 +1,155 @@
+<DOCUMENT>
+  <publisher>The Chronicle - Blogs</publisher>
+  <fulltext>&lt;div class="abstract"&gt;
+ &lt;div class="entry-content"&gt;
+  &lt;div style="float:left;width:100%"&gt;
+   &lt;ul class="social-buttons"&gt;
+    &lt;li class="st_facebook" st_image="http://chronicle.com/img/shareicons/default-share.png" st_summary="&#13;
+&#13;
+In Fall 2011, Stanford announced three, free massively open online courses, or MOOCs. Two of these courses, database and machine learning, corresponded to spring 2012 courses that I would be teach..." st_title="Warming Up to MOOC’s" st_url="http://chronicle.com/blogs/profhacker/warming-up-to-moocs/44022"&gt;
+    &lt;/li&gt;
+    &lt;li class="st_twitter" st_image="http://chronicle.com/img/shareicons/default-share.png" st_summary="&#13;
+&#13;
+In Fall 2011, Stanford announced three, free massively open online courses, or MOOCs. Two of these courses, database and machine learning, corresponded to spring 2012 courses that I would be teach..." st_title="Warming Up to MOOC’s" st_url="http://chronicle.com/blogs/profhacker/warming-up-to-moocs/44022" st_via="chronicle"&gt;
+    &lt;/li&gt;
+    &lt;li class="st_googleplus" st_image="http://chronicle.com/img/shareicons/default-share.png" st_summary="&#13;
+&#13;
+In Fall 2011, Stanford announced three, free massively open online courses, or MOOCs. Two of these courses, database and machine learning, corresponded to spring 2012 courses that I would be teach..." st_title="Warming Up to MOOC’s" st_url="http://chronicle.com/blogs/profhacker/warming-up-to-moocs/44022"&gt;
+    &lt;/li&gt;
+    &lt;li class="st_email" st_image="http://chronicle.com/img/shareicons/default-share.png" st_summary="&#13;
+&#13;
+In Fall 2011, Stanford announced three, free massively open online courses, or MOOCs. Two of these courses, database and machine learning, corresponded to spring 2012 courses that I would be teach..." st_title="Warming Up to MOOC’s" st_url="http://chronicle.com/blogs/profhacker/warming-up-to-moocs/44022"&gt;
+    &lt;/li&gt;
+    &lt;li class="print share-divider print-btn" onclick="javascript:print()"&gt;
+    &lt;/li&gt;
+    &lt;li class="comment"&gt;
+     &lt;a href="http://chronicle.com/blogs/profhacker/warming-up-to-moocs/44022#disqus_thread"&gt;
+      &lt;img alt="comment" src="/img/icn_comment.png" style="float:none;"/&gt;
+     &lt;/a&gt;
+    &lt;/li&gt;
+   &lt;/ul&gt;
+  &lt;/div&gt;
+  &lt;p&gt;
+   &lt;a href="http://chronicle.com/blogs/profhacker/files/2012/11/VCUlecturehall.jpg"&gt;
+    &lt;img alt="VCU lecture hall" class="alignnone size-full wp-image-44024" height="191" src="http://chronicle.com/blogs/profhacker/files/2012/11/VCUlecturehall.jpg" title="VCU lecture hall" width="240"/&gt;
+   &lt;/a&gt;
+   [
+   &lt;em&gt;
+    This is a guest post by
+    &lt;a href="http://www.vuse.vanderbilt.edu/~dfisher/"&gt;
+     Douglas H. Fisher
+    &lt;/a&gt;
+    , an associate professor of computer science and of computer engineering at
+    &lt;a href="http://www.vanderbilt.edu"&gt;
+     Vanderbilt University
+    &lt;/a&gt;
+    .--@jbj
+   &lt;/em&gt;
+   ]
+  &lt;/p&gt;
+  &lt;p&gt;
+   In Fall 2011, Stanford announced
+   &lt;a href="http://www.nytimes.com/2011/08/16/science/16stanford.html?_r=0"&gt;
+    three, free massively open online courses, or MOOCs
+   &lt;/a&gt;
+   . Two of these courses, database and machine learning, corresponded to spring 2012 courses that I would be teaching at Vanderbilt University. I recognized that I could use the lecture materials from these classes to “flip” my own classes by having students view lectures before the class meeting, which then could be used for other learning activities. Shortly after this, I had two affective impulses – an inspiration to create and post my own content online, and a hesitation at using lecture material from other faculty, and from other institutions, even when that material was very high quality. This latter hesitation stemmed from concern about what students, faculty, and Vanderbilt might think about my “outsourcing” lectures; and uncertainty over what I might do with class time if not lecture!
+  &lt;/p&gt;
+  &lt;p&gt;
+   Nonetheless, I decided that not using these high quality materials because of insecurity was silly. I was also excited about what I might do in a flipped class, and I didn’t have time and other resources to produce this material myself. So in spring 2012, I plunged in and used the online lectures from the earlier Stanford courses to flip my classes. In the undergraduate database course, flipping meant spending class time on larger database designs, created by both students and me, and understanding the basic material in the context of these designs. In the graduate machine-learning course, where I had some different preferences than the Stanford instructor, students watched (most of) his videos in advance of my classes and I also assigned additional weekly readings. In that class, flipping meant synthesizing across the lectures and readings in class.
+  &lt;/p&gt;
+  &lt;p&gt;
+   In both classes, students took a quiz at the start of each class on the online lecture material and readings. Also in both classes, student response was positive, with one database student reflecting my own sentiments in final anonymous course evaluations: “… [the videos] are an excellent resource, and not taking advantage of them would be silly.”
+  &lt;/p&gt;
+  &lt;p&gt;
+   The experience in the machine learning class, in particular, suggested the utility of what I call a “wrapper” around a MOOC. With this approach, students complete the MOOC requirements of quizzes, homework and lectures, allowing both students and me to take advantage of the online discussion and grading resources. Students also have additional requirements from me, the onsite instructor of the wrapper, allowing all of us to customize and expand the course experience around a MOOC. I am running such a wrapper now as a graduate individual studies course, adding additional readings, small group discussions, and a final project to a machine learning MOOC from Stanford University. In large part, this offering was made in response to another Vanderbilt academic unit that very much wanted a machine learning course before the next scheduled offering in spring 2014. Vanderbilt’s Center for Teaching and I are interested in the outcomes, including how students perceive the quality of the MOOC instruction and the quality of their time with me.  If one of these students were to see the MOOC instructor walking around our campus, I would want them to say “great class,” and I would want them to say the same thing to me.
+  &lt;/p&gt;
+  &lt;p&gt;
+   More in line with my previous experience with the database course, I am teaching a course in artificial intelligence in fall 2012, using lectures from a variety of sources (enabled by the greater content on the Web since the onset of high-profile MOOCs) to flip my classes. I am also recording and posting my own lectures, in which I adapt slides that accompany the freely available online textbook that I use for the class. Recently, I’ve had students of yet another MOOC on artificial intelligence thank me for clarifying a concept in one of my online lectures!
+  &lt;/p&gt;
+  &lt;p&gt;
+   Frankly, embracing the online content of others doesn’t likely come easy to those of us who have been alone in the wilderness for years so far as our teaching is concerned. In my case, a “warming up” period started in late 2008, when I was preparing to teach a database class at Vanderbilt through video-conferencing from my office at the National Science Foundation. I thought that remote lecturing would be tedious and clunky, so I searched for appropriate database-specific online lectures that I could use to “flip” my classes. I found no such material, but this experience planted a seed that I could use the lecture material of others, and vice versa. I wouldn’t act on that recognition for three years, until Stanford’s fall 2011 announcement. I now view MOOCs, and the assessment and discussion infrastructure that comes with them, as invaluable resources that I embrace and to which I add value. I, and I am guessing many others, are short steps away from full-blown customizations of individual courses and even entire curricula, drawing upon resources from around the world and contributing back to those resources.
+  &lt;/p&gt;
+  &lt;p&gt;
+   The implications of MOOCs for community between faculty and students, as well as the relationships within and between local and global learning communities, interest and excite me. In fact, it is a nuance on the theme of community that I think is most responsible for my excitement as I embrace online educational content. For the first time in 25 years of teaching, I feel as though I am in a scholarly-like community with my fellow educators. I have long regarded scholarship as the noblest aspect of academia– the scholar’s tenacity in identifying, acknowledging, addressing and building on the intellectual contributions of others. I have not experienced the same profound sense of community among my colleagues in the education realm, however – I have largely been a lone wolf. Now there has been a profound shift in my mindset – I use and build on the educational production of others; I do it openly on public sites, of which I am proud rather than embarrassed; I contribute back, and my students see and learn from this practice of scholarly appreciation, and are even encouraged to contribute to it through their own content creation and sharing. This opportunity for “scholarship” in educational practice is what, as an educator and scholar, I find most exciting about this nascent and exploding online education movement.
+  &lt;/p&gt;
+  &lt;p&gt;
+   &lt;em&gt;
+    Photo
+    &lt;a href="http://www.flickr.com/photos/vculibraries/4269777220/"&gt;
+     “Lecture Hall”
+    &lt;/a&gt;
+    by Flickr user
+    &lt;a href="http://www.flickr.com/photos/vculibraries/"&gt;
+     VCU Libraries
+    &lt;/a&gt;
+    /
+    &lt;a href="http://creativecommons.org/licenses/by/2.0/"&gt;
+     Creative Commons licensed BY-2.0
+    &lt;/a&gt;
+   &lt;/em&gt;
+  &lt;/p&gt;
+  &lt;ul class="social-buttons"&gt;
+   &lt;li class="st_facebook" st_image="http://chronicle.com/img/shareicons/default-share.png" st_summary="&#13;
+&#13;
+In Fall 2011, Stanford announced three, free massively open online courses, or MOOCs. Two of these courses, database and machine learning, corresponded to spring 2012 courses that I would be teach..." st_title="Warming Up to MOOC’s" st_url="http://chronicle.com/blogs/profhacker/warming-up-to-moocs/44022"&gt;
+   &lt;/li&gt;
+   &lt;li class="st_twitter" st_image="http://chronicle.com/img/shareicons/default-share.png" st_summary="&#13;
+&#13;
+In Fall 2011, Stanford announced three, free massively open online courses, or MOOCs. Two of these courses, database and machine learning, corresponded to spring 2012 courses that I would be teach..." st_title="Warming Up to MOOC’s" st_url="http://chronicle.com/blogs/profhacker/warming-up-to-moocs/44022" st_via="chronicle"&gt;
+   &lt;/li&gt;
+   &lt;li class="st_googleplus" st_image="http://chronicle.com/img/shareicons/default-share.png" st_summary="&#13;
+&#13;
+In Fall 2011, Stanford announced three, free massively open online courses, or MOOCs. Two of these courses, database and machine learning, corresponded to spring 2012 courses that I would be teach..." st_title="Warming Up to MOOC’s" st_url="http://chronicle.com/blogs/profhacker/warming-up-to-moocs/44022"&gt;
+   &lt;/li&gt;
+   &lt;li class="st_email" st_image="http://chronicle.com/img/shareicons/default-share.png" st_summary="&#13;
+&#13;
+In Fall 2011, Stanford announced three, free massively open online courses, or MOOCs. Two of these courses, database and machine learning, corresponded to spring 2012 courses that I would be teach..." st_title="Warming Up to MOOC’s" st_url="http://chronicle.com/blogs/profhacker/warming-up-to-moocs/44022"&gt;
+   &lt;/li&gt;
+   &lt;li class="print share-divider print-btn" onclick="javascript:print()"&gt;
+   &lt;/li&gt;
+   &lt;li class="comment"&gt;
+    &lt;a href="http://chronicle.com/blogs/profhacker/warming-up-to-moocs/44022#disqus_thread"&gt;
+     &lt;img alt="comment" src="/img/icn_comment.png" style="float:none;"/&gt;
+    &lt;/a&gt;
+   &lt;/li&gt;
+  &lt;/ul&gt;
+ &lt;/div&gt;
+ &lt;!-- .entry-content --&gt;
+ &lt;div class="entry-utility"&gt;
+  This entry was posted in
+  &lt;a href="http://chronicle.com/blogs/profhacker/category/profession" rel="category tag" title="View all posts in Profession"&gt;
+   Profession
+  &lt;/a&gt;
+  ,
+  &lt;a href="http://chronicle.com/blogs/profhacker/category/teaching" rel="category tag" title="View all posts in Teaching"&gt;
+   Teaching
+  &lt;/a&gt;
+  and tagged
+  &lt;a href="http://chronicle.com/blogs/profhacker/tag/flipped-classroom" rel="tag"&gt;
+   flipped classroom
+  &lt;/a&gt;
+  ,
+  &lt;a href="http://chronicle.com/blogs/profhacker/tag/moocs" rel="tag"&gt;
+   moocs
+  &lt;/a&gt;
+  . Bookmark the
+  &lt;a href="http://chronicle.com/blogs/profhacker/warming-up-to-moocs/44022" rel="bookmark" title="Permalink to Warming Up to MOOC’s"&gt;
+   permalink
+  &lt;/a&gt;
+  .
+ &lt;/div&gt;
+ &lt;!-- .entry-utility --&gt;
+ &lt;br/&gt;
+&lt;/div&gt;</fulltext>
+  <pub_title>The Chronicle of Higher Education</pub_title>
+  <author>Prof. Hacker</author>
+  <abstract></abstract>
+  <title>Warming Up to MOOC’s</title>
+  <comments></comments>
+  <document_url>http://chronicle.com/blogs/profhacker/warming-up-to-moocs/44022</document_url>
+  <query>Massive Open Online Course</query>
+  <pub_date>November 6, 2012,
+           
+            11:00 am</pub_date>
+  <document_id>chronicle-44022</document_id>
+</DOCUMENT>

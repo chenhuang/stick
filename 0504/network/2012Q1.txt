@@ -1,0 +1,18 @@
+Google	Yahoo	1
+Massachusetts Institute of Technology	2
+Stanford University	6
+Dartmouth College	University of Virginia	1
+Udacity	3
+Stanford University	New York Times	1
+New York Times	Google	1
+Catherine T. MacArthur Foundation	Microsoft	1
+Mozilla	Microsoft	1
+Facebook	1
+Georgia Institute of Technology	2
+Brigham Young University	1
+Google	Stanford University	3
+Catherine T. MacArthur Foundation	Mozilla	1
+Stanford University	University of Virginia	1
+Udacity	Google	2
+Google	University of Virginia	1
+Athabasca University	Massachusetts Institute of Technology	1
