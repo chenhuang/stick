@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-8"?><graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="weight" attr.type="int" for="edge" id="d0" />
+  <graph edgedefault="undirected">
+    <node id="Creative Commons" />
+    <node id="Massachusetts Institute of Technology" />
+    <node id="Stanford University" />
+    <node id="University of California at Irvine" />
+    <node id="Udacity" />
+    <node id="University of the People" />
+    <node id="Harvard University" />
+    <node id="Blackboard" />
+    <node id="Flora Hewlett Foundation" />
+    <node id="Coursera" />
+    <node id="Yahoo" />
+    <node id="The City University of New York" />
+    <node id="Amazon" />
+    <node id="University of California" />
+    <node id="MyCollege Foundation" />
+    <node id="Arizona State University" />
+    <node id="New America Foundation" />
+    <node id="Facebook" />
+    <node id="edX" />
+    <node id="Association of Public and Land-Grant Universities" />
+    <node id="Columbia University" />
+    <node id="University of Michigan" />
+    <node id="University of Pennsylvania" />
+    <node id="Colorado State University" />
+    <node id="The Chronicle of Higher Education" />
+    <node id="City University of New York" />
+    <node id="Melinda Gates Foundation" />
+    <node id="University of Virginia" />
+    <node id="Peer University" />
+    <node id="American Association of University Professors" />
+    <node id="George Washington University" />
+    <node id="Microsoft" />
+    <node id="Princeton University" />
+    <node id="Google" />
+    <node id="Washington University" />
+    <node id="Indiana University" />
+    <node id="Udemy" />
+    <node id="Yale University" />
+    <node id="University of Illinois" />
+    <edge source="Massachusetts Institute of Technology" target="University of Michigan">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Massachusetts Institute of Technology" target="University of Pennsylvania">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Massachusetts Institute of Technology" target="Stanford University">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="Massachusetts Institute of Technology" target="Coursera">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Massachusetts Institute of Technology" target="Yahoo">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Massachusetts Institute of Technology" target="Melinda Gates Foundation">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Massachusetts Institute of Technology" target="Udacity">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Massachusetts Institute of Technology" target="Google">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Massachusetts Institute of Technology" target="Harvard University">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="Massachusetts Institute of Technology" target="edX">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Massachusetts Institute of Technology" target="Yale University">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Massachusetts Institute of Technology" target="Princeton University">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Stanford University" target="University of Michigan">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Stanford University" target="University of Pennsylvania">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Stanford University" target="Coursera">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="Stanford University" target="Udacity">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="Stanford University" target="Harvard University">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Stanford University" target="edX">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Stanford University" target="Princeton University">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="University of California at Irvine" target="University of California">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Udacity" target="University of Michigan">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Udacity" target="University of Pennsylvania">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Udacity" target="Coursera">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="Udacity" target="University of Virginia">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Udacity" target="Harvard University">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Udacity" target="edX">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Udacity" target="Princeton University">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="University of the People" target="Melinda Gates Foundation">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Harvard University" target="University of Michigan">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Harvard University" target="University of Pennsylvania">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Harvard University" target="Amazon">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Harvard University" target="Coursera">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Harvard University" target="Yale University">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Harvard University" target="Facebook">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Harvard University" target="edX">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Harvard University" target="Princeton University">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Harvard University" target="Columbia University">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Blackboard" target="Indiana University">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Coursera" target="University of Michigan">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Coursera" target="University of Pennsylvania">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Coursera" target="edX">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Coursera" target="Princeton University">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Yahoo" target="Google">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="The City University of New York" target="City University of New York">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Amazon" target="Facebook">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Amazon" target="Columbia University">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Arizona State University" target="Association of Public and Land-Grant Universities">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Arizona State University" target="Microsoft">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Arizona State University" target="Melinda Gates Foundation">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Arizona State University" target="The Chronicle of Higher Education">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Facebook" target="Columbia University">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="edX" target="University of Michigan">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="edX" target="University of Pennsylvania">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="edX" target="Yale University">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="edX" target="Princeton University">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Association of Public and Land-Grant Universities" target="Microsoft">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Association of Public and Land-Grant Universities" target="The Chronicle of Higher Education">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Association of Public and Land-Grant Universities" target="Melinda Gates Foundation">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of Michigan" target="University of Pennsylvania">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of Michigan" target="Princeton University">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of Pennsylvania" target="Princeton University">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="The Chronicle of Higher Education" target="Microsoft">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="The Chronicle of Higher Education" target="American Association of University Professors">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="The Chronicle of Higher Education" target="Melinda Gates Foundation">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Melinda Gates Foundation" target="Microsoft">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="George Washington University" target="Udemy">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="George Washington University" target="Washington University">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Washington University" target="Udemy">
+      <data key="d0">1</data>
+    </edge>
+  </graph>
+</graphml>

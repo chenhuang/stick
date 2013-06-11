@@ -1,0 +1,48 @@
+Stanford University	University of Pennsylvania	1
+Massachusetts Institute of Technology	University of Michigan	1
+University of Pennsylvania	University of Michigan	1
+Coursera	Princeton University	1
+University of Pennsylvania	Harvard University	1
+Athabasca University	1
+Stanford University	Yale University	1
+Columbia University	University of Michigan	1
+Stanford University	Udacity	1
+University of Michigan	Harvard University	1
+University of Michigan	Stanford University	2
+Harvard University	Tufts University	1
+Stanford University	Columbia University	1
+Columbia University	Princeton University	1
+edX	Titans	1
+Princeton University	University of Chicago	1
+University of Chicago	University of Michigan	1
+Harvard Corporation	Tufts University	1
+Harvard University	edX	3
+Computer Science and Artificial Intelligence Laboratory	Harvard University	1
+Harvard University	1
+Harvard Corporation	Harvard University	1
+Computer Science and Artificial Intelligence Laboratory	edX	1
+University of Chicago	Yale University	1
+University of Chicago	Columbia University	1
+Yale University	Princeton University	1
+Yale University	University of Michigan	1
+Stanford University	Coursera	1
+Harvard University	Massachusetts Institute of Technology	5
+University of Michigan	Coursera	1
+Computer Science and Artificial Intelligence Laboratory	Massachusetts Institute of Technology	1
+Harvard University	Princeton University	1
+Coursera	University of Pennsylvania	1
+Princeton University	University of Pennsylvania	1
+University of Pennsylvania	Massachusetts Institute of Technology	1
+Coursera	Massachusetts Institute of Technology	1
+Yale University	Columbia University	1
+Princeton University	Massachusetts Institute of Technology	1
+University of Chicago	Stanford University	1
+Massachusetts Institute of Technology	edX	3
+edX	Coursera	1
+Princeton University	Stanford University	2
+Massachusetts Institute of Technology	Stanford University	1
+Harvard University	Stanford University	1
+University of Michigan	Princeton University	2
+Massachusetts Institute of Technology	Titans	1
+Harvard University	Titans	1
+Coursera	Harvard University	1

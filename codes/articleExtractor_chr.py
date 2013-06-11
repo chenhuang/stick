@@ -179,7 +179,14 @@ class articleExtractor(HTMLParser):
 
 		if self.current_tag == "pub_date":
 			if self.pub_date == "NULL":
-				self.pub_date = " ".join(text.strip().split(" ")[0:3])
+				itms = self.pub_date.split(" ")
+				if "\n" in text:
+					self.pub_date = " ".join(text.strip().split(" ")[0:3])[:-2]
+				else:
+					self.pub_date = text 
+				self.pub_date = re.sub(" +", " ", self.pub_date)
+				print self.pub_date
+
 			else:
 				print "ERROR: Uncleared Paper pubdate "+ self.pub_date +", from "+self.file_name + ", "+text
 				sys.exit(0)
@@ -207,7 +214,7 @@ class articleExtractor(HTMLParser):
 #	Print out the information as needed
 #	Output two files, one contains the meta-data, while the second one contains full text
 	def printout(self):
-		if 1:
+		if 0:
 			fout = open(sys.argv[4]+"/"+self.document_id + ".txt", "a")
 			fout.write("\n".join(self.content.split("/pp")))
 			fout.close()

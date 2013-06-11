@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?><graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="weight" attr.type="int" for="edge" id="d0" />
+  <graph edgedefault="undirected">
+    <node id="Google" />
+    <node id="Catherine T. MacArthur Foundation" />
+    <node id="Massachusetts Institute of Technology" />
+    <node id="Stanford University" />
+    <node id="Mozilla" />
+    <node id="Athabasca University" />
+    <node id="University of Virginia" />
+    <node id="Yahoo" />
+    <node id="Dartmouth College" />
+    <node id="Facebook" />
+    <node id="Udacity" />
+    <node id="New York Times" />
+    <node id="Georgia Institute of Technology" />
+    <node id="Microsoft" />
+    <node id="Brigham Young University" />
+    <edge source="Google" target="Stanford University">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="Google" target="University of Virginia">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Google" target="Yahoo">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Google" target="Udacity">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Google" target="New York Times">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Catherine T. MacArthur Foundation" target="Mozilla">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Catherine T. MacArthur Foundation" target="Microsoft">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Massachusetts Institute of Technology" target="Athabasca University">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Stanford University" target="University of Virginia">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Stanford University" target="New York Times">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Mozilla" target="Microsoft">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of Virginia" target="Dartmouth College">
+      <data key="d0">1</data>
+    </edge>
+  </graph>
+</graphml>

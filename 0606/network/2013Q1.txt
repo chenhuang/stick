@@ -1,0 +1,595 @@
+American Council on Education Recommends	American Council on Education	1
+University of Mexico	University of California at Santa Cruz	1
+Georgia State University	San Jose State University	1
+University of Geneva	Leiden University	1
+The American Council on Education	Coursera	1
+Rice University	National UniversityDelft University of Technology	1
+National UniversityDelft University of Technology	McGill University	1
+Pennsylvania State University	National University of Singapore	1
+National University of Singapore	Technical University of Munich	1
+University of Minnesota-Twin Cities	Pennsylvania State University	1
+University of Rochester	Instituto de Empresa Business School	1
+Instituto de Empresa Business School	Rutgers University	1
+Case Western Reserve University	University of Rochester	1
+University of California at Santa Cruz	University of Minnesota-Twin Cities	1
+Chinese University of Hong Kong	Technical University of Munich	1
+University of California at San Diego	Leiden University	1
+Cleveland State University	Arizona State University	1
+University of Tokyo	University of Geneva	1
+Southern Association of Colleges	1
+University of Copenhagen	University of Minnesota-Twin Cities	1
+Monterrey Institute of Technology and Higher Education	University of Geneva	1
+Florida International University	Florida State University	1
+National Taiwan University	University of North Carolina at Chapel Hill	1
+The Chronicle of Higher Education	The Times of India	1
+Udacity	Georgia State University	1
+University of Arkansas	Arizona State University	1
+University of Nebraska	James Madison University	1
+Khan Academy	Harvard University	1
+Israel Institute	National-Security Scholar Leads New Institute	1
+University of California at Santa Cruz	University of North Carolina at Chapel Hill	1
+Cincinnati State Technical and Community College	1
+University of California at Santa Cruz	University of Copenhagen	1
+Chinese University of Hong Kong	University of Copenhagen	1
+edX	14
+University of California at San Diego	University of Minnesota-Twin Cities	1
+Warwick University	University of Warwick	1
+University of North Carolina at Chapel Hill	Technical University of Denmark	1
+University of Tokyo	University of Colorado	1
+University of Colorado	University of California at San Diego	1
+Coursera	University of California	5
+Technical University of Munich	University of Munich	1
+National Taiwan University	University of Minnesota-Twin Cities	1
+Arizona State University	University of West Florida	1
+Northern Arizona University	Southern New Hampshire University	1
+Chinese University of Hong Kong	University of Rochester	1
+Cleveland State University	University of West Florida	1
+University of Wisconsin	University of Minnesota-Twin Cities	1
+Technical University of Munich	Case Western Reserve University	1
+Utah State University	University of Texas	1
+University of Munich	Virtual University	1
+National Science Foundation	Carnegie Mellon University	1
+University of Toronto	McGill University	1
+University of Munich	Chinese University of Hong Kong	1
+Rutgers University	Case Western Reserve University	1
+Chicken Little	1
+REOMVE	Facebook	1
+Northwestern University	Technical University of Denmark	1
+University of Geneva	University of Wisconsin	1
+University of Colorado	Chinese University of Hong Kong	1
+California State University	University of California	1
+Carolina State University	South Carolina State Fair	1
+National Science Foundation	San Jose State University	1
+National University of Singapore	Northwestern University	1
+Florida State University	University of West Florida	1
+Florida State University	University of Arkansas	1
+Wake Forest University	2
+Harvard University	edX	7
+Florida State University	University of Cincinnati	1
+University of Copenhagen	Case Western Reserve University	1
+New York University	1
+Virtual University	University of Mexico	1
+University of Mexico	Chinese University of Hong Kong	1
+Leiden University	University of Munich	1
+Northwestern University	University of California	1
+Chinese University of Hong Kong	National Taiwan University	1
+University of Rochester	Monterrey Institute of Technology and Higher Education	1
+University of Copenhagen	University of Tokyo	1
+Pennsylvania State University	University of California at San Diego	1
+National Taiwan University	University of Tokyo	1
+Harvard University	Modern Language Association	1
+University of Minnesota-Twin Cities	Case Western Reserve University	1
+Brown University	Coursera	1
+University of Colorado	Technical University of Denmark	1
+University of Wisconsin	Virtual University	1
+University of Geneva	University of California at San Diego	1
+Northwestern University	Case Western Reserve University	1
+University of California at Santa Cruz	Chinese University of Hong Kong	1
+Instituto de Empresa Business School	University of Minnesota-Twin Cities	1
+University of Munich	University of California at San Diego	1
+McGill University	Coursera	1
+University of California at Irvine	University of California	2
+Case Western Reserve University	Pennsylvania State University	1
+University of California	National University of Singapore	1
+Landmark College	1
+University of Cincinnati	Cleveland State University	1
+The American Council on Education	Udacity	1
+Duke University	Coursera	2
+Pennsylvania State University	Rutgers University	1
+University of Wisconsin	Wesleyan University	1
+American Council on Education	The American Council on Education	1
+University of Munich	Rutgers University	1
+American Life Project	2
+Virtual University	Instituto de Empresa Business School	1
+University of Rochester	University of Colorado	1
+Virtual University	Technical University of Munich	1
+Monterrey Institute of Technology and Higher Education	University of Mexico	1
+Pearson	Udacity	1
+Ferrari	1
+Stanford University	Coursera	1
+Pennsylvania State University	University of California at Santa Cruz	1
+University of Arkansas	University of Texas	1
+Massachusetts Institute of Technology	University of Toronto	1
+Warner	2
+The State University of New York	Empire State College	2
+Pennsylvania State University	University of California	1
+University of Wisconsin	University of Colorado	1
+University of Texas	The Chronicle of Higher Education	1
+Leiden University	Instituto de Empresa Business School	1
+University of Cincinnati	Arizona State University	1
+University of North Carolina at Chapel Hill	Northwestern University	1
+Georgia Institute of Technology	Google	2
+University of California	Instituto de Empresa Business School	1
+University of California at San Diego	University of Rochester	1
+Warwick University	National University of Singapore	1
+Rutgers University	1
+Governors University	Wesleyan University	2
+Georgia Institute of Technology	Century Universities	1
+University of California at Berkeley	University of California	4
+Stanford University	Duke University	2
+Rutgers University	Virtual University	1
+Florida State University	The University of Texas at Arlington	1
+University of California at Santa Cruz	Rutgers University	1
+University of Geneva	University of Colorado	1
+Excelsior University	Southern New Hampshire University	1
+edX	The Chronicle of Higher Education	4
+Harvard University	Rice University	1
+University of Tokyo	Technical University of Denmark	1
+Melinda Gates Foundation	Udacity	1
+National Taiwan University	University of Munich	1
+Florida State University	Utah State University	1
+University of California at San Diego	University of Mexico	1
+University of Colorado	Northwestern University	1
+Monterrey Institute of Technology and Higher Education	Technical University of Denmark	1
+Monterrey Institute of Technology and Higher Education	University of Tokyo	1
+McGraw-Hill Education	McGraw-Hill	1
+University of Wisconsin	University of Rochester	1
+Northwestern University	Instituto de Empresa Business School	1
+Coursera	University of California at Berkeley	1
+University of Virginia	Baylor University	1
+University of Texas	Coursera	1
+Technical University of Munich	University of Colorado	1
+Leiden University	University of California	1
+University of California	University of Wisconsin	1
+Chinese University of Hong Kong	Case Western Reserve University	1
+University of Tokyo	University of Mexico	1
+University of Minnesota-Twin Cities	National University of Singapore	1
+National Taiwan University	Technical University of Denmark	1
+University of North Carolina at Chapel Hill	Chinese University of Hong Kong	1
+Apple	University of Hawaii-Manoa	1
+University of Copenhagen	Leiden University	1
+Blackboard	Pearson	1
+University of Geneva	Northwestern University	1
+Rutgers University	Monterrey Institute of Technology and Higher Education	1
+University of California at Santa Cruz	Technical University of Denmark	1
+National Taiwan University	University of Colorado	1
+National Taiwan University	Rutgers University	1
+Duke University	Massachusetts Institute of Technology	1
+University of Copenhagen	Instituto de Empresa Business School	1
+San Jose State University	Harvard University	1
+Virtual University	University of Geneva	1
+Northwestern University	University of Wisconsin	1
+University of Texas	Cleveland State University	1
+University of Geneva	Chinese University of Hong Kong	1
+Northwestern University	University of Munich	1
+University of Pennsylvania	University of California at Irvine	1
+Illinois Institute of Technology	1
+University of Copenhagen	University of Rochester	1
+Coursera	Massachusetts Institute of Technology	1
+Case Western Reserve University	Monterrey Institute of Technology and Higher Education	1
+University of Minnesota-Twin Cities	Virtual University	1
+Technical University of Denmark	University of Rochester	1
+Florida State University	University of Texas	1
+Northwestern University	Technical University of Munich	1
+University of Rochester	University of Minnesota-Twin Cities	1
+edX	Coursera	13
+University of Rochester	Rutgers University	1
+University of Cincinnati	1
+Case Western Reserve University	University of California at San Diego	1
+University of Toronto	edX	1
+Case Western Reserve University	University of Mexico	1
+Case Western Reserve University	University of California at Santa Cruz	1
+edX	University of Texas	1
+Instituto de Empresa Business School	University of Wisconsin	1
+McGill University	Rice University	1
+California Senate	1
+Leiden University	Northwestern University	1
+University of Warwick	National University of Singapore	1
+Northwestern University	Rutgers University	1
+Chinese University of Hong Kong	University of Wisconsin	1
+University of Copenhagen	University of Mexico	1
+Pennsylvania State University	University of Rochester	1
+Chinese University of Hong Kong	University of Minnesota-Twin Cities	1
+Technical University of Denmark	Instituto de Empresa Business School	1
+Harvard University	Stanford University	2
+University of Minnesota-Twin Cities	Rutgers University	1
+University of North Carolina at Chapel Hill	University of Minnesota-Twin Cities	1
+University of Rochester	National University of Singapore	1
+Utah State University	Cleveland State University	1
+University of California	University of California at Santa Cruz	1
+University of Copenhagen	Technical University of Munich	1
+ViewsFor College Endowments	1
+Case Western Reserve University	Leiden University	1
+University of Colorado	University of California	1
+University of Mexico	National Taiwan University	1
+University of North Carolina at Chapel Hill	University of Wisconsin	1
+Technical University of Munich	University of California at Santa Cruz	1
+Pearson	British Council	1
+University of Copenhagen	National Taiwan University	1
+Udacity	University of California	3
+Monterrey Institute of Technology and Higher Education	National Taiwan University	1
+Massachusetts Institute of Technology	Princeton University	1
+University of Copenhagen	Virtual University	1
+University of Minnesota-Twin Cities	Technical University of Munich	1
+National Taiwan University	Technical University of Munich	1
+University of Rochester	University of Geneva	1
+Southern New Hampshire University	University of Wisconsin	1
+University of California at San Diego	Technical University of Munich	1
+University of Tokyo	University of California	1
+Technical University of Denmark	Pennsylvania State University	1
+University of Copenhagen	Rutgers University	1
+University of Colorado	Virtual University	1
+Utah State University	University of Arkansas	1
+Columbia University	University of British Columbia	1
+University of California	REOMVE	1
+National University of Singapore	Monterrey Institute of Technology and Higher Education	1
+Apple	2
+Northwestern University	Pennsylvania State University	1
+edX	Pearson	1
+Case Western Reserve University	University of Tokyo	1
+Instituto de Empresa Business School	University of Geneva	1
+Instituto de Empresa Business School	National Taiwan University	1
+Virginia Tech	1
+American Council on Education	Udacity	1
+Stanford University	Princeton University	1
+University of California at Santa Cruz	Northwestern University	1
+Governors University	Excelsior University	1
+Rutgers University	University of California	1
+Rutgers University	University of Mexico	1
+University of California at San Diego	University of California at Santa Cruz	1
+University of Wisconsin	Leiden University	1
+Coursera	19
+National Taiwan University	University of Wisconsin	1
+University of Texas	University of Cincinnati	1
+University of Cincinnati	University of West Florida	1
+University of Munich	University of Geneva	1
+University of Cincinnati	Utah State University	1
+University of Copenhagen	Technical University of Denmark	1
+Pennsylvania State University	University of Copenhagen	1
+Napster	1
+Utah State University	The University of Texas at Arlington	1
+Technical University of Munich	Leiden University	1
+Pennsylvania State University	University of Tokyo	1
+Instituto de Empresa Business School	Pennsylvania State University	1
+University of Cincinnati	The University of Texas at Arlington	1
+San Jose State University	edX	4
+University of California at San Diego	University of Tokyo	1
+University of Munich	Pennsylvania State University	1
+REOMVE	1
+British Council	University of Delhi	1
+University of Cincinnati	University of Arkansas	1
+University of California at Irvine	Duke University	1
+University of Geneva	Technical University of Munich	1
+Princeton University	Duke University	1
+University of Munich	University of Tokyo	1
+University of Pennsylvania	1
+University of California	University of Geneva	1
+Online Computer Library Center	University of Pennsylvania	1
+University of Rochester	University of Mexico	1
+University of Mexico	University of Munich	1
+University of California	Case Western Reserve University	1
+Chinese University of Hong Kong	Instituto de Empresa Business School	1
+Vodafone	University of Delhi	1
+Pearson	Coursera	1
+ National University of Singapore	Yale University	1
+Northwestern University	University of Mexico	1
+Technical University of Denmark	University of California at San Diego	1
+Monterrey Institute of Technology and Higher Education	University of Colorado	1
+Leiden University	University of Minnesota-Twin Cities	1
+ National University of Singapore	National University of Singapore	1
+Wikimedia	Creative Commons	3
+Chinese University of Hong Kong	National University of Singapore	1
+Twenty Million Minds Foundation	1
+Leiden University	University of North Carolina at Chapel Hill	1
+California State University	Udacity	1
+University of Rochester	University of California	1
+University of Minnesota-Twin Cities	Monterrey Institute of Technology and Higher Education	1
+Northwestern University	University of Copenhagen	1
+University of Mexico	University of Wisconsin	1
+Monterrey Institute of Technology and Higher Education	University of California at Santa Cruz	1
+The State University of New York	State University of New York	1
+National Taiwan University	University of California	1
+National University of Singapore	Case Western Reserve University	1
+University of Munich	University of Rochester	1
+University of Tokyo	University of Minnesota-Twin Cities	1
+Pennsylvania State University	University of Wisconsin	1
+Ohio State University	1
+University of Wisconsin	University of Munich	1
+University of California at San Diego	Northwestern University	1
+Leiden University	Monterrey Institute of Technology and Higher Education	1
+University of Tokyo	Leiden University	1
+University of Colorado	Case Western Reserve University	1
+University of Tokyo	University of Rochester	1
+University of West Florida	Utah State University	1
+Coursera	Udacity	6
+University of California at San Diego	National Taiwan University	1
+The Chronicle of Higher Education	Colleges Ask Education Dept.	1
+Monterrey Institute of Technology and Higher Education	Technical University of Munich	1
+University of Colorado	Instituto de Empresa Business School	1
+Wake Forest University	LinkedIn	1
+Case Western Reserve University	University of Wisconsin	1
+Case Western Reserve University	National Taiwan University	1
+Instituto de Empresa Business School	University of California at San Diego	1
+University of California	University of California at Los Angeles	1
+University of California at San Diego	Chinese University of Hong Kong	1
+University of California at Santa Cruz	University of Geneva	1
+Online Computer Library Center	1
+University of Copenhagen	University of North Carolina at Chapel Hill	1
+University of North Carolina at Chapel Hill	Virtual University	1
+U.S. Army	1
+University of North Carolina at Chapel Hill	University of Tokyo	1
+University of West Florida	University of Arkansas	1
+Georgia State University	4
+University of California	University of Munich	1
+University of Pennsylvania	University of California	1
+National University of Singapore	University of Colorado	1
+Instituto de Empresa Business School	Technical University of Munich	1
+University of Wisconsin	Technical University of Munich	1
+Harvard University	Massachusetts Institute of Technology	11
+Babson Survey Research Group	2
+National University of Singapore	University of California at Santa Cruz	1
+Virtual University	National University of Singapore	1
+University of Tokyo	University of California at Santa Cruz	1
+American Enterprise Institute	1
+Technical University of Munich	University of California	1
+Warwick University	1
+University of North Carolina at Chapel Hill	Rutgers University	1
+Northwestern University	Chinese University of Hong Kong	1
+Stanford University	3
+Northwestern University	University of Minnesota-Twin Cities	1
+Vodafone	British Council	1
+Leiden University	National Taiwan University	1
+Technical University of Denmark	University of Munich	1
+California Faculty Association	California State University	1
+The Chronicle of Higher Education	Modern Language Association	1
+University of West Florida	University of Texas	1
+Leiden University	National University of Singapore	1
+University of Munich	Monterrey Institute of Technology and Higher Education	1
+San Jose State University	Udacity	3
+Governors University	University of Wisconsin	1
+National University of Singapore	University of California at San Diego	1
+American Council on Education Recommends	Coursera	1
+University of Minnesota-Twin Cities	University of Colorado	1
+National Taiwan University	Virtual University	1
+Technical University of Denmark	National University of Singapore	1
+University of Mexico	Leiden University	1
+Instituto de Empresa Business School	National University of Singapore	1
+University of North Carolina at Chapel Hill	University of Munich	1
+Southern New Hampshire University	U.S. Department of Education	2
+University of Southern California	1
+Rutgers University	University of California at San Diego	1
+University of Texas	The University of Texas at Arlington	1
+University of California at San Diego	University of Copenhagen	1
+Rutgers University	University of Wisconsin	1
+Melinda Gates Foundation	4
+Case Western Reserve University	University of Geneva	1
+Instituto de Empresa Business School	University of Mexico	1
+Instituto de Empresa Business School	University of North Carolina at Chapel Hill	1
+Arizona State University	Florida State University	1
+National Taiwan University	Pennsylvania State University	1
+University of Colorado	Pennsylvania State University	1
+Southern New Hampshire University	Wesleyan University	1
+University of California at Irvine	Coursera	2
+Massachusetts Institute of Technology	Stanford University	1
+Coursera	American Council on Education	2
+University of California at San Diego	University of Wisconsin	1
+University of North Carolina at Chapel Hill	University of Mexico	1
+Northwestern University	University of Tokyo	1
+Northern Arizona University	Governors University	1
+The University of Texas at Arlington	University of West Florida	1
+University of Mexico	Technical University of Munich	1
+University of Geneva	Technical University of Denmark	1
+Leiden University	Technical University of Denmark	1
+University of Wisconsin	Excelsior University	1
+Rutgers University	Chinese University of Hong Kong	1
+Northeast Commission	Southern New Hampshire University	1
+Udacity	Stanford University	3
+University of Copenhagen	Monterrey Institute of Technology and Higher Education	1
+Arizona State University	The University of Texas at Arlington	1
+National University of Singapore	University of Mexico	1
+University of Toronto	National UniversityDelft University of Technology	1
+Monterrey Institute of Technology and Higher Education	Instituto de Empresa Business School	1
+Virtual University	Leiden University	1
+University of Colorado	University of Munich	1
+U.S. Department of Education	1
+George Mason University	1
+University of Minnesota-Twin Cities	University of Geneva	1
+Arizona State University	University of Texas	1
+University of California at San Diego	University of California	1
+The Chronicle of Higher Education	Coursera	1
+Northwestern University	National Taiwan University	1
+University of Wisconsin	Technical University of Denmark	1
+Massachusetts Institute of Technology	Rice University	1
+Chinese University of Hong Kong	1
+University of Toronto	3
+Follett Higher Education Group	1
+University of California	Monterrey Institute of Technology and Higher Education	1
+The Chronicle of Higher Education	Georgia Institute of Technology	1
+Technical University of Denmark	Technical University of Munich	1
+Technical University of Denmark	Chinese University of Hong Kong	1
+University of Michigan	Indiana University	1
+University of Rochester	Virtual University	1
+University of Copenhagen	University of California	1
+Vodafone	Pearson	1
+Instituto de Empresa Business School	University of California at Santa Cruz	1
+University of Tokyo	University of Wisconsin	1
+University of California at Santa Cruz	Virtual University	1
+Instituto de Empresa Business School	University of Tokyo	1
+National Association of Independent Colleges and Universities	1
+University of North Carolina at Chapel Hill	Pennsylvania State University	1
+Rutgers University	University of Colorado	1
+Coursera	Princeton University	1
+National Taiwan University	University of Rochester	1
+University of Geneva	University of North Carolina at Chapel Hill	1
+Virtual University	Northwestern University	1
+Pennsylvania State University	University of Geneva	1
+University of Copenhagen	University of Munich	1
+University of Rochester	Technical University of Munich	1
+Cleveland State University	University of Arkansas	1
+Virtual University	Case Western Reserve University	1
+University of Richmond	3
+San Jose State University	2
+edX	Massachusetts Institute of Technology	7
+Facebook	University of California	1
+University of Delhi	Pearson	1
+New America Foundation	2
+University of California at Santa Cruz	University of Munich	1
+The Chronicle of Higher Education	14
+Wesleyan University	Northern Arizona University	1
+Harvard University	University of Toronto	1
+Georgia Institute of Technology	6
+National University of Singapore	University of Tokyo	1
+Cleveland State University	The University of Texas at Arlington	1
+Rice University	edX	2
+University of California at San Diego	Monterrey Institute of Technology and Higher Education	1
+The New York Times	New York Times	3
+University of California at Santa Cruz	University of Colorado	1
+University of Colorado	University of North Carolina at Chapel Hill	1
+National Institute for Technology in Liberal Education	1
+Rice University	Coursera	3
+University of Copenhagen	University of Colorado	1
+University of California at Santa Cruz	National Taiwan University	1
+Leiden University	University of Rochester	1
+University of California at San Diego	Virtual University	1
+University of Munich	University of Minnesota-Twin Cities	1
+Full Sail University	1
+Harvard University	6
+University of Wisconsin	Monterrey Institute of Technology and Higher Education	1
+Leiden University	University of California at Santa Cruz	1
+University of Copenhagen	National University of Singapore	1
+Cameron University	1
+University of North Carolina at Chapel Hill	Case Western Reserve University	1
+Instituto de Empresa Business School	University of Munich	1
+Wesleyan University	Excelsior University	1
+Yale University	National University of Singapore	1
+University of California	University of Minnesota-Twin Cities	1
+Rutgers University	University of Tokyo	1
+Rutgers University	Technical University of Denmark	1
+Instituto de Empresa Business School	Case Western Reserve University	1
+University of Minnesota-Twin Cities	Technical University of Denmark	1
+Rutgers University	National University of Singapore	1
+University of Geneva	National Taiwan University	1
+University of Wisconsin	Northern Arizona University	1
+U.S. Department of Education	Northeast Commission	1
+University of Munich	National University of Singapore	1
+University of Wisconsin	National University of Singapore	1
+The Chronicle of Higher Education	Microsoft	1
+Chinese University of Hong Kong	University of Tokyo	1
+The Chronicle of Higher Education	Century Universities	1
+Chinese University of Hong Kong	Virtual University	1
+Case Western Reserve University	University of Munich	1
+Fairfax County Public Schools	1
+University of Delhi	1
+University of Mexico	Pennsylvania State University	1
+Excelsior University	Northern Arizona University	1
+Pennsylvania State University	Monterrey Institute of Technology and Higher Education	1
+Technical University of Munich	University of Tokyo	1
+University of California	Duke University	1
+Pennsylvania State University	Chinese University of Hong Kong	1
+Council for Higher Education Accreditation	2
+University of North Carolina at Chapel Hill	Monterrey Institute of Technology and Higher Education	1
+University of Phoenix	1
+Governors University	Southern New Hampshire University	1
+The State University of New York	2
+National University of Singapore	University of Geneva	1
+Chinese University of Hong Kong	University of California	1
+Princeton University	7
+The Chronicle of Higher Education	Harvard University	1
+University of Mexico	University of Geneva	1
+Higher Learning Commission of the North Central Association of Colleges	2
+Massachusetts Institute of Technology	5
+Excelsior University	Coursera	1
+University of California at Santa Cruz	University of Rochester	1
+University of Copenhagen	University of Wisconsin	1
+Griffith University	1
+Middlebury College	1
+Pennsylvania State University	Technical University of Munich	1
+Georgia Institute of Technology	Coursera	2
+Pearson	Rutgers University	3
+Banyan Vines	1
+Northwestern University	Monterrey Institute of Technology and Higher Education	1
+University of North Carolina at Chapel Hill	University of California at San Diego	1
+San Jose State University	Massachusetts Institute of Technology	1
+University of Arkansas	The University of Texas at Arlington	1
+Wal-Mart	1
+Purcell Public Library	1
+Duke University	7
+Chinese University of Hong Kong	Leiden University	1
+Institute for Biopharmaceutical Research	2
+University of Colorado	Leiden University	1
+The State University of New York	U.S. Education Department	1
+Coursera	National UniversityDelft University of Technology	1
+Virtual University	Technical University of Denmark	1
+University of California	Virtual University	1
+Clark University	1
+Technical University of Denmark	University of California	1
+Technical University of Denmark	Case Western Reserve University	1
+Rice University	University of Toronto	2
+College Board	Harvard University	1
+University of Rochester	University of North Carolina at Chapel Hill	1
+Harvard University	Duke University	1
+Southwest University	2
+Rutgers University	Leiden University	1
+University of Illinois at Urbana-Champaign	1
+Coursera	University of Toronto	2
+Rutgers University	University of Geneva	1
+University of Michigan	1
+Pearson	5
+Duke University	University of Pennsylvania	1
+National Science Foundation	Udacity	1
+University of Rochester	Northwestern University	1
+University of Colorado	University of Mexico	1
+Monterrey Institute of Technology and Higher Education	Virtual University	1
+Youngstown State University	1
+Virtual University	Pennsylvania State University	1
+Udacity	Harvard University	1
+University of California	University of North Carolina at Chapel Hill	1
+Udacity	8
+Asia-Pacific Association for International Education	1
+American Council on Education	1
+All India Council for Technical Education	1
+National University of Singapore	National Taiwan University	1
+Utah State University	Arizona State University	1
+Facebook	2
+Leiden University	Pennsylvania State University	1
+College of William and Mary	1
+University of Mexico	Technical University of Denmark	1
+University of Tokyo	Virtual University	1
+University of North Carolina at Chapel Hill	National University of Singapore	1
+American Library Association	1
+University of Geneva	University of Copenhagen	1
+National Center for Education Statistics	1
+Udacity	edX	2
+University of California at Santa Cruz	University of Wisconsin	1
+Florida State University	Cleveland State University	1
+U.S. Supreme Court	1
+Technical University of Munich	Rutgers University	1
+University of Texas	1
+International Business Machines	1
+Moody's	6
+Coursera	University of Pennsylvania	2
+Hanyang University	1
+Technical University of Munich	University of North Carolina at Chapel Hill	1
+Oklahoma State University	1
+University of Virginia	1
+Monterrey Institute of Technology and Higher Education	Chinese University of Hong Kong	1
+Union Army	1
+Middlebury College	Georgia Institute of Technology	1
+LinkedIn	3
+University of Mexico	University of California	1
+Mississippi State University	1
+Coursera	Harvard University	1
+University of Chicago	1
+University of Mexico	University of Minnesota-Twin Cities	1
+Empire State College	2
+Tech Companies	1

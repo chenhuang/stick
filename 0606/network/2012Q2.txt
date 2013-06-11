@@ -1,0 +1,88 @@
+Stanford University	University of Pennsylvania	1
+Massachusetts Institute of Technology	1
+Massachusetts Institute of Technology	University of Michigan	1
+University of Pennsylvania	University of Michigan	1
+American Association of University Professors	The Chronicle of Higher Education	1
+Coursera	Princeton University	2
+University of Pennsylvania	Harvard University	1
+Princeton University	Udacity	2
+Blackboard	2
+Massachusetts Institute of Technology	Yahoo	1
+MyCollege Foundation	1
+Washington University	Udemy	1
+University of Michigan	Harvard University	1
+University of Pennsylvania	1
+Association of Public and Land-Grant Universities	Microsoft	1
+The City University of New York	City University of New York	1
+Massachusetts Institute of Technology	Princeton University	2
+The Chronicle of Higher Education	2
+Facebook	Columbia University	1
+George Washington University	Washington University	2
+Yahoo	Google	1
+Amazon	Columbia University	1
+Princeton University	Harvard University	1
+Microsoft	Melinda Gates Foundation	1
+Harvard University	edX	4
+Microsoft	Arizona State University	1
+Udacity	Harvard University	1
+Creative Commons	1
+Udacity	2
+Harvard University	1
+Melinda Gates Foundation	Association of Public and Land-Grant Universities	1
+Flora Hewlett Foundation	1
+Arizona State University	The Chronicle of Higher Education	1
+Massachusetts Institute of Technology	Udacity	2
+Coursera	Udacity	3
+University of California at Irvine	University of California	1
+Yale University	Harvard University	1
+George Washington University	Udemy	1
+New America Foundation	1
+The Chronicle of Higher Education	Melinda Gates Foundation	1
+edX	Yale University	1
+University of Pennsylvania	Udacity	1
+Udacity	University of Virginia	1
+The Chronicle of Higher Education	Microsoft	1
+University of Michigan	Stanford University	1
+Stanford University	Coursera	3
+Massachusetts Institute of Technology	University of Pennsylvania	1
+Harvard University	Amazon	1
+Harvard University	Massachusetts Institute of Technology	5
+University of the People	Melinda Gates Foundation	1
+University of Michigan	Coursera	1
+Massachusetts Institute of Technology	Google	1
+Udacity	edX	2
+edX	Massachusetts Institute of Technology	4
+Stanford University	5
+Columbia University	Harvard University	1
+edX	University of Michigan	1
+edX	Princeton University	1
+Coursera	University of Pennsylvania	2
+Melinda Gates Foundation	Arizona State University	1
+Princeton University	University of Pennsylvania	1
+Massachusetts Institute of Technology	Melinda Gates Foundation	2
+Melinda Gates Foundation	1
+University of Virginia	1
+Facebook	Harvard University	1
+Coursera	Massachusetts Institute of Technology	2
+edX	Coursera	2
+Udemy	2
+Massachusetts Institute of Technology	Stanford University	5
+University of Illinois	1
+Blackboard	Indiana University	1
+edX	University of Pennsylvania	1
+Harvard University	Stanford University	2
+Yale University	Massachusetts Institute of Technology	1
+University of Michigan	Princeton University	1
+Coursera	1
+Udacity	Stanford University	3
+The Chronicle of Higher Education	Association of Public and Land-Grant Universities	1
+Coursera	Harvard University	1
+Arizona State University	Association of Public and Land-Grant Universities	1
+Colorado State University	1
+Peer University	2
+Google	1
+Amazon	Facebook	1
+Indiana University	1
+University of Michigan	Udacity	1
+edX	Stanford University	2
+Stanford University	Princeton University	2

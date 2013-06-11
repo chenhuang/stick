@@ -1,0 +1,19 @@
+A Colorado university is announcing on Thursday that it will give full transfer credit to students who complete a free introductory computer-science course offered by the online-education start-up company Udacity.
+The announcement, by Colorado State University-Global Campus, is a milestone for the Stanford University spinoff.
+This is the first time a university in the United States has offered academic credit for a Udacity course, although several universities in Austria and Germany already do.
+Thecourse,"Introduction to Computer Science: Building a Search Engine," teaches basic computer-science skills by having students build a Web search engine similar to Google. Students enrolled in the free, online coursealso learnthe basics of the programming language Python.
+In order to earn the three transfer credits toward their bachelor's degrees at the Global Campus, students will need a "certificate of accomplishment" from Udacity showing they passed the course. Then they have to pass a proctored examination offered by Udacity through a secure testing center. The exam, administered by the Pearson VUE testing group, will cost $89.
+CS101 isUdacity's first courseand includes appearances by the company's co-founder, Sebastian Thrun.
+The course, which is open to beginners, is taught by David Evans, an associate professor of computer science who is working for Udacity while on leave from the University of Virginia.
+Some 94,000 students worldwide took the course when it first came online early this year, and 98,000 more signed up for the second class, which started in April. "We have students from well over 100 countries, from 13-year-olds to 80-year-olds, sharing in the experience," Mr. Evans said of the class, one of a growing number of massive open online courses, or MOOC's, that have been attracting national attention this year.
+Faculty ReviewThe Global Campus, which opened in 2008, is completely online and offers bachelor's and master's degrees, mostly to working adults. It operates independently from the university's other two campuses and has a separate regional accreditation.
+Students can transfer in if they have accumulated more than 12 college credit hours.
+The university decided to accept the transfer credits after a committee of four faculty members in information technology reviewed the Udacity course and its methods of assessing student learning.
+"We believe that as a public university, affordability and accessibility are key," said Becky Takeda-Tinker, president of the Global Campus.
+Mr. Thrun declined to reveal how many other universities might be considering offering academic credit for Udacity courses, except to say that talks are in the works and he expects others to follow.
+All of the institutions he has talked to have stressed the importance of a proctored exam "because it overcomes some of the main concerns about the authenticity of students and the absence ofcheating."
+Having a university in the United States offer transfer credit for a Udacity course "is an important step, but it's just the start," Mr. Evans said. "It's recognizing that students really can learn well in online courses that are structured in the right way and have the rigor traditional universities expect."
+Most students enrolled in the course do so out of curiosity and are motivated by learning for its own sake, Mr. Evans said. But many will appreciate the opportunity to get credit either to transfer to a college or to help land a job.
+Several European universities, including the University of Salzburg, the University of Freiburg, the Free University of Berlin, and the Technical University of Munich, have already given credit for an earlier Udacity course, said Mr. Thrun.
+This isn't the first time the Global Campus has accepted transfer credit from a nontraditional source. It does the same forcourses from StraighterLine,a company that offers online, self-paced introductory courses.
+Katherine Mangan

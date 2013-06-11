@@ -1,0 +1,1696 @@
+<?xml version="1.0" encoding="utf-8"?><graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="weight" attr.type="int" for="edge" id="d0" />
+  <graph edgedefault="undirected">
+    <node id="Council for Higher Education Accreditation" />
+    <node id="Khan Academy" />
+    <node id="Brown University" />
+    <node id="Rice University" />
+    <node id="Wesleyan University" />
+    <node id="National Association of Independent Colleges and Universities" />
+    <node id="South Carolina State Fair" />
+    <node id="Southwest University" />
+    <node id="Technical University of Munich" />
+    <node id="Southern Association of Colleges" />
+    <node id="Blackboard" />
+    <node id="University of California at Los Angeles" />
+    <node id="University of Delhi" />
+    <node id="Florida International University" />
+    <node id="REOMVE" />
+    <node id="Cincinnati State Technical and Community College" />
+    <node id="Arizona State University" />
+    <node id="edX" />
+    <node id="University of Richmond" />
+    <node id="San Jose State University" />
+    <node id="U.S. Department of Education" />
+    <node id="Pearson" />
+    <node id="University of Illinois at Urbana-Champaign" />
+    <node id="University of Rochester" />
+    <node id="The Chronicle of Higher Education" />
+    <node id="University of British Columbia" />
+    <node id="Instituto de Empresa Business School" />
+    <node id="Online Computer Library Center" />
+    <node id="Carolina State University" />
+    <node id="McGraw-Hill Education" />
+    <node id="Israel Institute" />
+    <node id="U.S. Supreme Court" />
+    <node id="Chicken Little" />
+    <node id="University of Wisconsin" />
+    <node id="Twenty Million Minds Foundation" />
+    <node id="Youngstown State University" />
+    <node id="Wake Forest University" />
+    <node id="National Institute for Technology in Liberal Education" />
+    <node id="State University of New York" />
+    <node id="Creative Commons" />
+    <node id="New York University" />
+    <node id="International Business Machines" />
+    <node id="University of West Florida" />
+    <node id="Full Sail University" />
+    <node id="Udacity" />
+    <node id="Monterrey Institute of Technology and Higher Education" />
+    <node id="Harvard University" />
+    <node id="Century Universities" />
+    <node id="Ohio State University" />
+    <node id="American Council on Education" />
+    <node id="All India Council for Technical Education" />
+    <node id="Leiden University" />
+    <node id="Modern Language Association" />
+    <node id="California State University" />
+    <node id="Yale University" />
+    <node id="University of Nebraska" />
+    <node id="University of Pennsylvania" />
+    <node id="Landmark College" />
+    <node id="Facebook" />
+    <node id="Napster" />
+    <node id="New America Foundation" />
+    <node id="Georgia Institute of Technology" />
+    <node id="Cameron University" />
+    <node id="American Life Project" />
+    <node id="Northeast Commission" />
+    <node id="ViewsFor College Endowments" />
+    <node id="College of William and Mary" />
+    <node id="Pennsylvania State University" />
+    <node id="Ferrari" />
+    <node id="Georgia State University" />
+    <node id="Case Western Reserve University" />
+    <node id="American Library Association" />
+    <node id="University of California at Santa Cruz" />
+    <node id="Microsoft" />
+    <node id="Warner" />
+    <node id="Baylor University" />
+    <node id="McGill University" />
+    <node id="University of Minnesota-Twin Cities" />
+    <node id="Babson Survey Research Group" />
+    <node id="Rutgers University" />
+    <node id="American Enterprise Institute" />
+    <node id="Virginia Tech" />
+    <node id="National Center for Education Statistics" />
+    <node id="Warwick University" />
+    <node id="College Board" />
+    <node id="Stanford University" />
+    <node id="Fairfax County Public Schools" />
+    <node id="University of Texas" />
+    <node id="University of Hawaii-Manoa" />
+    <node id="University of Colorado" />
+    <node id="California Faculty Association" />
+    <node id="George Mason University" />
+    <node id="Moody's" />
+    <node id="University of California" />
+    <node id="University of Phoenix" />
+    <node id="British Council" />
+    <node id="University of Southern California" />
+    <node id="Columbia University" />
+    <node id="University of California at Irvine" />
+    <node id="Colleges Ask Education Dept." />
+    <node id="The State University of New York" />
+    <node id="Tech Companies" />
+    <node id="Oklahoma State University" />
+    <node id="The University of Texas at Arlington" />
+    <node id="Melinda Gates Foundation" />
+    <node id="Illinois Institute of Technology" />
+    <node id="University of Virginia" />
+    <node id="Purcell Public Library" />
+    <node id="University of Geneva" />
+    <node id="Princeton University" />
+    <node id="James Madison University" />
+    <node id="Union Army" />
+    <node id="National UniversityDelft University of Technology" />
+    <node id="Hanyang University" />
+    <node id="McGraw-Hill" />
+    <node id="University of Cincinnati" />
+    <node id="Northern Arizona University" />
+    <node id=" National University of Singapore" />
+    <node id="National Taiwan University" />
+    <node id="California Senate" />
+    <node id="Utah State University" />
+    <node id="Higher Learning Commission of the North Central Association of Colleges" />
+    <node id="Asia-Pacific Association for International Education" />
+    <node id="Massachusetts Institute of Technology" />
+    <node id="Vodafone" />
+    <node id="LinkedIn" />
+    <node id="Griffith University" />
+    <node id="Carnegie Mellon University" />
+    <node id="University of California at Berkeley" />
+    <node id="New York Times" />
+    <node id="University of Mexico" />
+    <node id="Virtual University" />
+    <node id="Middlebury College" />
+    <node id="American Council on Education Recommends" />
+    <node id="Governors University" />
+    <node id="Northwestern University" />
+    <node id="Excelsior University" />
+    <node id="Apple" />
+    <node id="Coursera" />
+    <node id="University of Copenhagen" />
+    <node id="University of Tokyo" />
+    <node id="University of North Carolina at Chapel Hill" />
+    <node id="National Science Foundation" />
+    <node id="Banyan Vines" />
+    <node id="U.S. Army" />
+    <node id="Mississippi State University" />
+    <node id="The American Council on Education" />
+    <node id="Florida State University" />
+    <node id="University of Chicago" />
+    <node id="Wal-Mart" />
+    <node id="National University of Singapore" />
+    <node id="Duke University" />
+    <node id="The Times of India" />
+    <node id="National-Security Scholar Leads New Institute" />
+    <node id="U.S. Education Department" />
+    <node id="Institute for Biopharmaceutical Research" />
+    <node id="Google" />
+    <node id="University of Munich" />
+    <node id="Indiana University" />
+    <node id="Wikimedia" />
+    <node id="Southern New Hampshire University" />
+    <node id="The New York Times" />
+    <node id="Cleveland State University" />
+    <node id="Chinese University of Hong Kong" />
+    <node id="University of Toronto" />
+    <node id="Follett Higher Education Group" />
+    <node id="University of Michigan" />
+    <node id="University of California at San Diego" />
+    <node id="University of Arkansas" />
+    <node id="Empire State College" />
+    <node id="Clark University" />
+    <node id="University of Warwick" />
+    <node id="Technical University of Denmark" />
+    <edge source="Khan Academy" target="Harvard University">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Brown University" target="Coursera">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Rice University" target="McGill University">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Rice University" target="Massachusetts Institute of Technology">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Rice University" target="National UniversityDelft University of Technology">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Rice University" target="Coursera">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="Rice University" target="University of Toronto">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Rice University" target="Harvard University">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Rice University" target="edX">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Wesleyan University" target="University of Wisconsin">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Wesleyan University" target="Southern New Hampshire University">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Wesleyan University" target="Governors University">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Wesleyan University" target="Northern Arizona University">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Wesleyan University" target="Excelsior University">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="South Carolina State Fair" target="Carolina State University">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Technical University of Munich" target="Monterrey Institute of Technology and Higher Education">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Technical University of Munich" target="University of Mexico">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Technical University of Munich" target="Virtual University">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Technical University of Munich" target="University of Colorado">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Technical University of Munich" target="Northwestern University">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Technical University of Munich" target="Leiden University">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Technical University of Munich" target="University of Copenhagen">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Technical University of Munich" target="University of Tokyo">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Technical University of Munich" target="University of Geneva">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Technical University of Munich" target="University of California">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Technical University of Munich" target="University of Rochester">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Technical University of Munich" target="Pennsylvania State University">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Technical University of Munich" target="University of North Carolina at Chapel Hill">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Technical University of Munich" target="Instituto de Empresa Business School">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Technical University of Munich" target="University of California at Santa Cruz">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Technical University of Munich" target="Case Western Reserve University">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Technical University of Munich" target="University of Minnesota-Twin Cities">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Technical University of Munich" target="University of Munich">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Technical University of Munich" target="University of Wisconsin">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Technical University of Munich" target="Chinese University of Hong Kong">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Technical University of Munich" target="National University of Singapore">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Technical University of Munich" target="National Taiwan University">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Technical University of Munich" target="Rutgers University">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Technical University of Munich" target="University of California at San Diego">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Technical University of Munich" target="Technical University of Denmark">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Blackboard" target="Pearson">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of California at Los Angeles" target="University of California">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of Delhi" target="Pearson">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of Delhi" target="Vodafone">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of Delhi" target="British Council">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Florida International University" target="Florida State University">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="REOMVE" target="University of California">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="REOMVE" target="Facebook">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Arizona State University" target="Florida State University">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Arizona State University" target="University of Cincinnati">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Arizona State University" target="The University of Texas at Arlington">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Arizona State University" target="University of West Florida">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Arizona State University" target="Cleveland State University">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Arizona State University" target="University of Texas">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Arizona State University" target="Utah State University">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Arizona State University" target="University of Arkansas">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="edX" target="Pearson">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="edX" target="Massachusetts Institute of Technology">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="edX" target="Coursera">
+      <data key="d0">13</data>
+    </edge>
+    <edge source="edX" target="The Chronicle of Higher Education">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="edX" target="University of Toronto">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="edX" target="Udacity">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="edX" target="Harvard University">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="edX" target="University of Texas">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="edX" target="San Jose State University">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="San Jose State University" target="Massachusetts Institute of Technology">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="San Jose State University" target="Udacity">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="San Jose State University" target="Georgia State University">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="San Jose State University" target="Harvard University">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="San Jose State University" target="National Science Foundation">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="U.S. Department of Education" target="Southern New Hampshire University">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="U.S. Department of Education" target="Northeast Commission">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Pearson" target="Coursera">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Pearson" target="Udacity">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Pearson" target="Rutgers University">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="Pearson" target="Vodafone">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Pearson" target="British Council">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of Rochester" target="Monterrey Institute of Technology and Higher Education">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of Rochester" target="University of Mexico">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of Rochester" target="Virtual University">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of Rochester" target="University of Colorado">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of Rochester" target="Northwestern University">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of Rochester" target="Leiden University">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of Rochester" target="University of Copenhagen">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of Rochester" target="University of Tokyo">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of Rochester" target="Case Western Reserve University">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of Rochester" target="University of California">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of Rochester" target="Pennsylvania State University">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of Rochester" target="University of North Carolina at Chapel Hill">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of Rochester" target="Instituto de Empresa Business School">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of Rochester" target="University of California at Santa Cruz">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of Rochester" target="University of Geneva">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of Rochester" target="University of Minnesota-Twin Cities">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of Rochester" target="University of Munich">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of Rochester" target="University of Wisconsin">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of Rochester" target="Chinese University of Hong Kong">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of Rochester" target="National University of Singapore">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of Rochester" target="National Taiwan University">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of Rochester" target="Rutgers University">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of Rochester" target="University of California at San Diego">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of Rochester" target="Technical University of Denmark">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="The Chronicle of Higher Education" target="Colleges Ask Education Dept.">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="The Chronicle of Higher Education" target="Modern Language Association">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="The Chronicle of Higher Education" target="Coursera">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="The Chronicle of Higher Education" target="The Times of India">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="The Chronicle of Higher Education" target="Harvard University">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="The Chronicle of Higher Education" target="Century Universities">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="The Chronicle of Higher Education" target="Georgia Institute of Technology">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="The Chronicle of Higher Education" target="University of Texas">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="The Chronicle of Higher Education" target="Microsoft">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of British Columbia" target="Columbia University">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Instituto de Empresa Business School" target="Monterrey Institute of Technology and Higher Education">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Instituto de Empresa Business School" target="University of Mexico">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Instituto de Empresa Business School" target="University of North Carolina at Chapel Hill">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Instituto de Empresa Business School" target="University of Colorado">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Instituto de Empresa Business School" target="Northwestern University">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Instituto de Empresa Business School" target="Leiden University">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Instituto de Empresa Business School" target="University of Copenhagen">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Instituto de Empresa Business School" target="University of Tokyo">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Instituto de Empresa Business School" target="Virtual University">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Instituto de Empresa Business School" target="University of California">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Instituto de Empresa Business School" target="Pennsylvania State University">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Instituto de Empresa Business School" target="National University of Singapore">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Instituto de Empresa Business School" target="Case Western Reserve University">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Instituto de Empresa Business School" target="University of California at Santa Cruz">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Instituto de Empresa Business School" target="University of Geneva">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Instituto de Empresa Business School" target="University of Minnesota-Twin Cities">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Instituto de Empresa Business School" target="University of Munich">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Instituto de Empresa Business School" target="University of Wisconsin">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Instituto de Empresa Business School" target="Chinese University of Hong Kong">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Instituto de Empresa Business School" target="National Taiwan University">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Instituto de Empresa Business School" target="Rutgers University">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Instituto de Empresa Business School" target="University of California at San Diego">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Instituto de Empresa Business School" target="Technical University of Denmark">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Online Computer Library Center" target="University of Pennsylvania">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="McGraw-Hill Education" target="McGraw-Hill">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Israel Institute" target="National-Security Scholar Leads New Institute">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of Wisconsin" target="Monterrey Institute of Technology and Higher Education">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of Wisconsin" target="University of Mexico">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of Wisconsin" target="University of North Carolina at Chapel Hill">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of Wisconsin" target="University of Colorado">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of Wisconsin" target="Governors University">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of Wisconsin" target="Northwestern University">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of Wisconsin" target="Excelsior University">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of Wisconsin" target="Leiden University">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of Wisconsin" target="University of Copenhagen">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of Wisconsin" target="University of Tokyo">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of Wisconsin" target="Virtual University">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of Wisconsin" target="University of California">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of Wisconsin" target="Northern Arizona University">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of Wisconsin" target="Pennsylvania State University">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of Wisconsin" target="University of Geneva">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of Wisconsin" target="University of California at Santa Cruz">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of Wisconsin" target="Case Western Reserve University">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of Wisconsin" target="University of Minnesota-Twin Cities">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of Wisconsin" target="University of Munich">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of Wisconsin" target="Southern New Hampshire University">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of Wisconsin" target="Chinese University of Hong Kong">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of Wisconsin" target="National University of Singapore">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of Wisconsin" target="National Taiwan University">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of Wisconsin" target="Rutgers University">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of Wisconsin" target="University of California at San Diego">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of Wisconsin" target="Technical University of Denmark">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Wake Forest University" target="LinkedIn">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="State University of New York" target="The State University of New York">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Creative Commons" target="Wikimedia">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="University of West Florida" target="Florida State University">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of West Florida" target="University of Cincinnati">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of West Florida" target="The University of Texas at Arlington">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of West Florida" target="Cleveland State University">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of West Florida" target="University of Texas">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of West Florida" target="Utah State University">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of West Florida" target="University of Arkansas">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Udacity" target="The American Council on Education">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Udacity" target="Coursera">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="Udacity" target="Stanford University">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="Udacity" target="California State University">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Udacity" target="Melinda Gates Foundation">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Udacity" target="University of California">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="Udacity" target="Georgia State University">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Udacity" target="Harvard University">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Udacity" target="National Science Foundation">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Udacity" target="American Council on Education">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Monterrey Institute of Technology and Higher Education" target="University of Mexico">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Monterrey Institute of Technology and Higher Education" target="University of North Carolina at Chapel Hill">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Monterrey Institute of Technology and Higher Education" target="University of Colorado">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Monterrey Institute of Technology and Higher Education" target="Northwestern University">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Monterrey Institute of Technology and Higher Education" target="Leiden University">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Monterrey Institute of Technology and Higher Education" target="University of Copenhagen">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Monterrey Institute of Technology and Higher Education" target="University of Tokyo">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Monterrey Institute of Technology and Higher Education" target="University of Geneva">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Monterrey Institute of Technology and Higher Education" target="University of California">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Monterrey Institute of Technology and Higher Education" target="Virtual University">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Monterrey Institute of Technology and Higher Education" target="Pennsylvania State University">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Monterrey Institute of Technology and Higher Education" target="University of California at Santa Cruz">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Monterrey Institute of Technology and Higher Education" target="Case Western Reserve University">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Monterrey Institute of Technology and Higher Education" target="University of Minnesota-Twin Cities">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Monterrey Institute of Technology and Higher Education" target="University of Munich">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Monterrey Institute of Technology and Higher Education" target="Chinese University of Hong Kong">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Monterrey Institute of Technology and Higher Education" target="National University of Singapore">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Monterrey Institute of Technology and Higher Education" target="National Taiwan University">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Monterrey Institute of Technology and Higher Education" target="Rutgers University">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Monterrey Institute of Technology and Higher Education" target="University of California at San Diego">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Monterrey Institute of Technology and Higher Education" target="Technical University of Denmark">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Harvard University" target="College Board">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Harvard University" target="Massachusetts Institute of Technology">
+      <data key="d0">11</data>
+    </edge>
+    <edge source="Harvard University" target="Stanford University">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Harvard University" target="Modern Language Association">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Harvard University" target="Coursera">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Harvard University" target="University of Toronto">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Harvard University" target="Duke University">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Century Universities" target="Georgia Institute of Technology">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="American Council on Education" target="The American Council on Education">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="American Council on Education" target="American Council on Education Recommends">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="American Council on Education" target="Coursera">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Leiden University" target="University of Mexico">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Leiden University" target="University of North Carolina at Chapel Hill">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Leiden University" target="University of Colorado">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Leiden University" target="Northwestern University">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Leiden University" target="University of Copenhagen">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Leiden University" target="University of Tokyo">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Leiden University" target="Virtual University">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Leiden University" target="University of California">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Leiden University" target="Pennsylvania State University">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Leiden University" target="University of Geneva">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Leiden University" target="University of California at Santa Cruz">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Leiden University" target="Case Western Reserve University">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Leiden University" target="University of Minnesota-Twin Cities">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Leiden University" target="University of Munich">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Leiden University" target="Chinese University of Hong Kong">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Leiden University" target="National University of Singapore">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Leiden University" target="National Taiwan University">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Leiden University" target="Rutgers University">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Leiden University" target="University of California at San Diego">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Leiden University" target="Technical University of Denmark">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="California State University" target="University of California">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="California State University" target="California Faculty Association">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Yale University" target=" National University of Singapore">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Yale University" target="National University of Singapore">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of Nebraska" target="James Madison University">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of Pennsylvania" target="University of California at Irvine">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of Pennsylvania" target="University of California">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of Pennsylvania" target="Duke University">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of Pennsylvania" target="Coursera">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Facebook" target="University of California">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Georgia Institute of Technology" target="Google">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Georgia Institute of Technology" target="Coursera">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Georgia Institute of Technology" target="Middlebury College">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Northeast Commission" target="Southern New Hampshire University">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Pennsylvania State University" target="University of Mexico">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Pennsylvania State University" target="University of North Carolina at Chapel Hill">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Pennsylvania State University" target="University of Colorado">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Pennsylvania State University" target="Northwestern University">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Pennsylvania State University" target="University of Copenhagen">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Pennsylvania State University" target="University of Tokyo">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Pennsylvania State University" target="Case Western Reserve University">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Pennsylvania State University" target="University of California">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Pennsylvania State University" target="Virtual University">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Pennsylvania State University" target="University of California at Santa Cruz">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Pennsylvania State University" target="University of Geneva">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Pennsylvania State University" target="University of Minnesota-Twin Cities">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Pennsylvania State University" target="University of Munich">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Pennsylvania State University" target="Chinese University of Hong Kong">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Pennsylvania State University" target="National University of Singapore">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Pennsylvania State University" target="National Taiwan University">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Pennsylvania State University" target="Rutgers University">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Pennsylvania State University" target="University of California at San Diego">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Pennsylvania State University" target="Technical University of Denmark">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Case Western Reserve University" target="University of Mexico">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Case Western Reserve University" target="Virtual University">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Case Western Reserve University" target="University of Colorado">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Case Western Reserve University" target="Northwestern University">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Case Western Reserve University" target="University of Copenhagen">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Case Western Reserve University" target="University of Tokyo">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Case Western Reserve University" target="University of North Carolina at Chapel Hill">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Case Western Reserve University" target="University of California">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Case Western Reserve University" target="National University of Singapore">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Case Western Reserve University" target="University of California at Santa Cruz">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Case Western Reserve University" target="University of Geneva">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Case Western Reserve University" target="University of Minnesota-Twin Cities">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Case Western Reserve University" target="University of Munich">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Case Western Reserve University" target="Chinese University of Hong Kong">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Case Western Reserve University" target="National Taiwan University">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Case Western Reserve University" target="Rutgers University">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Case Western Reserve University" target="University of California at San Diego">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Case Western Reserve University" target="Technical University of Denmark">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of California at Santa Cruz" target="University of Mexico">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of California at Santa Cruz" target="Virtual University">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of California at Santa Cruz" target="University of Colorado">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of California at Santa Cruz" target="Northwestern University">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of California at Santa Cruz" target="University of North Carolina at Chapel Hill">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of California at Santa Cruz" target="University of Copenhagen">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of California at Santa Cruz" target="University of Tokyo">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of California at Santa Cruz" target="University of Geneva">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of California at Santa Cruz" target="University of California">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of California at Santa Cruz" target="University of Minnesota-Twin Cities">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of California at Santa Cruz" target="University of Munich">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of California at Santa Cruz" target="Chinese University of Hong Kong">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of California at Santa Cruz" target="National University of Singapore">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of California at Santa Cruz" target="National Taiwan University">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of California at Santa Cruz" target="Rutgers University">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of California at Santa Cruz" target="University of California at San Diego">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of California at Santa Cruz" target="Technical University of Denmark">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Baylor University" target="University of Virginia">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="McGill University" target="University of Toronto">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="McGill University" target="Coursera">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="McGill University" target="National UniversityDelft University of Technology">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of Minnesota-Twin Cities" target="University of Mexico">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of Minnesota-Twin Cities" target="University of North Carolina at Chapel Hill">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of Minnesota-Twin Cities" target="University of Colorado">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of Minnesota-Twin Cities" target="Northwestern University">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of Minnesota-Twin Cities" target="University of Copenhagen">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of Minnesota-Twin Cities" target="University of Tokyo">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of Minnesota-Twin Cities" target="Virtual University">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of Minnesota-Twin Cities" target="University of California">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of Minnesota-Twin Cities" target="University of Geneva">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of Minnesota-Twin Cities" target="University of Munich">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of Minnesota-Twin Cities" target="Chinese University of Hong Kong">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of Minnesota-Twin Cities" target="National University of Singapore">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of Minnesota-Twin Cities" target="National Taiwan University">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of Minnesota-Twin Cities" target="Rutgers University">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of Minnesota-Twin Cities" target="University of California at San Diego">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of Minnesota-Twin Cities" target="Technical University of Denmark">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Rutgers University" target="University of Mexico">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Rutgers University" target="University of North Carolina at Chapel Hill">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Rutgers University" target="University of Colorado">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Rutgers University" target="Northwestern University">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Rutgers University" target="University of Copenhagen">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Rutgers University" target="University of Tokyo">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Rutgers University" target="Virtual University">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Rutgers University" target="University of California">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Rutgers University" target="National University of Singapore">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Rutgers University" target="University of Geneva">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Rutgers University" target="University of Munich">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Rutgers University" target="Chinese University of Hong Kong">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Rutgers University" target="National Taiwan University">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Rutgers University" target="University of California at San Diego">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Rutgers University" target="Technical University of Denmark">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Warwick University" target="National University of Singapore">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Warwick University" target="University of Warwick">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Stanford University" target="Massachusetts Institute of Technology">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Stanford University" target="Coursera">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Stanford University" target="Duke University">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Stanford University" target="Princeton University">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of Texas" target="Florida State University">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of Texas" target="The University of Texas at Arlington">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of Texas" target="University of Cincinnati">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of Texas" target="Coursera">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of Texas" target="Cleveland State University">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of Texas" target="Utah State University">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of Texas" target="University of Arkansas">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of Hawaii-Manoa" target="Apple">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of Colorado" target="University of Mexico">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of Colorado" target="University of North Carolina at Chapel Hill">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of Colorado" target="Northwestern University">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of Colorado" target="University of Copenhagen">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of Colorado" target="University of Tokyo">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of Colorado" target="Virtual University">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of Colorado" target="University of California">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of Colorado" target="University of Geneva">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of Colorado" target="University of Munich">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of Colorado" target="Chinese University of Hong Kong">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of Colorado" target="National University of Singapore">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of Colorado" target="National Taiwan University">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of Colorado" target="University of California at San Diego">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of Colorado" target="Technical University of Denmark">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of California" target="University of California at Berkeley">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="University of California" target="University of Mexico">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of California" target="Virtual University">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of California" target="Northwestern University">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of California" target="Coursera">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="University of California" target="University of Copenhagen">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of California" target="University of Tokyo">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of California" target="University of Geneva">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of California" target="University of California at Irvine">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="University of California" target="University of North Carolina at Chapel Hill">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of California" target="Duke University">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of California" target="University of Munich">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of California" target="Chinese University of Hong Kong">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of California" target="National University of Singapore">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of California" target="National Taiwan University">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of California" target="University of California at San Diego">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of California" target="Technical University of Denmark">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="British Council" target="Vodafone">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of California at Irvine" target="Coursera">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="University of California at Irvine" target="Duke University">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="The State University of New York" target="Empire State College">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="The State University of New York" target="U.S. Education Department">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="The University of Texas at Arlington" target="Florida State University">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="The University of Texas at Arlington" target="University of Cincinnati">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="The University of Texas at Arlington" target="Cleveland State University">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="The University of Texas at Arlington" target="Utah State University">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="The University of Texas at Arlington" target="University of Arkansas">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of Geneva" target="University of Mexico">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of Geneva" target="University of North Carolina at Chapel Hill">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of Geneva" target="Northwestern University">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of Geneva" target="University of Copenhagen">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of Geneva" target="University of Tokyo">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of Geneva" target="Virtual University">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of Geneva" target="National University of Singapore">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of Geneva" target="University of Munich">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of Geneva" target="Chinese University of Hong Kong">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of Geneva" target="National Taiwan University">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of Geneva" target="University of California at San Diego">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of Geneva" target="Technical University of Denmark">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Princeton University" target="Coursera">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Princeton University" target="Duke University">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Princeton University" target="Massachusetts Institute of Technology">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="National UniversityDelft University of Technology" target="Coursera">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="National UniversityDelft University of Technology" target="University of Toronto">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of Cincinnati" target="Florida State University">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of Cincinnati" target="Cleveland State University">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of Cincinnati" target="Utah State University">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of Cincinnati" target="University of Arkansas">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Northern Arizona University" target="Southern New Hampshire University">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Northern Arizona University" target="Governors University">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Northern Arizona University" target="Excelsior University">
+      <data key="d0">1</data>
+    </edge>
+    <edge source=" National University of Singapore" target="National University of Singapore">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="National Taiwan University" target="University of Mexico">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="National Taiwan University" target="Virtual University">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="National Taiwan University" target="Northwestern University">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="National Taiwan University" target="University of Copenhagen">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="National Taiwan University" target="University of Tokyo">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="National Taiwan University" target="University of North Carolina at Chapel Hill">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="National Taiwan University" target="University of Munich">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="National Taiwan University" target="Chinese University of Hong Kong">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="National Taiwan University" target="National University of Singapore">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="National Taiwan University" target="University of California at San Diego">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="National Taiwan University" target="Technical University of Denmark">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Utah State University" target="Florida State University">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Utah State University" target="Cleveland State University">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Utah State University" target="University of Arkansas">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Massachusetts Institute of Technology" target="Coursera">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Massachusetts Institute of Technology" target="University of Toronto">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Massachusetts Institute of Technology" target="Duke University">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Carnegie Mellon University" target="National Science Foundation">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of California at Berkeley" target="Coursera">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="New York Times" target="The New York Times">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="University of Mexico" target="University of North Carolina at Chapel Hill">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of Mexico" target="Northwestern University">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of Mexico" target="University of Copenhagen">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of Mexico" target="University of Tokyo">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of Mexico" target="Virtual University">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of Mexico" target="University of Munich">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of Mexico" target="Chinese University of Hong Kong">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of Mexico" target="National University of Singapore">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of Mexico" target="University of California at San Diego">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of Mexico" target="Technical University of Denmark">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Virtual University" target="University of North Carolina at Chapel Hill">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Virtual University" target="Northwestern University">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Virtual University" target="University of Copenhagen">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Virtual University" target="University of Tokyo">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Virtual University" target="University of Munich">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Virtual University" target="Chinese University of Hong Kong">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Virtual University" target="National University of Singapore">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Virtual University" target="University of California at San Diego">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Virtual University" target="Technical University of Denmark">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="American Council on Education Recommends" target="Coursera">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Governors University" target="Southern New Hampshire University">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Governors University" target="Excelsior University">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Northwestern University" target="University of North Carolina at Chapel Hill">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Northwestern University" target="University of Copenhagen">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Northwestern University" target="University of Tokyo">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Northwestern University" target="University of Munich">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Northwestern University" target="Chinese University of Hong Kong">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Northwestern University" target="National University of Singapore">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Northwestern University" target="University of California at San Diego">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Northwestern University" target="Technical University of Denmark">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Excelsior University" target="Southern New Hampshire University">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Excelsior University" target="Coursera">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Coursera" target="The American Council on Education">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Coursera" target="Duke University">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Coursera" target="University of Toronto">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="University of Copenhagen" target="University of Tokyo">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of Copenhagen" target="University of North Carolina at Chapel Hill">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of Copenhagen" target="University of Munich">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of Copenhagen" target="Chinese University of Hong Kong">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of Copenhagen" target="National University of Singapore">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of Copenhagen" target="University of California at San Diego">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of Copenhagen" target="Technical University of Denmark">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of Tokyo" target="University of North Carolina at Chapel Hill">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of Tokyo" target="University of Munich">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of Tokyo" target="Chinese University of Hong Kong">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of Tokyo" target="National University of Singapore">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of Tokyo" target="University of California at San Diego">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of Tokyo" target="Technical University of Denmark">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of North Carolina at Chapel Hill" target="University of Munich">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of North Carolina at Chapel Hill" target="Chinese University of Hong Kong">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of North Carolina at Chapel Hill" target="National University of Singapore">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of North Carolina at Chapel Hill" target="University of California at San Diego">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of North Carolina at Chapel Hill" target="Technical University of Denmark">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Florida State University" target="Cleveland State University">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Florida State University" target="University of Arkansas">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="National University of Singapore" target="University of Munich">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="National University of Singapore" target="Chinese University of Hong Kong">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="National University of Singapore" target="University of California at San Diego">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="National University of Singapore" target="University of Warwick">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="National University of Singapore" target="Technical University of Denmark">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of Munich" target="Chinese University of Hong Kong">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of Munich" target="University of California at San Diego">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of Munich" target="Technical University of Denmark">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Indiana University" target="University of Michigan">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Cleveland State University" target="University of Arkansas">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Chinese University of Hong Kong" target="University of California at San Diego">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Chinese University of Hong Kong" target="Technical University of Denmark">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of California at San Diego" target="Technical University of Denmark">
+      <data key="d0">1</data>
+    </edge>
+  </graph>
+</graphml>

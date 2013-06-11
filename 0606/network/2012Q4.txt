@@ -1,0 +1,279 @@
+Digital Humanities	Richard Stockton College	1
+Pullias Center for Higher Education	University of California at Berkeley	1
+College of Cardinals	Stanford University	1
+Stanford University	Starbucks	1
+University of California	National Science Foundation	1
+Century Universities	University of California at Berkeley	1
+Elon University	1
+Coursera	Udacity	13
+University of California	Blackboard	1
+Department of Motor Vehicles	University of California at Los Angeles	1
+Massachusetts Institute of Technology	Saylor Foundation	2
+Coursera	Open University	1
+Alabama Community College	1
+Harvard University	University of California	1
+Wake Technical Community College	Cuyahoga Community College	1
+NCAA	1
+Austin Peay State University	2
+edX	1
+Flora Hewlett Foundation	University of California at Berkeley	1
+Marginal Revolution University	Coursera	1
+City University of New York	HarperCollins	1
+Coursera	National Science Foundation	1
+Coursera	Blackboard	1
+Coursera	University of California	1
+Pearson Education	Pearson	1
+University of Southern California	Pullias Center for Higher Education	1
+MicroStrategy	Massachusetts Institute of Technology	1
+Emory University	Duke University	1
+Coursera	Google	4
+Amazon	Udacity	1
+Chicken Little	1
+California State University	University of California	1
+Udacity	Facebook	2
+Massachusetts Institute of Technology	University of Massachusetts	1
+Udacity	Carnegie Mellon University	1
+Massachusetts Institute of Technology	New York Times	1
+Harvard University	edX	6
+Khan Academy	Minnesota Office of Higher Education	1
+University of Leeds	Open University	1
+Cornell University	Harvard University	1
+Udacity	LinkedIn	1
+Stanford University	Vanderbilt University	3
+University of California at Berkeley	edX	1
+Warwick University	Open University	1
+Harvard University	University of California at Berkeley	1
+The Chronicle of Higher Education	Apple	1
+University of Massachusetts	2
+New York Times	Udacity	1
+Amazon	1
+Vanderbilt University	1
+MicroStrategy	2
+Udemy	California Polytechnic State University	1
+American Council on Education	The American Council on Education	1
+Brigham Young University	1
+Stanford University	New York Times	2
+Coursera	The New York Times	1
+Pearson	Udacity	1
+Stanford University	Coursera	10
+Christian College	1
+The City University of New York	HarperCollins	1
+Stanford University	National Science Foundation	1
+University of Nebraska	Works Progress Administration	1
+Udacity	British Broadcasting Corporation	1
+Harvard University	New York Times	1
+Duke University	California Institute of Technology	1
+Governors University	Wesleyan University	2
+Open University	British Broadcasting Corporation	1
+University of California at Berkeley	University of California	10
+Princeton University	Colorado State University	1
+Google	Udacity	3
+Coursera	University of California at Berkeley	2
+University of Texas	Coursera	1
+University of California at Berkeley	California State University	1
+Khan Academy	Minnesota Literacy Council	1
+Stanford University	Rockefeller	1
+Association of Public Land-Grant Universities	1
+Udacity	Starbucks	1
+Warwick University	University of Leeds	1
+Google	Stanford University	3
+Colorado State University	Coursera	1
+Coursera	Starbucks	1
+Coursera	Massachusetts Institute of Technology	3
+Apple	Google	1
+Teachers College	Woodrow Wilson National Fellowship Foundation	1
+Stanford University	Carnegie Mellon University	1
+Eduventures	1
+Stanford University	Khan Academy	1
+edX	Coursera	5
+University of Tennessee	University of Nebraska	1
+Columbia University	Teachers College	1
+Udemy	5
+National Science Foundation	Vanderbilt University	1
+Duke University	Hastac	1
+edX	University of Texas	5
+Harvard University	Stanford University	4
+Yale University	Massachusetts Institute of Technology	1
+University of Central Arkansas	1
+Princeton University	Harvard University	1
+University of California at Berkeley	University of Southern California	1
+Saylor Foundation	Apple	1
+Columbia University	University of Michigan	1
+Udacity	University of California	1
+U.S. Securities and Exchange Commission	Securities and Exchange Commission	1
+U.S. State Department	1
+Google	Amazon	2
+Khan Academy	Udacity	1
+Columbia University	Trinity Washington University	1
+University of California at Berkeley	Udacity	1
+MOOCA	Columbia University	1
+edX	Pearson	1
+edX	Stanford University	2
+Facebook	LinkedIn	1
+Stanford University	Princeton University	2
+Columbia University	Woodrow Wilson National Fellowship Foundation	1
+Stanford University	University of California	1
+Google	Starbucks	1
+Council of Constance	1
+Kenyon College	1
+California Institute of Technology	University of Illinois at Urbana-Champaign	1
+Massachusetts Institute of Technology	The New York Times	1
+Princeton University	Udacity	1
+Coursera	University of Illinois	1
+College of Cardinals	Coursera	1
+Wikipedia	Google	1
+The City University of New York	City University of New York	2
+Georgia State University	Richard Stockton College	1
+Saylor Foundation	Harvard University	1
+Harvard University	The New York Times	1
+Ohio State University	Wake Technical Community College	1
+Stanford University	Colorado State University	1
+California Institute of Technology	University of Illinois	1
+Massachusetts Institute of Technology	Apple	2
+Pearson	Coursera	1
+University of Illinois	Duke University	1
+George Washington University	Washington University	1
+Massachusetts Institute of Technology	Khan Academy	1
+Marginal Revolution University	Udacity	1
+Cornell University	Rockefeller	1
+Google	edX	1
+Facebook	Google	2
+Massachusetts Institute of Technology	University of Texas	2
+Georgia Institute of Technology	University of California at Berkeley	1
+Coursera	Khan Academy	2
+Ohio State University	1
+Coursera	Minnesota Office of Higher Education	1
+Massachusetts Institute of Technology	Udacity	2
+Princeton University	Wikipedia	1
+Stanford University	University of California at Berkeley	1
+University of California	University of California at Los Angeles	1
+Washington University	Trinity Washington University	1
+Duke University	University of Illinois at Urbana-Champaign	1
+University of Tennessee	The University of Tennessee	1
+Harvard University	Massachusetts Institute of Technology	8
+College of Cardinals	Massachusetts Institute of Technology	1
+Google	Khan Academy	1
+Massachusetts Institute of Technology	Google	4
+University of California at Berkeley	Massachusetts Institute of Technology	1
+Coursera	College Credit Recommendation Service	1
+Minnesota Literacy Council	Minnesota Office of Higher Education	1
+Coursera	New York Times	1
+Stanford University	10
+University of Nevada	1
+Columbia University	Harvard University	1
+Melinda Gates Foundation	University of California	1
+Coursera	University of Pennsylvania	2
+Melinda Gates Foundation	1
+Ohio State University	Cuyahoga Community College	1
+Udacity	The New York Times	1
+Apple	2
+University of Texas	Harvard University	2
+Open University	Udacity	1
+Massachusetts Institute of Technology	Stanford University	4
+Cornell University	Columbia University	1
+Yale University	Khan Academy	1
+University of Virginia	New America Foundation	1
+University of Michigan	Coursera	1
+Harvard University	Pearson	2
+Excelsior University	1
+Rensselaer Polytechnic Institute	1
+Coursera	31
+Udacity	Stanford University	10
+University of Michigan	Stanford University	1
+Massachusetts Institute of Technology	Amazon	1
+National Science Foundation	University of California at Berkeley	1
+George Mason University	1
+Google	1
+College Credit Recommendation Service	Hamburger University - McDonalds	1
+Amazon	Facebook	1
+The Chronicle of Higher Education	Coursera	1
+College of Cardinals	The New York Times	1
+Viking Press	Duke University	1
+Stanford University	Cornell University	1
+Marginal Revolution University	1
+College of Cardinals	Harvard University	1
+Pearson Education	Harvard University	1
+Massachusetts Institute of Technology	University of California	1
+Coursera	Princeton University	1
+Facebook	Starbucks	1
+Blackboard	2
+James Madison University	1
+Northern Arizona University	1
+edX	Massachusetts Institute of Technology	6
+Bowie State University	1
+The Chronicle of Higher Education	8
+Marginal Revolution University	George Mason University	2
+University of Illinois at Urbana-Champaign	University of Illinois	1
+The New York Times	New York Times	2
+Cornerstone University	2
+College Board	Excelsior University	1
+Viet T. BuiLos	1
+University of Pennsylvania	California Institute of Technology	1
+Harvard University	1
+The New York Times	Stanford University	2
+Harvard University	Google	2
+Pearson	Massachusetts Institute of Technology	1
+British Broadcasting Corporation	Coursera	1
+edX	British Broadcasting Corporation	1
+University of California at Berkeley	Blackboard	1
+University of California at Los Angeles	5
+Carnegie Foundation	1
+Open University	YouTube	1
+Yahoo	1
+Google	Princeton University	1
+New York Institute for the Humanities	New York University	1
+University of California	3
+The State University of New York	1
+Minnesota Literacy Council	Coursera	1
+Google	Saylor Foundation	1
+Princeton University	1
+Carolina State University	North Carolina State University	1
+Hewlett-Packard	Bloomberg	1
+Georgia Institute of Technology	Century Universities	1
+Massachusetts Institute of Technology	1
+Georgia State University	Digital Humanities	1
+California Community Colleges Pick Los Rios District	1
+University of California	edX	1
+Wal-Mart	1
+Duke University	5
+Texas Public Policy Foundation	University of California at Berkeley	1
+Udacity	Colorado State University	1
+Khan Academy	3
+Yale University	Saylor Foundation	1
+Apple	Microsoft	1
+University of California at Berkeley	Eduventures	2
+Coursera	Facebook	2
+YouTube	3
+National Association of System Heads	1
+Securities and Exchange Commission	1
+Udacity	Blackboard	1
+Saylor Foundation	1
+National Science Foundation	1
+National Science Foundation	Udacity	1
+Open University	edX	1
+Clemson University	Warner	1
+Columbia University	Princeton University	2
+Boston University	1
+Coursera	Hamburger University - McDonalds	1
+Udacity	Harvard University	2
+Creative Commons	3
+Apple	Harvard University	1
+Udacity	11
+New York Times	College of Cardinals	1
+Princeton University	Cornell University	1
+Columbia University	Washington University	1
+Modern Language Association	1
+Facebook	1
+College of William and Mary	1
+The City University of New York	1
+Udacity	edX	4
+University of Texas	1
+University of Colorado	1
+Facebook	Stanford University	1
+University of Virginia	1
+Northeastern University	2
+University of California at Berkeley	9
+Coursera	Harvard University	3
+University of Illinois	University of Pennsylvania	1
+British Broadcasting Corporation	1
+University of New Mexico	1

@@ -1,0 +1,777 @@
+<?xml version="1.0" encoding="utf-8"?><graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="weight" attr.type="int" for="edge" id="d0" />
+  <graph edgedefault="undirected">
+    <node id="Khan Academy" />
+    <node id="Modern Language Association" />
+    <node id="Wesleyan University" />
+    <node id="Works Progress Administration" />
+    <node id="Elon University" />
+    <node id="Council of Constance" />
+    <node id="Kenyon College" />
+    <node id="YouTube" />
+    <node id="Alabama Community College" />
+    <node id="University of Massachusetts" />
+    <node id="Blackboard" />
+    <node id="NCAA" />
+    <node id="University of California at Los Angeles" />
+    <node id="Austin Peay State University" />
+    <node id="University of Illinois at Urbana-Champaign" />
+    <node id="National Association of System Heads" />
+    <node id="Starbucks" />
+    <node id="Vanderbilt University" />
+    <node id="edX" />
+    <node id="James Madison University" />
+    <node id="Securities and Exchange Commission" />
+    <node id="University of Michigan" />
+    <node id="Pearson" />
+    <node id="Bowie State University" />
+    <node id="Saylor Foundation" />
+    <node id="The Chronicle of Higher Education" />
+    <node id="City University of New York" />
+    <node id="Trinity Washington University" />
+    <node id="U.S. Securities and Exchange Commission" />
+    <node id="Carolina State University" />
+    <node id="Minnesota Office of Higher Education" />
+    <node id="Chicken Little" />
+    <node id="Boston University" />
+    <node id="Emory University" />
+    <node id="Cornerstone University" />
+    <node id="MOOCA" />
+    <node id="Viet T. BuiLos" />
+    <node id="The University of Tennessee" />
+    <node id="Creative Commons" />
+    <node id="New York University" />
+    <node id="Minnesota Literacy Council" />
+    <node id="Wikipedia" />
+    <node id="Udacity" />
+    <node id="Richard Stockton College" />
+    <node id="Harvard University" />
+    <node id="Century Universities" />
+    <node id="Digital Humanities" />
+    <node id="American Council on Education" />
+    <node id="Flora Hewlett Foundation" />
+    <node id="Viking Press" />
+    <node id="California State University" />
+    <node id="University of Nebraska" />
+    <node id="Amazon" />
+    <node id="Facebook" />
+    <node id="University of Colorado" />
+    <node id="MicroStrategy" />
+    <node id="New America Foundation" />
+    <node id="Georgia Institute of Technology" />
+    <node id="Brigham Young University" />
+    <node id="Pearson Education" />
+    <node id="College of William and Mary" />
+    <node id="Georgia State University" />
+    <node id="Christian College" />
+    <node id="Hastac" />
+    <node id="Microsoft" />
+    <node id="Warner" />
+    <node id="California Polytechnic State University" />
+    <node id="Wake Technical Community College" />
+    <node id="College Credit Recommendation Service" />
+    <node id="Warwick University" />
+    <node id="Ohio State University" />
+    <node id="College Board" />
+    <node id="Department of Motor Vehicles" />
+    <node id="Stanford University" />
+    <node id="University of Nevada" />
+    <node id="Carnegie Foundation" />
+    <node id="Cuyahoga Community College" />
+    <node id="North Carolina State University" />
+    <node id="University of Texas" />
+    <node id="California Institute of Technology" />
+    <node id="Hewlett-Packard" />
+    <node id="Yahoo" />
+    <node id="The City University of New York" />
+    <node id="Association of Public Land-Grant Universities" />
+    <node id="University of California" />
+    <node id="University of Southern California" />
+    <node id="Columbia University" />
+    <node id="The State University of New York" />
+    <node id="Texas Public Policy Foundation" />
+    <node id="Melinda Gates Foundation" />
+    <node id="University of Pennsylvania" />
+    <node id="University of Virginia" />
+    <node id="George Washington University" />
+    <node id="New York Institute for the Humanities" />
+    <node id="University of Tennessee" />
+    <node id="Eduventures" />
+    <node id="Udemy" />
+    <node id="Clemson University" />
+    <node id="Yale University" />
+    <node id="HarperCollins" />
+    <node id="Northeastern University" />
+    <node id="University of Illinois" />
+    <node id="Excelsior University" />
+    <node id="Massachusetts Institute of Technology" />
+    <node id="Woodrow Wilson National Fellowship Foundation" />
+    <node id="Northern Arizona University" />
+    <node id="LinkedIn" />
+    <node id="Hamburger University - McDonalds" />
+    <node id="Carnegie Mellon University" />
+    <node id="University of California at Berkeley" />
+    <node id="New York Times" />
+    <node id="University of Central Arkansas" />
+    <node id="Governors University" />
+    <node id="Teachers College" />
+    <node id="Open University" />
+    <node id="Rensselaer Polytechnic Institute" />
+    <node id="Coursera" />
+    <node id="California Community Colleges Pick Los Rios District" />
+    <node id="Bloomberg" />
+    <node id="National Science Foundation" />
+    <node id="The American Council on Education" />
+    <node id="U.S. State Department" />
+    <node id="College of Cardinals" />
+    <node id="Colorado State University" />
+    <node id="Pullias Center for Higher Education" />
+    <node id="Cornell University" />
+    <node id="Rockefeller" />
+    <node id="Wal-Mart" />
+    <node id="Duke University" />
+    <node id="University of Leeds" />
+    <node id="George Mason University" />
+    <node id="Google" />
+    <node id="Apple" />
+    <node id="Washington University" />
+    <node id="British Broadcasting Corporation" />
+    <node id="The New York Times" />
+    <node id="University of New Mexico" />
+    <node id="Princeton University" />
+    <node id="Marginal Revolution University" />
+    <edge source="Khan Academy" target="Google">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Khan Academy" target="Massachusetts Institute of Technology">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Khan Academy" target="Minnesota Literacy Council">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Khan Academy" target="Stanford University">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Khan Academy" target="Coursera">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Khan Academy" target="Yale University">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Khan Academy" target="Udacity">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Khan Academy" target="Minnesota Office of Higher Education">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Wesleyan University" target="Governors University">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Works Progress Administration" target="University of Nebraska">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="YouTube" target="Open University">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of Massachusetts" target="Massachusetts Institute of Technology">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Blackboard" target="Udacity">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Blackboard" target="University of California">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Blackboard" target="Coursera">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Blackboard" target="University of California at Berkeley">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of California at Los Angeles" target="Department of Motor Vehicles">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of California at Los Angeles" target="University of California">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of Illinois at Urbana-Champaign" target="University of Illinois">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of Illinois at Urbana-Champaign" target="Duke University">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of Illinois at Urbana-Champaign" target="California Institute of Technology">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Starbucks" target="Facebook">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Starbucks" target="Stanford University">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Starbucks" target="Google">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Starbucks" target="Coursera">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Starbucks" target="Udacity">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Vanderbilt University" target="National Science Foundation">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Vanderbilt University" target="Stanford University">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="edX" target="Pearson">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="edX" target="Massachusetts Institute of Technology">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="edX" target="University of California">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="edX" target="Stanford University">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="edX" target="Open University">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="edX" target="Coursera">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="edX" target="Udacity">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="edX" target="Google">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="edX" target="University of California at Berkeley">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="edX" target="Harvard University">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="edX" target="University of Texas">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="edX" target="British Broadcasting Corporation">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Securities and Exchange Commission" target="U.S. Securities and Exchange Commission">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of Michigan" target="Stanford University">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of Michigan" target="Coursera">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of Michigan" target="Columbia University">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Pearson" target="Massachusetts Institute of Technology">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Pearson" target="Pearson Education">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Pearson" target="Coursera">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Pearson" target="Udacity">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Pearson" target="Harvard University">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Saylor Foundation" target="Yale University">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Saylor Foundation" target="Google">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Saylor Foundation" target="Apple">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Saylor Foundation" target="Harvard University">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Saylor Foundation" target="Massachusetts Institute of Technology">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="The Chronicle of Higher Education" target="Coursera">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="The Chronicle of Higher Education" target="Apple">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="City University of New York" target="HarperCollins">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="City University of New York" target="The City University of New York">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Trinity Washington University" target="Washington University">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Trinity Washington University" target="Columbia University">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Carolina State University" target="North Carolina State University">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Minnesota Office of Higher Education" target="Minnesota Literacy Council">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Minnesota Office of Higher Education" target="Coursera">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Emory University" target="Duke University">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="MOOCA" target="Columbia University">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="The University of Tennessee" target="University of Tennessee">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="New York University" target="New York Institute for the Humanities">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Minnesota Literacy Council" target="Coursera">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Wikipedia" target="Google">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Wikipedia" target="Princeton University">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Udacity" target="Massachusetts Institute of Technology">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Udacity" target="Stanford University">
+      <data key="d0">10</data>
+    </edge>
+    <edge source="Udacity" target="LinkedIn">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Udacity" target="Carnegie Mellon University">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Udacity" target="University of California at Berkeley">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Udacity" target="Harvard University">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Udacity" target="New York Times">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Udacity" target="Open University">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Udacity" target="Coursera">
+      <data key="d0">13</data>
+    </edge>
+    <edge source="Udacity" target="Amazon">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Udacity" target="University of California">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Udacity" target="Facebook">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Udacity" target="National Science Foundation">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Udacity" target="Colorado State University">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Udacity" target="Princeton University">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Udacity" target="Google">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="Udacity" target="British Broadcasting Corporation">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Udacity" target="The New York Times">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Udacity" target="Marginal Revolution University">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Richard Stockton College" target="Georgia State University">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Richard Stockton College" target="Digital Humanities">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Harvard University" target="Google">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Harvard University" target="College of Cardinals">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Harvard University" target="Massachusetts Institute of Technology">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="Harvard University" target="Coursera">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="Harvard University" target="Stanford University">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Harvard University" target="Cornell University">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Harvard University" target="The New York Times">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Harvard University" target="Apple">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Harvard University" target="Pearson Education">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Harvard University" target="University of California">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Harvard University" target="University of California at Berkeley">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Harvard University" target="New York Times">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Harvard University" target="University of Texas">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Harvard University" target="Princeton University">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Harvard University" target="Columbia University">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Century Universities" target="Georgia Institute of Technology">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Century Universities" target="University of California at Berkeley">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Digital Humanities" target="Georgia State University">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="American Council on Education" target="The American Council on Education">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Flora Hewlett Foundation" target="University of California at Berkeley">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Viking Press" target="Duke University">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="California State University" target="University of California">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="California State University" target="University of California at Berkeley">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of Nebraska" target="University of Tennessee">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Amazon" target="Google">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Amazon" target="Facebook">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Amazon" target="Massachusetts Institute of Technology">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Facebook" target="Google">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Facebook" target="Stanford University">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Facebook" target="Coursera">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Facebook" target="LinkedIn">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="MicroStrategy" target="Massachusetts Institute of Technology">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="New America Foundation" target="University of Virginia">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Georgia Institute of Technology" target="University of California at Berkeley">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Hastac" target="Duke University">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Microsoft" target="Apple">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Warner" target="Clemson University">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="California Polytechnic State University" target="Udemy">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Wake Technical Community College" target="Cuyahoga Community College">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Wake Technical Community College" target="Ohio State University">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="College Credit Recommendation Service" target="Hamburger University - McDonalds">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="College Credit Recommendation Service" target="Coursera">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Warwick University" target="University of Leeds">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Warwick University" target="Open University">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Ohio State University" target="Cuyahoga Community College">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="College Board" target="Excelsior University">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Stanford University" target="Massachusetts Institute of Technology">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Stanford University" target="Carnegie Mellon University">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Stanford University" target="University of California at Berkeley">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Stanford University" target="New York Times">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Stanford University" target="Coursera">
+      <data key="d0">10</data>
+    </edge>
+    <edge source="Stanford University" target="University of California">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Stanford University" target="National Science Foundation">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Stanford University" target="College of Cardinals">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Stanford University" target="Colorado State University">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Stanford University" target="Cornell University">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Stanford University" target="Rockefeller">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Stanford University" target="Princeton University">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Stanford University" target="Google">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="Stanford University" target="The New York Times">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="University of Texas" target="Coursera">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of Texas" target="Massachusetts Institute of Technology">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="California Institute of Technology" target="University of Illinois">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="California Institute of Technology" target="University of Pennsylvania">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="California Institute of Technology" target="Duke University">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Hewlett-Packard" target="Bloomberg">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="The City University of New York" target="HarperCollins">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of California" target="Massachusetts Institute of Technology">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of California" target="Coursera">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of California" target="Melinda Gates Foundation">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of California" target="University of California at Berkeley">
+      <data key="d0">10</data>
+    </edge>
+    <edge source="University of California" target="National Science Foundation">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of Southern California" target="Pullias Center for Higher Education">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of Southern California" target="University of California at Berkeley">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Columbia University" target="Teachers College">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Columbia University" target="Washington University">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Columbia University" target="Cornell University">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Columbia University" target="Woodrow Wilson National Fellowship Foundation">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Columbia University" target="Princeton University">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Texas Public Policy Foundation" target="University of California at Berkeley">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of Pennsylvania" target="University of Illinois">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of Pennsylvania" target="Coursera">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="George Washington University" target="Washington University">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Eduventures" target="University of California at Berkeley">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Yale University" target="Massachusetts Institute of Technology">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of Illinois" target="Duke University">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of Illinois" target="Coursera">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Massachusetts Institute of Technology" target="Google">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Massachusetts Institute of Technology" target="Apple">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Massachusetts Institute of Technology" target="The New York Times">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Massachusetts Institute of Technology" target="Coursera">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="Massachusetts Institute of Technology" target="University of California at Berkeley">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Massachusetts Institute of Technology" target="New York Times">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Massachusetts Institute of Technology" target="College of Cardinals">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Woodrow Wilson National Fellowship Foundation" target="Teachers College">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Hamburger University - McDonalds" target="Coursera">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of California at Berkeley" target="Pullias Center for Higher Education">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of California at Berkeley" target="Coursera">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="University of California at Berkeley" target="National Science Foundation">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="New York Times" target="College of Cardinals">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="New York Times" target="Coursera">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="New York Times" target="The New York Times">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Open University" target="British Broadcasting Corporation">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Open University" target="Coursera">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Open University" target="University of Leeds">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Coursera" target="National Science Foundation">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Coursera" target="College of Cardinals">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Coursera" target="Colorado State University">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Coursera" target="Google">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Coursera" target="Marginal Revolution University">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Coursera" target="British Broadcasting Corporation">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Coursera" target="The New York Times">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Coursera" target="Princeton University">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="College of Cardinals" target="The New York Times">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Colorado State University" target="Princeton University">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Cornell University" target="Princeton University">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Cornell University" target="Rockefeller">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="George Mason University" target="Marginal Revolution University">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Google" target="Apple">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Google" target="Princeton University">
+      <data key="d0">1</data>
+    </edge>
+  </graph>
+</graphml>

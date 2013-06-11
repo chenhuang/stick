@@ -1,0 +1,6 @@
+Hewlett-Packard	Georgia Institute of Technology	1
+Hewlett-Packard	Century Universities	1
+Columbia University	1
+Georgia Institute of Technology	3
+American Council on Education	1
+Georgia Institute of Technology	Century Universities	1

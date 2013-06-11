@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?><graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="weight" attr.type="int" for="edge" id="d0" />
+  <graph edgedefault="undirected">
+    <node id="University of Michigan" />
+    <node id="University of Pennsylvania" />
+    <node id="Tufts University" />
+    <node id="University of Chicago" />
+    <node id="Massachusetts Institute of Technology" />
+    <node id="Athabasca University" />
+    <node id="Stanford University" />
+    <node id="Coursera" />
+    <node id="Udacity" />
+    <node id="Harvard Corporation" />
+    <node id="Yale University" />
+    <node id="Harvard University" />
+    <node id="edX" />
+    <node id="Titans" />
+    <node id="Computer Science and Artificial Intelligence Laboratory" />
+    <node id="Princeton University" />
+    <node id="Columbia University" />
+    <edge source="University of Michigan" target="University of Pennsylvania">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of Michigan" target="University of Chicago">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of Michigan" target="Massachusetts Institute of Technology">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of Michigan" target="Stanford University">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="University of Michigan" target="Coursera">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of Michigan" target="Yale University">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of Michigan" target="Harvard University">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of Michigan" target="Princeton University">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="University of Michigan" target="Columbia University">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of Pennsylvania" target="Massachusetts Institute of Technology">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of Pennsylvania" target="Stanford University">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of Pennsylvania" target="Coursera">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of Pennsylvania" target="Harvard University">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of Pennsylvania" target="Princeton University">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Tufts University" target="Harvard Corporation">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Tufts University" target="Harvard University">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of Chicago" target="Yale University">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of Chicago" target="Stanford University">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of Chicago" target="Princeton University">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of Chicago" target="Columbia University">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Massachusetts Institute of Technology" target="Stanford University">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Massachusetts Institute of Technology" target="Coursera">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Massachusetts Institute of Technology" target="Harvard University">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="Massachusetts Institute of Technology" target="edX">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="Massachusetts Institute of Technology" target="Computer Science and Artificial Intelligence Laboratory">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Massachusetts Institute of Technology" target="Princeton University">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Massachusetts Institute of Technology" target="Titans">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Stanford University" target="Coursera">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Stanford University" target="Udacity">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Stanford University" target="Yale University">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Stanford University" target="Harvard University">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Stanford University" target="Princeton University">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Stanford University" target="Columbia University">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Coursera" target="Harvard University">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Coursera" target="edX">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Coursera" target="Princeton University">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Harvard Corporation" target="Harvard University">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Yale University" target="Princeton University">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Yale University" target="Columbia University">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Harvard University" target="edX">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="Harvard University" target="Computer Science and Artificial Intelligence Laboratory">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Harvard University" target="Princeton University">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Harvard University" target="Titans">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="edX" target="Computer Science and Artificial Intelligence Laboratory">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="edX" target="Titans">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Princeton University" target="Columbia University">
+      <data key="d0">1</data>
+    </edge>
+  </graph>
+</graphml>

@@ -1,0 +1,5 @@
+Stanford University	Advancement of Artificial Intelligence	1
+Stanford University	5
+YouTube	1
+Udacity	4
+Udacity	Stanford University	2

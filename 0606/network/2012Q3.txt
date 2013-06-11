@@ -1,0 +1,463 @@
+Stanford University	University of Pennsylvania	2
+Tribhuvan University	University of Michigan	1
+Hebrew University of Jerusalem	Vanderbilt University	1
+Johns Hopkins University	University of Michigan	1
+California State University	Golden State Warriors	1
+Dickinson State University	1
+Massachusetts Institute of Technology	Udacity	1
+Saylor Foundation	Excelsior University	1
+University of Munich	Freie University of Berlin	1
+Vanderbilt University	University of London	1
+University of Washington	Georgia Institute of Technology	1
+Google	Elon University	1
+University of Pennsylvania	Harvard University	1
+Harvard University	University of California	1
+Hebrew University of Jerusalem	University of Maryland	1
+Princeton University	Johns Hopkins University	1
+University of Maryland	University of London	1
+Hong Kong University of Science and Technology	Coursera	1
+Emory University	Ohio State University	1
+Columbia University	Brown University	1
+University of California	University of London	1
+Columbia University	University of California	1
+University of Michigan	Starbucks	1
+Your First Semester of College Teaching	Harvard University	1
+University of California at Irvine	Wesleyan University	1
+Massachusetts Institute of Technology	Princeton University	3
+Technical University of Munich	University of Munich	1
+University of Melbourne	University of Maryland	2
+Technical University of Munich	University of Freiburg	1
+Mount Sinai School of Medicine	Vanderbilt University	1
+Vanderbilt University	Emory University	1
+University of Melbourne	Hong Kong University of Science and Technology	1
+New York Times	University of Virginia	1
+Mount Sinai School of Medicine	University of British Columbia	1
+Coursera	Google	1
+University of Florida	Wesleyan University	1
+Mount Sinai School of Medicine	University of California	1
+University of British Columbia	University of California	1
+University of Pittsburgh	University of Florida	1
+Assumption College	Harvard University	1
+Ohio State University	Brown University	1
+Elon University	Princeton University	1
+University of California at Irvine	Emory University	1
+Hebrew University of Jerusalem	Columbia University	1
+Udacity	Facebook	2
+Rice University	Georgia Institute of Technology	1
+University of Washington	Duke University	1
+Johns Hopkins University	University of Washington	1
+University of Washington	California Institute of Technology	1
+Harvard University	edX	5
+Hong Kong University of Science and Technology	University of Maryland	1
+University of California at Irvine	University of London	1
+University of Washington	Rice University	1
+Michigan State University	Duke University	1
+Massachusetts Institute of Technology	George Mason University	1
+Johns Hopkins University	California Institute of Technology	1
+University of British Columbia	University of Maryland	1
+Temple University	Harvard University	1
+Mount Sinai School of Medicine	University of Maryland	1
+University of California at Berkeley	edX	1
+Starbucks	edX	1
+Harvard University	University of California at Berkeley	1
+California Institute of Technology	Massachusetts Institute of Technology	1
+Tribhuvan University	Princeton University	1
+University of California at Irvine	University of California	1
+University of Maryland	Vanderbilt University	1
+Amazon	1
+University of Maryland at College Park	Wesleyan University	2
+New America Foundation	2
+Duke University	Yale University	1
+University of Melbourne	University of Florida	1
+Vanderbilt University	University of California at Irvine	1
+University of California	University of Toronto	1
+Stanford University	New York Times	1
+Starbucks	Elon University	1
+University of Washington	Coursera	1
+Berklee College of Music	Wesleyan University	2
+Johns Hopkins University	Stanford University	1
+Pearson	Udacity	2
+Ferrari	1
+Stanford University	Coursera	8
+University of Melbourne	Mount Sinai School of Medicine	1
+University of Maryland	Emory University	1
+University of California at Irvine	Mount Sinai School of Medicine	1
+Pennsylvania State University	1
+University of Maryland at College Park	Hong Kong University of Science and Technology	1
+Harvard University	New York Times	1
+Brown University	University of California at Irvine	1
+Princeton University	University of Virginia	1
+University of Washington	University of California	1
+University of London	University of Pittsburgh	1
+Duke University	California Institute of Technology	3
+Tribhuvan University	Google	1
+University of California at Berkeley	University of California	1
+Hong Kong University of Science and Technology	Ohio State University	1
+Council of Independent Colleges	1
+Ohio State University	Berklee College of Music	1
+Elon University	University of Michigan	1
+New York University	George Mason University	1
+Google	Udacity	1
+University of Illinois	Rice University	2
+Berklee College of Music	Hebrew University of Jerusalem	1
+Coursera	University of California at Berkeley	1
+California Institute of Technology	1
+University of Texas	Coursera	1
+Facebook	edX	2
+University of California	Hebrew University of Jerusalem	1
+Rice University	California Institute of Technology	1
+University of Salzburg	Technical University of Munich	1
+Harvard University	Starbucks	1
+Emory University	Columbia University	1
+Columbia University	University of Florida	1
+New America Foundation	The Chronicle of Higher Education	1
+Massachusetts Institute of Technology	Middlebury College	1
+University of California at Irvine	University of British Columbia	1
+University of British Columbia	Wesleyan University	1
+Yale University	The Chronicle of Higher Education	1
+Princeton University	University of Pennsylvania	2
+Mount Sinai School of Medicine	Brown University	1
+Duke University	Massachusetts Institute of Technology	2
+Ohio State University	University of Maryland	1
+Coursera	Starbucks	1
+Facebook	Elon University	1
+University of Maryland	University of California at Irvine	1
+University of Maryland at College Park	Ohio State University	1
+Georgia Institute of Technology	University of California	1
+Tribhuvan University	Coursera	1
+Ohio State University	University of London	1
+Coursera	Massachusetts Institute of Technology	5
+University of Virginia	Stanford University	1
+University of Virginia	American Association of University Professors	1
+Yale University	RMIT University	1
+University of Florida	University of California at Irvine	1
+University of Melbourne	University of Pittsburgh	1
+edX	Coursera	5
+Federal Bureau of Investigation	Black Panthers	1
+Udacity	Elon University	1
+New York University	Duke University	1
+State University of New York	1
+Freie University of Berlin	Technical University of Munich	1
+Udacity	Tribhuvan University	1
+University of Florida	University of Maryland at College Park	1
+Kleiner Perkins Caufield	1
+The New York Times	University of Virginia	1
+Duke University	Georgia Institute of Technology	1
+Ohio State University	University of California	1
+Freie University of Berlin	University of Freiburg	1
+University of Florida	Berklee College of Music	1
+Berklee College of Music	University of California at Irvine	1
+Udacity	University of Freiburg	1
+University of Toronto	Johns Hopkins University	1
+edX	University of Pennsylvania	1
+Harvard University	Stanford University	5
+Yale University	Massachusetts Institute of Technology	1
+University of Illinois at Urbana-Champaign	Rice University	2
+Brown University	Emory University	1
+University of Illinois at Urbana-Champaign	University of Washington	1
+University of British Columbia	Emory University	1
+Association of University Technology Managers	1
+Princeton University	Harvard University	4
+Ohio State University	Vanderbilt University	1
+University of Michigan	Princeton University	3
+University of British Columbia	University of Melbourne	1
+University of Munich	University of Freiburg	1
+Columbia University	Wesleyan University	1
+Wesleyan University	University of Maryland	2
+University of California	Rice University	1
+Wesleyan University	University of Melbourne	2
+Bethany College	1
+University of Pittsburgh	University of California at Irvine	1
+Vanderbilt University	University of Pittsburgh	1
+Udacity	University of Munich	1
+University of Maine	1
+University of Illinois	Georgia Institute of Technology	1
+Massachusetts Institute of Technology	New York University	1
+University of Melbourne	University of California	1
+Columbia University	University of British Columbia	1
+Vanderbilt University	Berklee College of Music	1
+University of London	Brown University	1
+Wesleyan University	University of Pittsburgh	1
+University of Michigan	Udacity	1
+University of Florida	Mount Sinai School of Medicine	1
+edX	Stanford University	1
+Stanford University	Princeton University	3
+University of Illinois at Urbana-Champaign	Coursera	3
+University of Melbourne	Columbia University	1
+Tribhuvan University	Massachusetts Institute of Technology	1
+Wells Fargo Securities	1
+University of California at San Diego	Coursera	1
+University of Salzburg	University of Freiburg	1
+Mount Sinai School of Medicine	Wesleyan University	1
+Brown University	1
+edX	University of California at San Diego	1
+Georgia Institute of Technology	University of Illinois at Urbana-Champaign	1
+Hong Kong University of Science and Technology	University of California	1
+Emory University	University of Pittsburgh	1
+University of Pittsburgh	University of British Columbia	1
+Tribhuvan University	Harvard University	1
+University of Maryland	University of California	1
+Organisation for Economic Co-operation and Development	1
+Princeton University	Udacity	1
+University of Maryland at College Park	Mount Sinai School of Medicine	1
+Coursera	University of Illinois	4
+University of California at Irvine	Hebrew University of Jerusalem	1
+Columbia University	Ohio State University	1
+Brown University	University of California	1
+Berklee College of Music	Columbia University	1
+University of Florida	Vanderbilt University	1
+University of Melbourne	University of Maryland at College Park	2
+Duke University	Rice University	1
+Massachusetts Institute of Technology	University of Virginia	1
+University of Michigan	Harvard University	2
+edX	University of Virginia	1
+Brown University	Wesleyan University	1
+RMIT University	Duke University	1
+University World News	1
+Harvard University	The New York Times	1
+Facebook	Massachusetts Institute of Technology	1
+Freie University of Berlin	University of Salzburg	1
+California Institute of Technology	University of Illinois	1
+Freie University of Berlin	Udacity	1
+University of Illinois	Duke University	1
+Berklee College of Music	University of British Columbia	1
+Coursera	University of Oklahoma	1
+Bridge Health	Vanderbilt University	1
+Wikimedia	Creative Commons	2
+University of London	Berklee College of Music	1
+Ohio State University	University of Melbourne	1
+The New York Times	New York Times	3
+Tribhuvan University	Elon University	1
+Google	edX	1
+Tribhuvan University	Facebook	1
+Columbia University	University of Pittsburgh	1
+edX	California Institute of Technology	1
+Coursera	California Institute of Technology	3
+Hebrew University of Jerusalem	University of Florida	1
+Michigan State University	George Mason University	1
+Vanderbilt University	Brown University	1
+Facebook	Harvard University	1
+Berklee College of Music	Hong Kong University of Science and Technology	1
+Georgia Institute of Technology	University of Toronto	1
+Mount Sinai School of Medicine	Columbia University	1
+University of California at Irvine	Ohio State University	1
+University of Toronto	University of Washington	1
+University of California	Vanderbilt University	1
+Duke University	Johns Hopkins University	1
+Coursera	Udacity	4
+Georgetown University	1
+Blekinge Institute of Technology	1
+American Association of University Professors	The University of Virginia	1
+Emory University	Wesleyan University	1
+Berklee College of Music	University of Maryland	2
+University of Melbourne	Hebrew University of Jerusalem	1
+Udacity	Technical University of Munich	1
+University of Illinois	University of Toronto	1
+Wesleyan University	University of London	1
+Duke University	University of Illinois at Urbana-Champaign	1
+Udacity	University of Virginia	1
+Visa Processing Cause Headaches for International StudentsColleges	1
+Harvard University	Massachusetts Institute of Technology	9
+Johns Hopkins University	Georgia Institute of Technology	1
+University of Illinois	University of Washington	1
+Udacity	University of California at San Diego	1
+Elon University	Massachusetts Institute of Technology	1
+Massachusetts Institute of Technology	Google	1
+George Mason University	Rosenzweig Center for History	1
+Rice University	Johns Hopkins University	1
+University of California at Berkeley	Massachusetts Institute of Technology	1
+Pennsylvania State University	Pennsylvania Newspaper	1
+University of London	Emory University	1
+University of Maryland at College Park	Berklee College of Music	2
+Stanford University	12
+University of Melbourne	University of London	1
+University of Illinois at Urbana-Champaign	Johns Hopkins University	1
+Wesleyan University	Vanderbilt University	1
+Coursera	Elon University	1
+University of Michigan	The Chronicle of Higher Education	1
+Drew University	1
+University of London	University of Maryland at College Park	1
+University of Florida	University of California	1
+Coursera	Johns Hopkins University	2
+edX	Duke University	1
+Mount Sinai School of Medicine	University of London	1
+University of Florida	Hong Kong University of Science and Technology	1
+Mount Sinai School of Medicine	Hong Kong University of Science and Technology	1
+University of British Columbia	University of Florida	1
+University of Southern California	3
+Wesleyan University	University of California	1
+Yale University	Michigan State University	1
+University of Pittsburgh	Hong Kong University of Science and Technology	1
+Google	University of Michigan	1
+University of Illinois at Urbana-Champaign	University of California	1
+Brown University	Hong Kong University of Science and Technology	1
+Massachusetts Institute of Technology	Stanford University	3
+Brown University	University of Maryland	1
+Electronic Literature Organization	1
+University of Toronto	Duke University	1
+University of Michigan	Coursera	4
+University of British Columbia	University of Maryland at College Park	1
+University of Maryland at College Park	Vanderbilt University	1
+University of London	University of Florida	1
+Harvard University	Elon University	1
+Brown University	University of British Columbia	1
+University of Melbourne	Brown University	1
+Elon University	edX	1
+University of Melbourne	Emory University	1
+Hebrew University of Jerusalem	University of Maryland at College Park	1
+Coursera	34
+Ohio State University	University of British Columbia	1
+Udacity	Stanford University	2
+University of California	Berklee College of Music	1
+University of Michigan	Stanford University	2
+RMIT University	Massachusetts Institute of Technology	1
+University of California	University of Illinois	1
+George Mason University	Duke University	1
+Tribhuvan University	edX	1
+University of Salzburg	University of Munich	1
+New York University	Michigan State University	1
+Emory University	Hong Kong University of Science and Technology	1
+California Institute of Technology	University of California	1
+University of California	Johns Hopkins University	1
+Google	3
+Hebrew University of Jerusalem	Ohio State University	1
+The Chronicle of Higher Education	Coursera	1
+University of Pittsburgh	University of Maryland	1
+California Institute of Technology	University of Illinois at Urbana-Champaign	1
+Coursera	Harvard University	4
+Hong Kong University of Science and Technology	Wesleyan University	1
+University of Melbourne	Vanderbilt University	1
+California Institute of Technology	Georgia Institute of Technology	1
+Ohio State University	University of Pittsburgh	1
+Hong Kong University of Science and Technology	Hebrew University of Jerusalem	1
+Massachusetts Institute of Technology	University of California	1
+Coursera	Princeton University	6
+Facebook	Starbucks	1
+Google	Starbucks	1
+University of Maryland at College Park	Columbia University	1
+University of Michigan	Facebook	1
+University of Maryland at College Park	University of Maryland	2
+University of British Columbia	Hebrew University of Jerusalem	1
+edX	Massachusetts Institute of Technology	6
+Columbia University	Hong Kong University of Science and Technology	1
+The Chronicle of Higher Education	4
+Harvard University	University of Virginia	2
+Wesleyan University	Hebrew University of Jerusalem	1
+University of Florida	Ohio State University	1
+University of Florida	University of Maryland	1
+University of California	University of Pittsburgh	1
+Florida State University	Thomas Edison State College	1
+University of Illinois at Urbana-Champaign	University of Illinois	3
+University of Maryland at College Park	University of Pittsburgh	1
+Hebrew University of Jerusalem	Emory University	1
+Binghamton University	1
+Rice University	Coursera	2
+National Education Association	1
+Starbucks	Princeton University	1
+University of Illinois	Johns Hopkins University	1
+Wikipedia	1
+Ohio State University	Mount Sinai School of Medicine	1
+Facebook	University of California at San Diego	1
+The University of Virginia	University of Virginia	2
+The New York Times	Stanford University	1
+Emory University	University of Maryland at College Park	1
+Brown University	University of Pittsburgh	1
+Harvard University	Google	1
+Berklee College of Music	University of Pittsburgh	1
+Harvard University	California Institute of Technology	1
+University of Melbourne	University of California at Irvine	1
+University of Pittsburgh	Hebrew University of Jerusalem	1
+Massachusetts Institute of Technology	University of Pennsylvania	1
+University of Salzburg	Udacity	1
+University of London	Hong Kong University of Science and Technology	1
+Massachusetts Institute of Technology	Michigan State University	1
+University of California	University of Maryland at College Park	1
+University of British Columbia	Hong Kong University of Science and Technology	1
+Hong Kong University of Science and Technology	Vanderbilt University	1
+Coursera	University of California	2
+Emory University	Berklee College of Music	1
+Digital Humanities	Georgia Institute of Technology	1
+Berklee College of Music	Mount Sinai School of Medicine	1
+Princeton University	Facebook	1
+edX	University of Michigan	2
+University of California	Duke University	1
+University of Melbourne	Berklee College of Music	2
+Google	Princeton University	1
+Council for Higher Education Accreditation	4
+Hebrew University of Jerusalem	University of London	1
+Coursera	Emory University	1
+RMIT University	George Mason University	1
+Columbia University	1
+Columbia University	University of Maryland	1
+George Mason University	Yale University	1
+University of Virginia	Coursera	1
+American Association of University Professors	1
+Princeton University	7
+Michigan State University	RMIT University	1
+Duke University	Coursera	3
+Princeton University	Duke University	1
+Brown University	University of Maryland at College Park	1
+University of California	Emory University	1
+Flat World Knowledge	1
+Wesleyan University	Ohio State University	1
+Purdue University	3
+Massachusetts Institute of Technology	3
+Starbucks	Tribhuvan University	1
+University of Florida	Emory University	1
+University of Edinburgh	Coursera	1
+Heighten Wilson School	Princeton University	1
+Emory University	Mount Sinai School of Medicine	1
+Coursera	Eastern Michigan University	1
+Your First Semester of College Teaching	Assumption College	1
+New York University	RMIT University	1
+California Institute of Technology	Princeton University	1
+Georgia Institute of Technology	Coursera	2
+University of California	edX	1
+Yale University	New York University	1
+University of Florida	Brown University	1
+Starbucks	Massachusetts Institute of Technology	1
+Stanford University	Colorado State University	1
+Johns Hopkins University	University of Pennsylvania	1
+Vanderbilt University	Columbia University	1
+Khan Academy	1
+Massachusetts Institute of Technology	University of Michigan	2
+Rice University	University of Toronto	1
+Harvard University	Duke University	1
+Coursera	Facebook	3
+Coursera	University of Toronto	1
+MassiveOpenOnlineCourses	1
+University of Michigan	1
+University of British Columbia	Vanderbilt University	1
+Hong Kong University of Science and Technology	University of California at Irvine	1
+Emory University	2
+Morgan State University	3
+Mount Sinai School of Medicine	Hebrew University of Jerusalem	1
+Udacity	Harvard University	1
+University of London	Columbia University	1
+University of California at Los Angeles	Stanford University	1
+Udacity	12
+Brown University	Berklee College of Music	1
+University of Illinois at Urbana-Champaign	University of Toronto	1
+Facebook	1
+Facebook	Google	1
+University of Pittsburgh	Mount Sinai School of Medicine	1
+University of California at Irvine	University of Maryland at College Park	1
+Brown University	Hebrew University of Jerusalem	1
+University of British Columbia	University of London	1
+California Institute of Technology	University of Toronto	1
+Udacity	edX	2
+University of Texas	1
+UnderAcademy College	2
+edX	Princeton University	3
+Moody's	2
+Coursera	University of Pennsylvania	2
+Facebook	Stanford University	1
+Udacity	Starbucks	1
+University of Virginia	5
+Yale University	1
+Saint Mary's College	1
+United Nations Educational	1
+University of Oklahoma	1
+Zipcar	1
+Columbia University	University of California at Irvine	1
+University of Pennsylvania	University of Michigan	2

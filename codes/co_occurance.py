@@ -42,7 +42,8 @@ fin.close()
 id_date = {}
 
 # these are all the months in the MOOC data, need revision for other type of data
-month_quarter = {'Aug':3,'Dec':4,'Feb':1,'Jan':1,'Mar':1,'May':2,'Nov':4,'Sep':3}
+#month_quarter = {'Aug':3,'Dec':4,'Feb':1,'Jan':1,'Mar':1,'May':2,'Nov':4,'Sep':3}
+month_quarter = {'April':2,'August':3,'December':4,'February':1,'January':1,'July':3,'June':2,'March':1,'May':2,'November':4,'October':4,'September':3}
 
 for line in lines:
 	line = line.rstrip()

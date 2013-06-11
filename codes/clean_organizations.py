@@ -34,6 +34,7 @@ for line in lines:
     line = line.rstrip()
     itms = line.split("\t")
 
+    print line
     if itms[1] in remove_list:
         continue
     elif itms[1] in replace_list:

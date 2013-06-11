@@ -1,0 +1,18 @@
+University of Florida	1
+University of Florida	Brigham Young University	1
+University of Regina	Massachusetts Institute of Technology	1
+Massachusetts Institute of Technology	University of Florida	1
+Napster	1
+Technology Enhanced Knowledge Research Institute	National Research Council Canada	1
+Blackboard	Brigham Young University	1
+University of Alberta	1
+Blackboard	2
+University of California at Irvine	University of California	1
+National Research Council Canada	Athabasca University	1
+Massachusetts Institute of Technology	Brigham Young University	1
+The Chronicle of Higher Education	1
+University of Manitoba	1
+Technology Enhanced Knowledge Research Institute	Athabasca University	1
+Brigham Young University	University of Regina	1
+Google	1
+University of Florida	University of Regina	1

@@ -1,0 +1,245 @@
+National Taiwan University	Yale University	1
+Hong Kong University of Science and Technology	National Taiwan University	1
+The American Council on Education	Coursera	1
+Massachusetts Institute of Technology	Tsinghua University	1
+New York University	University of Oxford	1
+Tsinghua University	Chinese University of Hong Kong	1
+University of Pennsylvania	Harvard University	1
+Chinese University of Hong Kong	Tokyo University	1
+Hong Kong University of Science and Technology	Yale University	1
+Columbia University	New York University	1
+Massachusetts Institute of Technology	Ontario Institute for Education	1
+Massachusetts Institute of Technology	Hong Kong University of Science and Technology	1
+Hong Kong University of Science and Technology	Coursera	1
+Tokyo University	Yale University	1
+edX	11
+Central Intelligence Agency	YAHOO	1
+MacArthur Foundation	Coursera	1
+REOMVE	Tsinghua University	1
+Kansas State University	Tufts University	1
+Massachusetts Institute of Technology	Princeton University	1
+Reed College	2
+Harvard University	Tufts University	1
+Washington University	Emory University	1
+edX	Yale University	1
+Ontario Institute for Education	Hong Kong University of Science and Technology	1
+Ontario Institute for Education	edX	1
+Ohio State University	New York University	1
+Purdue University	Ohio State University	1
+Harvard University	edX	4
+Yale University	Coursera	1
+Purdue University	Columbia University	1
+Chinese University of Hong Kong	National Taiwan University	1
+Tandy Corporation	State University of New York	1
+Columbia University	Kansas State University	1
+University of Toronto	edX	1
+State University of New York	Empire State College	1
+Harvard University	University of California at Berkeley	1
+Portland Community College	Pennsylvania State University	1
+edX	Hong Kong University of Science and Technology	1
+Vanderbilt University	1
+New America Foundation	1
+Princeton University	National Center for Academic Transformation	1
+U.S. Supreme Court	University of Oxford	1
+American Council on Education	The American Council on Education	1
+The Chronicle of Higher Education	University of South Carolina Upstate	1
+edX	California State University	1
+University World News	Tsinghua University	1
+Stanford University	Coursera	4
+Massachusetts Institute of Technology	University of Toronto	1
+The State University of New York	Empire State College	1
+Southwest University	Southwest Interactive Festival	1
+Georgia Institute of Technology	Google	1
+Harvard University	Kansas State University	1
+University of Toronto	National Taiwan University	1
+Yale University	Tsinghua University	1
+Tsinghua University	Stanford University	1
+Ontario Institute for Education	Chinese University of Hong Kong	1
+Kansas State University	Ohio State University	1
+Central Bank of Afghanistan	1
+Roosevelt University	1
+Google	Microsoft	1
+Ohio State University	Harvard University	1
+Tsinghua University	University of Toronto	1
+REOMVE	Chinese University of Hong Kong	1
+University World News	Massachusetts Institute of Technology	1
+Tufts University	Columbia University	1
+Ohio State University	Tufts University	1
+Chinese University of Hong Kong	University World News	1
+San Jose State University	Harvard University	1
+National Taiwan University	Tokyo University	1
+Hong Kong University of Science and Technology	REOMVE	1
+National Taiwan University	Massachusetts Institute of Technology	1
+Louisiana State University	2
+Illinois Institute of Technology	1
+University of Toronto	Yale University	1
+Coursera	Massachusetts Institute of Technology	2
+National Taiwan University	Ontario Institute for Education	1
+Ontario Institute for Education	Tokyo University	1
+Murray State University	Clemson University	1
+Hong Kong University of Science and Technology	Tsinghua University	1
+Young Men's Christian Association	1
+edX	Coursera	7
+Tokyo University	REOMVE	1
+University World News	National Taiwan University	1
+Udemy	1
+Tandy Corporation	College of William and Mary	1
+Yale University	REOMVE	1
+California Senate	1
+edX	Massachusetts Institute of Technology	5
+Kansas State University	1
+University World News	University of Toronto	1
+edX	University of Pennsylvania	1
+Harvard University	Stanford University	2
+Yale University	Massachusetts Institute of Technology	1
+Tokyo University	Tsinghua University	1
+REOMVE	National Taiwan University	1
+Tsinghua University	Ontario Institute for Education	1
+Kansas State University	Purdue University	1
+Tokyo University	University World News	1
+Khan Academy	Udacity	1
+New York University	University of Chicago	1
+University of Texas	San Jose State University	1
+Coursera	Ontario Institute for Education	1
+edX	Stanford University	3
+Ontario Institute for Education	Stanford University	1
+Columbia University	Ohio State University	1
+International Center for Academic Integrity	1
+New York University	U.S. Supreme Court	1
+San Jose State University	edX	6
+REOMVE	2
+University of Toronto	Ontario Institute for Education	1
+The Chronicle of Higher Education	University World News	1
+C Corporation	Coursera	1
+Association of Public and Land-Grant Universities	1
+Stanford University	4
+University of Pennsylvania	3
+Central Intelligence Agency	Cable News Network	1
+Khan Academy	edX	1
+Chinese University of Hong Kong	University of Toronto	1
+National Taiwan University	Stanford University	1
+Coursera	Khan Academy	1
+Cable News Network	YAHOO	1
+Georgetown University	University of Southern California	1
+University of Akron	2
+Coursera	Udacity	3
+New York University	Tufts University	1
+San Jose State University	Udacity	3
+National Association of Graduate Admissions Professionals	1
+Yale University	Ontario Institute for Education	1
+Columbia University	Harvard University	1
+Harvard University	Massachusetts Institute of Technology	4
+Chinese University of Hong Kong	edX	1
+Chinese University of Hong Kong	Hong Kong University of Science and Technology	1
+Tokyo University	Massachusetts Institute of Technology	1
+Duke University	9
+University of California at Berkeley	Massachusetts Institute of Technology	1
+University of Toronto	Stanford University	1
+Tsinghua University	National Taiwan University	1
+Coursera	REOMVE	1
+edX	Tsinghua University	1
+University of Texas	Udacity	1
+Clark University	Facebook	1
+George State University	1
+The State University of New York	Tandy Corporation	1
+Harvard University	Purdue University	1
+New York University	1
+Dartmouth College	University of Massachusetts	1
+edX	Duke University	1
+edX	REOMVE	1
+Tufts University	Purdue University	1
+Coursera	University of Pennsylvania	1
+Stanford University	Hong Kong University of Science and Technology	1
+Mexico State University	1
+Chinese University of Hong Kong	Coursera	1
+Eduventures	edX	2
+Melinda Gates Foundation	2
+Portland Community College	Dowling College	1
+New York University	Purdue University	1
+Tokyo University	edX	1
+Emory University	University of Notre Dame	1
+Massachusetts Institute of Technology	Stanford University	2
+Coursera	American Council on Education	2
+Amherst College	Duke University	1
+University World News	Hong Kong University of Science and Technology	1
+Carnegie Mellon University	1
+REOMVE	University World News	1
+MacArthur Foundation	Stanford University	1
+Stanford University	University World News	1
+Stanford University	Tokyo University	1
+edX	Amherst College	3
+Udacity	Stanford University	2
+Hong Kong University of Science and Technology	University of Toronto	1
+University of the Air	1
+Yale University	University World News	1
+Google	1
+The Chronicle of Higher Education	Coursera	1
+University of Akron	The University of Akron	1
+California State University	San Jose State University	2
+Coursera	Harvard University	2
+Tsinghua University	Coursera	1
+Georgia Institute of Technology	2
+Empire State College	1
+Microsoft	Stanford University	1
+Coursera	Princeton University	1
+Blackboard	3
+San Jose State University	3
+University of Washington	1
+College of William and Mary	The State University of New York	1
+The Chronicle of Higher Education	5
+The Chronicle of Higher Education	Duke University	2
+Stanford University	Chinese University of Hong Kong	1
+The State University of New York	State University of New York	1
+Stanford University	Apple	1
+Harvard University	2
+REOMVE	Massachusetts Institute of Technology	1
+New York University	Harvard University	1
+U.S. Education Department	2
+University of Toronto	Tokyo University	1
+Duke University	Sciences Council	1
+U.S. Supreme Court	University of Chicago	1
+Minerva Academy	1
+REOMVE	Ontario Institute for Education	1
+Apple	Microsoft	1
+Sciences Council	2
+University of Chicago	University of Oxford	1
+The State University of New York	1
+University of Cincinnati	American University of Beirut	1
+Princeton University	11
+University World News	edX	1
+Kansas State University	New York University	1
+Duke University	Coursera	1
+Massachusetts Institute of Technology	1
+REOMVE	Stanford University	1
+edX	National Taiwan University	1
+Western Interstate Commission for Higher Education	3
+San Jose State University	Massachusetts Institute of Technology	1
+Wal-Mart	1
+University of Toronto	REOMVE	1
+Massachusetts Institute of Technology	Southern Regional Education Board	1
+University World News	Ontario Institute for Education	1
+State University of New York	College of William and Mary	1
+Coursera	16
+Tokyo University	Hong Kong University of Science and Technology	1
+Coursera	University World News	1
+Tandy Corporation	Empire State College	1
+Stanford University	Yale University	1
+University of Illinois at Urbana-Champaign	1
+Coursera	University of Toronto	1
+Washington University	University of Notre Dame	1
+Dowling College	Pennsylvania State University	1
+National Center for Academic Transformation	3
+American Council on Education	2
+Facebook	1
+Tokyo University	Coursera	1
+Chinese University of Hong Kong	Massachusetts Institute of Technology	1
+Sameva Global	2
+Udacity	edX	2
+Coursera	National Taiwan University	1
+Gown Association	1
+College of William and Mary	Empire State College	1
+Yale University	Chinese University of Hong Kong	1
+University of Virginia	2
+Clemson University	1
+Northeastern University	1
+Weber State University	1

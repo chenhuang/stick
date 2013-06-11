@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?><graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="weight" attr.type="int" for="edge" id="d0" />
+  <graph edgedefault="undirected">
+    <node id="University of Regina" />
+    <node id="Google" />
+    <node id="Massachusetts Institute of Technology" />
+    <node id="University of Florida" />
+    <node id="National Research Council Canada" />
+    <node id="Athabasca University" />
+    <node id="The Chronicle of Higher Education" />
+    <node id="University of California at Irvine" />
+    <node id="University of Alberta" />
+    <node id="University of Manitoba" />
+    <node id="University of California" />
+    <node id="Brigham Young University" />
+    <node id="Blackboard" />
+    <node id="Technology Enhanced Knowledge Research Institute" />
+    <node id="Napster" />
+    <edge source="University of Regina" target="University of Florida">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of Regina" target="Brigham Young University">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of Regina" target="Massachusetts Institute of Technology">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Massachusetts Institute of Technology" target="Brigham Young University">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Massachusetts Institute of Technology" target="University of Florida">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of Florida" target="Brigham Young University">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="National Research Council Canada" target="Technology Enhanced Knowledge Research Institute">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="National Research Council Canada" target="Athabasca University">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Athabasca University" target="Technology Enhanced Knowledge Research Institute">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="University of California at Irvine" target="University of California">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Brigham Young University" target="Blackboard">
+      <data key="d0">1</data>
+    </edge>
+  </graph>
+</graphml>
